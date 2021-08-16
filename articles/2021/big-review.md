@@ -1,7 +1,7 @@
 Title: Big review of works by our group
 Date: 2021-09-07 08:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, opinion dynamics, financial markets, Stochastic models, statistical physics, Kirman model, voter model, 1/f noise, burst statistics, anomalous diffusion, Levy processes, ARFIMA, Brownian motion, fractional calculus, fractals, methods, order book, R. Kazakevicius, A. Kononovicius, B. Kaulakys, V. Gontis
+Tags: Agent-based models, opinion dynamics, financial markets, Stochastic models, statistical physics, Kirman model, voter model, 1/f noise, burst statistics, anomalous diffusion, Levy processes, ARFIMA, ARFIMA series, Brownian motion, fractional calculus, fractals, methods, order book, R. Kazakevicius, A. Kononovicius, B. Kaulakys, V. Gontis
 Slug: big-review
 Image_url: uploads/2021/big-review.png
 Status: draft
@@ -30,6 +30,6 @@ into the model). We have shown that [burst
 statistics](/tag/burst-statistics) is a good tool for this particular task
 (at least it has some advantages over other alternatives).
 
-In the upcoming posts we will talk about ARFIMA process, which was
-instrumental in our analysis as it helped us to generate fractional Levy
-stable motion.
+In [the upcoming posts](/tag/arfima-series) we will talk about ARFIMA
+process, which was instrumental in our analysis as it helped us to generate
+fractional Levy stable motion.
