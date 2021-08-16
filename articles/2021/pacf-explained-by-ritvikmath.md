@@ -1,7 +1,7 @@
 Title: Partial auto-correlation function (explained by ritvikmath)
 Date: 2021-09-28 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, methods, ARFIMA series
+Tags: video, statistics, methods, ARFIMA series, ritvikmath
 Slug: pacf-explained-by-ritvikmath
 Status: draft
 
