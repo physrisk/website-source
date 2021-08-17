@@ -198,7 +198,7 @@ Source code as an example
 
 Take time to familiarize yourself with the example Java program.
 
-    <...>
+```java
     public double step(double dt) {
         double t=0;
         while(t<dt) {
@@ -225,6 +225,4 @@ Take time to familiarize yourself with the example Java program.
     private double variableTimeStep(double x) {
         return Math.pow(kappa,2.0)*Math.pow(x,2.0-2.0*eta);
     }
-    <...>
-
-
+```
