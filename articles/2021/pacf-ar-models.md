@@ -50,13 +50,14 @@ process up to fifth order:
 
 \begin{equation}
     x\_t = \sum\_{i=1}^{5} \alpha\_i x\_{t-i} + \xi\_t
-         = \vec{\alpha} \cdot \vec{x}\_{t-i} + \xi\_t .
+         = \vec{\alpha} \cdot \vec{x}\_{t-5} + \xi\_t .
 \end{equation}
 
 Let the model parameters be encoded in vector \\\( \vec{\alpha} \\\), whose
 all values besides first five would be equal to zero. Let
-\\\( \vec{x}\_{t-i} \\\) encode the history of \\\( x\_t \\\) from the most
-recent samples to the oldest one available at time \\\( t - i \\\).
+\\\( \vec{x}\_{t-p} \\\) encode the history of \\\( x\_t \\\) from the most
+recent samples to the oldest one available at time \\\( t - p \\\) (in our
+particular case \\\( p = 5 \\\)).
 
 [html5-interactive width="520" height="510" mode="iframe"
 url="/uploads/models/arma/ar5.html"]
