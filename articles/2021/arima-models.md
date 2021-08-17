@@ -57,7 +57,7 @@ url="/uploads/models/arma/arima2d2.html"]
 For example, notice that ARIMA(1, 0, 0) and ARIMA(0, 1, 0) both model
 [random walk](/tag/brownian-motion). ARIMA(1, 0, 0) is equivalent to AR(1)
 and we have already [seen that it models random
-walk]({filename}/articles/2021/random-as-ar-process.md). For ARIMA(0, 1, 0)
+walk]({filename}/articles/2021/random-walk-as-ar-process.md). For ARIMA(0, 1, 0)
 we understand that ARMA(0, 0) is used to model the first differences of
 \\\( x\_t \\\):
 
