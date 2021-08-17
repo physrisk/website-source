@@ -59,7 +59,8 @@ defined as:
 
 With this model we have a system agnostic tool to do forecasts for real life
 systems (although adding tool to deal with seasonality would help too). Now
-everything has become a lot more complicated, but feel free to explore using
+everything has become a lot more complicated (though reality can be even
+more complicated [cite id="Holmes2021ATSA"]), but feel free to explore using
 the app below.
 
 [html5-interactive width="520" height="540" mode="iframe"
