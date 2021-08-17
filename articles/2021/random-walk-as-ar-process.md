@@ -9,15 +9,17 @@ Status: draft
 In the [previous post]({filename}/articles/2021/big-review.md) I have
 mentioned that in our review we have also presented a novel result, which we
 have analyzed ARFIMA process. Understanding ARFIMA process requires some
-specialized knowledge, which we will cover in this and the next few posts.
+specialized knowledge, which we will cover in this and [the next few
+posts](/tag/arfimas-series).
 
-In this post we will take a well-known physical model, random walk, and try
+In this post we will take a well-known physical model, [random
+walk](/tag/brownian-motion), and try
 to understand it in the context of economical model, AR(p) process.
 <!--more-->
 
 ## White noise
 
-A key component to the random walk is white noise. It is a type of noise,
+A key component to the [random walk](/tag/brownian-motion) is white noise. It is a type of noise,
 which is simply a collection of independent random values (samples from some
 given distribution). As these values do not depend on the past samples
 or influence future samples, the white noise series is said to be
@@ -42,7 +44,7 @@ white noise series.
 
 ## Random walk
 
-Mathematically random walk is defined as a sum (or integral) of white noise:
+Mathematically [random walk](/tag/brownian-motion) is defined as a sum (or integral) of white noise:
 
 \begin{equation}
     x\_t = \sum\_{i=1}^{t} \xi\_i .
@@ -87,7 +89,7 @@ new sample, \\\( x\_t \\\), to be dependent on past samples, different
 \\\( x\_{t-i} \\\). In general:
 
 \begin{equation}
-    x\_t = \sum_{i=1}^{p} \alpha_i x_{t-i} + \xi_t .
+    x\_t = \sum\_{i=1}^{p} \alpha\_i x\_{t-i} + \xi\_t .
 \end{equation}
 
 Now try setting \\\( p=1 \\\) and \\\( \alpha\_1=1 \\\). Then compare the
