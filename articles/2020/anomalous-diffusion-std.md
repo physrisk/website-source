@@ -1,7 +1,7 @@
 Title: Standard deviation of anomalous diffusion
 Date: 2020-12-22 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistical physics, Stochastic models, anomalous diffusion
+Tags: Interactive models, statistical physics, Stochastic models, anomalous diffusion, Levy processes
 Slug: standard-deviation-of-anomalous-diffusion
 Status: published
 Image_url: uploads/2020/anomalous-diffusion-std.png
