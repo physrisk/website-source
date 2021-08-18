@@ -27,11 +27,21 @@ stable distribution \\\( \alpha \\\). If \\\( \alpha = 2 \\\) then [stable
 distribution](https://en.wikipedia.org/wiki/Stable_distribution) is
 equivalent to [normal
 distribution](https://en.wikipedia.org/wiki/Normal_distribution) and FLSM is
-equivalent to fBm. Otherwise we will observe deviations from the usual shape
-of [Brownian motion](/tag/brownian-motion).
+equivalent to fBm.  Otherwise we will observe deviations from the usual
+shape of [Brownian motion](/tag/brownian-motion).  Note that
+\\\( \alpha = 1 \\\) is also a special case. In this case the distribution
+corresponds to [Cauchy
+distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
+
+Interestingly, having heavy tailed noise distribution also affects Hurst
+index of the process. In general case it is given by:
+
+\begin{equation}
+    H = d + \frac{1}{\alpha} .
+\end{equation}
 
 [html5-interactive width="520" height="470" mode="iframe"
 url="/uploads/models/arma/flsm.html"]
 
-Also note that \\\( \alpha = 1 \\\) case corresponds to [Cauchy
-distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).
+Note that the app also allows you to generate fractional Levy stable noise
+(abbr. FLSN), too. It is simply but a straightforward derivative of FLSM.
