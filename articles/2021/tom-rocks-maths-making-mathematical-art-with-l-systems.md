@@ -9,6 +9,6 @@ This video from [Tom Rocks
 Maths](https://www.youtube.com/channel/UCRfo-DAifrP3lzcxUHtGm_A) Youtube
 channel talks about [L-system](/tag/l-system). One can use
 [L-system](/tag/l-system) to artificially generate realistic botanical
-drawings.
+drawings. Fascinating isn't it?
 
 [youtube v="J0LyZSgVKVc"]
