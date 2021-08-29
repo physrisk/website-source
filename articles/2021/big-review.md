@@ -8,7 +8,7 @@ Status: draft
 
 This summer we (all active members of the group) have contributed to a
 pretty big paper [cite id="Kazakevicius2021Entropy"]. In the said paper we
-have review all of our varied approaches to the modeling of the long-range
+have reviewed all of our varied approaches to the modeling of the long-range
 memory (which we understand as [1/f noise](/tag/1f-noise)). The core
 difference of our approach, from the approaches taken by other groups, is
 that we use Markovian models without embedding actual memory into our
