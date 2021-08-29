@@ -8,7 +8,7 @@ Status: draft
 
 [The last post]({filename}/articles/2021/arfima-model.md) in the [ARFIMA
 series](/tag/arfima-series) was not the last stop in understanding the model
-we have studied in [cite id="Kazakevicius2021Review"]. In the paper we have
+we have studied in [cite id="Kazakevicius2021Entropy"]. In the paper we have
 looked at ARFIMA as a model for fractional Levy stable motion (abbr. FLSM),
 which is a generalization of [Brownian motion](/tag/brownian-motion) in two
 regards: [fractionality]({filename}/articles/2021/fractional-derivatives.md)

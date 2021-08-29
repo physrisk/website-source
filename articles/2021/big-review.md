@@ -7,7 +7,7 @@ Image_url: uploads/2021/big-review.png
 Status: draft
 
 This summer we (all active members of the group) have contributed to a
-pretty big paper [cite id="Kazakevicius2021Review"]. In the said paper we
+pretty big paper [cite id="Kazakevicius2021Entropy"]. In the said paper we
 have review all of our varied approaches to the modeling of the long-range
 memory (which we understand as [1/f noise](/tag/1f-noise)). The core
 difference of our approach, from the approaches taken by other groups, is
