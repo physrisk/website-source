@@ -33,3 +33,9 @@ statistics](/tag/burst-statistics) is a good tool for this particular task
 In [the upcoming posts](/tag/arfima-series) we will talk about ARFIMA
 process, which was instrumental in our analysis as it helped us to generate
 fractional Levy stable motion.
+
+**Disclaimer:** While I was one of the authors of the paper, my impact on
+Section 4 was rather limited. I have written implementation of ARFIMA
+in [Python](https://github.com/akononovicius/arfima) and Mathematica. I have
+also validated that figures can be reproduced following the instructions
+given in Section 4. But this is fine as here we will focus on ARFIMA itself.
