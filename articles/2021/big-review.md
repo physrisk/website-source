@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, opinion dynamics, financial markets, Stochastic models, statistical physics, Kirman model, voter model, 1/f noise, burst statistics, anomalous diffusion, Levy processes, ARFIMA, ARFIMA series, Brownian motion, fractional calculus, fractals, methods, order book, R. Kazakevicius, A. Kononovicius, B. Kaulakys, V. Gontis
 Slug: big-review
 Image_url: uploads/2021/big-review.png
-Status: draft
+Status: published
 
 This summer we (all active members of the group) have contributed to a
 pretty big paper [cite id="Kazakevicius2021Entropy"]. In the said paper we
