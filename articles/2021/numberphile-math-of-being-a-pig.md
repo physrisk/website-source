@@ -3,7 +3,7 @@ Date: 2021-09-14 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics, board games
 Slug: numberphile-math-of-being-a-pig
-Status: draft
+Status: published
 
 For many [board games](/tag/board-games/) have become a tool to retain their
 sanity during COVID-19 lockdowns. These games vary in their complexity and
