@@ -35,7 +35,7 @@ Note that if A1 and A2 would share religion feature trait (for example if they b
 What to try? Notice that the model is boring with just \\\( 1 \\\) feature. Note how the convergence (to a fixed state) speed depends on all model parameters. Try to discover the parameter values which would allow for multiple cultures to persist.
 
 [html5-interactive
-src="/uploads/models/axelrod-model/index.html" width="410"
+src="/uploads/models/axelrod-model/index.html" width="420"
 height="510" mode="iframe"]
 
 The applet also allows to change how fast the model is run. Here, "kips" and "mips" stand for thousands (kilo) interactions per second and millions (mega) interactions per second respectively. Note that older computers with weaker hardware might "lag" at faster speeds. If so, please decrease the speed.
