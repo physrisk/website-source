@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, statistical physics, ARFIMA series, Brownian motion, white noise, economics
 Slug: random-walk-as-ar-process
 Image_url: uploads/2021/random-walk-as-ar-process.png
-Status: draft
+Status: published
 
 In the [previous post]({filename}/articles/2021/big-review.md) I have
 mentioned that in our review we have also presented a novel result, which we
