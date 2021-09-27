@@ -3,7 +3,7 @@ Date: 2021-09-28 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, methods, ARFIMA series, ritvikmath
 Slug: pacf-explained-by-ritvikmath
-Status: draft
+Status: published
 
 In the [last post]({filename}/articles/2021/random-walk-as-ar-process.md)
 we have seen that auto-correlation function breaks when try to analyze
