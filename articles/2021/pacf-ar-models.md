@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, statistical physics, ARFIMA series, Brownian motion, economics
 Slug: pacf-ar-models
 Image_url: uploads/2021/pacf-ar-models.png
-Status: draft
+Status: published
 
 In [the last few posts](/tag/arfima-series) we have seen that [random
 walk](/tag/brownian-motion) can be written in [recursive
