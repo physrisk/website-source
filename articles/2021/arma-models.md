@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, ARFIMA series, economics
 Slug: arma-models
 Image_url: uploads/2021/arma-models.png
-Status: draft
+Status: published
 
 In [the last few posts](/tag/arfima-series) we have talked about how
 physical models relate to ["economical"](/tag/economics) AR(p) models. Yet
