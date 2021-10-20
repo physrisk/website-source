@@ -75,8 +75,7 @@ should be more or less similar \[cite id="Patriarca2013AJP"\], but one
 should take into account that the probability of head-on collisions
 decreases proportional to the dimensionality of the system, \\\(  p\_c\sim 1/d \\\) (here \\\(  d \\\) stands for the dimension).
 
-Note that by putting \[eqref id="elementary"\] into \[eqref
-id="wchange"\] one obtains
+Note that by putting \eqref{elementary} into \eqref{wchange} one obtains
 
 
 \begin{equation}
@@ -125,7 +124,7 @@ enough these two modifications are the exact opposites of each other.
 Our first option is to allow the particles to borrow energy up to
 \\\(  w\_{max} \\\) (it is the same as to allow the negative energies).
 The second options is to force particles to conserve certain amount of
-energy, \\\(  w\_{min} \\\). The previous definition of \\\(  \Delta w\_{ij} \\\), \[eqref id="elementary"\], may be used, one just needs to
+energy, \\\(  w\_{min} \\\). The previous definition of \\\(  \Delta w\_{ij} \\\), \eqref{elementary}, may be used, one just needs to
 alter the \\\(  w\_i(t) \\\) and \\\(  w\_j(t) \\\) values prior to the
 actual exchange (to increase them by \\\(  w\_{max} \\\) or by decreasing
 them by \\\(  w\_{min} \\\)).

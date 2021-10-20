@@ -46,7 +46,7 @@ evolution. Thus such process does "remember" its own past. Yet if
 and thus be memory-less.
 
 Note that in case of \\\(  p=q=1 \\\), equation for standard deviation
-looks very much alike difference equation. Thus \[eqref id="garch11"\]
+looks very much alike difference equation. Thus \eqref{garch11}
 may be rewritten as a continuous process of \\\(  y =\sigma\_t^2 \\\):
 
 

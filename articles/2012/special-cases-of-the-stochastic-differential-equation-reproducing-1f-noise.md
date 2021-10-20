@@ -54,7 +54,7 @@ stochastic processes From the above variable transformation formula we
 can require that the new drift or diffusion functions would take certain
 shapes. In most cases it will be rather hard to introduce the two
 requirements. We have used this approach in our recent paper \[cite
-id="Gontis2012ACS"\] to relate \[eqref id="sde"\] and [Bessel
+id="Gontis2012ACS"\] to relate \eqref{sde} and [Bessel
 process](/tag/bessel-process "Bessel process").
 We have set up the requirement for the diffusion function of the
 resulting process:
@@ -75,7 +75,7 @@ only one meaningful Lamperti transformation:
 \end{equation}
 
 
-which transforms \[eqref id="sde"\] to a Bessel process:
+which transforms \eqref{sde} to a Bessel process:
 
 
 \begin{equation}
@@ -99,8 +99,8 @@ selecting specific parameter sets. If one shows that stochastic
 processes agree using this method then the less general process might be
 said to be a separate case of more general process.
 
-The aforementioned Bessel process can be obtained from \[eqref
-id="sde"\] by setting \\\(  \eta =0 \\\):
+The aforementioned Bessel process can be obtained from \eqref{sde}
+by setting \\\(  \eta =0 \\\):
 
 
 \begin{equation}
@@ -128,7 +128,7 @@ More complex
 and
 [CIR](/tag/cir "Cox-Ingersoll-Ross process")
 processes might be obtained by introducing exponential diffusion
-restrictions into \[eqref id="sde"\]:
+restrictions into \eqref{sde}:
 
 
 \begin{equation}

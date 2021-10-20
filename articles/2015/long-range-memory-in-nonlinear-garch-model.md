@@ -56,9 +56,10 @@ obtained especially for the time scale in which \\\(  h \\\) is a unit of
 time (in general case parameters in GARCH models depend on the selected
 time scale)).
 
-The obtained equation is still a separate case of Eq. \[eqref
-id="xsde"\], but now it is restricted by \\\(  \lambda = 2\eta \\\). Having in mind that the comparison yields \\\(  2 \eta =\mu \\\), we may expect to control the slope of spectral density by
-changing \\\(  \mu \\\):
+The obtained equation is still a separate case of Eq. \eqref{xsde}, but now
+it is restricted by \\\(  \lambda = 2\eta \\\). Having in mind that the
+comparison yields \\\(  2 \eta =\mu \\\), we may expect to control the slope
+of spectral density by changing \\\(  \mu \\\):
 
 
 \begin{equation}

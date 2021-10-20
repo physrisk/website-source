@@ -83,7 +83,7 @@ obtaining the stationary PDF and mean for \\\(  x \\\):
 
 where \\\(  \varepsilon\_i = \sigma\_i / h \\\).
 
-So, as we can see from \[eqref id="xpdf"\], the controlled agents can
+So, as we can see from \eqref{xpdf}, the controlled agents can
 shift the average system state towards the desired end. Note that we can
 have a fixed number of the controlled agents, \\\(  M \\\), which can act
 on systems on any size.

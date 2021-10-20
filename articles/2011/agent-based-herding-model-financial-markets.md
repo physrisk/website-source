@@ -92,7 +92,7 @@ using Taylor series up to the second order terms:
 
 where \\\(  \Delta x \\\) is smallest possible increment of the
 continuous system state variable, \\\(  \frac{1}{N} \\\). After this
-expansion Master equation, Eq. \[eqref id="master"\], becomes
+expansion Master equation, Eq. \eqref{master}, becomes
 Fokker-Planck equation:
 
 
@@ -115,7 +115,7 @@ where \\\(  A(x) \\\) and \\\(  D(x) \\\) are custom functions:
 \end{equation}
 
 
-The above Fokker-Planck equation, \[eqref id="fokpla"\], can be
+The above Fokker-Planck equation, \eqref{fokpla}, can be
 rewritten as Langevin equation:
 
 
@@ -216,8 +216,8 @@ systems state variable of Kirman's model. As fundamentalists are
 rational we have set that \\\(  N\_f(t)/N = 1-x(t) \\\), while chartists
 are thus directly related to \\\(  x(t) \\\).
 
-In \[cite id="Alfarano2005CompEco"\] definition of return, \[eqref
-id="fullret"\], is simplified by using adiabatic approximation. Namely
+In \[cite id="Alfarano2005CompEco"\] definition of return, \eqref{fullret}
+is simplified by using adiabatic approximation. Namely
 it is assumed that noise traders' change their mood very quickly, if
 compared with \\\(  x(t) \\\). This gives simpler definition of return:
 
@@ -236,7 +236,7 @@ next section of this text.
 Derivation of stochastic model for absolute return, y
 -----------------------------------------------------
 
-Eqs. \[eqref id="lanx"\] and \[eqref id="return"\] were derived in
+Eqs. \eqref{lanx} and \eqref{return} were derived in
 \[cite id="Alfarano2005CompEco"\] (stochastic model was derived in a bit
 different way), but Alfarano et al. stopped there and did not derive
 stochastic differential equation for absolute return. In order to obtain
@@ -260,7 +260,7 @@ to obtain stochastic model for \\\(  y \\\):
 If we consider \\\(  \tau(y) = y^{-\alpha}  \\\), this selection
 might be backed by the positive correlation between trading activity and
 absolute return and also by the similarity of statistical properties,
-and a limit of large \\\(  y \\\) values Eq. \[eqref id="lany"\] becomes:
+and a limit of large \\\(  y \\\) values Eq. \eqref{lany} becomes:
 
 
 \begin{equation}
@@ -268,7 +268,7 @@ and a limit of large \\\(  y \\\) values Eq. \[eqref id="lany"\] becomes:
 \end{equation}
 
 
-We find that Eq. \[eqref id="lanyour"\] is very similar to stochastic
+We find that Eq. \eqref{lanyour} is very similar to stochastic
 differential equation consider in \[cite id="Ruseckas2010PhysRevE"\]:
 
 
@@ -292,8 +292,8 @@ which is known to give power law statistics:
 
 
 As relations between different model parameters are \\\(  \eta =\frac{3+\alpha}{2} \\\), \\\(  \lambda = \varepsilon\_2 + \alpha+1 \\\) (obtained by directly comparing stochastic differential equations
-\[eqref id="lanyour"\] and \[eqref id="oursde"\]), we expect that
-\\\(  y \\\) defined by Eq. \[eqref id="lany"\] will also have power law
+\eqref{lanyour} and \eqref{oursde}), we expect that
+\\\(  y \\\) defined by Eq. \eqref{lany} will also have power law
 statistics:
 
 
@@ -320,14 +320,14 @@ Solid curves are inverse power law fits: (a) \\\( \lambda=3 \\\) (all three case
 \\\( \beta = 1 \\\) (all three cases)."){#attachment_1776} 
 
 The above comparison is very important as stochastic differential
-equation \[eqref id="oursde"\] is a more general case of our stochastic
+equation \eqref{oursde} is a more general case of our stochastic
 model of return \[cite id="Gontis2010Intech"\]. Working on this approach
 further we might be able to create agent-based model providing more
 sophisticated statistical features reproduced by the model consider in
 \[cite id="Gontis2010Intech"\].
 
 There is another stochastic model whose stochastic differential equation
-resembles Eq. \[eqref id="lany"\]. It is so-called generalized CEV
+resembles Eq. \eqref{lany}. It is so-called generalized CEV
 process, which was consider in \[cite id="Reimann2011PhysA"\]:
 
 
@@ -336,13 +336,13 @@ process, which was consider in \[cite id="Reimann2011PhysA"\]:
 \end{equation}
 
 
-Eq. \[eqref id="cev"\] is noted to be a special case of Eq. \[eqref
-id="oursde"\], when exponential diffusion restriction is applied \[cite
+Eq. \eqref{cev} is noted to be a special case of Eq. \eqref{oursde},
+when exponential diffusion restriction is applied \[cite
 id="Reimann2011PhysA"\]. Though comparison with generalized CEV process
 is important on its own, as generalized CEV process encompass many
 stochastic models used in risk management. In order to obtain similar
 stochastic differential equation we have to linearize drift function of
-Eq. \[eqref id="lany"\] (i.e. set \\\(  \varepsilon\_2 = 2 \\\)).
+Eq. \eqref{lany} (i.e. set \\\(  \varepsilon\_2 = 2 \\\)).
 Similarity is once again obtained in the limit of large \\\(  y \\\)
 values:
 
@@ -352,8 +352,8 @@ values:
 \end{equation}
 
 
-Due to the similarity between Eqs. \[eqref id="oursde"\] and \[eqref
-id="cev"\], theoretical predictions of statistical properties remain the
+Due to the similarity between Eqs. \eqref{oursde} and \eqref{cev},
+theoretical predictions of statistical properties remain the
 same. Though now they have a bit simpler mathematical expression:
 
 
@@ -374,7 +374,7 @@ power law spectral densities in three distinct cases (in each cases
 giving precise prediction). In [Fig 2.](#attachment_1777), this figure
 is featured in \[cite id="Kononovicius2012PhysA"\], we have shown that
 theoretical predictions for CEV process are also valid for \\\(  y \\\)
-defined by Eq. \[eqref id="lany"\].
+defined by Eq. \eqref{lany}.
 
 ![image](/uploads/2011/06/kirmancev.png "Numerically calculated PDF (a) and power spectral
 density (b) of considered stochastic model, Eq. (6), with linearized
@@ -388,9 +388,9 @@ triangles)."){#attachment_1777}
 Applet
 ------
 
-This applet numerically solves Eq. \[eqref id="lany"\] using
+This applet numerically solves Eq. \eqref{lany} using
 Euler-Maruyama method \[cite id="Kloeden1999Springer"\]. In such case
-Eq. \[eqref id="lany"\] becomes a set of difference equations:
+Eq. \eqref{lany} becomes a set of difference equations:
 
 
 \begin{equation}

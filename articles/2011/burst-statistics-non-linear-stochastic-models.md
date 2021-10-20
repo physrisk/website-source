@@ -88,7 +88,7 @@ line is 1.99, green line -1.54, red line -1.56 and magenta line -1.45.
 Program parameters: η=2.5, λ=3, Δt=0.001,
 h=2."){#attachment_1881} 
 
-Eq. \[eqref id="sde"\] was derived while looking for stochastic model
+Eq. \eqref{sde} was derived while looking for stochastic model
 capable of reproducing empirical statistical properties of high
 frequency return \[cite id="Gontis2010Intech"\] (see [the corresponding
 text on Physics of
@@ -99,7 +99,7 @@ analysis of this equation in terms of burst statistics might provide
 useful insights for risk management.
 
 This presumptuous conclusion might be backed by empirical analysis. As
-solutions of Eq. \[eqref id="sde"\] have spectral density similar to the
+solutions of Eq. \eqref{sde} have spectral density similar to the
 empirical spectral density, it is to be expected that empirical data
 should also have similar burst statistics. Indeed as you can see in
 [Fig. 3](#attachment_1884) empirical data, we have analyzed 26 different

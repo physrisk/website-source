@@ -76,7 +76,7 @@ here \\\(  X \\\) is number of consumers, while \\\(  N-X \\\) is thus a
 number of potential consumers. \\\(  \sigma \\\) and \\\(  h \\\) are
 probabilities of individual decision and influenced decision to buy
 product (they should be equivalent to \\\(  p \\\) and \\\(  q \\\) in
-\[eqref id="bassode"\]). Note that transition probabilities are somewhat
+\eqref{bassode}). Note that transition probabilities are somewhat
 different from the original ones \[cite id="Kirman1993QJE"\] (or see
 [this model on Physics of
 Risk](/kirman-ants "Kirman's ant colony model on Physics of Risk")).

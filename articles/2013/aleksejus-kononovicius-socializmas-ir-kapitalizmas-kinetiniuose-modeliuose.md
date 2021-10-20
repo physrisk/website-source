@@ -154,8 +154,8 @@ width="420" height="440" mode="iframe"]
 We refer to this model as "simple" capitalism model, because it is
 possible to obtain better taxation rules. If we would like to completely
 avoid bankruptcy we could require that the debt would be repaid by
-particles with positive energy. In such case we can rewrite \[eqref
-id="capitalismkitos"\] as:
+particles with positive energy. In such case we can rewrite
+\eqref{capitalismkitos} as:
 
 
 \begin{equation}

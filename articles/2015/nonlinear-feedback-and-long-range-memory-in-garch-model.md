@@ -52,7 +52,7 @@ we restrict ourselves to \\\(  \eta &gt; 1 \\\) or, alternatively,
 integer values, but this was done just for the sake numerical
 efficiency.
 
-Eq. \[eqref id="ngarch112"\] may be rewritten in continuous time as
+Eq. \eqref{ngarch112} may be rewritten in continuous time as
 stochastic differential equation with respect to \\\(  y=\sigma^2 \\\):
 
 
@@ -61,7 +61,7 @@ stochastic differential equation with respect to \\\(  y=\sigma^2 \\\):
 \end{equation}
 
 
-This equation is essentially identical to Eq. \[eqref id="xsde"\] and
+This equation is essentially identical to Eq. \eqref{xsde} and
 to stochastic differential equation obtained in [previous blog
 post](/long-range-memory-in-nonlinear-garch-model).
 Comparing to the equation from the [previous blog

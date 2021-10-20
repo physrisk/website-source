@@ -76,11 +76,10 @@ width="410" height="75" mode="iframe"]
 
 The second applet, on the other hand, is dedicated to mass generation of
 random magnetization. Use this applet to check how well modelic PDF
-agrees with theoretical ones, \[eqref id="gauss"\] and \[eqref
-id="laips"\]. Note that when \\\(  d \\\) is small, then power-law
-approximation, \[eqref id="laips"\], works well, but when \\\(  d \\\)
-grows the exponential approximation starts to fit better, \[eqref
-id="gauss"\].
+agrees with theoretical ones, \eqref{gauss} and \eqref{laips}.
+Note that when \\\(  d \\\) is small, then power-law
+approximation, \eqref{laips}, works well, but when \\\(  d \\\)
+grows the exponential approximation starts to fit better, \eqref{gauss}.
 
 [html5-interactive
 src="/uploads/models/corr-spins/index.html"
