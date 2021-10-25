@@ -3,7 +3,7 @@ Date: 2021-10-26 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics
 Slug: numberphile-statistics-storks-babies
-Status: draft
+Status: published
 
 In this [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 video author and economist Tim Harford talks about where the babies come
