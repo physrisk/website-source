@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, ARFIMA series, economics
 Slug: arima-models
 Image_url: uploads/2021/arima-models.png
-Status: draft
+Status: publish
 
 [Last time]({filename}/articles/2021/arma-models.md) we have combined AR(p)
 and MA(q) models to make ARMA(p, q) model. We are getting quite close to
