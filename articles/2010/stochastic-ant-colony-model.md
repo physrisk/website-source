@@ -98,9 +98,11 @@ can show that \\\(  \sum\_i \bar \omega\_i = 1 \\\) is true for every
 time moment. The last result actually stands behind the idea of the
 *global continuity*.
 
-Now lets move on from the discrete case of \\\(  X \in \{ 0,\,1,\, 2,\, \dots ,\, N \} \\\) to continous case with \\\(  x \in\[0,\,1\] \\\), applying transformation \\\(  x= \frac{X}{N} \\\), where
-\\\(  N \rightarrow \infty \\\). One can reexpress probability of
-continous system state through discrete system state as
+Now lets move on from the discrete case of \\\(  X \in \\\{ 0,\,1,\, 2,\, \dots ,\, N \\\} \\\)
+to continous case with \\\(  x \in\[0,\,1\] \\\), applying transformation
+\\\(  x= \frac{X}{N} \\\), where \\\(  N \rightarrow \infty \\\). One can
+reexpress probability of continous system state through
+discrete system state as
 
 
 \begin{equation}

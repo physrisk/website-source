@@ -37,7 +37,7 @@ edge is added. The edge will connect one new node to one old node. The
 old node, \\\(  j \\\), is selected by minimizing cost:  
 
 \begin{equation}
- C\_i = \min\nolimits\_j \{ \delta r\_{ij} + h\_j \} .
+ C\_i = \min\nolimits\_j \left\\\{ \delta r\_{ij} + h\_j \right\\\} .
 \end{equation}
 
 

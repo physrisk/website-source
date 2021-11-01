@@ -22,10 +22,10 @@ observation made by Cauchy. He had observed that if we want to integrate
 function \\\( n \\\) times, it is easier to use the following formula:
 
 \begin{equation}
-    I^n \left\{ f(x) \right\} = \frac{1}{(n-1)!} \int\_a^x (x-t)^{n-1} f(t) \mathrm{d} t.
+    I^n \left\\\{ f(x) \right\\\} = \frac{1}{(n-1)!} \int\_a^x (x-t)^{n-1} f(t) \mathrm{d} t.
 \end{equation}
 
-In the above \\\( I^n \left\{ \ldots \right\} \\\) is integration operator
+In the above \\\( I^n \left\\\{ \ldots \right\\\} \\\) is integration operator
 applied \\\( n \\\) times. Obviously factorial works only for positive
 integers, but factorial can be replaced by gamma function:
 

@@ -13,7 +13,7 @@ figures below the second dimension, ordinate (vertical) axis, is time)
 with cells either on or off. Another important simplification is that
 the actual state of the cell at given time, \\\(  x\_{i,t}  \\\),
 depends only on the previous state of the same cell and the previous
-states of its immediate neighbors, i.e. on \\\( \{x\_{i-1,t-1},x\_{i,t-1},x\_{i+1,t-1}\} \\\). Due to these restrictions
+states of its immediate neighbors, i.e. on \\\( \\\{x\_{i-1,t-1},x\_{i,t-1},x\_{i+1,t-1}\\\} \\\). Due to these restrictions
 and simplifications, generally speaking cellular automatons might evolve
 in the infinite dimensions, have infinite neighborhoods and have
 limitless number of possible cell states, these cellular automatons

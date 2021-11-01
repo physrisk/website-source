@@ -66,13 +66,13 @@ id="Prasad2003IJResMar"\]:
 
 
 \begin{equation}
- \partial\_t X(t) = f(p(t)) \left\[ N-X(t)-Y(t) \right\]\left\[ \sigma +\frac{h}{N} \{X(t) - Y(t)\} \right\] , 
+ \partial\_t X(t) = f(p(t)) \left\[ N-X(t)-Y(t) \right\]\left\[ \sigma +\frac{h}{N} \\\{X(t) - Y(t)\\\} \right\] , 
 \end{equation}
 
 
 
 \begin{equation}
- \partial\_t Y(t) = \alpha \left\[ N-X(t)-Y(t) \right\]\left\[ \sigma +\frac{h}{N} \{X(t) - Y(t)\} \right\] , 
+ \partial\_t Y(t) = \alpha \left\[ N-X(t)-Y(t) \right\]\left\[ \sigma +\frac{h}{N} \\\{X(t) - Y(t)\\\} \right\] , 
 \end{equation}
 
 
