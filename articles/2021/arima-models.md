@@ -1,7 +1,7 @@
 Title: ARIMA(p, d, q) models
 Date: 2021-11-02 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Stochastic models, ARFIMA series, economics
+Tags: Interactive models, ARFIMA series, economics
 Slug: arima-models
 Image_url: uploads/2021/arima-models.png
 Status: published

@@ -1,7 +1,7 @@
 Title: Fractional derivatives
 Date: 2021-11-16 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Stochastic models, fractals, ARFIMA series, 1/f noise, video, vcubingx
+Tags: Interactive models, fractals, ARFIMA series, 1/f noise, video, vcubingx
 Slug: fractional-derivatives
 Image_url: uploads/2021/fractional-derivatives.png
 Status: draft
