@@ -1,7 +1,7 @@
 Title: PACF and AR(p) models
 Date: 2021-10-05 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistical physics, ARFIMA series, Brownian motion, economics
+Tags: Interactive models, statistical physics, time series models, ARFIMA series, Brownian motion, economics
 Slug: pacf-ar-models
 Image_url: uploads/2021/pacf-ar-models.png
 Status: published
