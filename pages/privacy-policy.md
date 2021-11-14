@@ -5,76 +5,100 @@ Url: privacy-policy.html
 Save_as: privacy-policy.html
 Status: hidden
 
-Physics of Risk operates the [http://rf.mokslasplius.lt](http://rf.mokslasplius.lt)
-website, which provides the SERVICE.
+# Privacy Policy for Physics of Risk
 
-This page is used to inform website visitors regarding our policies with the
-collection, use, and disclosure of Personal Information if anyone decided to use
-our Service, the Physics of Risk website.
+At Physics of Risk, accessible from <https://rf.mokslasplius.lt>, one of our
+main priorities is the privacy of our visitors. This Privacy Policy document
+contains types of information that is collected and recorded by Physics of
+Risk and how we use it.
 
-If you choose to use our Service, then you agree to the collection and use of
-information in relation with this policy. The Personal Information that we
-collect are used for providing and improving the Service. We will not use or
-share your information with anyone except as described in this Privacy Policy.
+If you have additional questions or require more information about our
+Privacy Policy, do not hesitate to contact us. Our Privacy Policy was
+generated with the help of [https://www.gdprprivacypolicy.net](GDPR Privacy
+Policy Generator from GDPRPrivacyPolicy.net)
 
-## Information Collection and Use
+## General Data Protection Regulation (GDPR)
 
-Our Service does not ask you to provide us with any personally identifiable
-information. We will not directly ask you to provide us with name or credit card
-number or any other pieces of your personal information.
+We are a Data Controller of your information.
+ 
+Physics of Risk legal basis for collecting and using the personal
+information described in this Privacy Policy depends on the Personal
+Information we collect and the specific context in which we collect the
+information:
 
-## Log Data
+* Physics of Risk needs to perform a contract with you
+* You have given Physics of Risk permission to do so
+* Processing your personal information is in Physics of Risk legitimate
+  interests
+* Physics of Risk needs to comply with the law
+  
+Physics of Risk will retain your personal information only for as long as is
+necessary for the purposes set out in this Privacy Policy. We will retain
+and use your information to the extent necessary to comply with our legal
+obligations, resolve disputes, and enforce our policies. 
 
-We want to inform you that whenever you visit our Service, we collect
-information that your browser sends to us that is called Log Data. This Log
-Data may include information such as your computer’s Internet Protocol ("IP")
-address, browser version, pages of our Service that you visit, the time and
-date of your visit, the time spent on those pages, and other statistics.
+If you are a resident of the European Economic Area (EEA), you have certain
+data protection rights. If you wish to be informed what Personal Information
+we hold about you and if you want it to be removed from our systems, please
+contact us.
 
-## Cookies
+In certain circumstances, you have the following data protection rights:
 
-Cookies are files with small amount of data that is commonly used an anonymous
-unique identifier. These are sent to your browser from the website that you
-visit and are stored on your computer’s hard drive.
+* The right to access, update or to delete the information we have on you.
+* The right of rectification. 
+* The right to object.
+* The right of restriction.
+* The right to data portability
+* The right to withdraw consent
 
-Our website does not use "cookies", hence we do not provide any options for you
-to accept or refuse these "cookies". When sharing third party material we are
-careful to ensure that these third party materials would not set any cookies too
-(e.g., when sharing YouTube videos we share them through youtube-nocookie.com
-domain).
+## Log Files
 
-## Service Providers
+Physics of Risk follows a standard procedure of using log files. These files
+log visitors when they visit websites. All hosting companies do this and a
+part of hosting services' analytics. The information collected by log files
+include internet protocol (IP) addresses, browser type, Internet Service
+Provider (ISP), date and time stamp, referring/exit pages, and possibly the
+number of clicks. These are not linked to any information that is personally
+identifiable. The purpose of the information is for analyzing trends,
+administering the site, tracking users' movement on the website, and
+gathering demographic information.
 
-We may employ third-party companies and individuals, which would be necessary
-to provide you the Service (e.g., website hosting, security) and also when sharing
-third-party content. In all cases we are careful to ensure that only your Log
-Data is accessible to these third parties.
+## Third Party Privacy Policies
 
-## Security
+Physics of Risk's Privacy Policy does not apply to other advertisers or
+websites. Thus, we are advising you to consult the respective Privacy
+Policies of these third-party ad servers for more detailed information. It
+may include their practices and instructions about how to opt-out of certain
+options. 
 
-While we do not gather or store any of your Personal Information, we would like
-you to understand that no method of transmission over the internet, or method of
-electronic storage is 100% secure and reliable.
+You can choose to disable cookies through your individual browser options.
+To know more detailed information about cookie management with specific web
+browsers, it can be found at the browsers' respective websites.
 
-## Links to Other Sites
+## Children's Information
 
-Our Service may contain links to other sites. If you click on a third-party
-link, you will be directed to that site. Note that these external sites are not
-operated by us. Therefore, we strongly advise you to review the Privacy Policy
-of these websites. We have no control over, and assume no responsibility for
-the content, privacy policies, or practices of any third-party sites or
-services.
+Another part of our priority is adding protection for children while using
+the internet. We encourage parents and guardians to observe, participate in,
+and/or monitor and guide their online activity.
 
-## Changes to This Privacy Policy
+Physics of Risk does not knowingly collect any Personal Identifiable
+Information from children under the age of 13. If you think that your child
+provided this kind of information on our website, we strongly encourage you
+to contact us immediately and we will do our best efforts to promptly remove
+such information from our records.
 
-We may update our Privacy Policy from time to time. Thus, we advise you to
-review this page periodically for any changes. We will notify you of any
-changes by posting the new Privacy Policy on this page. These changes are
-effective immediately, after they are posted on this page.
+## Online Privacy Policy Only
 
-Initial template for this Privacy Policy was created with the
-[GDPR Privacy Policy Generator](https://gdprprivacypolicy.net). It was further
-modified to suit our specific case.
+Our Privacy Policy (created at GDPRPrivacyPolicy.net) applies only to our
+online activities and is valid for visitors to our website with regards to
+the information that they shared and/or collect in Physics of Risk. This
+policy is not applicable to any information collected offline or via
+channels other than this website.
+
+## Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to
+its terms.
 
 ## Contact Us
 
