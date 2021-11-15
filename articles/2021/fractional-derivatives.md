@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, fractals, ARFIMA series, 1/f noise, video, vcubingx
 Slug: fractional-derivatives
 Image_url: uploads/2021/fractional-derivatives.png
-Status: draft
+Status: published
 
 [Last time]({filename}/articles/2021/arima-models.md) we have seen that ARMA
 modelis can be integrated (and differentiated) to deal with non-stationarity
