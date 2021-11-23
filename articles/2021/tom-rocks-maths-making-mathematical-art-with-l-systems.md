@@ -3,7 +3,7 @@ Date: 2021-11-23 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Tom Rocks Maths, fractals, L-system
 Slug: tom-rocks-maths-making-mathematical-art-with-l-systems
-Status: draft
+Status: published
 
 This video from [Tom Rocks
 Maths](https://www.youtube.com/channel/UCRfo-DAifrP3lzcxUHtGm_A) Youtube
