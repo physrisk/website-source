@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, fractals, ARFIMA series, 1/f noise, methods, Python
 Slug: numerical-fractional-derivative
 Image_url: uploads/2021/numerical-fractional-derivative.png
-Status: draft
+Status: published
 
 [Last time]({filename}/articles/2021/fractional-derivatives.md) we have
 looked into fractional derivatives and even managed to derive fractional
