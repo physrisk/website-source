@@ -3,7 +3,7 @@ Date: 2022-01-04 08:00
 Author: Aleksejus Kononovicius
 Tags: General information
 Slug: quite-productive-2021
-Status: published
+Status: draft
 Image_url: uploads/2022/rf-posts.png
 
 We have started the year by finishing the series of posts on the [anomalous
