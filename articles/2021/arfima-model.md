@@ -10,6 +10,7 @@ Status: published
 model! Taking such small step (adding letter F to the acronym) took a lot of
 effort, but it was worth it. Why? Well, this exercise has allowed me to get
 a glimpse at fractional calculus and develop some intuition with this tool.
+<!--more-->
 
 ARFIMA(0, d, 0) is also one of the ways to generate fractional Gaussian
 noise (abbr. fGn). It is fractional derivative of order \\\( d \\\) of the
