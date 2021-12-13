@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, fractals, time series models, ARFIMA series, economics, Brownian motion
 Slug: arfima-model
 Image_url: uploads/2021/arfima-model.png
-Status: draft
+Status: published
 
 [Slowly but surely](/tag/arfima-series) we have finally reached ARFIMA
 model! Taking such small step (adding letter F to the acronym) took a lot of
