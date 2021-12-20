@@ -1,7 +1,7 @@
 Title: Strategic candidates in median voter model
 Date: 2022-01-18 08:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, opinion dynamics, competition
+Tags: Agent-based models, Interactive models, opinion dynamics, competition, median voter theorem
 Slug: strategic-candidates-in-median-voter-model
 Status: draft
 Image_url: uploads/2022/strategic-candidates-in-median-voter-model.png
