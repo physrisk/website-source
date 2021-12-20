@@ -50,7 +50,7 @@ before clicking again.
 
 [html5-interactive
 src="/uploads/models/hotelling-law/index.html"
-width="430" height="80" mode="iframe"]
+width="440" height="80" mode="iframe"]
 
 The same ideas applies not only to geographical positions of stores.
 Same things may be observed in cell phone design and functionality. Most
