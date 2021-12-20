@@ -3,7 +3,7 @@ Date: 2021-12-21 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, Dynamical chaos, classical mechanics
 Slug: numberphile-chaotic-balls
-Status: draft
+Status: published
 
 In this [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 video Matt Henderson talks about creating animations illustrating [chaos
