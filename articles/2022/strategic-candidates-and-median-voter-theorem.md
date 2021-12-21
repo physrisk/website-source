@@ -1,10 +1,10 @@
-Title: Strategic candidates in median voter model
+Title: Strategic candidates and median voter theorem
 Date: 2022-01-18 08:00
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, opinion dynamics, competition, median voter theorem
 Slug: strategic-candidates-in-median-voter-model
 Status: draft
-Image_url: uploads/2022/strategic-candidates-in-median-voter-model.png
+Image_url: uploads/2022/strategic-candidates-polarized.png
 
 Usually in sociophysics we care about the social aspects of [opinion
 dynamics](/tag/opinion-dynamics) and ignoring grains of rationality present
@@ -89,10 +89,10 @@ candidates (vertical lines) become more polarized than the society electing
 them.")
 
 Though for other parameter sets candidates will move closer towards the
-median voter. For example try: \\\( \alpha = 0.4 \\\),
+median voter. Such convergence is predicted by the [Hotelling
+law]({filename}/articles/2014/hotelling-law.md) and the [median voter
+theorem](/tag/median-voter-theorem). For example try: \\\( \alpha = 0.4 \\\),
 \\\( \sigma = 0.3 \\\), \\\( P = 2 \\\), \\\( Q = 30 \\\) and \\\( R = 1 \\\).
-Note that this phase is somewhat reminiscent of the [Hotelling
-law]({filename}/articles/2014/hotelling-law.md).
 
 ![In this case candidates converge towards the median
 opinion.](/uploads/2022/strategic-candidates-median.png "In this case
