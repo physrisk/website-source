@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, fractals, ARFIMA series, economics, Brownian motion, Levy processes
 Slug: fractional-levy-stable-motion
 Image_url: uploads/2021/fractional-levy-stable-motion.png
-Status: draft
+Status: published
 
 [The last post]({filename}/articles/2021/arfima-model.md) in the [ARFIMA
 series](/tag/arfima-series) was not the last stop in understanding the model
