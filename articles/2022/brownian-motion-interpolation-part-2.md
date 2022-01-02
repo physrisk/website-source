@@ -1,12 +1,12 @@
 Title: Interpolation of Brownian motion (part 2)
-Date: 2022-01-25 08:00
+Date: 2022-02-01 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, Brownian motion, fractals
 Slug: brownian-motion-interpolation-part-2
 Status: draft
 Image_url: uploads/2022/brownian-motion-interpolation-part-2.png
 
-[Last week]({filename}/articles/2022/brownian-motion-interpolation.md) we
+[Last time]({filename}/articles/2022/brownian-motion-interpolation.md) we
 have discussed how to statistically correct interpolate [Brownian
 motion](/tag/brownian-motion). You have probably noticed that the correct
 interpolation formula has one peculiarity:
