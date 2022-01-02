@@ -12,7 +12,7 @@ motion](/tag/brownian-motion). You have probably noticed that the correct
 interpolation formula has one peculiarity:
 
 \begin{equation}
-    W(0.5) = \frac{W(0) + W(1)}{2} + \sqrt{0.25} \cdot \ksi .
+    W(0.5) = \frac{W(0) + W(1)}{2} + \sqrt{0.25} \cdot \xi .
     \label{eq:correct}
 \end{equation}
 
@@ -23,15 +23,15 @@ The answer is quite intuitive. Part of the variance we expect to obtain is
 already present in the linear interpolation part of the expression:
 
 \begin{equation}
-    X = \frac{W(0) + W(1)}{2} = \frac{2 W(0) + \ksi}{2} = W(0) +
-    \frac{\ksi}{2} .
+    X = \frac{W(0) + W(1)}{2} = \frac{2 W(0) + \xi}{2} = W(0) +
+    \frac{\xi}{2} .
 \end{equation}
 
-In the above \\\( \ksi \\\) is a sample from standard normal distribution.
+In the above \\\( \xi \\\) is a sample from standard normal distribution.
 Thus \\\( X \\\) will be normally distributed with mean of \\\( W(0) \\\)
 and variance of \\\( 1/4 \\\). To have \\\( W(0.5) \\\), which would have
 expected variance of \\\( 1/2 \\\) we need to add random sample, which would
-contribute variance of \\\( 1/4 \\\). This is why \\\( \ksi \\\) is
+contribute variance of \\\( 1/4 \\\). This is why \\\( \xi \\\) is
 multiplied by \\\( \sqrt{0.25} \\\) (square root was kept for clarity).
 
 ## Interactive app

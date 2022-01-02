@@ -11,7 +11,7 @@ motion](/tag/brownian-motion) using discrete step size \\\( \Delta t \\\).
 Yet what happens at a finer scale? While in the experimental setup it would
 be impossible to say how the Brownian particle actually moved in between
 \\\( t \\\) and \\\( t + \Delta t \\\), one could numerically generate
-probable paths particle took in that time period. The do this by relying on
+probable paths particle took in that time period. We do this by relying on
 the [fractal](/tag/fractals) nature of the [Brownian
 motion](/tag/brownian-motion).
 <!--more-->
@@ -32,14 +32,14 @@ Any one familiar with [Euler method for the stochastic differential
 equations]({filename}/articles/2012/numerical-methods-for-the-stochastic-differential-equations.md) could come up with another approach. If
 
 \begin{equation}
-    W(1) = W(0) + \ksi ,
+    W(1) = W(0) + \xi ,
 \end{equation}
 
-with \\\( \ksi \\\) being sample from a standard normal distribution, then
+with \\\( \xi \\\) being sample from a standard normal distribution, then
 the following should hold, too:
 
 \begin{equation}
-    W(0.5) = W(0) + \sqrt{0.5} \cdot \ksi .
+    W(0.5) = W(0) + \sqrt{0.5} \cdot \xi .
 \end{equation}
 
 Notice that motion increments between \\\( t=0 \\\) and \\\( t=0.5 \\\) would
@@ -50,7 +50,7 @@ have a correct distribution (normal distribution with zero mean and
 To get the correct formula we need to combined both approaches. Let:
 
 \begin{equation}
-    W(0.5) = \frac{W(0) + W(1)}{2} + \sqrt{0.25} \cdot \ksi . \label{eq:correct}
+    W(0.5) = \frac{W(0) + W(1)}{2} + \sqrt{0.25} \cdot \xi . \label{eq:correct}
 \end{equation}
 
 ## Interactive app
