@@ -32,4 +32,4 @@ libraries to do the heavy-lifting stuff) and to show off to the broader
 public in the usual Physics of Risk style. And while there are interesting
 things I could still show you, most of them are not of the immediate
 interest to me, so it is hard to find strength and time to continue. I guess
-a new style will need to invented.
+a new style will need to be invented.
