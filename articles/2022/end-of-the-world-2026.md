@@ -44,7 +44,7 @@ So, what if the effective rate of change is not constant, but a power-law
 function of population \\\( N \\\)? Then:
 
 \begin{equation}
-    \frac{d N}{d t} = \left( \alpha^\prime N^{1/k} \right) \cdot N =
+    \frac{d N}{d t} = \left( \alpha^\prime N^{1/k} \right) \cdot N
                     = \alpha^\prime N^{1/k+1} .
 \end{equation}
 
