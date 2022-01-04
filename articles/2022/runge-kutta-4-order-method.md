@@ -43,7 +43,7 @@ and then as iterative equation:
     x\_{i+1} = x\_i - \left( x\_i + a \right)^2 \Delta t .
 \end{equation}
 
-The above is obviously correct in the limit \\\( \Delta t \right 0 \\\), but
+The above is obviously correct in the limit \\\( \Delta t \rightarrow 0 \\\), but
 in real life we can't numerically take a limit. Therefore we need a more
 precise method.
 
