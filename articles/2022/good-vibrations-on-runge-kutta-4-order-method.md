@@ -11,4 +11,4 @@ method and Runge-Kutta 4th order method. Now we share a video by [Good
 Vibrations](https://www.youtube.com/channel/UC_zn0wBLlOpIlQWY3V_Y3gw), which
 discusses the exact derivation of the Runge-Kutta methods.
 
-[youtube v="8r-jWnXjwQvk"]
+[youtube v="r-jWnXjwQvk"]
