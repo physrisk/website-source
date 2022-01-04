@@ -1,7 +1,7 @@
 Title: Runge-Kutta 4th order method
 Date: 2022-04-12 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, methods, JavaScript
+Tags: Interactive models, methods
 Slug: runge-kutta-4-order-method
 Status: draft
 Image_url: uploads/2022/rk4.png
