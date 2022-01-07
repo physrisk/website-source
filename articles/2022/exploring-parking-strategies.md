@@ -9,7 +9,8 @@ Image_url: uploads/2022/parking-optimist.png
 [Traffic](/tag/traffic) problems are ones we all face every day and we can
 explore using Physics of Risk tools such as [agent-based
 models](/tag/agent-based-models). Here we will take a look at a couple
-simple parking strategies [cite id="Krapivsky2019JStat, Krapivsky2020JStat"].
+simple parking strategies from [cite id="Krapivsky2019JStat,
+Krapivsky2020JStat"].
 <!--more-->
 
 ## Problem setup
@@ -127,14 +128,14 @@ been parked closest to the destination.
 
 This interactive app visualizes finite (508 places) one-dimensional parking
 lot. Empty parking spaces are shown in light gray, while taken parking space
-are shown in dark gray. Note that the parking lot snakes throught the green
-field, entrance is on the bottom left, while the destination square in on
-the top left (red square).
+are shown in dark gray. Note that the parking lot snakes through out the
+green field, entrance is on the bottom left, while the destination square in
+on the top left (red square).
 
 Along with visual representation of the current occupation of the parking
 lot two plots are shown. The first plot shows how the total number of cars
 (blue curve) and the position of the last parked car (dark curve) changes in
-time. The second plot shown normalized average cost for all currently parked
+time. The second plot shows normalized average cost for all currently parked
 cars.
 
 [html5-interactive width="520" height="500" mode="iframe"
