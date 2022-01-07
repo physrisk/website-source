@@ -117,7 +117,7 @@ and \\\( D \\\) is the driving cost. The average cost over all currently
 parked cars is normalized as follows:
 
 \begin{equation}
-    \tilde{C} = \frac{\sum\_i C\_i}{\sum\_{j=1}^{N} \left( W i + D \left[ 508 - i \right] \right)} = \frac{\sum\_i C\_i}{N \cdot \left( 508 D + \frac{W - D}{2} \cdot [N-1] \right)}
+    \tilde{C} = \frac{\sum\_i C\_i}{\sum\_{j=1}^{N} \left( W j + D \left[ 508 - j \right] \right)} = \frac{\sum\_i C\_i}{N \cdot \left( 508 D + \frac{W - D}{2} \cdot [N-1] \right)}
 \end{equation}
 
 Denominator is effectively the total cost for all cars if they would have
