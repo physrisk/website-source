@@ -81,6 +81,5 @@ the lattice.
 Interactive applet
 ------------------
 
-[html5-interactive
-src="/uploads/models/epstein/index.html" height="325"
-width="425" mode="iframe"]
+[html5-interactive height="300" width="440" mode="iframe"
+src="/uploads/models/epstein/index.html" height="325"]

@@ -201,6 +201,5 @@ vaccine. But vaccination helps to save millions of others!
 We invite you to play around with the app below to convince yourself
 that vaccination helps prevent disease outbreaks.
 
-[html5-interactive
-src="/uploads/models/herd-im/index.html" width="510"
-height="570" mode="iframe"]
+[html5-interactive width="520" height="570" mode="iframe"
+src="/uploads/models/herd-im/index.html"]

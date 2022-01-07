@@ -58,6 +58,5 @@ you press "Restart" button. The random edges can be automatically added
 via the "Rewire" button (one attempt per second) and also manually via
 "Add edge" button.
 
-[html5-interactive
-url="/uploads/models/small-world-network/index.html"
-mode="iframe" height="545" width="460"]
+[html5-interactive mode="iframe" height="550" width="480"
+url="/uploads/models/small-world-network/index.html"]

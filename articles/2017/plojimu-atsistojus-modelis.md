@@ -84,6 +84,5 @@ described above. Model parameters and curves shown in the figure were
 discussed in the text. Try different parameter values for yourself to
 understand their importance to the observed dynamics of the model.
 
-[html5-interactive
-src="/uploads/models/standing-ovation-model/index.html"
-height="290" width="415" mode="iframe"]
+[html5-interactive height="290" width="430" mode="iframe"
+src="/uploads/models/standing-ovation-model/index.html"]

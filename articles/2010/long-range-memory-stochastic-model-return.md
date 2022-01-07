@@ -240,9 +240,8 @@ the last stochastic differential above
 here \\\(  \xi\_i  \\\) is Gaussian noise (zero mean, unit variance) and
 \\\(  \kappa  \\\) is numerical precision parameter.
 
-[html5-interactive
-url="/uploads/models/grk-return-model/index.html"
-width="515" height="615" mode="iframe"]
+[html5-interactive width="520" height="615" mode="iframe"
+url="/uploads/models/grk-return-model/index.html"]
 
 If you came here to find the previously used Java applet, it is still
 available [here](/uploads/models/old-java/return-model-en.html).

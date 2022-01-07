@@ -98,9 +98,8 @@ pressing "X" button, which is found near every node. If it is necessary
 you can move the nodes by dragging, and also restart app by pressing
 "&gt;" button.
 
-[html5-interactive
-url="/uploads/models/core-periphery-network/destroy-network-challenge.html"
-mode="iframe" height="490" width="455"]
+[html5-interactive mode="iframe" height="490" width="480"
+url="/uploads/models/core-periphery-network/destroy-network-challenge.html"]
 
 Modifying Erdos-Renyi model to recover core-periphery network model
 -------------------------------------------------------------------
@@ -123,9 +122,8 @@ To avoid some problems, or possibly overly complex implementation of the
 model, we will assume that the first type nodes are the core nodes and
 we will require that at least one node of this type actually exists.
 
-[html5-interactive
-url="/uploads/models/core-periphery-network/er-index.html"
-mode="iframe" height="540" width="455"]
+[html5-interactive mode="iframe" height="540" width="480"
+url="/uploads/models/core-periphery-network/er-index.html"]
 
 Note that the app shows only the nodes which are connected to the core
 nodes. All of the other nodes are not shown.
@@ -154,9 +152,8 @@ is used. Note that in this case we will observe newly formed hubs (the
 nodes with large degrees) in the periphery, though the core nodes should
 still have larger degrees.
 
-[html5-interactive
-url="/uploads/models/core-periphery-network/index.html"
-mode="iframe" height="540" width="455"]
+[html5-interactive mode="iframe" height="540" width="480"
+url="/uploads/models/core-periphery-network/index.html"]
 
 This time the core was dictated by the history of the network - it
 existed before we started to grow the network.

@@ -362,9 +362,8 @@ id="passos2011"\], though we don't analyze this as it is already firmly
 confirmed that in this model dependence of multifractality on the number
 of agents is negligible \[cite id="Kononovicius2011LNFK"\].
 
-[html5-interactive
-url="/uploads/models/kirman-sde-ret/multifractal.html"
-width="515" height="505" mode="iframe"]
+[html5-interactive width="520" height="505" mode="iframe"
+url="/uploads/models/kirman-sde-ret/multifractal.html"]
 
 If you came here to find the previously used Java applet, it is still
 available [here](/uploads/models/old-java/multifractal-en.html). The

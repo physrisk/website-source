@@ -110,9 +110,8 @@ plays a role only if the Brownian motion is plotted. Most of the spectral
 density plots are approximated by a red curves, which stand for the
 theoretical expressions of spectral density provided in the text above.
 
-[html5-interactive
-src="/uploads/models/psd-example/index-stoch.html" width="515"
-height="565" mode="iframe"]
+[html5-interactive height="570" width="520" mode="iframe"
+src="/uploads/models/psd-example/index-stoch.html"]
 
 Previously the interactive app was powered by Wolfram CDF technology, but it
 is now replaced with HTML5 app. The old app can still be downloaded from

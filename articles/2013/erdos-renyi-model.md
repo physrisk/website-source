@@ -71,6 +71,5 @@ obtained degree distribution should converge towards Poissonian in the
 large number of nodes, \\\(  N \\\), limit (\\\(  p \\\) should also be
 not too small).
 
-[html5-interactive
-url="/uploads/models/er-network/index.html"
-mode="iframe" height="270" width="455"]
+[html5-interactive mode="iframe" height="270" width="480"
+url="/uploads/models/er-network/index.html"]

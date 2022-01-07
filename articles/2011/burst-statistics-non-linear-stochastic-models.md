@@ -139,9 +139,8 @@ analysis. We have set burst threshold value to 1, h=1.
 HTML5 applet {#applet}
 -----------
 
-[html5-interactive
-url="/uploads/models/grk-return-model/bursts.html"
-width="515" height="515" mode="iframe"]
+[html5-interactive width="520" height="515" mode="iframe"
+url="/uploads/models/grk-return-model/bursts.html"]
 
 If you came here to find the previously used Java applet, it is still
 available
