@@ -19,6 +19,9 @@ equations:
 
 \begin{equation}
     x\_{i+1} = \sin\left(f\_1 y\_i\right) + A\_1 \cos\left(f\_1 x_i\right) ,
+\end{equation}
+
+\begin{equation}
     y\_{i+1} = \sin\left(f\_2 x\_i\right) + A\_2 \cos\left(f\_2 y_i\right) .
 \end{equation}
 
