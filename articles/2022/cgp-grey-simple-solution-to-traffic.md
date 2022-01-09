@@ -6,7 +6,7 @@ Slug: cgp-grey-simple-solution-to-traffic
 Status: draft
 
 A quick video about [stop-and-go
-waves]({filename}/2014/stok-vaziuok-bangos.md) and how they arise and how to
-prevent them. Spoiler: the solution is not that original.
+waves]({filename}/articles/2014/stok-vaziuok-bangos.md) and how they arise
+and how to prevent them. Spoiler: the solution is not that original.
 
 [youtube v="iHzzSao6ypE"]
