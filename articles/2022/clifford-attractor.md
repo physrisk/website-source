@@ -40,7 +40,7 @@ the search function of the app below.
 
 ![Infinity](/uploads/2022/clifford-attractor-infinity.png "Infinity")
 
-![Sphere inside the sphere](/uploads/2022/clifford-attractor-infinity.png
+![Sphere inside the sphere](/uploads/2022/clifford-attractor-sphere.png
 "Sphere inside the sphere")
 
 ![Loopy triangle](/uploads/2022/clifford-attractor-loops.png "Loopy
@@ -57,7 +57,7 @@ This interactive app will help you generate Clifford attractors. You can
 either select your own parameter values or generate them randomly (by
 pressing randomize).
 
-[html5-interactive id="html5-app" mode="iframe" height="615" width="500"
+[html5-interactive id="html5-app" mode="iframe" height="630" width="520"
 url="/uploads/models/attractor/clifford/index.html"]
 
 Not all attractors you'll find will be interesting. If after a quick moment
