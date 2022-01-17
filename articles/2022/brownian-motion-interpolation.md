@@ -3,7 +3,7 @@ Date: 2022-01-18 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, Brownian motion, fractals
 Slug: brownian-motion-interpolation
-Status: draft
+Status: publish
 Image_url: uploads/2022/brownian-motion-interpolation.png
 
 Suppose you have obtained a sample path of [Brownian
