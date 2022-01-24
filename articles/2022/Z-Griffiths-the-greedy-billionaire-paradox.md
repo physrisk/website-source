@@ -3,7 +3,7 @@ Date: 2022-01-25 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, paradox
 Slug: z-griffiths-the-greedy-billionaire-paradox
-Status: draft
+Status: published
 
 Can you increase wages without increasing spending? Yes, you can. More
 details and important implications outside just the field of economics in
