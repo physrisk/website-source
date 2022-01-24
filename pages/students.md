@@ -24,22 +24,22 @@ We will try to schedule a meeting to find a problem you could tackle.
 * During **the autumn of 2021** Just Kvedravičius, fourth year students at
 Vilnius University Faculty of Physics, undertook professional internship
 and prepared term paper "Scaling of empirical compartmental distributions".
-The student was supervised by dr. Aleksejus Kononovicius.
-* During **the spring of 2020** Giedrius Pakalka, fourth year student at Vilnius University Faculty of Physics, wrote a bachelor thesis "The joint model of kinetic wealth exchange and investment". The student was supervised by dr. Vygintas Gontis.
-* During **the autumn of 2019** Giedrius Pakalka, fourth year student at Vilnius University Faculty of Physics, undertook professional internship and prepared working paper "Modeling wealth distribution using kinetic exchange models". The student was supervised by dr. Vygintas Gontis.
+The student was supervised by Aleksejus Kononovicius.
+* During **the spring of 2020** Giedrius Pakalka, fourth year student at Vilnius University Faculty of Physics, wrote a bachelor thesis "The joint model of kinetic wealth exchange and investment". The student was supervised by Vygintas Gontis.
+* During **the autumn of 2019** Giedrius Pakalka, fourth year student at Vilnius University Faculty of Physics, undertook professional internship and prepared working paper "Modeling wealth distribution using kinetic exchange models". The student was supervised by Vygintas Gontis.
 * During **the spring of 2019** Ignas Kazakevičius, sixth year student
 at Vilnius University Faculty of Physics, wrote a master thesis "First
 passage time of birth-death processes". Term papers leading to the
 thesis were prepared during previous semesters. The student was
-supervised by dr. Vygintas Gontis.
+supervised by Vygintas Gontis.
 * During **the spring of 2018** Edvinas Butiškis, fourth year student
 at Vilnius University Faculty of Physics, wrote a bachelor thesis
 "Imitative model of opinion dynamics". The student was supervised by
-dr. Vygintas Gontis.
+Vygintas Gontis.
 * During **the autumn of 2017** Edvinas Butiškis, fourth year student
 at Vilnius University Faculty of Physics, wrote a term paper "Kirman
 model as a generalized description of herding interactions in social
-systems". The student was supervised by dr. Vygintas Gontis.
+systems". The student was supervised by Vygintas Gontis.
 * On **November 29, 2017** Vaidas Juknevičius defended doctoral
 dissertation in Physics. Topic: "Spatio-temporal behavior in continuum
 surface growth models". The doctoral candidate was supervised by
