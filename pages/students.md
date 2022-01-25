@@ -21,7 +21,7 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 **Internships:** 7
 
-* During **the autumn of 2021** Just Kvedravičius, fourth year students at
+* During **the autumn of 2021** Justas Kvedravičius, fourth year students at
 Vilnius University Faculty of Physics, undertook professional internship
 and prepared term paper "Scaling of empirical compartmental distributions".
 The student was supervised by Aleksejus Kononovicius.
