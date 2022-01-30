@@ -1,11 +1,9 @@
-Title: Privacy policy
+Title: Privacy policy for Physics of Risk
 Date: 2017-11-07
 Order: 3
 Url: privacy-policy.html
 Save_as: privacy-policy.html
 Status: hidden
-
-# Privacy Policy for Physics of Risk
 
 At Physics of Risk, accessible from <https://rf.mokslasplius.lt>, one of our
 main priorities is the privacy of our visitors. This Privacy Policy document
