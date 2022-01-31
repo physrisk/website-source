@@ -3,7 +3,7 @@ Date: 2022-02-01 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, Brownian motion, fractals
 Slug: brownian-motion-interpolation-part-2
-Status: draft
+Status: published
 Image_url: uploads/2022/brownian-motion-interpolation-part-2.png
 
 [Last time]({filename}/articles/2022/brownian-motion-interpolation.md) we
