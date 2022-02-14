@@ -3,7 +3,7 @@ Date: 2022-02-15 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Brownian motion, methods, statistics
 Slug: ks-test
-Status: draft
+Status: published
 Image_url: uploads/2022/ks-test.png
 
 [Last
