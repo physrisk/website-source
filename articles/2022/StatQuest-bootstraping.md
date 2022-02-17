@@ -1,5 +1,5 @@
 Title: StatQuest: Bootstraping
-Date: 2022-02-22 08:00
+Date: 2022-03-08 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, methods, Matlab
 Slug: statquest-bootstraping
