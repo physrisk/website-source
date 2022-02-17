@@ -2,7 +2,7 @@ Title: eagereyes: The DataSaurus
 Date: 2022-02-22 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics
-Slug: statquest-bootstraping
+Slug: eagereyes-datasaurus
 Status: draft
 
 Summary statistics, whether mean, standard deviation or any other single
