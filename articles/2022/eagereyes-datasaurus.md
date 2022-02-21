@@ -3,7 +3,7 @@ Date: 2022-02-22 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, methods
 Slug: eagereyes-datasaurus
-Status: draft
+Status: published
 
 Summary statistics, whether mean, standard deviation or any other single
 number, are useful, but sometimes they can mislead - vastly different data
