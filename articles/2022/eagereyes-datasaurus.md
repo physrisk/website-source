@@ -12,7 +12,7 @@ below [Robert
 Kosara](https://www.youtube.com/channel/UCKecjwo5N9YrRyYf_sj72KQ) discusses
 this phenomenon in more detail. 
 
-[youtube v="Xz0x-8-cgaQ"]
+[youtube v="RbHCeANCbW0"]
 
 Thus here we give you an opposite advice to the one we gave
 [previously]({filename}/articles/2022/ks-test.md). You should plot the data
