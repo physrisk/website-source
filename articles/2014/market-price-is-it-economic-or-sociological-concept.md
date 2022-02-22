@@ -8,7 +8,7 @@ Status: published
 This text follows up our recent article
 "Consentaneous Agent-Based and Stochastic Model of the Financial
 Markets" published in open access interdisciplinary journal PLoS ONE
-\[cite id="Gontis2014PlosOne"\]. This article is a result of the ongoing
+[cite id="Gontis2014PlosOne"]. This article is a result of the ongoing
 research at the [Institute of Theoretical Physics and
 Astronomy](https://www.ff.vu.lt/tfai) of [Vilnius
 University](https://www.vu.lt) implementing the ideas of econophysics.
@@ -35,7 +35,7 @@ views opposing mainstream concepts of economics.
 
 Econophysics much more often than econometrics criticizes mainstream
 theory of economics. The observed fluctuations of the market price are
-larger than it should be accordingto the equilibrium view of the
+larger than it should be according to the equilibrium view of the
 efficient market theory. Alternative views arise even in circles of the
 economists as behavioral finance and economics receive much more
 attention. Nobel Prize winner of 2013 professor of Yale University
@@ -48,7 +48,7 @@ finance criticism towards econometrics and mathematical finance serves
 as an obstacle to positively evaluate contribution of econophysics.
 Nevertheless, the understanding that unstable financial and economic
 processes have to be considered on the bases of statistical physics is
-taking place \[cite id="Castellano2009RevModPhys"\].
+taking place [cite id="Castellano2009RevModPhys"].
 
 From the point of view of representatives of behavioral economics and
 finance the behavior of agents acting in the market is much more like
@@ -63,8 +63,8 @@ financial markets, where choice of agents between three different
 trading strategies is based only on the transition probabilities between
 these choices. From the mathematical point of view these transition
 probabilities between two of the choices are the same as proposed by
-Alan Kirman to describe the herding interactions of agents \[cite
-id="Kirman1993QJE"\]. This way we propose an adaption of the herding
+Alan Kirman to describe the herding interactions of agents [cite
+id="Kirman1993QJE"]. This way we propose an adaption of the herding
 model to the financial markets, which can be solved by using method from
 statistical physics to shape macroscopic description of financial
 markets by the set of two stochastic differential equations. The main
@@ -85,7 +85,7 @@ same way that physicists neglect trajectories of separate particles in
 thermodynamic consideration.
 
 Our proposed structure of agent groups is based on a conventional choice
-considering three opportunities \[cite id="Lux2009NaturePhys"\]: 1)
+considering three opportunities [cite id="Lux2009NaturePhys"]: 1)
 intrinsic (fundamental) value oriented market traders - fundamentalists,
 which buy stocks, when market price is lower than fundamental value and
 sell when market price is higher than fundamental value; 2) speculative
@@ -129,7 +129,7 @@ undesirable market price fluctuations. It appears that only a small
 number of agents trading exceptionally based only on fundamental values
 is required to make a considerable influence on other market
 participants leading to the much more stable movement of the market
-price \[cite id="Kononovicius2014PhysA"\]. Certainly, it is obvious that
+price [cite id="Kononovicius2014PhysA"]. Certainly, it is obvious that
 for the implementation of such mechanism a new and more comprehensive
 understanding of fundamental price is needed. It should help to define a
 new reference point in economics instead of the currently used market
