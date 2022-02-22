@@ -27,7 +27,7 @@ Status: published
 > obsessed with simple equation - why?
 
 These are free translations (done by [A.
-Kononovicius](http://kononovicius.lt/en/))
+Kononovicius](http://kononovicius.lt/))
 of the texts published in "Science and life" (lt. "Mokslas ir
 gyvenimas") journal by prof. Kęstutis Staliūnas \[cite
 id="Staliunas2003MG, Staliunas2004MG"\]. These are few rare texts about

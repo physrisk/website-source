@@ -41,7 +41,7 @@ searches. Though most visitors have come to Physics of Risk through the
 main webpage of Science for business and society,
 <http://mokslasplius.lt>. Personal webpages of some of the contributors
 ([http://gontis.eu](http://gontis.eu/en/ "Vygintas Gontis: Home page and blog")
-and <http://kononovicius.lt/en/>) have
+and <http://kononovicius.lt/>) have
 also directed some of you to this website.
 
 [Ising

@@ -8,7 +8,7 @@ Status: published
 **Topic:** "Physics is not a risk: Brief introduction into the Physics of
 Risk"  
 
-**Speaker:** [Aleksejus Kononovicius](http://kononovicius.lt/en/)  
+**Speaker:** [Aleksejus Kononovicius](http://kononovicius.lt/)  
 
 **Briefly:** Social sciences have accomplished many different things.  Yet
 it should be evident that there is a place for improvements - to look into
