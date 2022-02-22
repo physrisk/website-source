@@ -16,9 +16,9 @@ physicists' point of view is very useful. This, new, point of view is
 known as Physics of Risk.  
 **When?** 18th of October, 17:00.  
 **Where?** VU [Faculty of Physics (Saulėtekio al. 9, III rūmai,
-Vilnius)](http://www.ff.vu.lt/), 201 auditorium.  
-**Organized by:** [VU Faculty of Physics Students Scientific
-Association](http://www.smd.ff.vu.lt/).  
+Vilnius)](https://www.ff.vu.lt/), 201 auditorium.  
+**Organized by:** VU Faculty of Physics Students Scientific
+Association.  
 **Facebook event:**
 [here](https://www.facebook.com/events/395011713904204/).
 

@@ -10,8 +10,8 @@ This text follows up our recent article
 Markets" published in open access interdisciplinary journal PLoS ONE
 \[cite id="Gontis2014PlosOne"\]. This article is a result of the ongoing
 research at the [Institute of Theoretical Physics and
-Astronomy](http://www.tfai.vu.lt/) of [Vilnius
-University](http://www.vu.lt) implementing the ideas of econophysics.
+Astronomy](https://www.ff.vu.lt/tfai) of [Vilnius
+University](https://www.vu.lt) implementing the ideas of econophysics.
 Though our research is mostly related to the modelling of return
 statistics in financial markets implementing ideas from statistical
 physics, the concepts behind this work and conclusions are related to

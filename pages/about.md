@@ -4,9 +4,9 @@ Slug: about
 Order: 0
 
 On this blog we discuss a variety of [topics](/topics/) related to the research
-interests of our Complex Physical and Social Systems group in [Vilnius University](http://www.vu.lt/)
-[Faculty of Physics](http://www.ff.vu.lt/)
-[Institute of Theoretical Physics and Astronomy](http://www.tfai.vu.lt). We try
+interests of our Complex Physical and Social Systems group in [Vilnius University](https://www.vu.lt/)
+[Faculty of Physics](https://www.ff.vu.lt/)
+[Institute of Theoretical Physics and Astronomy](https://www.ff.vu.lt/tfai). We try
 to cover research done by us as well as related research carried out by other
 groups from around the world. The considered [topics](/topics/) are
 rather well encompassed by the term Physics of Risk, hence the name and the
