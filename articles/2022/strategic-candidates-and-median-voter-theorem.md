@@ -3,7 +3,7 @@ Date: 2022-03-01 08:00
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, opinion dynamics, competition, median voter theorem
 Slug: strategic-candidates-and-median-voter-theorem
-Status: draft
+Status: published
 Image_url: uploads/2022/strategic-candidates-polarized.png
 
 Usually in sociophysics we care about the social aspects of [opinion
