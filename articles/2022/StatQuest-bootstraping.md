@@ -3,7 +3,7 @@ Date: 2022-03-08 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, methods, Matlab
 Slug: statquest-bootstraping
-Status: draft
+Status: published
 
 During the "Numerical Methods I" course together with students at [Faculty
 of Physics](https://www.ff.vu.lt) we talk about experimental data fitting.
