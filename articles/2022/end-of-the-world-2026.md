@@ -3,7 +3,7 @@ Date: 2022-03-15 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, economics, politics, biology, Worldometer
 Slug: end-of-the-world-2026
-Status: draft
+Status: published
 Image_url: uploads/2022/end-of-the-world-2026.png
 
 According to [cite id="Foerster1960"] the doomsday is likely to happen
