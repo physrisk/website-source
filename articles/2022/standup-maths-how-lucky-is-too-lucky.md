@@ -3,7 +3,7 @@ Date: 2022-03-22 08:00
 Author: Aleksejus Kononovicius
 Tags: video, standupmaths, statistics
 Slug: standup-maths-how-lucky-is-too-lucky
-Status: draft
+Status: published
 
 [Last week]({filename}/articles/2022/end-of-the-world-2026.md) we were lucky
 to avoid doomsday, but how lucky can one get? In this [Stand-up
