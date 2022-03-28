@@ -3,7 +3,7 @@ Date: 2022-03-29 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, economics, politics, biology, Worldometer
 Slug: verhulst-correction-to-doomsday-model
-Status: draft
+Status: published
 Image_url: uploads/2022/verhulst-correction-to-doomsday-model.png
 
 In a [previous post]({filename}/articles/2022/end-of-the-world-2026.md) we
