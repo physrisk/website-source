@@ -10,7 +10,7 @@ In a [previous post]({filename}/articles/2022/end-of-the-world-2026.md) we
 have taken a look at a model, which predicts doomsday to fall on November
 13, 2026 [cite id="Foerster1960"]. The prediction was made based on the best
 fit to the data available in 1960. Recent available data deviates from the
-perdiction made in [cite id="Foerster1960"]. Instead it seems to be more
+prediction made in [cite id="Foerster1960"]. Instead it seems to be more
 consistent with Verhulst model.
 
 Here in this post we modify the [doomsday
