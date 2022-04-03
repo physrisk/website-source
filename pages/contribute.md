@@ -15,9 +15,9 @@ We are always happy to accept contributed texts from external authors. Especiall
 
 ## Rough technical guidelines
 
-* Text should be written in Markdown or plain text format. Please refrain from using HTML tags unless absolutely necessary. Note that we use [Pelican](https://blog.getpelican.com/) to produce HTML code from Markdown files, anything compatible will be fine. Pelican Markdown documentation can be found [here](https://sourceforge.net/p/pelican-edt/wiki/markdown_syntax/).
+* Text should be written in Markdown or plain text format. Please refrain from using HTML tags unless absolutely necessary. Note that we use [Pelican](https://blog.getpelican.com/) to produce HTML code from Markdown files, anything compatible will be fine.
 * You can also send texts in rich text formats (e.g., rtf, doc or odt), but note that in this case we keep the right to strip excessive styling.
-* Please keep the figures reasonably sized (width not larger than 1200px). We recommend using jpeg or png formats.
+* Please keep the figures reasonably sized (width no larger than 1200px). We recommend using jpeg or png formats.
 * Formulas should be written in standard LaTeX. Refrain from using custom commands or obscure packages. Note that we use [MathJax](https://www.mathjax.org/) to show formulas, anything compatible should be fine.
 * Custom interactive bits will be presented in iframes or as links. Here we recommend using HTML and JavaScript (also its libraries), but any reasonably popular client-side web technology will be grudgingly accepted.
 * If you want to add video content, you will have to upload it to youtube, vimeo or other similar services (we do not store videos on our server). In this case just provide the link in the text.
