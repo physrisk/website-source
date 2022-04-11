@@ -3,7 +3,7 @@ Date: 2022-04-12 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, methods
 Slug: runge-kutta-4-order-method
-Status: draft
+Status: published
 Image_url: uploads/2022/rk4.png
 
 Apps in the last two posts
