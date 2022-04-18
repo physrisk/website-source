@@ -3,7 +3,7 @@ Date: 2022-04-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, methods, video
 Slug: good-vibrations-on-runge-kutta-4-order-method
-Status: draft
+Status: published
 
 In the [last post]({filename}/articles/2022/runge-kutta-4-order-method.md)
 we have provided you with interactive app, which allows you to compare Euler
