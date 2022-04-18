@@ -12,7 +12,7 @@ structure of graph can vary alot, but in the ussuall case selection is
 limited to the lattices of different dimensions. Behavior of such system
 is observed at different temperature in the quest to find critical
 temperature at which phase shift occurs. If you want to familarize
-yourself more with Ising model and it's various interpretations, you
+yourself more with Ising model and its various interpretations, you
 should read \[cite id="Baxter1982Academic, Sethna2009Clarendon"\] works,
 because in this text we will only consider one possible, numerical,
 algorithm - heat bath algorithm.  

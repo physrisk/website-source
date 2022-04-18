@@ -116,7 +116,7 @@ only one food source (see [Fig. 2.](#attachment_546)). At some times
 switches between food sources occur. Interestingly enough weak
 individualism plays major role in observed dynamics as switches occur
 due to majority of ants choosing to follow individualists. If we turn
-off individualism within the system, it's state will converge to stable
+off individualism within the system, its state will converge to stable
 states at \\\(  x=0 \\\) or \\\(  x=N \\\) - there will be no further
 fluctuations.
 
@@ -127,7 +127,7 @@ Dynamics in the extreme cases illustrate mostly single one mechanism
 behind the model, thus most interesting behavior can be observed in
 between. If two different behavior mechanics are balanced, \\\(  h\approx \sigma\_1 \approx \sigma\_2  \\\), agents at the same time tend
 to form groups and act on their own accord. Interestingly in such case
-entropy of the system is at it's or near it's maximum as probabilities
+entropy of the system is at its or near its maximum as probabilities
 of observing each system state are very similar (see [Fig
 3](#attachment_548).).
 

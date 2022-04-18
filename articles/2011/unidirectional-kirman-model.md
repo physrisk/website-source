@@ -121,7 +121,9 @@ This applet plots theoretical Bass diffusion curves, number of consumer
 and number of new consumers per unit of time, (blue continuous curves)
 and analogous quantities obtained from agent-based Kirman's model (red
 dots). Applet control parameters are identical to Kirman's model
-parameters with a notable exception to \\\(  \Delta t \\\). Here \\\( \Delta t \\\) is time series discretization step. Kirman's model's \\\( \Delta t \\\) is selected by applet on it's own. The applet also includes
+parameters with a notable exception to \\\(  \Delta t \\\). Here
+\\\( \Delta t \\\) is time series discretization step. Kirman's model's
+\\\( \Delta t \\\) is selected by applet on its own. The applet also includes
 additional parameters \\\(  \alpha \\\) (tolerance for piracy) and
 \\\(  Y\_0 \\\) (charity) not discussed in this text, but considered in
 the [another

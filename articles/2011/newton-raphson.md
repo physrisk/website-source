@@ -109,13 +109,10 @@ Newton-Raphson fractal generator
 --------------------------------
 
 We have called this fractal generator NeRFEx (abbrevation from *Ne*wton
-*R*aphson *F*ractal *Ex*plorer). Note that Java applet has some
-functions disabled, those functions are made available in standalone
-java program (you can download it's
-[English](/uploads/2011/05/NeRFExEn.jar)
-or
-[Lithuanian](/uploads/2011/05/NeRFExLt.jar)
-localization).
+*R*aphson *F*ractal *Ex*plorer). Note that Java applet has some functions
+disabled, those functions are made available in standalone java program (you
+can download its [English](/uploads/2011/05/NeRFExEn.jar) or
+[Lithuanian](/uploads/2011/05/NeRFExLt.jar) localization).
 
 To start working with fractal generator press "Open NeRFEx in new
 window". Pop-up shall open and you'll be see main GUI of NeRFEx.

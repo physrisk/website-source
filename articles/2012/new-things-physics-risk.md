@@ -22,7 +22,7 @@ related to the Physics of Risk. First one is the annual meeting of COST
 P10: Physics of Risk held in Vilnius in 2006. See [the corresponding
 page](/vilnius-meeting-cost-p10-physics-risk "COST P10 Vilnius 2006")
 for conference program and slides. Another important "event" has only
-just started - it's the brand new European Union flagship project
+just started - the brand new European Union flagship project
 [FuturICT](/futurict "FuturICT").
 
 Most of the improvements were done "under the hood". For example we have

@@ -10,7 +10,7 @@ Kononovicius (2010). A Non-Linear Double Stochastic Model of Return in
 Financial Markets, Stochastic Control, Chris Myers (Ed.), ISBN:
 978-953-307-121-3, Sciyo, Available from:
 <http://www.intechopen.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets>
-– it's the latest review of research, done in the recent years, by
+– the latest review of research, done in the recent years, by
 scientists from Institute of Theoretical Physics and Astronomy, Vilnius
 University.
 
@@ -25,7 +25,7 @@ access publisher sciyo.com, who has made electronic version of this book
 freely available at
 [http://www.intechopen.com](http://www.intechopen.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets "Stochastic Control").
 
-Next we briefly discuss our research and it's scientific context, thus
+Next we briefly discuss our research and the scientific context, thus
 if you want to familiarize yourself more with our research you should
 start by reading chapter 27 of aforementioned book.
 

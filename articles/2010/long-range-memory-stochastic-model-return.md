@@ -208,7 +208,7 @@ here \\\(  \bar {r\_0}  \\\) is model parameter bearing the meaning of
 mean return per unit time interval.
 
 Thus now we first solve stochastic differential equation, then we
-integrate it's solutions in some intervals and then modulate those
+integrate its solutions in some intervals and then modulate those
 solutions with q-Gaussian noise. Results obtained in this way is in
 great agreement with empirical data (see [Fig. 3](#attachment_910)).
 

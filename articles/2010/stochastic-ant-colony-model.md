@@ -195,8 +195,9 @@ And then from continuity equation one can obtain *Fokker-Plank equation*
 
 
 which produces the same dynamics as agent-based model. Note that custom
-functions, which were introduced before, have special meaning - \\\( A(x) \\\) describes drift of the system state and \\\(  D(x) \\\) describes
-it's diffusion.
+functions, which were introduced before, have special meaning - \\\( A(x) \\\)
+describes drift of the system state and \\\(  D(x) \\\) describes its
+diffusion.
 
 Fokker-Plank equation above can be altenatively modeled using *Langevin
 stochastic differential equation* (for general details on conversion see
