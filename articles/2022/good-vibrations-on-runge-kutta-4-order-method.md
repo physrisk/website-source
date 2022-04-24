@@ -1,7 +1,7 @@
 Title: Good Vibrations on Runge-Kutta 4th order method
 Date: 2022-04-19 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, methods, video
+Tags: methods, video
 Slug: good-vibrations-on-runge-kutta-4-order-method
 Status: published
 
