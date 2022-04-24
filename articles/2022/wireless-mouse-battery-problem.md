@@ -19,4 +19,4 @@ can find more details on GitHub, too (check out
 [youtube v="6BW92AzCNeY"]
 
 Earlier videos as well as my other impressions on Matlab can be found more
-easily by checking out [#Matlab tag](/tag/matlab/).
+easily by checking out [#Matlab](/tag/matlab/) tag.
