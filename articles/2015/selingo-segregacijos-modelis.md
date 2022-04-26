@@ -52,7 +52,7 @@ happy agents divided by total number of agents) and mean segregation
 
 [html5-interactive
 url="/uploads/models/schelling/index.html"
-width="425" height="280" mode="iframe"]
+width="425" height="260" mode="iframe"]
 
 Note that mean segregation is always larger than \\\(  h \\\). Thus
 agents are not as intolerant as collective dynamics would suggest.
