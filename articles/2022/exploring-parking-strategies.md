@@ -3,7 +3,7 @@ Date: 2022-04-26 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, traffic
 Slug: exploring-parking-strategies
-Status: draft
+Status: published
 Image_url: uploads/2022/parking-optimist.png
 
 [Traffic](/tag/traffic) problems are ones we all face every day and we can
