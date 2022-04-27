@@ -122,7 +122,7 @@ In case of hindered redirection we chose that:
 While in case of constant probability redirection we set that \\\( r(a,b) = \lambda \\\).
 
 Note that with a large number of nodes (100 or more) the applet might
-free and disrupt your browser operation, thus you should handle the
+freeze and disrupt your browser operation, thus you should handle the
 applet with care. If you would like to analyze or generate large network
 consider downloading Gephi or obtaining other similar software packages.
 
