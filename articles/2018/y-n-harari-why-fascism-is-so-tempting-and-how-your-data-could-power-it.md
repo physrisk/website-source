@@ -1,7 +1,7 @@
 Title: Y. N. Harari: Why fascism is so tempting - and how your data could power it
 Date: 2018-06-12 08:00
 Author: Aleksejus Kononovicius
-Tags: video, politics, ted.com, Y. N. Harari, data science 
+Tags: video, politics, ted.com, Y. N. Harari, data science, popular culture
 Slug: y-n-harari-why-fascism-is-so-tempting-and-how-your-data-could-power-it
 Status: published
 

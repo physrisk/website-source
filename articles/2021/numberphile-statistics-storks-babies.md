@@ -1,7 +1,7 @@
 Title: Numberphile: Statistics, storks, and babies
 Date: 2021-10-26 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Numberphile, statistics
+Tags: video, Numberphile, statistics, popular culture
 Slug: numberphile-statistics-storks-babies
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Numberphile: Math of being a pig
 Date: 2021-09-14 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Numberphile, statistics, board games
+Tags: video, Numberphile, statistics, board games, popular culture
 Slug: numberphile-math-of-being-a-pig
 Status: published
 

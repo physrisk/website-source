@@ -1,7 +1,7 @@
 Title: TLDR News US on How Reddit broke the stock market?
 Date: 2021-01-29 08:00
 Author: Aleksejus Kononovicius
-Tags: video, TLDR News US
+Tags: video, TLDR News US, financial markets, economics, popular culture
 Slug: tldr-how-reddit-broke-the-stock-market
 Status: published 
 

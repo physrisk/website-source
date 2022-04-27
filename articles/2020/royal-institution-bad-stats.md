@@ -1,7 +1,7 @@
 Title: J. Rogers: How not to fall for Bad Statistics
 Date: 2020-02-04 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, The Royal Institution
+Tags: video, statistics, The Royal Institution, popular culture
 Slug: j-rogers-how-not-to-fall-for-bad-statistics
 Status: published
 

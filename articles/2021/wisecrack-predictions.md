@@ -1,7 +1,7 @@
 Title: Wisecrack: Predictions: What went wrong?
 Date: 2021-01-12 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Wisecrack
+Tags: video, Wisecrack, popular culture, politics, opinion dynamics
 Slug: wisecrack-predictions
 Status: published 
 

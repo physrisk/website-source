@@ -1,7 +1,7 @@
 Title: Stand-up Maths: How lucky is too lucky?
 Date: 2022-03-22 08:00
 Author: Aleksejus Kononovicius
-Tags: video, standupmaths, statistics
+Tags: video, standupmaths, statistics, popular culture
 Slug: standup-maths-how-lucky-is-too-lucky
 Status: published
 

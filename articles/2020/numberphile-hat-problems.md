@@ -1,7 +1,7 @@
 Title: Numberphile: Hat Problems
 Date: 2020-12-29 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Numberphile
+Tags: video, Numberphile, popular culture
 Slug: numberphile-hat-problems
 Status: published
 
