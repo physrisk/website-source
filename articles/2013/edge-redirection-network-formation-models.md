@@ -74,8 +74,8 @@ Networks" by Gabel et al. (the enhanced redirection was used). The green
 nodes have a total degree of 1, blue nodes - have 2-20, while red ones -
 larger than
 20.](/uploads/2013/08/highly-dispersed-networks.jpg "
-Highly dispersed networks shown in the article [&quot;Highly
-Dispersed Networks&quot;](http://arxiv.org/abs/1307.3768v1) by Gabel et al.
+Highly dispersed networks shown in the article &quot;Highly
+Dispersed Networks&quot; by Gabel et al.
 (the enhanced redirection was used). The green nodes have a total degree
 of 1, blue nodes - have 2-20, while red ones - larger than
 20."){#attachment_2525} 
