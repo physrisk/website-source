@@ -1,4 +1,4 @@
-Title: Many state herd model and its application to Lithuanian parliamentary elections
+Title: Many state herding model and its application to Lithuanian parliamentary elections
 Date: 2019-06-25 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, opinion dynamics, A. Kononovicius, Lithuania, Kirman model
@@ -26,7 +26,7 @@ fourth one the distribution is not that clear. I have looked at the vote shares
 all polling stations are similar and observing vote shares within them is the
 same as drawing samples from stationary distribution reached by some opinion
 dynamics model. As the vote share distribution is Beta,
-[Kirman's herd model]({filename}/articles/2010/kirman-ants.md) is a likely
+[Kirman's herding model]({filename}/articles/2010/kirman-ants.md) is a likely
 candidate.
 
 ## The model
