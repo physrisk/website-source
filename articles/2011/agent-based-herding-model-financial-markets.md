@@ -176,7 +176,7 @@ mathematical be expressed as \[cite id="Alfarano2005CompEco"\]:
 
 
 \begin{equation}
- D\_c(t) = - r\_0 N\_c(t) \xi(t) , 
+ D\_c(t) = r\_0 N\_c(t) \xi(t) , 
 \end{equation}
 
 
@@ -191,7 +191,7 @@ excess demands equal zero:
 
 
 \begin{equation}
- \sum\_{i=1}^{N} D\_i(t) = D\_f(t) + D\_c(t) = N\_f(t) \ln\frac{P\_f(t)}{P(t)} - r\_0 N\_c(t) \xi(t) = 0 , 
+ \sum\_{i=1}^{N} D\_i(t) = D\_f(t) + D\_c(t) = N\_f(t) \ln\frac{P\_f(t)}{P(t)} + r\_0 N\_c(t) \xi(t) = 0 , 
 \end{equation}
 
 
