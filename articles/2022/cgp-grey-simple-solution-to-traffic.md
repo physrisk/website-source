@@ -3,7 +3,7 @@ Date: 2022-05-03 08:00
 Author: Aleksejus Kononovicius
 Tags: video, CGP Grey, traffic
 Slug: cgp-grey-simple-solution-to-traffic
-Status: draft
+Status: published
 
 A quick video about [stop-and-go
 waves]({filename}/articles/2014/stok-vaziuok-bangos.md) and how they arise
