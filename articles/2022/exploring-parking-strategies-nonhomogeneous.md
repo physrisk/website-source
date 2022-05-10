@@ -3,7 +3,7 @@ Date: 2022-05-10 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, traffic
 Slug: exploring-parking-strategies-nonhomogeneous
-Status: draft
+Status: published
 Image_url: uploads/2022/parking-random-meek.png
 
 [Last time]({filename}/articles/2022/exploring-parking-strategies.md) we
