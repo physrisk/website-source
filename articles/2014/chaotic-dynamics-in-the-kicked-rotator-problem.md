@@ -99,7 +99,7 @@ Many trajectory Poincare plot and Standard map
 In the applet below you may study the Poincare plot of the kicked
 rotator with \\\(  N\_{trajectories} \\\) trajectories present. For the
 sake of simplicity the initial conditions of each trajectory are
-selected automatically - \\\(  x\_0 =\pi \\\) , \\\(  \omega\_0 =\frac{2 \pi i}{N\_{trajektorijų}} \\\) (here \\\(  i = 0, 1, \ldots,N\_{trajectories} \\\)). Each trajectory is plotted until it becomes closed
+selected automatically - \\\(  x\_0 =\pi \\\) , \\\(  \omega\_0 =\frac{2 \pi i}{N\_{trajectories}} \\\) (here \\\(  i = 0, 1, \ldots,N\_{trajectories} \\\)). Each trajectory is plotted until it becomes closed
 (some point is visited the second time) or until it has \\\( N\_{max.points} \\\) points.
 
 Note that for small \\\(  K \\\) there are only few resonating
