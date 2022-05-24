@@ -3,7 +3,7 @@ Date: 2022-05-24 08:00
 Author: Aleksejus Kononovicius
 Tags: Dynamical chaos, Fractals, Interactive models
 Slug: clifford-attractor
-Status: draft
+Status: published
 Image_url: uploads/2022/clifford-attractor-infinity.png
 
 Typically due to friction (or other dissipative forces) physical systems
