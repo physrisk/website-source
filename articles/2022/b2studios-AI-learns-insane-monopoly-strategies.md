@@ -1,4 +1,4 @@
-Title: b2studios: AI learns insane monopoly strategies
+Title: b2studios: AI learns insane Monopoly strategies
 Date: 2022-05-31 12:00
 Author: Aleksejus Kononovicius
 Tags: video, board games, machine learning
