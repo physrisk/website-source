@@ -11,9 +11,9 @@ students how to apply their newly acquired skills to do something fun. This
 video is from the 2020 spring semester and in it I explore service time of a
 wireless mouse with two batteries.
 
-For detailed problem statement and solution see the recording on Youtube.
-Though, notably, the sound quality of the recording was not as good. Or you
-can find more details on GitHub, too (check out
+For detailed problem statement and the solution see the recording on Youtube.
+Though, notably, the sound quality of the recording was not good. You
+can also find more details on GitHub, too (check out
 <https://github.com/akononovicius/NMI-coding-session-archive/tree/main/2020-battery-problem>).
 
 [youtube v="6BW92AzCNeY"]
