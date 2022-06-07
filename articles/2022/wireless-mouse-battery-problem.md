@@ -3,7 +3,7 @@ Date: 2022-06-07 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, Matlab, github
 Slug: wireless-mouse-battery-problem
-Status: draft
+Status: published
 
 When teaching Numerical Methods and [Matlab](/tag/matlab/) I like to
 challenge myself and take upon doing some new practical project to show my
