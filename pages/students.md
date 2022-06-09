@@ -24,8 +24,8 @@ We will try to schedule a meeting to find a problem you could tackle.
 * During **the spring of 2022** Justas Kvedravičius, fourth year students at
   Vilnius University Faculty of Physics, undertook professional internship
   and prepared term paper "Scaling of empirical compartmental
-  distributions". A related term paper was prepared during the autumn of
-  2021. The student was supervised by Aleksejus Kononovicius.
+  distributions". A related term paper was prepared during the autumn of 2021.
+  The student was supervised by Aleksejus Kononovicius.
 * During **the spring of 2020** Giedrius Pakalka, fourth year student at
   Vilnius University Faculty of Physics, wrote a bachelor thesis "The joint
   model of kinetic wealth exchange and investment". A related term paper was
