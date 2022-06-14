@@ -3,7 +3,7 @@ Date: 2022-06-14 08:00
 Author: Aleksejus Kononovicius
 Tags: video, IFISC, complex systems, opinion dynamics, voter model, Axelrod model, Granovetter model, statistical physics, Network models, Agent-based models, competition, epidemiology, students
 Slug: ifisc-complexity-in-social-systems
-Status: draft
+Status: published
 
 What physics has to do with the analysis of social systems? Well, society is
 a complex system after all, so we can approach it as we would any complex
