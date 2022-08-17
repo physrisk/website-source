@@ -51,7 +51,7 @@ with some caveats, for the economists.
 
 One of the more decent sources (see
 [here](https://nationaleconomicseditorial.com/2017/03/21/economic-nationalism/)
-though note that this source is far from being truly good -- it still promotes
+though note that this source is far from being truly good - it still promotes
 ideological agenda and suffers from typical logical errors)
 provides an interesting example using wool and sweaters. The example goes as
 follows:
@@ -103,7 +103,7 @@ No single individual can be self-sustaining and live in prosperity. We need
 other people to do what we can't do on our own. We need to delegate some
 functions to others and to return the favor we must take on some functions
 ourselves. We need to cooperate to live peacefully and to prosper.
-The same very logic applies at higher scale -- no nation can be self-sustaining
+The same very logic applies at higher scale - no nation can be self-sustaining
 and have high standard of living.
 
 ## Historical examples
@@ -171,7 +171,7 @@ living of the ordinary people, but helps to further enrich the local economic
 elite (increasing economic inequality). Furthermore in order for economic
 nationalism to work labor force must be
 allocated efficiently (so that nothing is wasted). This "efficiency" introduces
-additional fragility into the economy -- as soon as something fails, the
+additional fragility into the economy - as soon as something fails, the
 consequences are horrible.
 
 Conclusion? Economic nationalism is a lie, which hides behind vague

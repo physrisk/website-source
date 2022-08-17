@@ -21,7 +21,7 @@ some of the interesting intricacies.
 
 [youtube v="UV42LFnus4c"]
 
-In this video I especially liked one aspect -- open-minded non-experts
+In this video I especially liked one aspect - open-minded non-experts
 outperformed close-minded experts. The non-experts did a better job, because
 they more often incorporated evidence contradicting their prior beliefs, while
 the experts more often rejected such evidence.

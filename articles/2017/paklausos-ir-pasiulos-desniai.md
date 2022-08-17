@@ -61,10 +61,10 @@ are satisfied.
 ![equilibrium](/uploads/2017/09/supply-demand-equilibrium.png "Optimal point is at the intersection of the supply and demand curves.  Here P stands for price and Q for quantity.")
 
 **Note (written on 2017-12-19):** After revisiting the topic I have noticed a rather obvious
-thing -- why the laws are stated as curves? They should be stated as
+thing - why the laws are stated as curves? They should be stated as
 areas. Because you would buy the item if it costs as much as you imagine
 it is worth or cheaper (a point below the demand curve). Also you would
 be willing to sell item at some reasonable price or at larger price (a point
 above the supply curve). In case of supply law a reasonable explanation
-is competition -- you can not raise price too much as your competitors
+is competition - you can not raise price too much as your competitors
 would have chance to steal your customers.

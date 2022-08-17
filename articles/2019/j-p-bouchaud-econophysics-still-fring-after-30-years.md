@@ -1,4 +1,4 @@
-Title: J. P. Bouchaud: Econophysics -- still fringe after 30 years?
+Title: J. P. Bouchaud: Econophysics - still fringe after 30 years?
 Date: 2019-02-12 08:00
 Author: Aleksejus Kononovicius
 Tags: Economics, Agent-based models, financial markets, opinion dynamics, macroeconomics, J. P. Bouchaud
@@ -12,8 +12,8 @@ Status: published
 > muddled through along the same well-trodden path, developing monetary policy
 > tools based on the idea that agents are rational calculators with infinite
 > foresight, who optimize their "utility function" assuming others will do the
-> same. In 2003, Robert Lucas -- one of the dons of Rational Expectations and
-> Nobel Prize recipient in 1995 -- claimed that "the central problem of
+> same. In 2003, Robert Lucas - one of the dons of Rational Expectations and
+> Nobel Prize recipient in 1995 - claimed that "the central problem of
 > depression prevention had been solved". We know all too well what happened in
 > 2008. <...>
 

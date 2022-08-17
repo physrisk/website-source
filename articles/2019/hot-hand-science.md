@@ -12,7 +12,7 @@ term streaks do not exist. Their simply an illusion caused by the randomness
 involved.
 
 There is obviously skill in science. Yet numerous studies (e.g.
-[cite id="Sinatra2016Science"]) have concluded an interesting thing -- the
+[cite id="Sinatra2016Science"]) have concluded an interesting thing - the
 performance among scientists
 is mostly random. A scientist could produce his best work at any stage of his
 carrier. Yet the modern science financing schemes reward ones who produce their

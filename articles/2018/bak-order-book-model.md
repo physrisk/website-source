@@ -39,7 +39,7 @@ randomly between \\\( P\_t \\\) and \\\( (\Delta P -1) /2 \\\).
 In real markets such behavior is possible, but not reasonable as some stock
 exchanges may apply charges. It would be too costly to adjust the order's price
 often. Hence the model appears to be not plausible. But the model has its
-redeemable feature -- it reminds of certain physical system.
+redeemable feature - it reminds of certain physical system.
 
 Imagine a long tube. You inject two different types of particles from the sides
 of the tube. Inside the tube particles move randomly (diffuse) until they

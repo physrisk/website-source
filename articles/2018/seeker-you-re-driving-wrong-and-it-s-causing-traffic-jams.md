@@ -12,7 +12,7 @@ could amplify and cause traffic jams.
 
 Further research in this direction suggests that we could slightly modify
 cruise control present in the most modern cars to try prevent traffic jams.
-A small change would be needed -- cars just have to keep the same distance
+A small change would be needed - cars just have to keep the same distance
 from the car in front of them as well as from the car behind them. See this
 Seeker video for more details.
 

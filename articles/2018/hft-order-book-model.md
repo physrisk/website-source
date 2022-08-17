@@ -78,7 +78,7 @@ ought to be different for each agent, but without loss of generality we can set 
 to identical typical values for all agents. Note that \\\( \\Delta p \\\) changes
 discretely in time (each time transaction occurs its value is reset).
 
-Finally we have to define "transaction rule" -- how the quotes change after the
+Finally we have to define "transaction rule" - how the quotes change after the
 transaction occurs. Lets assume that transaction has occurred, because the following
 match was found:
 
@@ -132,7 +132,7 @@ around zero. This is just minor artifact of the algorithm we implemented in the 
 If \\\( {\\tilde c} \\approx 1 \\\), then trend following is marginal. In this case
 we observe interplay between the drift and diffusion terms of the HFTs. The price
 change PDF is exponential. While the auto-correlation function will fluctuate around
-zero. For some parameter sets it will favor negative side, for some -- positive side.
+zero. For some parameter sets it will favor negative side, for some - positive side.
 
 ![marginal trend following](/uploads/2018/hft-ob-marginal.png "Marginal trend following (default parameters).")
 

@@ -31,7 +31,7 @@ of the agreeing agents gets validated. This rule is a lot like ferromagnetic
 interaction in the [Ising model]({filename}/articles/2010/ising-model.md) and
 also similar to the copying (herding) interactions in the
 [voter model]({filename}/articles/2016/rinkejo-modelis.md). Actually it was
-shown that this model is equivalent to voter model with one caveat -- the
+shown that this model is equivalent to voter model with one caveat - the
 opinion spreads not through the immediate neighbors (\\\( i \\\) influencing
 \\\( i+1 \\\)), but through the second neighbors (\\\( i \\\) influencing
 \\\( i+2 \\\)). This rule also stands for the "united we stand" part in the

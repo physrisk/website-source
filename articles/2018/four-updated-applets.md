@@ -27,5 +27,5 @@ implementing vizualization of Mandelbrot and Julia sets, developed for
 Physics of Risk back in the 2006-2008 time period (find the repository
 [here](https://github.com/akononovicius/Mandelbrot-Julia-applet)).
 
-**edit:** A minor factual error -- only three applets were updated recently,
+**edit:** A minor factual error - only three applets were updated recently,
 the fourth one was updated long ago.

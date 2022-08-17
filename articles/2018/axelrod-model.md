@@ -6,7 +6,7 @@ Slug: axelrod-culture-dissemination-model
 Status: published
 Image_url: uploads/2017/12/axelrod-plural-fixed.png
 
-Here we will briefly present another classic agent-based model -- Axelrod's model [cite id="Axelrod1997"]. In his article Axelrod argues that culture is formed through social interactions, that it is "something people learn from each other". Hence he presents a model which describes competition between cultural traits via social interactions between the agents.<!--more-->
+Here we will briefly present another classic agent-based model - Axelrod's model [cite id="Axelrod1997"]. In his article Axelrod argues that culture is formed through social interactions, that it is "something people learn from each other". Hence he presents a model which describes competition between cultural traits via social interactions between the agents.<!--more-->
 
 ## Model specification
 
@@ -14,7 +14,7 @@ In this model agents are placed on a square grid. In general the agents could pl
 
 Each cell on the grid represents a single agent. The agents in this model do not move (they are "locked" to their cells). Each of the agents has a certain culture. Here culture is characterized by a set of features (such as language, religion or other cultural "dimensions"). Each feature may take on any value from a given set of alternatives. These alternative values are referred to as traits. For example, language feature could take on traits "English", "French" or "Lithuanian", religion feature could take on traits "Christian", "Atheist" or "Muslim". To keep the model simple it is assumed that the number of alternative traits is the same for each feature.
 
-In the interactive applet below you can choose to have from \\\( 1 \\\) to \\\( 3 \\\) features and from \\\( 2 \\\) to \\\( 25 \\\) traits per feature. These limits are imposed by the selected visualization technique, where cell's color represents agent's culture. In the applet the brightness of the red color indicates various traits associated with the first feature, brightness of green -- the second feature, brightness of blue -- the third feature. Simply put the culture in the applet below is RGB color coded.
+In the interactive applet below you can choose to have from \\\( 1 \\\) to \\\( 3 \\\) features and from \\\( 2 \\\) to \\\( 25 \\\) traits per feature. These limits are imposed by the selected visualization technique, where cell's color represents agent's culture. In the applet the brightness of the red color indicates various traits associated with the first feature, brightness of green - the second feature, brightness of blue - the third feature. Simply put the culture in the applet below is RGB color coded.
 
 After the initialization of the model the following steps are being continuously iterated:
 

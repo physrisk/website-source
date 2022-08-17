@@ -11,6 +11,6 @@ social insects. Experiments which inspired Kirman to formulate his agent-based
 model actually used ant colonies as their observation object (recall our first
 post on the [Kirman model]({filename}/articles/2010/kirman-ants.md)). Now it
 appears that scientists at [MIT](https://www.media.mit.edu/projects/ant-based-modeling/overview/)
-are doing the opposite -- using ants as a living agent-based model.
+are doing the opposite - using ants as a living agent-based model.
 
 [youtube v="L1eYgbe15YQ"]

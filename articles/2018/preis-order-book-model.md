@@ -106,7 +106,7 @@ In the original paper [cite id="Preis2010JPhysConf"] the model dynamics were
 discretized at periods of 1 MCS, which consists of \\\( 2 N\_a \\\) smallest
 model steps (during each of which one agent would be selected). As in such case
 even with reasonably small \\\( N\_a \\\) model would take considerable time to
-evaluate, we have picked a smaller time step for our simulation -- and defined
+evaluate, we have picked a smaller time step for our simulation - and defined
 our simulation time step as \\\( 0.2 N\_a \\\).
 
 Here we [once again]({filename}/articles/2018/cristelli-order-book-model.md)
