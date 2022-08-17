@@ -20,7 +20,7 @@ spots for the birds to land on). Empty spots are shown in grass green (to
 imitate the field) or red (if the spot was recently vacated), while spots
 taken are shown in dark gray (most "crow-like" color).
 
-As in the [previous app]({filename}/articles/2022/bird-on-wire.md) we also
+As in the [previous app]({filename}/articles/2022/birds-on-wire.md) we also
 plot the time evolution of the fraction (density) of birds on the field.
 
 In this particular app we have assumed circular neighborhood around the
