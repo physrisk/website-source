@@ -147,7 +147,7 @@ while for the remaining segments, \\\(  \nu = N\_s +1, \ldots, 2N\_s \\\), same 
 \end{equation}
 
 
-![image](/uploads/2011/10/f2ns.png "Step 4: \\\( F_ν^2(100) \\\) for the selected segments. Profile
+![image](/uploads/2011/10/f2ns.png "Step 4: \\\( F\_ν^2(100) \\\) for the selected segments. Profile
 and its splits remain the same as in Fig.
 2."){#attachment_1974} 
 
@@ -222,7 +222,7 @@ difference in scaling of \\\(  F\_q(s) \\\) ([Fig. 5](#attachment_1993)
 ![image](/uploads/2011/10/gen-hurst-spectra-multi.png "Multifractal features of Agent-based herding model of
 financial markets: deviations from trends estimated for different
 segment sizes (a) and generalized exponent spectrum (b). Model
-parameters: \\\( \varepsilon_1=\varepsilon_2=1 \\\), \\\( \Delta t=0.001 \\\),
+parameters: \\\( \varepsilon\_1=\varepsilon\_2=1 \\\), \\\( \Delta t=0.001 \\\),
 \\\( \tau(y)=1/y \\\)."){#attachment_1993} 
 
 Additional information visible in generalized exponent spectrum
@@ -333,7 +333,7 @@ exponents, while Wiener process has very thin spectrum.
 ![image](/uploads/2011/10/holder-spectra.png "Singularity spectrum: standard Wiener process (red
 curve) and Agent-based herding model of financial markets (blue curve).
 Parameters of Agent-based herding model of financial markets were set as
-follows: \\\( \varepsilon_1=\varepsilon_2=1 \\\), \\\( \Delta t=0.001 \\\),
+follows: \\\( \varepsilon\_1=\varepsilon\_2=1 \\\), \\\( \Delta t=0.001 \\\),
 \\\( \tau(y)=1/y \\\)."){#attachment_1994} 
 
 In scientific literature singularity spectrum is also frequently called

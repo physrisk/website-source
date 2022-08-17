@@ -16,7 +16,7 @@ In this installment (a third part) of the series, we discuss another classical, 
 
 ## Cobweb model
 
-Let us assume that we are producers of lettuce, a product which is almost always in constant demand, first year we decide to grow some patches and see what happens. We must make some guesses as we do not know the demand law. So for the first time we produce \\\( Q_0 \\\) units of lettuce. As we sell them, we notice that the demand for the lettuce is higher, thus we will increase the price, \\\( P_0 \\\), until the demand is roughly equal to our supply. Next year, being smart and self-interested farmers we will consider our previous experience and plant significantly more lettuce. We will pick the new quantity, \\\( Q_1 \\\), based on our production intent (supply law) and the price previous year, \\\( Q_1 = Q_s(P_0) \\\). Yet we will most likely over-produce, hence we will have to sell our lettuce at a lower price \\\( P_1 \\\). But the next year we will be even smarter and more knowledgeable -- \\\( Q_2 = Q_s(P_1) \\\). And so on, until at some point we will arrive near the equilibrium point.
+Let us assume that we are producers of lettuce, a product which is almost always in constant demand, first year we decide to grow some patches and see what happens. We must make some guesses as we do not know the demand law. So for the first time we produce \\\( Q\_0 \\\) units of lettuce. As we sell them, we notice that the demand for the lettuce is higher, thus we will increase the price, \\\( P\_0 \\\), until the demand is roughly equal to our supply. Next year, being smart and self-interested farmers we will consider our previous experience and plant significantly more lettuce. We will pick the new quantity, \\\( Q\_1 \\\), based on our production intent (supply law) and the price previous year, \\\( Q\_1 = Q\_s(P\_0) \\\). Yet we will most likely over-produce, hence we will have to sell our lettuce at a lower price \\\( P\_1 \\\). But the next year we will be even smarter and more knowledgeable -- \\\( Q\_2 = Q\_s(P_1) \\\). And so on, until at some point we will arrive near the equilibrium point.
 
 This logic, also known as cobweb model, can be nicely visualized using cobweb plot, which you should see in the interactive applet below. Here the gray curve marks the trajectory of price and quantity.
 
@@ -26,14 +26,14 @@ height="460" mode="iframe"]
 
 This interactive applet has three parameters:
 
-* \\\( Q_0 \\\) is self-explanatory -- it is the initial quantity produced.
-* \\\( \alpha_s \\\) is inclination of the known supply law (elasticity of supply). The supply law (green curve) in this applet is given by \\\( Q_s(P) = \alpha_s (P-100)+310 \\\).
-* \\\( \alpha_d \\\) is inclination of the unknown demand law (elasticity of demand). The demand law (blue-ish curve) in this applet is given by \\\( Q_d(P) = -\alpha_d (P-100)+310 \\\).
+* \\\( Q\_0 \\\) is self-explanatory -- it is the initial quantity produced.
+* \\\( \alpha\_s \\\) is inclination of the known supply law (elasticity of supply). The supply law (green curve) in this applet is given by \\\( Q\_s(P) = \alpha\_s (P-100)+310 \\\).
+* \\\( \alpha\_d \\\) is inclination of the unknown demand law (elasticity of demand). The demand law (blue-ish curve) in this applet is given by \\\( Q\_d(P) = -\alpha\_d (P-100)+310 \\\).
 
 Note that:
 
-* if \\\( \alpha_s < \alpha_d \\\), then the trajectory diverges,
-* if \\\( \alpha_s = \alpha_d \\\), then a cycle is observed,
-* while if \\\( \alpha_s > \alpha_d \\\), then the trajectory will eventually converge.
+* if \\\( \alpha\_s < \alpha\_d \\\), then the trajectory diverges,
+* if \\\( \alpha\_s = \alpha\_d \\\), then a cycle is observed,
+* while if \\\( \alpha\_s > \alpha\_d \\\), then the trajectory will eventually converge.
 
-The divergence paradox is considered in multiple empirical works, which conduct social experiments or polls and show that \\\( \alpha_s < \alpha_d \\\) never occurs in practice.
+The divergence paradox is considered in multiple empirical works, which conduct social experiments or polls and show that \\\( \alpha\_s < \alpha\_d \\\) never occurs in practice.

@@ -31,11 +31,11 @@ discourage switching away from the current state. Though let this support
 counter only recruitment by the agents with different opinions:
 
 \begin{equation}
-    \lambda^{+} \left(X\right)=\left(N-X\right)\left(\sigma_{1}+\left[\frac{h}{N^{\alpha}}X-\frac{q}{N^{\beta}}\left(N-X\right)\right]_{+}\right),
+    \lambda^{+} \left(X\right)=\left(N-X\right)\left(\sigma\_{1}+\left[\frac{h}{N^{\alpha}}X-\frac{q}{N^{\beta}}\left(N-X\right)\right]\_{+}\right),
 \end{equation}
 
 \begin{equation}
-    \lambda^{-} \left(X\right)=X\left(\sigma_{0}+\left[\frac{h}{N^{\alpha}}\left(N-X\right)-\frac{q}{N^{\beta}}X\right]_{+}\right).
+    \lambda^{-} \left(X\right)=X\left(\sigma\_{0}+\left[\frac{h}{N^{\alpha}}\left(N-X\right)-\frac{q}{N^{\beta}}X\right]\_{+}\right).
 \end{equation}
 
 These are similar to the transition rates seen in the
@@ -69,45 +69,45 @@ points are the roots of the special brackets:
 All of the fixed points (four of them) can be categorized in relation to the
 roots of the special brackets. Fixed point of the first type is observed in
 the region where both special brackets evaluate to zero,
-\\\( x^{-} &lt; x_{s,1} &lt; x^{+} \\\). In this region dynamics is dominated by
+\\\( x^{-} < x\_{s,1} < x^{+} \\\). In this region dynamics is dominated by
 independent behavior. The stationary point in this case will be found at:
 
 \begin{equation}
-    x_{s,1} = \frac{\sigma\_1}{\sigma\_0 + \sigma\_1} .
+    x\_{s,1} = \frac{\sigma\_1}{\sigma\_0 + \sigma\_1} .
 \end{equation}
 
 Fixed points of the second and third types are found whenever only one the
 special brackets evaluates to zero. Fixed point of the second type will be
-observed if \\\( x_{s,2}^{\pm} &lt; x^{+} \\\) and \\\( x_{s,2}^{\pm} &lt; x^{-} \\\).
+observed if \\\( x\_{s,2}^{\pm} < x^{+} \\\) and \\\( x\_{s,2}^{\pm} < x^{-} \\\).
 While fixed point of the third type will be observed if 
-\\\( x_{s,3}^{\pm} &gt; x^{+} \\\) and \\\( x_{s,3}^{\pm} &gt; x^{-} \\\). In these
+\\\( x\_{s,3}^{\pm} > x^{+} \\\) and \\\( x\_{s,3}^{\pm} > x^{-} \\\). In these
 cases only one of the states is being protected by the supportive
 interactions. Stationary points will be found at:
 
 \begin{equation}
-    x_{s,2}^{\pm} =\frac{A\pm\sqrt{A^{2}-2B\sigma_{1}}}{B},
+    x\_{s,2}^{\pm} =\frac{A\pm\sqrt{A^{2}-2B\sigma\_{1}}}{B},
 \end{equation}
 
 \begin{equation}
-    x_{s,3}^{\pm} =\frac{A+2\left(N^{1-\beta}q-\sigma_{0}-\sigma_{1}\right)\pm\sqrt{A^{2}-2B\sigma_{0}}}{B}.
+    x\_{s,3}^{\pm} =\frac{A+2\left(N^{1-\beta}q-\sigma\_{0}-\sigma\_{1}\right)\pm\sqrt{A^{2}-2B\sigma\_{0}}}{B}.
 \end{equation}
 
 In the above we have we have introduced convenient shorthands for the
 commonly repeated expressions: 
 
 \begin{equation}
-    A=N^{1-\alpha}h+\sigma_{0}+\sigma_{1},\quad B=2N\left(N^{-\alpha}h+N^{-\beta}q\right).
+    A=N^{1-\alpha}h+\sigma\_{0}+\sigma\_{1},\quad B=2N\left(N^{-\alpha}h+N^{-\beta}q\right).
 \end{equation}
 
 Fixed point of the fourth type will be observed if for some \\\( x \\\) both
 of the special brackets evaluate to a positive number,
-\\\( x^{+} &lt; x_{s,4} &lt; x^{-} \\\). This implies that we can't observe fixed
+\\\( x^{+} < x\_{s,4} < x^{-} \\\). This implies that we can't observe fixed
 points of the first and fourth types at the same time. Though we can observe
 fixed points of the second or third type together with either of them.
 Stationary point can be observed at:
 
 \begin{equation}
-    x_{s,4}=\frac{Nq-N^{\beta}\sigma_{1}}{2Nq-N^{\beta}\left(\sigma_{0}+\sigma_{1}\right)}.
+    x\_{s,4}=\frac{Nq-N^{\beta}\sigma\_{1}}{2Nq-N^{\beta}\left(\sigma\_{0}+\sigma\_{1}\right)}.
 \end{equation}
 
 Determining critical values of \\\( q \\\) at which the phase transition

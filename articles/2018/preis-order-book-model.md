@@ -31,10 +31,10 @@ the model to allow for its true dynamics to emerge.
 in the model is defined as an average between the best bids:
 
 \begin{equation}
-p(t) = \frac{a_0(t) + b_0(t)}{2} ,
+p(t) = \frac{a\_0(t) + b\_0(t)}{2} ,
 \end{equation} 
 
-here \\\( a_0(t) \\\) and \\\( b_0(t) \\\) are best ask and bid quotes at a
+here \\\( a\_0(t) \\\) and \\\( b\_0(t) \\\) are best ask and bid quotes at a
 given time \\\( t \\\). As in
 [the previous post]({filename}/articles/2018/cristelli-order-book-model.md) we took
 liberty to define the price, in case of any side of the order book would be emptied,
@@ -56,8 +56,8 @@ difference our implementation should produce the same results as the original
 model.
 
 In this model we have two types of agents: liquidity providers and liquidity
-takers. There are \\\( N_a \\\) agents of each of these types (hence in total
-there are \\\( 2 N_a \\\) agents). Liquidity providers provide liquidity by
+takers. There are \\\( N\_a \\\) agents of each of these types (hence in total
+there are \\\( 2 N\_a \\\) agents). Liquidity providers provide liquidity by
 submitting limit orders at rate \\\( \alpha \\\). While liquidity takers
 consume the liquidity by submitting market orders with rate \\\( \mu \\\).
 
@@ -75,8 +75,8 @@ parts of the paper hint at the third interpretation, others at the first.
 
 Agents of both types decide to buy or sell depending on their respective
 probabilities. Liquidity provider will submit a buy limit order with probability
-\\\( q_{provider} \\\) and liquidity taker will submit a buy market order with
-probability \\\( q_{taker} \\\).
+\\\( q\_{provider} \\\) and liquidity taker will submit a buy market order with
+probability \\\( q\_{taker} \\\).
 
 All that is left to define is how the liquidity providers decide on their
 quotes. In [the previous post]({filename}/articles/2018/cristelli-order-book-model.md)
@@ -86,28 +86,28 @@ are drawn from uniform distribution bound of which depend on exponential random
 variable, \\\( \eta \\\):
 
 \begin{equation}
-\eta = \lfloor - \lambda_0 \ln u \rfloor ,
+\eta = \lfloor - \lambda\_0 \ln u \rfloor ,
 \end{equation}
 
 here \\\( u \\\) is a random variable drawn from \\\( \mathcal{U}(0,1) \\\).
 The new limit ask quotes are drawn from uniform distribution with bounds:
 
 \begin{equation}
-[ b_0(t)+1 , b_0(t) + \eta +1 ] .
+[ b\_0(t)+1 , b\_0(t) + \eta +1 ] .
 \end{equation}
 
 The new limit bid quotes are drawn from uniform distribution with bounds:
 
 \begin{equation}
-[ a_0(t) - \eta -1 , a(t)-1 ] .
+[ a\_0(t) - \eta -1 , a(t)-1 ] .
 \end{equation}
 
 In the original paper [cite id="Preis2010JPhysConf"] the model dynamics were
-discretized at periods of 1 MCS, which consists of \\\( 2 N_a \\\) smallest
+discretized at periods of 1 MCS, which consists of \\\( 2 N\_a \\\) smallest
 model steps (during each of which one agent would be selected). As in such case
-even with reasonably small \\\( N_a \\\) model would take considerable time to
+even with reasonably small \\\( N\_a \\\) model would take considerable time to
 evaluate, we have picked a smaller time step for our simulation -- and defined
-our simulation time step as \\\( 0.2 N_a \\\).
+our simulation time step as \\\( 0.2 N\_a \\\).
 
 Here we [once again]({filename}/articles/2018/cristelli-order-book-model.md)
 use price change in price ticks instead of return. Price change in measured

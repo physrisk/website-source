@@ -36,15 +36,15 @@ probability to get a comment with an answer 5 depends on the current number of
 comments with an answer 5:
 
 \begin{equation}
-p ( X_5 \rightarrow X_5+1 ) = \frac{\varepsilon + X_5}{2 \varepsilon + X_5 + X_o}.
+p ( X\_5 \rightarrow X\_5+1 ) = \frac{\varepsilon + X\_5}{2 \varepsilon + X\_5 + X\_o}.
 \end{equation}
 
-Note that the equation above also includes \\\( X_o \\\) which represent the
+Note that the equation above also includes \\\( X\_o \\\) which represent the
 number of other comments. Hence we have to define the probability for an increase
-in \\\( X_o \\\):
+in \\\( X\_o \\\):
 
 \begin{equation}
-p ( X_o \rightarrow X_o+1 ) = \frac{\varepsilon + X_o}{2 \varepsilon + X_5 + X_o}.
+p ( X\_o \rightarrow X\_o+1 ) = \frac{\varepsilon + X\_o}{2 \varepsilon + X\_5 + X\_o}.
 \end{equation}
 
 ![Simple herding model](/uploads/2018/fb-comm-simple-herd.png "The goodness
@@ -63,13 +63,13 @@ Lets build another simple herding model, but now let the probabilities to be
 proportional to the respective fractions of comments:
 
 \begin{equation}
-p ( X_5 \rightarrow X_5+1 ) = \frac{\varepsilon + \frac{X_5}{N}}{2 \varepsilon +
-\frac{X_5 + X_o}{N}},
+p ( X\_5 \rightarrow X\_5+1 ) = \frac{\varepsilon + \frac{X\_5}{N}}{2 \varepsilon +
+\frac{X\_5 + X\_o}{N}},
 \end{equation}
 
 \begin{equation}
-p ( X_o \rightarrow X_o+1 ) = \frac{\varepsilon + \frac{X_o}{N}}{2 \varepsilon +
-\frac{X_5 + X_o}{N}}.
+p ( X\_o \rightarrow X\_o+1 ) = \frac{\varepsilon + \frac{X\_o}{N}}{2 \varepsilon +
+\frac{X\_5 + X\_o}{N}}.
 \end{equation}
 
 Because of this form of the transition probabilities I will refer to this model

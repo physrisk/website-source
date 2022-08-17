@@ -117,10 +117,10 @@ in one direction (same as the direction of magnetic field).
 
 ![image](/uploads/2010/12/magnetic-field-temperature-ising-phases.png "h-1/T phase diagram: in the red and blue areas one spin
 direction dominates (s=1 (red) or s=-1 (blue)) due to the external
-magnetic field, paramagnetism is observed near \\\( h=0 \\\) and \\\( T > T_c \\\)
-(magenta area), feromagnetism is observed near \\\( h=0 \\\) and \\\( T < T_c \\\) (area
+magnetic field, paramagnetism is observed near \\\( h=0 \\\) and \\\( T > T\_c \\\)
+(magenta area), feromagnetism is observed near \\\( h=0 \\\) and \\\( T < T\_c \\\) (area
 colored in red-blue stripes). Critical behavior area around h=0 and
-\\\( T=T_c \\\) (green
+\\\( T=T\_c \\\) (green
 area)."){#attachment_1010} 
 
 HTML5 Applet

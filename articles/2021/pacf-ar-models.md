@@ -69,7 +69,7 @@ notification about stationarity may change. The process ought to be
 stationary if:
 
 \begin{equation}
-    \sum_i \alpha_i < 1 \quad \text{and} \quad \max( |\alpha_i| ) < 1 .
+    \sum\_i \alpha\_i < 1 \quad \text{and} \quad \max( |\alpha\_i| ) < 1 .
 \end{equation}
 
 Note that the further your parameter set is from the boundary between

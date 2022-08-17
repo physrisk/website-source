@@ -24,11 +24,11 @@ discourage switching away from the current state. First we will assume that
 this support discourages both independent and imitative transitions:
 
 \begin{equation}
-    \lambda^{+} \left(X\right)=\left(N-X\right)\left[\sigma_{1}+\frac{h}{N^{\alpha}}X-\frac{q}{N^{\beta}}\left(N-X\right)\right]_{+},
+    \lambda^{+} \left(X\right)=\left(N-X\right)\left[\sigma\_{1}+\frac{h}{N^{\alpha}}X-\frac{q}{N^{\beta}}\left(N-X\right)\right]\_{+},
 \end{equation}
 
 \begin{equation}
-    \lambda^{-} \left(X\right)=X\left[\sigma_{0}+\frac{h}{N^{\alpha}}\left(N-X\right)-\frac{q}{N^{\beta}}X\right]_{+}.
+    \lambda^{-} \left(X\right)=X\left[\sigma\_{0}+\frac{h}{N^{\alpha}}\left(N-X\right)-\frac{q}{N^{\beta}}X\right]\_{+}.
 \end{equation}
 
 These are mostly the usual transition rates of the noisy voter model with
@@ -50,7 +50,7 @@ These rates make sense only if they are non-negative, so we have to assign
 the square brackets a special meaning:
 
 \begin{equation}
-    \left[z\right]_{+}=\max\left(z,0\right).
+    \left[z\right]\_{+}=\max\left(z,0\right).
 \end{equation}
 
 Purely from examining the transition rates it is clear that the model will
@@ -70,14 +70,14 @@ quickly pushed towards consensus surrounding the more "attractive" state
 would become negative, if not for the brackets. This phase is characterized
 by three stationary points, with the two consensuses being stable and the
 intermediate state being unstable. This phase is observed if
-\\\( q < N^{\beta-\alpha-1} \left(N h+N^{\alpha}\left(\sigma_{0}+
-\sigma_{1}\right)\right) \\\).
+\\\( q < N^{\beta-\alpha-1} \left(N h+N^{\alpha}\left(\sigma\_{0}+
+\sigma\_{1}\right)\right) \\\).
 * In the <span style="color: #0044ee">fourth phase</span> for certain values
 of \\\( X \\\) both of the transition rates would be negative, if not for the
 brackets. If you start at such \\\( X \\\), then the system would remain at
 \\\( X \\\). This phase is observed if
-\\\( q \geq N^{\beta-\alpha-1} \left(N h+N^{\alpha}\left(\sigma_{0}+
-\sigma_{1}\right)\right) \\\).
+\\\( q \geq N^{\beta-\alpha-1} \left(N h+N^{\alpha}\left(\sigma\_{0}+
+\sigma\_{1}\right)\right) \\\).
 
 An example of a bifurcation diagram of the model, with all 4 phases
 visible, is given below. While bifurcation diagram retains its qualitative

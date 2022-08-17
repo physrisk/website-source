@@ -23,16 +23,16 @@ be described by a typical [voter model](/tag/voter-model) transition
 probabilities:
 
 \begin{equation}
-p^{(i)}\_{1 \rightarrow 0} = h \left[ \varepsilon_0 + \frac{X\_0}{N} \right] ,
+p^{(i)}\_{1 \rightarrow 0} = h \left[ \varepsilon\_0 + \frac{X\_0}{N} \right] ,
 \end{equation}
 
 \begin{equation}
-p^{(i)}\_{0 \rightarrow 1} = h \left[ \varepsilon_1 + \frac{X\_1}{N} \right] =
-    h \left[ \varepsilon_1 + \left( 1 - \frac{X\_0}{N} \right) \right] .
+p^{(i)}\_{0 \rightarrow 1} = h \left[ \varepsilon\_1 + \frac{X\_1}{N} \right] =
+    h \left[ \varepsilon\_1 + \left( 1 - \frac{X\_0}{N} \right) \right] .
 \end{equation}
 
 In the above \\\( h \\\) sets the timescale on which the changes of states
-occur, while \\\( \varepsilon_i \\\) control independence of changes.
+occur, while \\\( \varepsilon\_i \\\) control independence of changes.
 
 Via numerical analysis of the model with
 \\\( \varepsilon\_0 = \varepsilon\_1 = \varepsilon \\\), we have found that it

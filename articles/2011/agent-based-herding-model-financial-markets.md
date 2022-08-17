@@ -315,7 +315,7 @@ in \[cite id="Kononovicius2012PhysA"\]).
 ![image](/uploads/2011/06/kirmanour.png "Numerically calculated PDF (a) and power spectral
 density (b) in three distinct cases, \\\( \alpha =0 \\\) (red squares), \\\( \alpha=1 \\\) (blue
 circles) and \\\( \alpha=2 \\\) (magenta triangles), of considered stochastic model,
-Eq. (6). Other model parameters were set as follows: \\\( \varepsilon_1=0 \\\), \\\( \varepsilon_2 =2-\alpha \\\).
+Eq. (6). Other model parameters were set as follows: \\\( \varepsilon\_1=0 \\\), \\\( \varepsilon\_2 =2-\alpha \\\).
 Solid curves are inverse power law fits: (a) \\\( \lambda=3 \\\) (all three cases), (b)
 \\\( \beta = 1 \\\) (all three cases)."){#attachment_1776} 
 
@@ -380,7 +380,7 @@ defined by Eq. \eqref{lany}.
 density (b) of considered stochastic model, Eq. (6), with linearized
 drift function in three distinct cases, \\\( \alpha=0 \\\) (red squares), \\\( \alpha=1 \\\) (blue
 circles) and \\\( \alpha=2 \\\) (magenta triangles). Other model parameters were set as
-follows: \\\( \varepsilon_1 = \varepsilon_2 =2 \\\). Solid curves provide inverse power law fits for
+follows: \\\( \varepsilon\_1 = \varepsilon\_2 =2 \\\). Solid curves provide inverse power law fits for
 modelic data: (a) \\\( \lambda=3 \\\) (red squares), \\\( \lambda=4 \\\) (blue circles), \\\( \lambda=5 \\\) (magenta
 triangles), (b) \\\( \beta=1 \\\) (red squares), \\\( \beta=1.5 \\\) (blue circles), \\\( \beta=1.66 \\\) (magenta
 triangles)."){#attachment_1777} 

@@ -34,8 +34,8 @@ In context of this post we are more interested not in \\\( x(t) \\\), but in
 MSD, which we define as follows:
 
 \begin{equation}
-    MSD(\Delta t) = \frac{1}{N (T-\Delta t)} \sum_{i=1}^N
-        \int_{\Delta t}^T \left( x_i(s) - x_i(s-\Delta t) \right)^2
+    MSD(\Delta t) = \frac{1}{N (T-\Delta t)} \sum\_{i=1}^N
+        \int\_{\Delta t}^T \left( x\_i(s) - x\_i(s-\Delta t) \right)^2
             \mathrm{d} s .
 \end{equation}
 

@@ -38,7 +38,7 @@ infected will recover and develop immunity.
 The disease is caught at the rate:
 
 \begin{equation}
-\lambda_{si} = \beta \cdot \frac{S \cdot I}{N} .
+\lambda\_{si} = \beta \cdot \frac{S \cdot I}{N} .
 \end{equation}
 
 Note that this rate is identical to the imitation rate present in variety of
@@ -51,7 +51,7 @@ The recovery is assumed to happen at a constant rate (similarly to radioactive
 decay in physics):
 
 \begin{equation}
-\lambda_{ir} = \gamma \cdot I .
+\lambda\_{ir} = \gamma \cdot I .
 \end{equation}
 
 For a reasonably large \\\( N \\\) we can approximate this model by a set of
@@ -78,23 +78,23 @@ To have an outbreak we need to have positive
 \\\( \gamma > 0 \\\) we can rearrange:
 
 \begin{equation}
-\frac{\mathrm{d} I}{\mathrm{d}t} = \gamma \cdot I \left[ R_0 \cdot \frac{S}{N} - 1 \right] .
+\frac{\mathrm{d} I}{\mathrm{d}t} = \gamma \cdot I \left[ R\_0 \cdot \frac{S}{N} - 1 \right] .
 \end{equation}
 
-In the above \\\( R_0 \\\) is the basic reproduction number. If the brackets in
+In the above \\\( R\_0 \\\) is the basic reproduction number. If the brackets in
 the expression above are positive at \\\( t=0 \\\), or alternatively if
 
 \begin{equation}
-R_0 > \frac{N}{S(0)} \approx 1 ,
+R\_0 > \frac{N}{S(0)} \approx 1 ,
 \end{equation}
 
 then the epidemic will happen.
 
 ## The effect of quarantine
 
-Quarantine effectively multiplies \\\( R_0 \\\) by some number, which will be
+Quarantine effectively multiplies \\\( R\_0 \\\) by some number, which will be
 less than one as social contacts are being limited instead of being encouraged,
-thus \\\( R_0 \\\) will decrease. The actual impact of quarantine depends on
+thus \\\( R\_0 \\\) will decrease. The actual impact of quarantine depends on
 that number.
 
 Another important factor - time when the quarantine will be applied. Spoiler:

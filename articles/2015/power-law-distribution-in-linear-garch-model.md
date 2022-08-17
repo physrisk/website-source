@@ -65,7 +65,7 @@ of its time series
 (b).](/uploads/2015/02/garch11.png "
 Stationary probability density function of y (a) and spectral
 density of its time series (b). The following parameters were used:
-\\\( a_1=0.015 \\\), \\\( b_1=0.1 \\\), \\\( c_1=0.89 \\\) (red squares), \\\( 0.88 \\\) (blue circles), \\\( 0.87 \\\) (magenta triangles)."){#attachment_2766} 
+\\\( a\_1=0.015 \\\), \\\( b\_1=0.1 \\\), \\\( c\_1=0.89 \\\) (red squares), \\\( 0.88 \\\) (blue circles), \\\( 0.87 \\\) (magenta triangles)."){#attachment_2766} 
 
 This is confirmed by our numerous papers \[cite
 id="Kaulakys2004PhysRevE,Kaulakys2006PhysA,Kaulakys2009JStatMech"\], in

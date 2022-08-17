@@ -32,21 +32,21 @@ Now let us assume that we have a market with 100 consumers and 2 suppliers. Thos
 
 Hence if both suppliers are selling at high price, then their profits will be:
 \begin{equation}
-P_{HH} = 50 \times 5 - 100 \times 0.5 = 200 .
+P\_{HH} = 50 \times 5 - 100 \times 0.5 = 200 .
 \end{equation}
 
 If one is selling at low price and the other at high price, then their profits will be:
 \begin{equation}
-P_{L}= 100 \times 3 - 100 \times 0.5 = 250
+P\_{L}= 100 \times 3 - 100 \times 0.5 = 250
 \end{equation}
 and
 \begin{equation}
-P_{H}= - 100 \times 0.5 = -50 .
+P\_{H}= - 100 \times 0.5 = -50 .
 \end{equation}
 
 If both are selling at low price, then their profits will be:
 \begin{equation}
-P_{LL} = 50 \times 3 - 100 \times 0.5 = 100 .
+P\_{LL} = 50 \times 3 - 100 \times 0.5 = 100 .
 \end{equation}
 
 We can formulate this situation as a game known as [prisoner's dilemma](/tag/prisoners-dilemma/). See figure below for the payoff matrix of the game.

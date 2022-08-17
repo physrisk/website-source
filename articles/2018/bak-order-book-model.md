@@ -33,8 +33,8 @@ probability \\\( \frac{1+D}{2} \\\), or one unit away from the spread,
 with probability \\\( \frac{1-D}{2} \\\). If ask order meets bid order (or vice
 versa), both orders are anihilated and new current price is set. Afterwards the
 agents resubmit their orders - bid order price is picked randomly between
-\\\( - (\Delta P-1) /2 \\\) and \\\( P_t \\\), ask order price is picked
-randomly between \\\( P_t \\\) and \\\( (\Delta P -1) /2 \\\).
+\\\( - (\Delta P-1) /2 \\\) and \\\( P\_t \\\), ask order price is picked
+randomly between \\\( P\_t \\\) and \\\( (\Delta P -1) /2 \\\).
 
 In real markets such behavior is possible, but not reasonable as some stock
 exchanges may apply charges. It would be too costly to adjust the order's price

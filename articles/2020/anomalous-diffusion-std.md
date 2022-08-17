@@ -31,18 +31,18 @@ same units as data, so its interpretation comes a bit more naturally.
 Therefore I'll be using \\\( \sigma\_t \\\) parametrized as follows:
 
 \begin{equation}
-    \sigma_t = \sqrt{\frac{1}{N-1} \sum_{i=1}^N ( x^{(i)}_t - \mu_t )^2} .
+    \sigma\_t = \sqrt{\frac{1}{N-1} \sum\_{i=1}^N ( x^{(i)}\_t - \mu\_t )^2} .
 \end{equation}
 
 In the above \\\( x^{(i)}\_t \\\) is a value of \\\( i \\\)-th trajectory at
-time \\\( t \\\) and \\\( \mu_t \\\) ensemble average at time \\\( t \\\).
+time \\\( t \\\) and \\\( \mu\_t \\\) ensemble average at time \\\( t \\\).
 
 ## Brownian walk
 
 For Brownian walk we will often observe that:
 
 \begin{equation}
-    \sigma_t \sim t^{0.5} .
+    \sigma\_t \sim t^{0.5} .
 \end{equation}
 
 Note that the exponent is exactly half of what we get using MSD. This is
@@ -57,7 +57,7 @@ src="/uploads/models/diffusion/brown-std.html" width="520" height="240"]
 For Levy's walk we would expect to observe:
 
 \begin{equation}
-    \sigma_t \sim t^{\alpha} .
+    \sigma\_t \sim t^{\alpha} .
 \end{equation}
 
 Usually we will observe super-diffusive regime \\\( 0.5 < \alpha < 1 \\\) or

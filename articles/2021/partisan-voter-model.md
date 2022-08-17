@@ -50,13 +50,13 @@ In the mean-field limit one can easily derive a set of ODEs, which
 approximate dynamics of the agent-based model:
 
 \begin{equation}
-    \partial_t b\_d = - 2 \varepsilon b\_c b\_d + \left( 1 - \varepsilon
-        \right) b_c r_c - \left( 1 + \varepsilon \right) b_d r_d ,
+    \partial\_t b\_d = - 2 \varepsilon b\_c b\_d + \left( 1 - \varepsilon
+        \right) b\_c r\_c - \left( 1 + \varepsilon \right) b\_d r\_d ,
 \end{equation}
 
 \begin{equation}
-    \partial_t b\_c = 2 \varepsilon b\_c b\_d - \left( 1 - \varepsilon
-        \right) b_c r_c + \left( 1 + \varepsilon \right) b_d r_d .
+    \partial\_t b\_c = 2 \varepsilon b\_c b\_d - \left( 1 - \varepsilon
+        \right) b\_c r\_c + \left( 1 + \varepsilon \right) b\_d r\_d .
 \end{equation}
 
 In the above \\\( b\_c \\) and \\\( b\_d \\\) stand for blue "concordant"

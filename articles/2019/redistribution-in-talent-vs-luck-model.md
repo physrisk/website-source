@@ -57,7 +57,7 @@ While it is very tempting, but one should refrain from directly comparing flat
 and progressive taxes. While the effect they have seems to be similar, the
 meaning of \\\( R \\\) is different in the two cases.
 
-All strategies are applied each \\\( F_r \\\) years.
+All strategies are applied each \\\( F\_r \\\) years.
 
 ## HTML 5 app
 

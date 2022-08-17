@@ -108,7 +108,7 @@ fluctuations occur depends on the ratio of \\\(  \sigma\_1 \\\) and
 \\\(  \sigma\_2 \\\).
 
 ![image](/uploads/2010/04/00.02.en_.png "Weak herding behavior (\\\( h=0.02 \\\),
-\\\( \sigma_1 = \sigma_2 =1 \\\))."){#attachment_547} 
+\\\( \sigma\_1 = \sigma\_2 =1 \\\))."){#attachment_547} 
 
 In other extreme case, \\\(  \sigma\_1 \approx \sigma\_2 \ll h  \\\),
 system behaves differently - most of ants at any given point of time use
@@ -121,7 +121,7 @@ states at \\\(  x=0 \\\) or \\\(  x=N \\\) - there will be no further
 fluctuations.
 
 ![image](/uploads/2010/04/50.00.en_.png "Strong herding behavior (\\\( h=50 \\\),
-\\\( \sigma_1 = \sigma_2 =1 \\\))."){#attachment_546} 
+\\\( \sigma\_1 = \sigma\_2 =1 \\\))."){#attachment_546} 
 
 Dynamics in the extreme cases illustrate mostly single one mechanism
 behind the model, thus most interesting behavior can be observed in
@@ -132,7 +132,7 @@ of observing each system state are very similar (see [Fig
 3](#attachment_548).).
 
 ![image](/uploads/2010/04/01.00.en_.png "Balanced behavior case (\\\( h=1 \\\),
-\\\( \sigma_1 = \sigma_2 =1\\\))."){#attachment_548} 
+\\\( \sigma\_1 = \sigma\_2 =1\\\))."){#attachment_548} 
 
 In all previous examples behavior of the system is symmetrical - neither
 food source is preffered, \\\(  \sigma\_1 \approx \sigma\_2 \\\). But
@@ -143,7 +143,7 @@ which is exploited by \\\(  x \\\) ants, becomes preferred and is used
 more frequently than the other one (see [Fig 4.](#attachment_551)).
 
 ![image](/uploads/2010/04/asimetry.en_.png "Asimmetric behavior case (\\\( h=1 \\\),
-\\\( \sigma_1 =1.2 \\\), \\\( \sigma_2 =0.8 \\\))."){#attachment_551} 
+\\\( \sigma\_1 =1.2 \\\), \\\( \sigma\_2 =0.8 \\\))."){#attachment_551} 
 
 Applet
 ------

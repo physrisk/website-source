@@ -20,7 +20,7 @@ If \\\( q < \min(\sigma\_0, \sigma\_1) \\\), then the model has stationary
 Beta distribution:
 
 \begin{equation}
-    x\sim\mathcal{B}e\left(\frac{\sigma_{1}-qN^{1-\beta}}{h+qN^{-\beta}},\frac{\sigma_{0}-qN^{1-\beta}}{h+qN^{-\beta}}\right).
+    x\sim\mathcal{B}e\left(\frac{\sigma\_{1}-qN^{1-\beta}}{h+qN^{-\beta}},\frac{\sigma\_{0}-qN^{1-\beta}}{h+qN^{-\beta}}\right).
 \end{equation}
 
 If \\\( q > \min(\sigma\_0, \sigma\_1) \\\), it is not clear whether the model

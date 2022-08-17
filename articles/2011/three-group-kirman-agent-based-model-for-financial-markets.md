@@ -167,7 +167,7 @@ than 10) or overlap (H larger 1000).
 ![image](/uploads/2011/09/spectra.png "Spectral density (red curve) of absolute return time
 series obtained by numerically evaluating the discussed model and its
 power law fits (blue curves). Powers of power law fits: \\\( \beta=0.68 \\\), \\\( \beta=0.22 \\\).
-Model parameters: \\\( a_1=a_2=b_1=c_1=30 \\\), \\\( b_2=c_2=500 \\\), \\\( h_{cf}=1 \\\), \\\( H=50 \\\),
+Model parameters: \\\( a\_1=a\_2=b\_1=c\_1=30 \\\), \\\( b\_2=c\_2=500 \\\), \\\( h\_{cf}=1 \\\), \\\( H=50 \\\),
 \\\( T=0.001 \\\)."){#attachment_1908} 
 
 Applet

@@ -62,7 +62,7 @@ Before discussing the critical values let us provide an algorithms for each
 model. A model:
 
 1. Pick a random agent.
-1. With probability \\\( p_a \\\) agent is anti-conformist. He will disagree
+1. With probability \\\( p\_a \\\) agent is anti-conformist. He will disagree
 with his \\\( q \\\)-panel. Otherwise agent is conformist and will agree with
 his \\\( q \\\)-panel (as usual in the
 [q-Voter model]({filename}/articles/2019/qvoter-model.md)).
@@ -74,7 +74,7 @@ he is conformist) or disagree (if he is anti-conformist) with the selected
 I model:
 
 1. Pick a random agent.
-1. With probability \\\( p_i \\\) agent is independent. His opinion will be
+1. With probability \\\( p\_i \\\) agent is independent. His opinion will be
 flipped with probability \\\( 1/2 \\\). Otherwise agent is conformist and will
 agree with his \\\( q \\\)-panel (as usual in the
 [q-Voter model]({filename}/articles/2019/qvoter-model.md)).

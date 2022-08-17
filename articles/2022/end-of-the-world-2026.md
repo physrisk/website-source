@@ -51,7 +51,7 @@ function of population \\\( N \\\)? Then:
 Solution of this ODE is given by:
 
 \begin{equation}
-    N(t) = N_1 \left( \frac{t\_0 - t\_1}{t\_0 - t} \right)^k .
+    N(t) = N\_1 \left( \frac{t\_0 - t\_1}{t\_0 - t} \right)^k .
                                                     \label{eq:solution}
 \end{equation}
 
@@ -60,7 +60,7 @@ reference year and \\\( N\_1 \\\) is the reference population. Which is
 determined by the model parameters:
 
 \begin{equation}
-    t_0 = t_1 + \frac{k}{\alpha^\prime} N_1^{-1/k} .
+    t\_0 = t\_1 + \frac{k}{\alpha^\prime} N\_1^{-1/k} .
 \end{equation}
 
 In the app below we will allow to change \\\( t\_0 \\\) as a parameter

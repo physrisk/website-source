@@ -26,7 +26,7 @@ MA(q) model applies this to the last q values of the noise terms.
 
 \begin{equation}
     x\_t = \beta\_1 \xi\_{t-1} + \beta\_2 \xi\_{t-2} + \ldots
-           + \beta\_q \xi\_{t-q} + \xi_t
+           + \beta\_q \xi\_{t-q} + \xi\_t
          = \sum\_{i=1}^{q} \beta\_i \xi\_{t-i} + \xi\_t
          = \vec{\beta} \cdot \vec{\xi}^{(q)} + \xi\_t.
 \end{equation}
@@ -54,7 +54,7 @@ defined as:
 
 \begin{equation}
     x\_t = \vec{\alpha} \cdot \vec{x}^{(p)}
-         + \vec{\beta} \cdot \vec{\xi}^{(q)} + \xi_t .
+         + \vec{\beta} \cdot \vec{\xi}^{(q)} + \xi\_t .
 \end{equation}
 
 With this model we have a system agnostic tool to do forecasts for real life

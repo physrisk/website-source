@@ -31,23 +31,23 @@ def evaluateModel(nAgents,initialWealth,nSteps):
 
 Alternatively one can write the following set of equations and solve them numerically:
 \begin{equation}
-P_{0,t+1}=P_{0,t}+\frac{1}{N}P_{1,t},
+P\_{0,t+1}=P\_{0,t}+\frac{1}{N}P\_{1,t},
 \end{equation}
 \begin{equation}
-P_{1,t+1}=P_{1,t}-\frac{2}{N}P_{1,t} + \frac{1}{N}P_{2,t},
+P\_{1,t+1}=P\_{1,t}-\frac{2}{N}P\_{1,t} + \frac{1}{N}P\_{2,t},
 \end{equation}
 \begin{equation}
-P_{i,t+1}=P_{i,t}-\frac{2}{N}P_{i,t} + \frac{1}{N}P_{i-1,t} + \frac{1}{N}P_{i+1,t}, \quad \forall i \in \mathbb{Z}: 1 &lt; i &lt; W-1 ,
+P\_{i,t+1}=P\_{i,t}-\frac{2}{N}P\_{i,t} + \frac{1}{N}P\_{i-1,t} + \frac{1}{N}P\_{i+1,t}, \quad \forall i \in \mathbb{Z}: 1 &lt; i &lt; W-1 ,
 \end{equation}
 \begin{equation}
-P_{W-1,t+1}=P_{W-1,t}-\frac{2}{N}P_{W-1,t}+\frac{1}{N}P_{W-2,t},
+P\_{W-1,t+1}=P\_{W-1,t}-\frac{2}{N}P\_{W-1,t}+\frac{1}{N}P\_{W-2,t},
 \end{equation}
 \begin{equation}
-P_{W,t+1}=P_{W,t}+\frac{1}{N}P_{W-1,t},
+P\_{W,t+1}=P\_{W,t}+\frac{1}{N}P\_{W-1,t},
 \end{equation}
-in the above \\\( P_{i,t} \\\) is a fraction of agents having wealth \\\( i \\\) at time \\\( t \\\), while \\\( W \\\) is a total wealth of all agents combined (\\\( W = N W_0 \\\)). The initial condition for these equations is:
+in the above \\\( P\_{i,t} \\\) is a fraction of agents having wealth \\\( i \\\) at time \\\( t \\\), while \\\( W \\\) is a total wealth of all agents combined (\\\( W = N W\_0 \\\)). The initial condition for these equations is:
 \begin{equation}
-P_{i,0} = \delta(W_0-i) .
+P\_{i,0} = \delta(W\_0-i) .
 \end{equation}
 Solving these equations allows to obtain the same result, but noticeably faster. Python code solving these equations is given below. Note that this function returns a histogram and not an array of agents' wealth as the other functions in this article.
 ```python

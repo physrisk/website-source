@@ -106,7 +106,7 @@ simulated parking lot.")
 The cost is our own addition to the model. It is calculated as follows:
 
 \begin{equation}
-    C_i = W x\_i + D s\_i .
+    C\_i = W x\_i + D s\_i .
 \end{equation}
 
 In the above \\\( x\_i \\\) is the parking spot coordinate (also distance to

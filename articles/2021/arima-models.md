@@ -43,8 +43,8 @@ values into the future) and you want to obtain \\\( x\_t \\\)? Simply use
 cumulative sum \\\( d \\\) times (\\\( d = 2 \\\) in our example):
 
 \begin{equation}
-    y\_t = \sum_{i=1}^{t} z\_i + y\_0 , \quad
-    x\_t = \sum_{i=1}^{t} y\_i + x\_0 .
+    y\_t = \sum\_{i=1}^{t} z\_i + y\_0 , \quad
+    x\_t = \sum\_{i=1}^{t} y\_i + x\_0 .
 \end{equation}
 
 Forecasting is beyond the scope and interest of this blog, but here you can
@@ -62,11 +62,11 @@ we understand that ARMA(0, 0) is used to model the first differences of
 \\\( x\_t \\\):
 
 \begin{equation}
-    y\_t = \xi_t ,
+    y\_t = \xi\_t ,
 \end{equation}
 
 \begin{equation}
-    x\_t = \sum_{i=1}^t y\_t + x\_0 = \sum_{i=1}^t \xi\_t + x\_0 .
+    x\_t = \sum\_{i=1}^t y\_t + x\_0 = \sum\_{i=1}^t \xi\_t + x\_0 .
 \end{equation}
 
 In the above we see just a sum (integral) of white noise, \\\( \xi\_t \\\),

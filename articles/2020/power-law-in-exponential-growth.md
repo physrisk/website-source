@@ -19,7 +19,7 @@ exponentially (as it does in the early stages) in a few different spatial units
 (let there be \\\( N \\\) such units):
 
 \begin{equation}
-    I_i\left( t \right) = \exp\left( \mu \left[ t - t_i \right] \right) - 1.
+    I\_i\left( t \right) = \exp\left( \mu \left[ t - t\_i \right] \right) - 1.
 \end{equation}
 
 Note that for \\\( t < t\_i \\\) we enforce \\\( I(t) = 0 \\\). Also here we

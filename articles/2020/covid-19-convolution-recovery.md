@@ -30,7 +30,7 @@ these probabilities together we get:
 
 \begin{equation}
     E[r(t)] = i(t) p(0) + i(t-1) p(1) + \ldots + i(0) p(t) =
-        \sum_{\tau=0}^t i(t-\tau) p(\tau) .
+        \sum\_{\tau=0}^t i(t-\tau) p(\tau) .
 \end{equation}
 
 The above is discrete convolution formula. For continuous observations one
@@ -46,7 +46,7 @@ confirmed/recovered cases time series. But the formula applies to the
 cumulative time series (for which we use capital letters) as well:
 
 \begin{equation}
-    E[R(t)] = \sum_{\tau=0}^t I(t-\tau) p(\tau) .
+    E[R(t)] = \sum\_{\tau=0}^t I(t-\tau) p(\tau) .
 \end{equation}
 
 Now after doing this foundation we can do a comparison between the expected

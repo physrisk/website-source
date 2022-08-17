@@ -31,7 +31,7 @@ follow the distribution.
 So we obtain the K-S static:
 
 \begin{equation}
-    D = \max_x \left| P\_{emp}(x) - P\_{teor}(x) \right| .
+    D = \max\_x \left| P\_{emp}(x) - P\_{teor}(x) \right| .
 \end{equation}
 
 And check whether it smaller than critical threshold. Critical threshold

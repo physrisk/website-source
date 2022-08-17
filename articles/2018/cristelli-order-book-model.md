@@ -26,10 +26,10 @@ should be enough).
 The price in this model is defined as an average between the best bids:
 
 \begin{equation}
-p(t) = \frac{a_0(t) + b_0(t)}{2} ,
+p(t) = \frac{a\_0(t) + b\_0(t)}{2} ,
 \end{equation} 
 
-here \\\( a_0(t) \\\) and \\\( b_0(t) \\\) are best ask and bid quotes (prices
+here \\\( a\_0(t) \\\) and \\\( b\_0(t) \\\) are best ask and bid quotes (prices
 associated with the order) at certain time \\\( t \\\) respectively. We took
 liberty to define the price, in case of any side of the order book would be emptied,
 as the last executed order price.
@@ -48,13 +48,13 @@ or limit order with probability \\\( 1 - \pi \\\). In the original paper
 If the order is limit order its quote is assumed to be uniformly distributed in
 
 \begin{equation}
-[ b_0(t)+1 , b_0(t) + k s(t) ] ,
+[ b\_0(t)+1 , b\_0(t) + k s(t) ] ,
 \end{equation}
 
 if the order is ask order, and uniformly distributed in
 
 \begin{equation}
-[ a_0(t) - k s(t) , a(t)-1 ] ,
+[ a\_0(t) - k s(t) , a(t)-1 ] ,
 \end{equation}
 
 if the order is bid order. Namely the ask orders are put at least one price
@@ -62,8 +62,8 @@ tick away from the best bid quote and vice versa. The order are put at most
 \\\( k \\\) times spread (defined as difference between best ask and bid) away
 from the opposite best bid. In the original paper \\\( k \\\) is estimated to
 be between \\\( 3 \\\) and \\\( 4 \\\).
-If order book would be empty on the respective side, if \\\( b_0(t) \\\) or
-\\\( a_0(t) \\\) would be undefined, then the order would be put one tick away
+If order book would be empty on the respective side, if \\\( b\_0(t) \\\) or
+\\\( a\_0(t) \\\) would be undefined, then the order would be put one tick away
 from the last executed order price. This is once again our interpretation, which
 is not present in the original article.
 
@@ -78,7 +78,7 @@ both number of time ticks between the visual updates and used to define return
 (price difference):
 
 \begin{equation}
-r_\delta(t) = p(t) - p(t - \delta) = \Delta_\delta p(t).
+r\_\delta(t) = p(t) - p(t - \delta) = \Delta\_\delta p(t).
 \end{equation}
 
 ## Interactive applets

@@ -11,12 +11,12 @@ of the "marked" (recapture). The proportion of the "marked" in the second
 sample is statistically equivalent to the proportion of the "marked" in
 whole population.
 
-Given that we have marked \\\( S_1 \\\) individuals during capture phase
-and have later recaptured \\\( M_2 \\\) of them together with
-\\\( S_2 - M_2 \\\) unmarked individuals, the total size of population
+Given that we have marked \\\( S\_1 \\\) individuals during capture phase
+and have later recaptured \\\( M\_2 \\\) of them together with
+\\\( S\_2 - M\_2 \\\) unmarked individuals, the total size of population
 \\\( N \\\) is given by
 \begin{equation}
-N = \frac{S_1 S_2}{M_2} .
+N = \frac{S\_1 S\_2}{M\_2} .
 \end{equation}
 This formula should give a rather good approximation of \\\( N \\\) if
 samples sizes are large and enough and the sampling is truly random.

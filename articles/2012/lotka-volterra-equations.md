@@ -83,8 +83,8 @@ interaction is already accounted for.
 
 ![Solution of L-V eqs](/uploads/2012/09/lv-graph.png "Solution of the Lotka-Volterra equations. Red line marks the
 predator evolution, while blue - prey's. Dashed lines mark the model's
-fixed points. Parameters: \\\( X_1(0)=8 \\\), \\\( X_2(0)=12 \\\), \\\( a_1=20 \\\), \\\( a_2 =30\\\),
-\\\( c_\{12\}=c_\{21\}=1 \\\)."){#attachment_2359}
+fixed points. Parameters: \\\( X\_1(0)=8 \\\), \\\( X\_2(0)=12 \\\), \\\( a\_1=20 \\\), \\\( a\_2 =30\\\),
+\\\( c\_\{12\}=c\_\{21\}=1 \\\)."){#attachment_2359}
 
 In [Fig 1.](#attachment_2359) we have shown one of the possible
 solutions of the Lotka-Volterra equations. The example demonstrates

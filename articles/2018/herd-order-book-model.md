@@ -40,19 +40,19 @@ Essential feature of our usual approach to agent-based herding modeling is that
 transition rates between two states are proportional to the number of agents in
 the opposite state. Here we have also used the same shape of transition rates:
 \begin{equation}
-\lambda_{cf}\left(t\right)=\frac{\lambda_{e}}{\tau\left(N_{c}\left(t\right)\right)}N_{c}\left(t\right)\left[\varepsilon_{cf}+\left\\\{ N-N_{c}\left(t\right)\right\\\} \right],
+\lambda\_{cf}\left(t\right)=\frac{\lambda\_{e}}{\tau\left(N\_{c}\left(t\right)\right)}N\_{c}\left(t\right)\left[\varepsilon\_{cf}+\left\\\{ N-N\_{c}\left(t\right)\right\\\} \right],
 \end{equation}
 and
 \begin{equation}
-\lambda_{fc}\left(t\right)=\frac{\lambda_{e}}{\tau\left(N_{c}\left(t\right)\right)}\left[N-N_{c}\left(t\right)\right]\left[\varepsilon_{fc}+N_{c}\left(t\right)\right].
+\lambda\_{fc}\left(t\right)=\frac{\lambda\_{e}}{\tau\left(N\_{c}\left(t\right)\right)}\left[N-N\_{c}\left(t\right)\right]\left[\varepsilon\_{fc}+N\_{c}\left(t\right)\right].
 \end{equation}
-In the above \\\( \lambda_{ij} \\\) is the transition rate from state \\\( i \\\)
-to state \\\( j \\\), \\\( \lambda_{e} \\\) is the base event rate, while
+In the above \\\( \lambda\_{ij} \\\) is the transition rate from state \\\( i \\\)
+to state \\\( j \\\), \\\( \lambda\_{e} \\\) is the base event rate, while
 \\\( \tau(\dots) \\\) plays the same role as
 [earlier]({filename}/articles/2011/agent-based-herding-model-financial-markets.md)
 [cite id="Kononovicius2012PhysA"]. As usual \\\( N \\\) stands for total number
-of agents, while \\\( N_c \\\) for number of agents using chartist trading strategy,
-while \\\( \varepsilon_{ij} \\\) are responsible for the idiosyncratic switching
+of agents, while \\\( N\_c \\\) for number of agents using chartist trading strategy,
+while \\\( \varepsilon\_{ij} \\\) are responsible for the idiosyncratic switching
 rate between the trading strategies.
 
 We can't do full model with out splitting
@@ -62,27 +62,27 @@ mood, \\\( \xi \\\). If \\\( \xi \\\) is positive, then more chartists feel
 optimistic. Here we can consider a very simple model for \\\( \xi \\\): mood is
 only able to change its sign with rate:
 \begin{equation}
-\lambda_{M}\left(t\right)=\frac{\lambda_{e}}{\tau\left(N_{c}\left(t\right)\right)}\lambda_{m},
+\lambda\_{M}\left(t\right)=\frac{\lambda\_{e}}{\tau\left(N\_{c}\left(t\right)\right)}\lambda\_{m},
 \end{equation}
-where \\\( \lambda_m \\\) is the base rate for the mood swings. The probability
+where \\\( \lambda\_m \\\) is the base rate for the mood swings. The probability
 that chartist will submit market bid (buy) order is dependent on \\\( \xi \\\)
 as follows:
 \begin{equation}
-p_{\text{bid}}\left(t\right)=\frac{1+\xi\left(t\right)}{2}.
+p\_{\text{bid}}\left(t\right)=\frac{1+\xi\left(t\right)}{2}.
 \end{equation}
 
 Trading rate for chartist traders takes a very simple form:
 \begin{equation}
-\lambda_{tC}(t)= \frac{\lambda_e}{\tau(N_c(t))} \lambda_{tc} N_c(t) .
+\lambda\_{tC}(t)= \frac{\lambda\_e}{\tau(N\_c(t))} \lambda\_{tc} N\_c(t) .
 \end{equation}
 While for fundamentalist traders it is a bit more complex:
 \begin{equation}
-\lambda_{tF}\left(t\right)=\frac{\lambda_{e}}{\tau\left(N_{c}\left(t\right)\right)}\lambda_{tf}\left[N-N_{c}\left(t\right)\right]\left|\ln\left(\frac{P\left(t\right)}{P_{f}}\right)\right|,
+\lambda\_{tF}\left(t\right)=\frac{\lambda\_{e}}{\tau\left(N\_{c}\left(t\right)\right)}\lambda\_{tf}\left[N-N\_{c}\left(t\right)\right]\left|\ln\left(\frac{P\left(t\right)}{P\_{f}}\right)\right|,
 \end{equation}
 because fundamentalists' activity is conditioned on the deviations of price from
-the fundamental price. In both rates above \\\( \lambda_{ti} \\\) stands for
+the fundamental price. In both rates above \\\( \lambda\_{ti} \\\) stands for
 trading activity of a single agent using trading strategy \\\( i \\\), while
-\\\( P \\\) stands for price and \\\( P_f \\\) for fundamental price.
+\\\( P \\\) stands for price and \\\( P\_f \\\) for fundamental price.
 
 All these transition rates are updated after each event.
 
