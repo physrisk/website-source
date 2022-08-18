@@ -12,8 +12,8 @@ of them. You are shown that the envelope you have selected contains
 Should you open the other envelope and take the monies in it? Or should you
 keep your original envelope?
 
-The video below has participated in "Summer of Math Exposition" competition.
-It explains various ways to define and solve the two envelope problem and
-provides a valuable lesson on expected values.
+The video below has participated in "Summer of Math Exposition" competition
+in 2021. It explains various ways to define and solve the two envelope
+problem and provides a valuable lesson on expected values.
 
 [youtube v="_NGPncypY68"]
