@@ -25,7 +25,7 @@ same way (the ball starts in the same hands). In fact further analysis
 applies to any other pair of possessions (there is no time dependence in the
 schema) as long as initial score difference is zero.
 
-![diff = 0 case]({filename}/uploads/2022/boring-basketball-schema-1.png
+![diff = 0 case]({static}/uploads/2022/boring-basketball-schema-1.png
 "Case when initial difference in score is zero. Circles represent states
 (colored based on the team possessing the ball) reachable via transitions.
 These are represented by darker (made the shot) and lighter (missed the
@@ -52,7 +52,7 @@ favor of the blue team) is higher than the probability for the score
 difference to be positive. Hence, it is obvious that blue team has certain
 advantage.
 
-![positive diff case]({filename}/uploads/2022/boring-basketball-schema-2.png
+![positive diff case]({static}/uploads/2022/boring-basketball-schema-2.png
 "Case when initial difference in score is positive."){#schema-2}
 
 As we can see in the schema [above](#schema-2) whenever score difference is
@@ -61,7 +61,7 @@ simply add any even number to all numbers in the schema and end up with the
 same outcome probabilities), there will be a slight drift towards equal
 score.
 
-![negative diff case]({filename}/uploads/2022/boring-basketball-schema-4.png
+![negative diff case]({static}/uploads/2022/boring-basketball-schema-4.png
 "Case when initial difference in score is negative (-4 or
 larger)."){#schema-4}
 
@@ -71,7 +71,7 @@ differences of \\\( -4 \\\) or larger (in a sense that difference of \\\(
 -16 \\\) is larger than \\\( -4 \\\)), as if we add \\\( 2 \\\) to the
 numbers then the outcome probabilities change (see [below](#schema-3)).
 
-![asymmetry case]({filename}/uploads/2022/boring-basketball-schema-3.png
+![asymmetry case]({static}/uploads/2022/boring-basketball-schema-3.png
 "Case which breaks symmetry between negative and positive score
 differences."){#schema-3}
 
