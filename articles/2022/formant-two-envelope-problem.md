@@ -1,7 +1,7 @@
 Title: Formant: Two envelope problem
 Date: 2022-10-18 08:00
 Author: Aleksejus Kononovicius
-Tags: videos, statistics, paradox
+Tags: videos, statistics, paradox, SoME2021
 Slug: formant-two-envelope-problem
 Status: draft
 
