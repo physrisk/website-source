@@ -1,7 +1,7 @@
 Title: Erdos-Renyi model
 Date: 2013-07-29 07:01
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, Erdos-Renyi model, coursera
+Tags: Interactive models, Network models, Erdos-Renyi model, coursera, percolation
 Slug: erdos-renyi-model
 Status: published
 
@@ -45,7 +45,7 @@ purely at random and is not observed due to a more sophisticated
 reasons.
 
 It is also worthwhile to note that this network formation model is
-somewhat related to the percolation theory. Imagine that a fully
+somewhat related to the [percolation theory](/tag/percolation/). Imagine that a fully
 connected graph. Now let us remove a certain number of edges from it.
 How many edges could we randomly remove from a graph (network), for it
 to be still connected (i.e. with no isolated nodes)? The answer is
