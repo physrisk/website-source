@@ -5,8 +5,8 @@ Tags: videos, statistics, paradox, SoME2021
 Slug: formant-two-envelope-problem
 Status: draft
 
-Imagine a simple game. You are presented two envelope and ask to choose one
-of them. You are shown that the envelope you have selected contains
+Imagine a simple game. You are presented two envelopes and asked to choose one
+of them. Then you are shown that the envelope you have selected contains
 \\\( x \\\) monies. Then you are told that the other envelope contains either
 \\\( 10 x \\\) or \\\( \frac{x}{10} \\\) monies (with equal probabilities).
 Should you open the other envelope and take the monies in it? Or should you
