@@ -3,7 +3,7 @@ Date: 2022-09-13 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, biology
 Slug: birds-on-wire
-Status: draft
+Status: published
 Image_url: uploads/2022/birds-on-wire.png
 
 How many birds could potentially fit on a wire? Well it depends on how
