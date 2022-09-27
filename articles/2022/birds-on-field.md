@@ -3,7 +3,7 @@ Date: 2022-09-27 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Agent-based models, biology
 Slug: birds-on-field
-Status: draft
+Status: published
 Image_url: uploads/2022/birds-two-dim.png
 
 How many birds could potentially fit on a wire? Well it depends on how
