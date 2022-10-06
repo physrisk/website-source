@@ -15,13 +15,19 @@ Originally this term was a title of EU COST project,
 which ran from 2004 to 2008 (two members of our group were part of this
 project).
 
-This blog was created while executing EU structural fund project "Mokslas.
-Mokslininkai. Visuomenė." (en. "Science. Scientists. Society."; ran from 2006
-to 2008) and further extended during Inogeb-1 project "Mokslas verslui ir
-visuomenei" (en. "Science for business and society"; ran from 2009 to 2011).
-During these projects articles for this blog were written by various members
-of our group, as well as by some authors who no longer work with us -
-V. Daniūnas, M. Alaburda, T. Meškauskas.
+This blog was created while executing EU structural fund project "[Mokslas.
+Mokslininkai.
+Visuomenė.](https://www.ff.vu.lt/?option=com_content&view=article&layout=edit&id=930)"
+(en. "Science. Scientists. Society."; ran from 2006 to 2008) and further
+extended during Inogeb-1 project "[Mokslas verslui ir
+visuomenei](https://www.ff.vu.lt/?option=com_content&view=article&layout=edit&id=1016)"
+(en.  "Science for business and society"; ran from 2009 to 2011).  During
+these projects articles for this blog were written by various members of our
+group, as well as by some authors who no longer work with us - V. Daniūnas,
+M. Alaburda, T. Meškauskas.
+
+We are part of the [mokslasplius.lt](https://mokslasplius.lt) website
+portal.
 
 **Currently this blog is maintaned** by
 [Aleksejus Kononovicius](http://kononovicius.lt).
