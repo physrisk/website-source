@@ -3,7 +3,7 @@ Date: 2022-10-11 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, percolation, FiveThirtyEight
 Slug: bowling-percolation
-Status: draft
+Status: published
 Image_url: uploads/2022/bowling-percolation.png
 
 [FiveThirtyEight](https://fivethirtyeight.com/) has an interesting column,
