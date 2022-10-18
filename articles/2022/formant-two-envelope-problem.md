@@ -3,7 +3,7 @@ Date: 2022-10-18 08:00
 Author: Aleksejus Kononovicius
 Tags: videos, statistics, paradox, SoME2021
 Slug: formant-two-envelope-problem
-Status: draft
+Status: published
 
 Imagine a simple game. You are presented two envelopes and asked to choose one
 of them. Then you are shown that the envelope you have selected contains
