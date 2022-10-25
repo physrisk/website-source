@@ -3,7 +3,7 @@ Date: 2022-10-25 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, sports, FiveThirtyEight
 Slug: boring-basketball-game
-Status: draft
+Status: published
 Image_url: uploads/2022/boring-basketball.png
 
 [FiveThirtyEight](https://fivethirtyeight.com/) has an interesting column,
