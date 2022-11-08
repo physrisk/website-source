@@ -3,7 +3,7 @@ Date: 2022-11-08 08:00
 Author: Aleksejus Kononovicius
 Tags: statistics, sports, linear algebra, python, FiveThirtyEight
 Slug: analytical-solution-boring-basketball-game
-Status: draft
+Status: published
 Image_url: uploads/2022/boring-basketball-schema-3.png
 
 [FiveThirtyEight](https://fivethirtyeight.com/) has an interesting column,
