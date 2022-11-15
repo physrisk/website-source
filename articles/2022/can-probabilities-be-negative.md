@@ -3,7 +3,7 @@ Date: 2022-11-15 08:00
 Author: Aleksejus Kononovicius
 Tags: videos, statistics, quantum mechanics, SoME2021
 Slug: can-probabilities-be-negative
-Status: draft
+Status: published
 
 Can probabilities be negative? Yes, whenever information behaves in quirky
 ways in [quantum systems](/tag/quantum-mechanics/). Video comments seem to
