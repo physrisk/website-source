@@ -73,4 +73,9 @@ The code used to make the prediction can be found on
 The detailed prediction is also visible there. It is... England! Well,
 roughly in quarter of simulated World Cups.
 
+![predictions screenshot
+montage](/uploads/2022/fifa-world-cup-2022-predictions.png)
+
+More details in video below :)
+
 [youtube v="ubRBLAHjkTo"]
