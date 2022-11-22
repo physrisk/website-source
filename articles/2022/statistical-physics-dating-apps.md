@@ -3,7 +3,7 @@ Date: 2022-11-22 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, dating, dating apps series, statistical physics
 Slug: statistical-physics-dating-apps
-Status: draft
+Status: published
 Image_url: uploads/2022/dating-apps-static.png
 
 Previous summer I have stumbled upon an interesting manuscript [cite
