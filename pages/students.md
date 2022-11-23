@@ -13,19 +13,6 @@ proper determination and with enough effort anything can be learnt.
 If you are interested, feel free to [contact us]({filename}/pages/about.md).
 We will try to schedule a meeting to find a problem you could tackle.
 
-## Topics offered in 2022 Autumn semester
-
-* **Influence of macroscopic feedback on the dynamics of voter model on a
-  ring structure** (lt. Makroskopinio grįžtamojo ryšio įtaka rinkėjo modelio
-  dinamikai žiedinėje topologijoje). Student will be expected to implement
-  voter model on a ring network, or (and) solve the problem analytically.
-  Macroscopic feedback will be implemented as an option (at a chosen rate)
-  to interact not only with neighbors on the network, but also with a system
-  as whole. The question stands whether the system converges to consensus
-  state. Also, how does the convergence time depend on the frequency of
-  macroscopic interaction? Topic is offered by [Aleksejus
-  Kononovicius](https://kononovicius.lt).
-
 ## Completed thesis, term papers and internships
 
 **Term papers:** 18 (6 BSc + 12 MSc)
