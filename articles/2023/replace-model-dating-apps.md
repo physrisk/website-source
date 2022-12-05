@@ -1,7 +1,7 @@
 Title: Replace model of dating apps
 Date: 2023-01-10 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, dating, dating apps series, statistical physics
+Tags: Interactive models, statistics, dating apps series, statistical physics
 Slug: replace-model-dating-apps
 Status: draft
 Image_url: uploads/2023/dating-apps-replace.png
