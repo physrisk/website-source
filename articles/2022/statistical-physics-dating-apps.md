@@ -33,14 +33,14 @@ between the users. In the app below you may choose to use absolute or raw
 value of the difference. If [absolute value](#absolute_diff) is used,
 
 \begin{equation}
-    \delta\_{ij} = x\_j - x\_i ,
+    \delta\_{ij} = \left| x\_j - x\_i \right|,
 \end{equation}
 
 then the users will like users of similar attractiveness as themselves. If
 [raw value](#raw_diff) is used,
 
 \begin{equation}
-    \delta\_{ij} = \left| x\_j - x\_i \right|,
+    \delta\_{ij} = x\_j - x\_i ,
 \end{equation}
 
 then users will also like everyone who is more attractive than themselves.
