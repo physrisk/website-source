@@ -18,7 +18,7 @@ decisions are realistic (though only the data can tell this) and thus I will
 not explore the unbiased model.
 
 The original manuscript is also concerned with another important feature of
-the [dating apps](/tag/dating-apps/): visibility of the users. It is not
+the dating apps: visibility of the users. It is not
 likely, but still somewhat possible, that I will also follow in this
 direction.
 
