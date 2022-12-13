@@ -3,7 +3,7 @@ Date: 2022-12-13 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, economics
 Slug: numberphile-stable-marriage-problem
-Status: draft
+Status: published
 
 In this [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 video Dr. Emily Riehl introduces stable marriage problem.
