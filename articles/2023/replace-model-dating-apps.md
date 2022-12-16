@@ -32,7 +32,7 @@ average users. Yet numerical simulation would indicate that this expectation
 is at least partially wrong.
 
 ![results of replacement
-model]({static}/uploads/2022/dating-apps-replace.png "(lower figure)
+model]({static}/uploads/2023/dating-apps-replace.png "(lower figure)
 Comparison sample population (red curve), matched user population (blue
 curve) and the active user population (grey curve) match.")
 
