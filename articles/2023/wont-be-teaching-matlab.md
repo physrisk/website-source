@@ -100,9 +100,14 @@ Origin outputs an "error" whatever it means... That is the GUI effect for
 you.
 
 Finally, [Matlab](/tag/matlab/) costs a lot (my faculty pays for it, but
-still the money could find a better use?) and closed source. By being pricey
-and closed source (GNU Octave is not compatible with newest
+still the money could find a better use?) and is closed source. By being
+pricey and closed source (GNU Octave is not compatible with newest
 [Matlab](/tag/matlab/) versions) it is not accessible to some researchers
 world wide. Some of them use different proprietary software, others do not
 have the funds to buy a license. [Python](/tag/python/) on the other hand
 can be used by anyone with a reasonably new computer.
+
+So, was my teaching experience all that bad? No. I have met quite a few
+students who made this experience worthwhile. I have enjoyed satisfying
+students' curiosity, encouraging independent exploration, giving advanced
+advice as well as answering basic questions.
