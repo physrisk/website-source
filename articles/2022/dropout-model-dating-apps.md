@@ -3,7 +3,7 @@ Date: 2022-12-20 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, dating apps series, statistical physics
 Slug: dropout-model-dating-apps
-Status: draft
+Status: published
 Image_url: uploads/2022/dating-apps-dropout.png
 
 In this post I [continue my
