@@ -19,6 +19,8 @@ against it. It would make little sense because I have just recently
 changes) the course in [Matlab](/tag/matlab/). And replacing it would take
 too much effort for what it is worth to me.
 
+![No Matlab!]({static}/uploads/2023/matlab.jpg)
+
 Why I don't like [Matlab](/tag/matlab/)? In short, it feels archaic (I have
 learned programming using Turbo Pascal, and [Matlab](/tag/matlab/) feels a
 lot like it), it encourages poor programming practices, and it was quite
@@ -41,10 +43,13 @@ will know better - it will adjust the size to its liking. Why?
 it, even if the end result looks terrible. It is a sign that I need to
 adjust things (font size usually), but how to convince
 [Matlab](/tag/matlab/) to do what I want? My colleague, who uses
-[Matlab](/tag/matlab/) simply advised to use PDF editors to adjust the
-figure to my liking... Why should I bother? I have developed few hacks to
-circumvent the problem, but they break from one [Matlab's](/tag/matlab/)
-version to another.
+[Matlab](/tag/matlab/) on daily basis simply advised me to use PDF editors
+to adjust the figure to my liking... Why should I do this manual labor? I
+have already spent time writing a program to do the figure. In the end, I
+have developed few hacks to circumvent this particular problem, but they
+break from one [Matlab's](/tag/matlab/) version to another, and do not work
+at all if I want to make figures of strange dimensions (for example,
+extremely long figures).
 
 My other issue with [Matlab](/tag/matlab/) was its lack of "stability".
 During the first year I have made my slides and wanted to reuse them (with
@@ -58,7 +63,7 @@ is that unstable? [Python](/tag/python/) and its libraries in my experience
 have remained much more stable. I am still able to use my 5-6 year old
 python scripts without making big changes. Similarly, my really old
 Mathematica scripts still work well (usually newer versions of Mathematica
-are able to apply necessary change with out much of manual interference).
+are able to apply necessary changes without much manual interference).
 
 As an instructor I have found [Matlab](/tag/matlab/) to set poor example for
 students. I have tried to instill good practices (consistency, good code
@@ -78,13 +83,18 @@ As an instructor I do not think that [Matlab](/tag/matlab/) is a good first
 language. It is not a general purpose language (you can't make fun things as
 you learn). It shines when you try to avoid `for` loops and use
 vectorization instead, but to get a good and transferable programming skills
-one needs to understand loops.
+one needs to understand loops. To appreciate vectorization one needs to
+understand `for` loops, too.
+
+![Matlab for vs vectorization]({static}/uploads/2023/matlab-vectorization.png)
 
 I also didn't like that arrays start at 1. Come on... I have made lots of
 mistakes during live coding sessions simply because of this.
 [Python](/tag/python), JavaScript and C (languages I use almost every day)
 all start their arrays at 0. So yeah, after a semester with
-[Matlab](/tag/matlab/) I had to relearn this.
+[Matlab](/tag/matlab/) I had to relearn this. Additional confusion arising
+because [Matlab](/tag/matlab/) uses `()` to index arrays instead of the
+usual `[]`.
 
 Also, I am not a GUI person. [Matlab](/tag/matlab/) is built for people who
 like clicking things and using mouse. It has Apps, which is arguably its
@@ -98,6 +108,8 @@ a simple example of this, some students have I asked me how to calculate fit
 errors. I have asked them what they mean by "error". I got the answer that
 Origin outputs an "error" whatever it means... That is the GUI effect for
 you.
+
+![Matlab GUI fit app]({static}/uploads/2023/matlab-fit-app.png)
 
 Finally, [Matlab](/tag/matlab/) costs a lot (my faculty pays for it, but
 still the money could find a better use?) and is closed source. By being
