@@ -3,7 +3,7 @@ Date: 2023-01-03 08:00
 Author: Aleksejus Kononovicius
 Tags: General information
 Slug: was-2022-as-good-as-2021
-Status: draft
+Status: published
 Image_url: uploads/2023/rf-posts.png
 
 Well, at least it was as productive on Physics of Risk blog. Though with
