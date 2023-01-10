@@ -190,7 +190,16 @@ lower values improve the chance of the weaker teams. In the special case
 \\\( \gamma \\\) team's strength are effectively inverted (weaker teams
 become stronger).
 
-Feel free to explore the original problem and its generalization!
+Feel free to explore the original problem and its generalization! This app
+outputs the current mean strength of the champion (at the top near the
+iteration number), the teams (and their pairings) from the last playoff and
+the team strength distribution.
 
 [html5-interactive width="520" height="295" mode="iframe"
 url="/uploads/models/stats-puzzles/football-playoff/index.html"]
+
+Note that all team names are generic "Team #XX", where XX indicates the
+strength of the team: \\\( XX = \left\lceil x\_i \cdot 100 \right\rceil \\\).
+The colors indicate team rank: blue team is always the strongest, then
+followed by red, green and yellow. In the figure champion's strength
+distribution is shown by dark gray curve.
