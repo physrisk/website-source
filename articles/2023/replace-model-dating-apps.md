@@ -3,7 +3,7 @@ Date: 2023-01-10 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, dating apps series, statistical physics
 Slug: replacement-model-dating-apps
-Status: draft
+Status: published
 Image_url: uploads/2023/dating-apps-replace.png
 
 In this post I [continue my
