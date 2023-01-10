@@ -1,5 +1,5 @@
 Title: Riddler's Fan Bus problem
-Date: 2023-03-07 08:00
+Date: 2023-03-21 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, sports
 Slug: riddler-fan-bus
