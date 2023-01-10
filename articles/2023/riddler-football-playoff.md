@@ -52,7 +52,7 @@ this we use bar above the \\\( x \\\)). To get the answer we are looking for
 we need to average over all possible team pairs:
 
 \begin{equation}
-    \langle x\_c \rangle = \int\_0^1 \int\0^1 \bar{x}\_c(x\_i, x\_j) d x\_i d x\_j =
+    \langle x\_c \rangle = \int\_0^1 \int\_0^1 \bar{x}\_c(x\_i, x\_j) d x\_i d x\_j =
         \frac{4 \ln (2) - 1}{3} \approx 0.591\ldots
 \end{equation}
 
