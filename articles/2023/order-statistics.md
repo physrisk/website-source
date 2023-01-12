@@ -19,7 +19,7 @@ distribution with probability density function \\\( p(x) \\\) and cumulative
 distribution function \\\( P(x) \\\). Let us order samples from smallest to
 largest and look at the distribution of \\\( k \\\)-th ordered sample (with
 \\\( 1 \leq k \leq N \\\). What is the probability density function of that
-sample, \\\( p\_k( x \\\)?
+sample, \\\( p\_k( x ) \\\)?
 
 If \\\( k = 1 \\\), then things are quite simple: we just need \\\( N-1 \\\)
 samples to be less or equal to \\\( x \\\) and one sample to be equal to
