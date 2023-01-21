@@ -59,7 +59,7 @@ sampled from uniform distribution. Then:
 \end{equation}
 
 We see that in this case \\\( k \\\)-th team's strength distribution will
-follow Beta distribution, \\\( \mathcal{B}e(k, N+1-k \\\). Note that, here
+follow Beta distribution, \\\( \mathcal{B}e(k, N+1-k) \\\). Note that, here
 we have ranked teams in ascending strength order. To flip the order, simply
 reverse the order of Beta distribution parameters.
 
