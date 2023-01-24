@@ -3,7 +3,7 @@ Date: 2023-01-24 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, dating apps series, statistical physics
 Slug: picky-shy-model-dating-apps
-Status: draft
+Status: published
 Image_url: uploads/2023/dating-apps-pickyshy.png
 
 This is the final post (at least for the foreseeable future) on the
