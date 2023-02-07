@@ -3,7 +3,7 @@ Date: 2023-02-07 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, Matlab
 Slug: wont-be-teaching-matlab
-Status: draft
+Status: published
 Image_url: uploads/2023/matlab.jpg
 
 So, I won't be teaching [Matlab](/tag/matlab/) anymore. Yay! Why? While I
