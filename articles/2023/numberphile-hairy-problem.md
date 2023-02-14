@@ -3,7 +3,7 @@ Date: 2023-02-14 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics
 Slug: numberphile-hairy-problem
-Status: draft
+Status: published
 
 In this [Numberphile](https://www.youtube.com/@numberphile) video Ben Sparks
 asks a seemingly trivial question - what is probability to find two people
