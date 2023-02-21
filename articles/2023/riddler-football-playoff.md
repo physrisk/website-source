@@ -3,7 +3,7 @@ Date: 2023-02-21 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, sports, FiveThirtyEight
 Slug: riddler-football-playoff
-Status: draft
+Status: published
 Image_url: uploads/2023/riddler-football-playoff.png
 
 This week we will take a look at another [Riddler's Classic
