@@ -39,3 +39,8 @@ src="/uploads/models/price-war-game/graph-en.html" width="400"
 height="300" mode="iframe"]
 
 Try matching parameter values between the interactive apps. Explore the transition points to understand the peculiar shape seen in the figure. Observe the transition from the prisoners dilemma to the coordination game. Observe as coordination game once again becomes the game with dominating strategy (I am not sure if it has well-known name).
+
+**Note 2023:** Actually "mixed" strategy is not the dominating strategy for
+the intermediate \\\( N \\\). Both pure strategies are as reasonable choice.
+See the update app in [the newer
+post]({filename}/articles/2023/mistake-in-price-war-game.md).
