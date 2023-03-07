@@ -3,7 +3,7 @@ Date: 2023-03-07 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics
 Slug: order-statistics
-Status: draft
+Status: published
 Image_url: uploads/2023/order-statistics.png
 
 [Last time]({filename}/articles/2023/riddler-football-playoff.md) we have
