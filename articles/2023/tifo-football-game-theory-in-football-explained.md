@@ -1,5 +1,5 @@
 Title: Tifo Football: Game Theory in Football Explained
-Date: 2023-03-14 08:00
+Date: 2023-03-28 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Tifo Football, game theory, sports
 Slug: tifo-football-game-theory-in-football-explained
