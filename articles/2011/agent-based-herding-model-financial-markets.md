@@ -240,8 +240,8 @@ Eqs. \eqref{lanx} and \eqref{return} were derived in
 \[cite id="Alfarano2005CompEco"\] (stochastic model was derived in a bit
 different way), but Alfarano et al. stopped there and did not derive
 stochastic differential equation for absolute return. In order to obtain
-stochastic model for absolute return we use Ito variable substitution
-formula \[cite id="Gardiner2009Springer"\]:
+stochastic model for absolute return we use variable substitution
+formula, via Ito's lemma, \[cite id="Gardiner2009Springer"\]:
 
 
 \begin{equation}

@@ -34,8 +34,8 @@ Variable transformation
 -----------------------
 
 One of the most simple ways to related two stochastic processes is to
-transform the modeled variable. The formula for the transformation is as
-follows \[cite id="Gardiner2009Springer"\]:
+transform the modeled variable. The formula for the transformation, via
+Ito's lemma, is as follows \[cite id="Gardiner2009Springer"\]:
 
 
 \begin{equation}
