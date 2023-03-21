@@ -3,7 +3,7 @@ Date: 2023-03-21 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, FiveThirtyEight
 Slug: riddler-fan-bus
-Status: draft
+Status: published
 Image_url: uploads/2023/riddler-fan-bus.png
 
 This week we will take a look at another [Riddler's Classic
