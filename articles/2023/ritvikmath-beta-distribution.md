@@ -3,7 +3,7 @@ Date: 2023-04-11 08:00
 Author: Aleksejus Kononovicius
 Tags: video, ritvikmath, statistics
 Slug: ritvikmath-beta-distribution
-Status: draft
+Status: published
 
 I like Beta distribution, as it arises from my favorite model - [voter
 model](/tag/voter-model/) (and [Kirman model](/tag/kirman-model) due to
