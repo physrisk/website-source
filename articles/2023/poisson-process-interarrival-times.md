@@ -66,7 +66,7 @@ student arrives (event probability is given by \\\( \lambda \Delta t \\\)).
 Simulated probability density function is shown by the red curve, while the
 black curve corresponds to the exponential distribution.
 
-[html5-interactive width="520" height="280" mode="iframe"
+[html5-interactive width="520" height="240" mode="iframe"
 url="/uploads/models/stats-basic/poisson-process/interarrival-times.html"]
 
 Note that the theoretical curve fits only when \\\( \lambda \Delta t \\\))
