@@ -18,8 +18,9 @@ interarrival time distribution.
 
 If we care not about the number of successful Bernoulli experiments, but
 about number of Bernoulli trials before the next successful one, then we are
-concerned not with the Binomial distribution, but with the Geometric
-distribution, whose probability mass function is given by
+concerned not with the Binomial distribution, but with the [Geometric
+distribution](https://en.wikipedia.org/wiki/Geometric_distribution), whose
+probability mass function is given by
 
 \begin{equation}
 P(X=k) = (1-p)^{k-1} p .
@@ -28,7 +29,7 @@ P(X=k) = (1-p)^{k-1} p .
 It looks very similar to the probability mass function of the Binomial
 distribution, but for a single success. Also it lacks Binomial coefficient.
 This is because there is just one way to have \\\( k - 1 \\\) failed trials
-after having a single successful trial at \\\( k \\\)-th attempt.
+before having a single successful trial at \\\( k \\\)-th attempt.
 
 [Survival function](https://en.wikipedia.org/wiki/Survival_function)
 (probability that nothing has happened until step \\\( k \\\)) of the
