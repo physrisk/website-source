@@ -71,8 +71,10 @@ distribution
 The above probability mass function belongs to the [Poissson
 distribution](https://en.wikipedia.org/wiki/Poisson_distribution).
 
+## Obtaining solution
+
 Our problem states that on average \\\( 4 \\\) students arrive per hour
-(note the time unit!), thus we have \\\( \lambda = 4 \\\). We see that
+(note the time units!), thus we have \\\( \lambda = 4 \\\). We see that
 \\\( \lambda \\\) has units of student arrivals per hour, thus it can be
 seen as a rate parameter (sort of speed at which events occur).
 
