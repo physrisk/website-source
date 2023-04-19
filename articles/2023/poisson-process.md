@@ -58,7 +58,7 @@ or easily calculated
     \lim\_{N\rightarrow\infty} \frac{N (N-1) \ldots (N-k+1)}{N^k} = 1 .
 \end{equation}
 
-Having in mind the limits above, we can take continuum limit of the Binomial
+Having in mind the limits above, we can take continuum limit of the binomial
 distribution
 
 \begin{equation}
@@ -68,7 +68,7 @@ distribution
     \frac{\lambda^k}{k!} e^{-\lambda} .
 \end{equation}
 
-The above probability mass function belongs to the [Poissson
+The above probability mass function belongs to the [Poisson
 distribution](https://en.wikipedia.org/wiki/Poisson_distribution).
 
 ## Obtaining solution
