@@ -1,5 +1,5 @@
 Title: Numberphile: The Math of Species Conflict
-Date: 2023-05-30 08:00
+Date: 2023-06-06 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, biology, competition
 Slug: numberphile-math-of-species-conflict
