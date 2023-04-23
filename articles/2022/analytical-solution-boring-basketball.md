@@ -1,7 +1,7 @@
 Title: Analytical solution of the boring basketball game
 Date: 2022-11-08 08:00
 Author: Aleksejus Kononovicius
-Tags: statistics, sports, linear algebra, python, FiveThirtyEight
+Tags: statistics, sports, linear algebra, Python, FiveThirtyEight
 Slug: analytical-solution-boring-basketball-game
 Status: published
 Image_url: uploads/2022/boring-basketball-schema-3.png

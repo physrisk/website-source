@@ -1,7 +1,7 @@
 Title: Poisson process
 Date: 2023-05-02 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, statistical physics, Poisson process
+Tags: Interactive models, statistics, statistical physics, Poisson process, Python
 Slug: poisson-process
 Status: draft
 Image_url: uploads/2023/poisson-process.png
@@ -85,7 +85,7 @@ satisfying
 \sum\_{k=0}^K \frac{4^k}{k!} e^{-4} \geq 0.95 .
 \end{equation}
 
-This problem can be easily solved numerically:
+This problem can be easily solved numerically using [Python](/tag/python/):
 
 ```python
 import numpy as np
