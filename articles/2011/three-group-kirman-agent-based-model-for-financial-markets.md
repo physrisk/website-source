@@ -1,7 +1,7 @@
 Title: Three group Kirman's agent-based model for financial markets
 Date: 2011-09-20 14:38
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, A. Kononovicius, Kirman model, P. Purlys, financial markets
+Tags: Agent-based models, Interactive models, A. Kononovicius, voter model, Kirman model, P. Purlys, financial markets
 Slug: three-group-kirman-agent-based-model-for-financial-markets
 Status: published
 

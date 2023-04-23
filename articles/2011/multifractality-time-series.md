@@ -1,7 +1,7 @@
 Title: Multifractality of time series
 Date: 2011-10-27 09:53
 Author: Aleksejus Kononovicius
-Tags: Fractals, Interactive models, Stochastic models, Kirman model, methods, multifractality
+Tags: Fractals, Interactive models, Stochastic models, voter model, Kirman model, methods, multifractality
 Slug: multifractality-time-series
 Status: published
 
