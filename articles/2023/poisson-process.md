@@ -3,7 +3,7 @@ Date: 2023-05-02 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, statistical physics, Poisson process, Python
 Slug: poisson-process
-Status: draft
+Status: published
 Image_url: uploads/2023/poisson-process.png
 
 Let us assume that you are a college professor. You teach and introductory
