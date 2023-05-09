@@ -3,7 +3,7 @@ Date: 2023-05-09 08:00
 Author: Aleksejus Kononovicius
 Tags: 3Blue1Brown, video, statistics, central limit theorem
 Slug: 3blue1brown-central-limit-theorem
-Status: draft
+Status: published
 
 [Central Limit Theorem](/tag/central-limit-theorem/) is one of the more
 important concepts in [statistics](/tag/statistics/). To put it simply: it
