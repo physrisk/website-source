@@ -70,5 +70,5 @@ black curve corresponds to the exponential distribution.
 [html5-interactive width="520" height="240" mode="iframe"
 url="/uploads/models/stats-basic/poisson-process/interarrival-times.html"]
 
-Note that the theoretical curve fits only when \\\( \lambda \Delta t \\\))
+Note that the theoretical curve fits only when \\\( \lambda \Delta t \\\)
 is reasonably small.
