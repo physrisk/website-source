@@ -3,7 +3,7 @@ Date: 2023-05-16 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, statistical physics, Poisson process
 Slug: poisson-process-interarrival-times
-Status: draft
+Status: published
 Image_url: uploads/2023/poisson-process-interarrival-times.png
 
 [Last time]({filename}/articles/2023/poisson-process.md) we have built a
