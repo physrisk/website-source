@@ -3,7 +3,7 @@ Date: 2023-05-30 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, statistical physics, Poisson process, aging effects
 Slug: waiting-time-distribution
-Status: draft
+Status: published
 Image_url: uploads/2023/waiting-time-distribution.png
 
 [Last time]({filename}/articles/2023/poisson-process-interarrival-times.md)
