@@ -120,7 +120,8 @@ interarrival distribution \\\( \langle\tau\rangle \\\) and the interarrival
 distribution itself.  Note that for the normal and uniform distributions
 setting \\\( T > \langle\tau\rangle \\\) may not make much sense, but
 otherwise feel free to explore!
+Note that the red curve corresponds to the interarrival time distribution
+(its PDF), while blue curve represents waiting time distribution (its PDF).
 
 [html5-interactive width="520" height="300" mode="iframe"
 url="/uploads/models/stats-basic/waiting-time/index.html"]
-
