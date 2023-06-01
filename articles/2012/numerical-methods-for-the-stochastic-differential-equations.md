@@ -73,7 +73,7 @@ would be [midpoint
 method](http://en.wikipedia.org/wiki/Midpoint_method "Read about the midpoint method on Wikipedia"),
 which is an improved version of the first order Euler method considered
 in this text. In order to further improve the precision one should
-become interested in higher order methods - ex. [Runge-Kutta 4^th^ order
+become interested in higher order methods - ex. [Runge-Kutta 4-th order
 method](http://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods "Read about the Runge-Kutta methods on Wikipedia").
 Another interesting idea might be implementation of variable time steps
 (see [further](#var-step)).

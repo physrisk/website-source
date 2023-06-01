@@ -6,7 +6,7 @@ Slug: presentations-39th-national-physics-conference
 Status: published
 
 We have contributed two presentations
-towards the recent 39^th^ Lithuanian National Physics Conference, which
+towards the recent 39th Lithuanian National Physics Conference, which
 was organized by Vilnius University and Lithuanian Physicist Society.
 Oral presentation by A. Kononovicius was based on some of the models
 presented on Physics of Risk website, while poster presentation by R.

@@ -72,7 +72,7 @@ existence of atoms. A few decades latter Ernst Ising (1900-1998)
 proposed an elementary model to explain ferromagnetism. [Ising
 model](/ising-model) is especially
 interesting due to exhibiting emergence of orderly structures.
-Furthermore by the middle of XX^th^ century physicists started to notice
+Furthermore by the middle of XX-th century physicists started to notice
 other inanimate systems, which exhibited emergence of orderly structure.
 These structures were something very fascinating, because they were
 found to emerge from the interactions between the particles rather than

@@ -40,7 +40,7 @@ institutions and architects, but the benefits would reaped by the
 society", - young scientist suggests one way of improving our everyday
 life by relying on physical thought.
 
-"In the second half of the XX^th^ century physicists noted that all the
+"In the second half of the XX-th century physicists noted that all the
 complex structures, such as a life and culture, emerged from a simple
 initial conditions, few elementary particles, during the Big Bang. It
 was somewhat peculiar that no one has thought of that before and that no
