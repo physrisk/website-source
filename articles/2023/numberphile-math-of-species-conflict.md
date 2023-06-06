@@ -3,7 +3,7 @@ Date: 2023-06-06 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, biology, competition
 Slug: numberphile-math-of-species-conflict
-Status: draft
+Status: published
 
 This [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
 video explore scenario of inter-species [competition](/tag/competition/).
