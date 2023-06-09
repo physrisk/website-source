@@ -6,6 +6,6 @@ Slug: numberphile-math-of-species-conflict
 Status: published
 
 This [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A)
-video explore scenario of inter-species [competition](/tag/competition/).
+video explores the scenarios of inter-species [competition](/tag/competition/).
 
 [youtube v="WR3GqqWAmfw"]
