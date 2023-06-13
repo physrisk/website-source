@@ -3,7 +3,7 @@ Date: 2023-06-13 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, statistical physics, Poisson process, paradox
 Slug: waiting-time-paradox
-Status: draft
+Status: published
 Image_url: uploads/2023/waiting-time-paradox.png
 
 [Last time]({filename}/articles/2023/waiting-time-distribution.md) we have
