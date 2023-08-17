@@ -15,9 +15,9 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 ## Completed thesis, term papers and internships
 
-**Term papers:** 19 (6 BSc + 14 MSc)
+**Term papers:** 20 (6 BSc + 14 MSc)
 
-**Thesis:** 16 (10 BSc + 4 MSc + 3 PhD)
+**Thesis:** 17 (10 BSc + 4 MSc + 3 PhD)
 
 **Internships:** 7
 
