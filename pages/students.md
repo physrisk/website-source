@@ -15,16 +15,20 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 ## Completed thesis, term papers and internships
 
-**Term papers:** 19 (6 BSc + 13 MSc)
+**Term papers:** 19 (6 BSc + 14 MSc)
 
-**Thesis:** 16 (9 BSc + 4 MSc + 3 PhD)
+**Thesis:** 16 (10 BSc + 4 MSc + 3 PhD)
 
 **Internships:** 7
 
-* During **the autumn of 2022** Justas Kvedravičius, fifth year student at
-  Vilnius University Faculty of Physics, wrote a term paper "Spatial
-  heterogeneity in Ising model with competing dynamics". The student was
+* During **2022-2023** Justas Kvedravičius, fifth year student at
+  Vilnius University Faculty of Physics, wrote two term papers related to
+  research on spatial heterogeneity. The student was
   supervised by Aleksejus Kononovicius.
+* During **the spring of 2023** Gediminas Joniskas, fourth year student at
+  Vilnius University Faculty of Physics, wrote a bachelor thesis "Processes
+  described by q-exponential waiting time distributions". The student was
+  supervised by Vygintas Gontis.
 * During **the spring of 2022** Justas Kvedravičius, fourth year student at
   Vilnius University Faculty of Physics, wrote a bachelor thesis
   "Scaling of empirical compartmental
