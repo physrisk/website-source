@@ -61,7 +61,10 @@ word occurances on Physics of Risk website."){#401st_words}
 
 Yet the picture we see (in the [above](#401st_words)) is remarkably similar:
 the data (red dots) reasonably well follows a power-law function of rank
-(dashed line). As ought to be expected, the most popular words are articles
+(dashed line). The exponent of the power-law function we have obtained is
+\\\( 0.95 \\\). Much closer to the expected unity.
+
+As ought to be expected, the most popular words are articles
 ("a", "an", "the"), conjunctions ("and") and prepositions ("of", "in", "to"
 and others). Excluding these and some other boring words the most popular
 words were: "model" (ranked 8th), "agent" (21st), and "time" (24th). Which
