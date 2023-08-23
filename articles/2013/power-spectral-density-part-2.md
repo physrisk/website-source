@@ -101,7 +101,7 @@ mathematically expressed as follows:
 Spectral densities of the aforementioned stochastic processes
 -------------------------------------------------------------
 
-Bellow you should see an interactive CDF program, which enables you to
+Bellow you should see an interactive program, which enables you to
 analyze spectral densities of the stochastic processes discussed above.
 \\\(  \sigma \\\) slider is important at all times as it controls the
 standard deviation of the underlying (the time series of the other
