@@ -59,10 +59,9 @@ as long as you appropriately attribute (refer/link to) this blog.
 
 If in doubt, please contact the blog maintainer.
 
-Markdown files used to produce posts and pages on Physics of Risk are stored on
-GitHub (see [https://github.com/akononovicius/physRisk-content-repository](https://github.com/akononovicius/physRisk-content-repository)).
-
-Interactive app source code can be also found on GitHub (see [https://github.com/akononovicius/physRisk-model-repository](https://github.com/akononovicius/physRisk-model-repository)).
+Source files used to generate this blog are stored on
+GitHub (see
+[https://github.com/physrisk/website-source](https://github.com/physrisk/website-source)).
 
 ## If you have noticed an error
 
