@@ -3,12 +3,13 @@ Date: 2017-10-13
 Slug: about
 Order: 0
 
-On this blog we discuss a variety of [topics](/topics/) related to the research
+On this blog we discuss a variety of [topics]({filename}/pages/topics.md) related to the research
 interests of our Complex Physical and Social Systems group in [Vilnius University](https://www.vu.lt/)
 [Faculty of Physics](https://www.ff.vu.lt/)
 [Institute of Theoretical Physics and Astronomy](https://www.ff.vu.lt/tfai). We try
 to cover research done by us as well as related research carried out by other
-groups from around the world. The considered [topics](/topics/) are
+groups from around the world. The considered
+[topics]({filename}/page/topics.md) are
 rather well encompassed by the term Physics of Risk, hence the name and the
 logo (it imitates the phrase "more physics, less risk") of this blog.
 Originally this term was a title of EU COST project,
@@ -30,14 +31,14 @@ We are part of the [mokslasplius.lt](https://mokslasplius.lt) website
 portal.
 
 **Currently this blog is maintaned** by
-[Aleksejus Kononovicius](http://kononovicius.lt).
+[Aleksejus Kononovicius](https://kononovicius.lt).
 
 ## Members of our Complex Physical and Social Systems group
 
-* [dr. Vygintas Gontis](http://gontis.eu) (head of the group)
+* [dr. Vygintas Gontis](https://gontis.eu) (head of the group)
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/)
 * dr. Rytis Kazakevičius
-* [dr. Aleksejus Kononovicius](http://kononovicius.lt)
+* [dr. Aleksejus Kononovicius](https://kononovicius.lt)
 * dr. Dalia Šatkovskienė (affiliated member)
 * [dr. Viktor Novičenko](http://www.itpa.lt/%7Enovicenko/) (associated member)
 
