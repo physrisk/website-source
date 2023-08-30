@@ -1,4 +1,4 @@
-Title: Our privacy policy
+Title: Our Privacy Policy
 Date: 2023-08-30
 Order: 3
 Url: privacy-policy.html
