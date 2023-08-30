@@ -43,6 +43,11 @@ over their privacy policies, but we do try to limit the possible privacy
 concerns (e.g., for YouTube videos we use embeds from `youtube-nocookie.com`
 domain).
 
+## Search functionality
+
+Search functionality on our website is being provided by
+[Google](https://google.com).
+
 ## Improving our privacy practices
 
 We are always looking for ways to improve experience and privacy of our
