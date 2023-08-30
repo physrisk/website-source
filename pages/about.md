@@ -9,7 +9,7 @@ interests of our Complex Physical and Social Systems group in [Vilnius Universit
 [Institute of Theoretical Physics and Astronomy](https://www.ff.vu.lt/tfai). We try
 to cover research done by us as well as related research carried out by other
 groups from around the world. The considered
-[topics]({filename}/page/topics.md) are
+[topics]({filename}/pages/topics.md) are
 rather well encompassed by the term Physics of Risk, hence the name and the
 logo (it imitates the phrase "more physics, less risk") of this blog.
 Originally this term was a title of EU COST project,
