@@ -1,104 +1,55 @@
-Title: Privacy policy for Physics of Risk
-Date: 2017-11-07
+Title: Our privacy policy
+Date: 2023-08-30
 Order: 3
 Url: privacy-policy.html
 Save_as: privacy-policy.html
 Status: hidden
 
-At Physics of Risk, accessible from <https://rf.mokslasplius.lt>, one of our
-main priorities is the privacy of our visitors. This Privacy Policy document
-contains types of information that is collected and recorded by Physics of
-Risk and how we use it.
+Here, on Physics of Risk, we do not collect any information about our
+visitors. We do not keep any logs or collect statistics whatsoever.
 
-If you have additional questions or require more information about our
-Privacy Policy, do not hesitate to contact us. Our Privacy Policy was
-generated with the help of [https://www.gdprprivacypolicy.net](GDPR Privacy
-Policy Generator from GDPRPrivacyPolicy.net)
+Below we share information regarding third party services used on our
+website.
 
-## General Data Protection Regulation (GDPR)
+## Our hosting provider
 
-We are a Data Controller of your information.
- 
-Physics of Risk legal basis for collecting and using the personal
-information described in this Privacy Policy depends on the Personal
-Information we collect and the specific context in which we collect the
-information:
+We are using [GitHub Pages](https://pages.github.com/) to host this blog. As
+far as we are aware, whenever a GitHub Pages site is visited, the visitor's
+IP address is logged by the platform for security purposes (see
+[here](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection)).
+We are not aware of any other information being collected.
 
-* Physics of Risk needs to perform a contract with you
-* You have given Physics of Risk permission to do so
-* Processing your personal information is in Physics of Risk legitimate
-  interests
-* Physics of Risk needs to comply with the law
-  
-Physics of Risk will retain your personal information only for as long as is
-necessary for the purposes set out in this Privacy Policy. We will retain
-and use your information to the extent necessary to comply with our legal
-obligations, resolve disputes, and enforce our policies. 
+## Third party services embed in our theme
 
-If you are a resident of the European Economic Area (EEA), you have certain
-data protection rights. If you wish to be informed what Personal Information
-we hold about you and if you want it to be removed from our systems, please
-contact us.
+Our theme uses [Bunny Fonts](https://fonts.bunny.net) service to serve nice
+fonts. They are privacy respecting EU-based company. If you have any
+concerns regarding them feel free to block their respective domain in your
+browser settings.
 
-In certain circumstances, you have the following data protection rights:
+Our theme uses [JSDelivr](https://www.jsdelivr.com/) CDN to serve
+[MathJax](https://www.mathjax.org/), which is responsible for showing
+formatted mathematical formulas in our posts. You may block this CDN, but
+then you'll be seeing raw LaTeX code in place of the equations.
 
-* The right to access, update or to delete the information we have on you.
-* The right of rectification. 
-* The right to object.
-* The right of restriction.
-* The right to data portability
-* The right to withdraw consent
+Our theme uses [Cloudflare](https://www.cloudflare.com/) CDN to serve
+[Bootstrap framework](https://getbootstrap.com/docs/3.3/). It is the
+backbone of our theme. Blocking this resource will break the look of our
+site.
 
-## Log Files
+## Third party content shared on our website
 
-Physics of Risk follows a standard procedure of using log files. These files
-log visitors when they visit websites. All hosting companies do this and a
-part of hosting services' analytics. The information collected by log files
-include internet protocol (IP) addresses, browser type, Internet Service
-Provider (ISP), date and time stamp, referring/exit pages, and possibly the
-number of clicks. These are not linked to any information that is personally
-identifiable. The purpose of the information is for analyzing trends,
-administering the site, tracking users' movement on the website, and
-gathering demographic information.
+Occasionally we share content from third party websites. We have no control
+over their privacy policies, but we do try to limit the possible privacy
+concerns (e.g., for YouTube videos we use embeds from `youtube-nocookie.com`
+domain).
 
-## Third Party Privacy Policies
+## Improving our privacy practices
 
-Physics of Risk's Privacy Policy does not apply to other advertisers or
-websites. Thus, we are advising you to consult the respective Privacy
-Policies of these third-party ad servers for more detailed information. It
-may include their practices and instructions about how to opt-out of certain
-options. 
-
-You can choose to disable cookies through your individual browser options.
-To know more detailed information about cookie management with specific web
-browsers, it can be found at the browsers' respective websites.
-
-## Children's Information
-
-Another part of our priority is adding protection for children while using
-the internet. We encourage parents and guardians to observe, participate in,
-and/or monitor and guide their online activity.
-
-Physics of Risk does not knowingly collect any Personal Identifiable
-Information from children under the age of 13. If you think that your child
-provided this kind of information on our website, we strongly encourage you
-to contact us immediately and we will do our best efforts to promptly remove
-such information from our records.
-
-## Online Privacy Policy Only
-
-Our Privacy Policy (created at GDPRPrivacyPolicy.net) applies only to our
-online activities and is valid for visitors to our website with regards to
-the information that they shared and/or collect in Physics of Risk. This
-policy is not applicable to any information collected offline or via
-channels other than this website.
+We are always looking for ways to improve experience and privacy of our
+visitors. If you have any suggestions, please [contact the
+maintainer]({filename}/pages/about.md).
 
 ## Consent
 
-By using our website, you hereby consent to our Privacy Policy and agree to
+By using our website, you hereby accept our Privacy Policy and agree to
 its terms.
-
-## Contact Us
-
-If you have any questions or suggestions about our Privacy Policy, do not
-hesitate to [contact the website maintainer]({filename}/pages/about.md).
