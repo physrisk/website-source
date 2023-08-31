@@ -7,7 +7,7 @@ Status: draft
 Image_url: uploads/2023/poisson-process-psd.png
 
 [Earlier]({filename}/articles/2023/poisson-process.md) we have
-started talking about the [Poisson processes](/tag/poisson-process). In the
+started talking about the [Poisson processes](/tag/poisson-process/). In the
 few posts before the summer holidays we have driven our discussion towards
 [waiting time paradox]({filename}/articles/2023/waiting-time-paradox.md),
 which is an interesting phenomenon we encounter in our day-to-day lives.
