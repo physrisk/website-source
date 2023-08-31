@@ -131,7 +131,7 @@ If \\\( \tau\_i \\\) are identically distributed, then:
         \chi\_\tau(f)^{m-1-k} .
 \end{equation}
 
-In the above \\\( \chi_\tau(f) \\\) is the characteristic function of the
+In the above \\\( \chi\_\tau(f) \\\) is the characteristic function of the
 inter-event time distribution. Thus we have that:
 
 \begin{equation}
