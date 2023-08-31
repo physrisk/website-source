@@ -13,6 +13,10 @@ the [language statistics](/tag/language-statistics/) of our posts.
 Particularly, we can ask a question whether [Zipf's law](/tag/zipfs-law)
 applies for our posts.
 
+Technically this 402nd post, but it was written before the [previous
+post]({filename}/articles/2023/summer-2023.md). So let us still celebrate
+now :)
+
 ## Zipf's law
 
 [Zipf's law](/tag/zipfs-law) is an empirical observation, that often in
