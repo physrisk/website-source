@@ -72,6 +72,28 @@ obtained for the \\\( k = 2 \\\) case is reproduced with other \\\( k > 1
 exponential distribution, and thus [the earlier derived
 result]({filename}/articles/2023/poisson-process-psd.md) is reproduced.
 
+## The intuition
+
+So, the question one could ask would be why the power spectral density is
+lower for frequencies lower than even rate, and higher for frequencies
+larger than event rate. I explain this result to myself by thinking that as
+\\\( k \\\) grows larger extremely small inter-event times become extremely
+unlikely. Thus there is very little "action" on the smallest time scales.
+
+But larger \\\( k \\\) imply that extremely long inter-event times also
+become notably less likely. But for some reason, this can't be as quickly
+seen in the power spectral density. As both short and long inter-event times
+become less likely, inter-event times in the vicinity of \\\( 1 / \lambda
+\\\) becomes more likely. Thus at certain point we should start observing
+signs of [the periodicity in the spectral
+density]({filename}/articles/2013/power-spectral-density-part-1.md). And
+this is indeed true as is shown in the figure below.
+
+![Power spectral density of the point process with Weibull inter-event times
+for extremely large k]({static}/uploads/2023/point-process-psd-weibull.png
+"Power spectral density of the point process with Weibull inter-event
+times for k=500.")
+
 ## Interactive app
 
 Interactive app below samples time series from the [point
