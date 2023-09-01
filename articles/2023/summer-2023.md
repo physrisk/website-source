@@ -7,7 +7,7 @@ Status: published
 
 Over the summer I (Aleksejus) was contacted by some people from MathWorks
 who have seen [my rant (post) about
-Matlab]({filename}/article/2023/wont-be-teaching-matlab.md). I got kindly
+Matlab]({filename}/articles/2023/wont-be-teaching-matlab.md). I got kindly
 asked if I could provide a more detailed feedback. Sadly (or happily?) I
 have already forgot most of my experience with [Matlab](/tag/matlab/). There
 are lots of memes about [Matlab](/tag/matlab/) online, so I guess I am not
