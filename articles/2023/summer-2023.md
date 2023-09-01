@@ -3,7 +3,7 @@ Date: 2023-09-01 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, Matlab, GitHub
 Slug: it-is-september-again-2023
-Status: draft
+Status: published
 
 Over the summer I (Aleksejus) was contacted by some people from MathWorks
 who have seen [my rant (post) about
