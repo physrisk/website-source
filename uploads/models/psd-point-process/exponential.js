@@ -8,7 +8,11 @@ const PERIOD = 1;
 const OBSERVATION_TIME = OBSERVATION_STEPS * PERIOD;
 
 let series_plot = new plotlyPlot("seriesPlot", ["t", "I(t)"], [10, 15, 40, 60]);
-let psd_plot = new plotlyPlot("psdPlot", ["lg[f]", "lg[S(f)]"], [10, 15, 40, 60]);
+let psd_plot = new plotlyPlot(
+    "psdPlot",
+    ["lg[f]", "lg[S(f)]"],
+    [10, 15, 40, 60]
+);
 
 const COLORS = ["#c11", "#444"];
 
@@ -52,10 +56,39 @@ function convert_series(series) {
     return plot_series;
 }
 
+function get_psd(series) {
+    let bin_factor = Math.pow(OBSERVATION_STEPS, 1 / (PSD_POINTS + 1));
+    let bin_edges = jStat.unique(
+        Array(PSD_POINTS)
+            .fill(null)
+            .map((v, i) => {
+                return Math.floor(Math.pow(bin_factor, i + 1));
+            })
+    );
+    let bin_mids = bin_edges.map((v, i) => {
+        if (i == 0) {
+            return v / OBSERVATION_TIME;
+        }
+        return (v + bin_edges[i - 1] + 1) / (2 * OBSERVATION_TIME);
+    });
+
+    let series_mean = series.n_events / series.series.length;
+    let normalized_series = series.series.map((v) => v - series_mean);
+    let raw_psd = real_psd(normalized_series);
+    let norm_psd = rescale_psd(
+        raw_psd.map((v) => (2 * Math.PI * v) / OBSERVATION_TIME),
+        bin_edges
+    );
+    return {
+        freq: bin_mids,
+        psd: norm_psd,
+    };
+}
+
 function run(rate = 1e-4) {
     let series = generate_series(rate);
     let plot_series = convert_series(series);
-    let psd = get_psd(series.series);
+    let psd = get_psd(series);
 
     if (plot_series != null) {
         series_plot.update(
@@ -87,33 +120,6 @@ function run(rate = 1e-4) {
         "lines",
         COLORS
     );
-}
-
-function get_psd(series) {
-    let bin_factor = Math.pow(OBSERVATION_STEPS, 1 / (PSD_POINTS + 1));
-    let bin_edges = jStat.unique(
-        Array(PSD_POINTS)
-            .fill(null)
-            .map((v, i) => {
-                return Math.floor(Math.pow(bin_factor, i + 1));
-            })
-    );
-    let bin_mids = bin_edges.map((v, i) => {
-        if (i == 0) {
-            return v / OBSERVATION_TIME;
-        }
-        return (v + bin_edges[i - 1] + 1) / (2 * OBSERVATION_TIME);
-    });
-
-    let raw_psd = real_psd(series);
-    let norm_psd = rescale_psd(
-        raw_psd.map((v) => (2 * Math.PI * v) / OBSERVATION_TIME),
-        bin_edges
-    );
-    return {
-        freq: bin_mids,
-        psd: norm_psd,
-    };
 }
 
 let generate_btn = document.getElementById("generate");
