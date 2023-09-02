@@ -13,6 +13,7 @@ have already forgot most of my experience with [Matlab](/tag/matlab/). There
 are lots of memes about [Matlab](/tag/matlab/) online, so I guess I am not
 the only one with similar experience. To be fair, I think one of the issues
 is that a lot of Matlab handbooks are quite dated. Not in a sense that there
+are
 no new handbooks, but in a sense that the authors of many of even newer
 handbooks are not that well familiar with newest best practices in Matlab.
 
