@@ -1,5 +1,5 @@
 Title: A. Downey: Long-tailed distributions in the natural and engineered world
-Date: 2023-09-14 08:00
+Date: 2023-09-12 08:00
 Author: Aleksejus Kononovicius
 Tags: A. Downey, SciPy, video, statistics
 Slug: a-downey-long-tailed-distributions
