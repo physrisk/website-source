@@ -5,9 +5,11 @@ Tags: Iain Explains, video, statistics, spectral density
 Slug: iain-explains-power-spectral-density
 Status: draft
 
-Over the last few posts we have been talking about the power spectral
-density of different random processes. We have used the fact that it a
-modulus of the signal's Fourier transform squared. But what is the meaning
-of the power spectral density? Watch the video below for some intuition.
+Over the last few posts we have been talking about the [power spectral
+density](/tag/spectral-density/) of different random processes. We have used
+the fact that it is a modulus of the signal's [Fourier
+transform](/tag/fourier-transform/) squared. But what is the meaning of the
+[power spectral density](/tag/spectral-density/)?  Watch the video by "[Iain
+Explains](https://www.youtube.com/@iain_explains)" below for some intuition.
 
 [youtube v="DoSLMEEo1Y0"]
