@@ -3,7 +3,7 @@ Date: 2023-09-05 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, statistics, language statistics, Zipf's law
 Slug: 401st-post
-Status: draft
+Status: published
 Image_url: uploads/2023/401st-tags.png
 
 The [post]({filename}/articles/2023/waiting-time-paradox.md) we have posted
