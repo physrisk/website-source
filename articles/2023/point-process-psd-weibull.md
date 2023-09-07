@@ -29,7 +29,8 @@ distribution, which takes into account aging effects:
 \end{equation}
 
 If its shape parameter \\\( k = 1 \\\) there are no aging effects (the event
-rate remains constant). For lower \\\( k \\\) the event rate decreases with
+rate remains constant) and the distribution is equivalent to the exponential
+distribution. For lower \\\( k \\\) the event rate decreases with
 time, which means that extreme (both short and long) event times become more
 frequent. For higher \\\( k \\\) the event rate increases in time, thus most
 events happen at intermediate times.
