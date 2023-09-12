@@ -3,7 +3,7 @@ Date: 2023-09-12 08:00
 Author: Aleksejus Kononovicius
 Tags: A. Downey, SciPy, video, statistics
 Slug: a-downey-long-tailed-distributions
-Status: draft
+Status: published
 
 [Prof. Allen Downey](https://www.allendowney.com/) has written quite a few
 books I have enjoyed reading ("Think Java", "Think Stats", "Think Bayes" and
