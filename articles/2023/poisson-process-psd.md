@@ -3,7 +3,7 @@ Date: 2023-09-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, Poisson process, Fourier transform, spectral density, white noise
 Slug: poisson-process-psd
-Status: draft
+Status: published
 Image_url: uploads/2023/poisson-process-psd.png
 
 [Earlier]({filename}/articles/2023/poisson-process.md) we have
