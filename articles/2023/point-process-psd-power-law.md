@@ -70,7 +70,7 @@ that:
 
 Thus, for the particular case of \\\( \alpha = 1 \\\), we obtain:
 \begin{equation}
-    S(f) \propto \frac{1}{f \tau\_{\mathrm{min}} ( \pi^2 + 4 [1 - C\_\gamma - \ln(2\pi f \tau\_{\mathrm{min}})]^2)} \right\) .
+    S(f) \propto \frac{1}{f \tau\_{\mathrm{min}} ( \pi^2 + 4 [1 - C\_\gamma - \ln(2\pi f \tau\_{\mathrm{min}})]^2)} .
 \end{equation}
 
 As long as \\\( \pi^2 \gg 4 [1 - C\_\gamma - \ln(2\pi f
@@ -85,13 +85,13 @@ For the other cases, we do not obtain \\\( 1/f \\\) dependencies, but we get
 something reasonably close. For \\\( 0 < \alpha < 1 \\\):
 
 \begin{equation}
-    S(f) \propto \frac{1}{f^\alpha} \right) .
+    S(f) \propto \frac{1}{f^\alpha}.
 \end{equation}
 
 While for \\\( 1 < \alpha < 2 \\\), we have:
 
 \begin{equation}
-    S(f) \propto \frac{1}{f^{2-\alpha}} \right) .
+    S(f) \propto \frac{1}{f^{2-\alpha}}.
 \end{equation}
 
 So for \\\( \alpha \\\) not close to unity we have pure power-law dependence
