@@ -95,7 +95,7 @@ function get_theory(freqs, exp_psd, exponent = 1) {
     let result = [];
     if (exponent == 1) {
         result = freqs.map((f) => {
-            return (1 / f) * Math.pow(Math.log(f), -2);
+            return (1 / f) * Math.pow(0.422784 - Math.log(f), -2);
         });
     } else if (exponent > 1) {
         result = freqs.map((f) => {
