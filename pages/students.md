@@ -17,7 +17,7 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 **Term papers:** 20 (6 BSc + 14 MSc)
 
-**Thesis:** 17 (10 BSc + 4 MSc + 3 PhD)
+**Theses:** 17 (10 BSc + 4 MSc + 3 PhD)
 
 **Internships:** 7
 
