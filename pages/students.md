@@ -21,7 +21,7 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 **Internships:** 7
 
-* During **2022-2023** Justas Kvedravičius, fifth year student at
+* During **2022-2023** Justas Kvedaravičius, fifth year student at
   Vilnius University Faculty of Physics, wrote two term papers related to
   research on spatial heterogeneity. The student was
   supervised by Aleksejus Kononovicius.
@@ -29,7 +29,7 @@ We will try to schedule a meeting to find a problem you could tackle.
   Vilnius University Faculty of Physics, wrote a bachelor thesis "Processes
   described by q-exponential waiting time distributions". The student was
   supervised by Vygintas Gontis.
-* During **the spring of 2022** Justas Kvedravičius, fourth year student at
+* During **the spring of 2022** Justas Kvedaravičius, fourth year student at
   Vilnius University Faculty of Physics, wrote a bachelor thesis
   "Scaling of empirical compartmental
   distributions". A related term paper was prepared during the autumn of 2021.
