@@ -25,7 +25,7 @@ We will try to schedule a meeting to find a problem you could tackle.
   Vilnius University Faculty of Physics, wrote two term papers related to
   research on spatial heterogeneity. The student was
   supervised by Aleksejus Kononovicius.
-* During **the spring of 2023** Gediminas Joniskas, fourth year student at
+* During **the spring of 2023** Gediminas Jonikas, fourth year student at
   Vilnius University Faculty of Physics, wrote a bachelor thesis "Processes
   described by q-exponential waiting time distributions". The student was
   supervised by Vygintas Gontis.
