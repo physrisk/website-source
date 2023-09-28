@@ -98,11 +98,14 @@ and you may change this value as desired. The height of the pulses is fixed to
 \\\( 1 \\\), as the [power spectral density](/tag/spectral-density/)
 dependence on the height of the pulses is trivial.
 
-Note that the pulses may overlap, because the inter-event time \\\( \tau
-\\\) in this case is treated as the duration between the starting times of
+Note that the pulses may overlap, because the inter-event time \\\( \tau \\\)
+(it is sampled from an exponential distribution with rate \\\( \lambda \\\))
+in this case is treated as the duration between the starting times of
 the pulses. So if a particular inter-event time is smaller than the fixed
 duration of the pulse, i.e., \\\( \tau\_i < \theta \\\), then multiple
-pulses could overlap. In the [earlier point process
+pulses could overlap. To avoid excessive overlaps, which slow down the
+simulation by a lot, we have limited the possible rates, so that
+\\\( \lambda \leq \frac{1}{\theta} \\\). In the [earlier point process
 model]({filename}/articles/2023/poisson-process-psd.md) this was not
 possible, because the pulses had negligible duration.
 
