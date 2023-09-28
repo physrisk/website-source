@@ -68,7 +68,7 @@ function get_psd(series) {
 
 function get_theory(freqs, n_events, lambda, T) {
     let bar_nu = n_events / OBSERVATION_TIME;
-    let const_term = 4 * Math.PI * bar_nu;
+    let const_term = 12 * bar_nu;
     return freqs.map((f) => {
         let omega = 2 * Math.PI * f;
         let omega_T = omega * T;
