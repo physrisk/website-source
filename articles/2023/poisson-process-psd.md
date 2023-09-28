@@ -36,7 +36,7 @@ transform](/tag/fourier-transform/) of such signal is given by:
 \begin{equation}
     \mathcal{F}\left\\{ I(t) \right\\} =
         \sqrt{\frac{2}{T}} \int\_0^T I(t) e^{-2 \pi \mathrm{i} f t} \mathrm{d}t =
-        \sqrt{\frac{2}{T}} \int\_0^T \sum\_k A(t-t\_k) e^{-2 \pi \mathrm{i} f t} \mathrm{d}t
+        \sqrt{\frac{2}{T}} \int\_0^T \sum\_k A(t-t\_k) e^{-2 \pi \mathrm{i} f t} \mathrm{d}t .
 \end{equation}
 
 Because of the linearity of the [Fourier transform](/tag/fourier-transform/)
@@ -85,7 +85,7 @@ density](/tag/spectral-density/) of the signal:
             \frac{2}{T} \lvert
                     \sum\_k e^{-2 \pi \mathrm{i} f t\_k}
                 \rvert^2
-        \right\rangle
+        \right\rangle .
 \end{equation}
 
 The modulus squared in the above can be rewritten as a multiplication of two
@@ -95,7 +95,7 @@ have:
 \begin{equation}
     S(f) = \lim\_{T\rightarrow\infty} \left\langle
             \frac{2}{T} \sum\_k \sum\_m e^{2 \pi \mathrm{i} f (t\_m - t\_k)}
-        \right\rangle
+        \right\rangle .
 \end{equation}
 
 Let us separate the terms with identical indices \\\( m = k \\\), as their
@@ -104,7 +104,7 @@ sum is trivially equal to \\\( N \\\) (number of bursts):
 \begin{equation}
     S(f) = \lim\_{T\rightarrow\infty} \left\langle
             \frac{2}{T} \left( N + \sum\_k \sum\_{m\neq k} e^{2 \pi \mathrm{i} f (t\_m - t\_k)} \right)
-        \right\rangle
+        \right\rangle .
 \end{equation}
 
 The sum over \\\( m \neq k \\\) can be simplified by recalling that square
