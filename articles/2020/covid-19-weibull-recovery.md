@@ -17,7 +17,7 @@ meaning. It means that the recovery rate is constant in time. Namely, it does
 not matter how long some one is sick, the time one will continue being sick
 will be exponentially distributed with the same recovery rate.
 
-Weibull distribution takes into account aging effects. Namely, the recovery
+Weibull distribution takes into account ageing effects. Namely, the recovery
 rate varies in time:
 
 * With \\\( k < 1 \\\) it decreases in time. While larger number of quick
