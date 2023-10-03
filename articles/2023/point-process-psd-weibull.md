@@ -3,7 +3,7 @@ Date: 2023-10-03 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, Poisson process, point process, Fourier transform, spectral density, ageing effects
 Slug: point-process-psd-weibull
-Status: draft
+Status: published
 Image_url: uploads/2023/point-process-psd-weibull.png
 
 In [the previous post]({filename}/articles/2023/poisson-process-psd.md) we
