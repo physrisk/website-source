@@ -3,7 +3,7 @@ Date: 2023-10-10 08:00
 Author: Aleksejus Kononovicius
 Tags: Iain Explains, video, statistics, spectral density
 Slug: iain-explains-power-spectral-density
-Status: draft
+Status: published
 
 Over the last few posts we have been talking about the [power spectral
 density](/tag/spectral-density/) of different random processes. We have used
