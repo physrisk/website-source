@@ -23,7 +23,7 @@ possible of inter-event times: they must be larger or equal to \\\(
 
 \begin{equation}
 p\left(\tau\right)=\begin{cases}
-\frac{\alpha\tau\_{\mathrm{min}}^{\alpha}}{1-\left(\frac{\tau\_{\mathrm{min}}}{\tau\_{\mathrm{max}}}\right)^{\alpha}}\cdot\frac{1}{\tau^{\alpha+1}} & \text{for }\tau\_{\mathrm{min}}\leq\tau\leq\tau\_{\mathrm{max}},\\
+\frac{\alpha\tau\_{\mathrm{min}}^{\alpha}}{1-\left(\frac{\tau\_{\mathrm{min}}}{\tau\_{\mathrm{max}}}\right)^{\alpha}}\cdot\frac{1}{\tau^{\alpha+1}} & \text{for }\tau\_{\mathrm{min}}\leq\tau\leq\tau\_{\mathrm{max}},\\\\
 0 & \text{otherwise}.
 \end{cases}
 \end{equation}
