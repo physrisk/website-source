@@ -3,7 +3,7 @@ Date: 2023-10-17 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, Poisson process, point process, Fourier transform, spectral density
 Slug: point-process-psd-power-law
-Status: draft
+Status: published
 Image_url: uploads/2023/point-process-psd-power-law.png
 
 In [the previous
