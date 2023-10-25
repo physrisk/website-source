@@ -171,7 +171,7 @@ process](/tag/poisson-process/). To verify the analytical intuitions above,
 we perform [spectral analysis](/tag/spectral-density/) on the discretized
 time series. The discretized time series are obtained by counting the number
 of events inside unit time windows (the top plot). In total \\\( 2^{20} \\\)
-(roughly one million) such time windows are observed each time "Generate
+(roughly one million) such time windows are observed each time "Generate"
 button is pressed. PSD of the sampled series is shown in the bottom plot as
 a red curve, the dark gray curve indicates theoretical prediction.
 
