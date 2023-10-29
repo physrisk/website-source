@@ -1,7 +1,7 @@
 Title: Lots of activities during the summer of 2013
 Date: 2013-06-03 07:18
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Economics, Stochastic models, A. Kononovicius, B. Kaulakys, I. Kazakevicius, J. Ruseckas, K. Acus, Kirman model, Levy processes, R. Kazakevičius, V. Daniunas, V. Gontis, VU FF, economic convergence, conference, macroeconomics, students
+Tags: Agent-based models, General information, Economics, Stochastic models, A. Kononovicius, B. Kaulakys, I. Kazakevicius, J. Ruseckas, K. Acus, Kirman model, Levy processes, R. Kazakevičius, V. Daniunas, V. Gontis, VU FF, economic convergence, conference, macroeconomics, students, ICNF, WEHIA, STICS
 Slug: lots-of-activities-during-the-summer-of-2013
 Status: published
 

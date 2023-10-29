@@ -1,7 +1,7 @@
 Title: February and March active time for econophysicists
 Date: 2012-03-31 07:51
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Stochastic models, 1/f noise, A. Kononovicius, B. Kaulakys, COST MP0801, Kirman model, P. Purlys, R. Kazakevičius, V. Gontis, conference, burst statistics
+Tags: Agent-based models, General information, Stochastic models, 1/f noise, A. Kononovicius, B. Kaulakys, COST MP0801, Kirman model, P. Purlys, R. Kazakevičius, V. Gontis, conference, burst statistics, UPoN, DPG, Open Readings,
 Slug: february-and-march-active-time-for-econophysicists
 Status: published
 
@@ -35,7 +35,7 @@ Jerusalem.
 The main topics were also covered by A. Kononovicius in the Spring
 Meeting of German Physical Society (de. DPG) in Berlin. He talked about
 the Kirman model - ["Microscopic herding model leading to long-range
-processes and 1/f noise with application to absolute return in ﬁnancial
+processes and 1/f noise with application to absolute return in financial
 markets"](/uploads/2012/03/Kaulakys2012Verhandlungen.pdf).
 While also giving a poster presentation on the burst statistics -
 ["Bursting behavior of non-linear stochastic model and empirical
