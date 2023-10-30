@@ -10,7 +10,9 @@ A member of our research group gave a talk on Nobel prize awarded in 2021 at
 Habil. dr. [B. Kaulakys](/tag/b-kaulakys/) talked about the research for
 which the prize was awarded and how this research relates to works by
 Lithuanian physicists (mostly our group) and mathematicians. We invite you
-to watch it, but note that the recording is in Lithuanian.
+to watch it, but note that the recording is in Lithuanian. The slides, also
+in Lithuanian, are available
+[here]({static}/uploads/2023/Kaulakys_LNFK-2023.pdf).
 
 [youtube v="tT4I2JVdc0Q"]
 
