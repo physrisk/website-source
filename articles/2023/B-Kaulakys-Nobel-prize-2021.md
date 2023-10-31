@@ -3,7 +3,7 @@ Date: 2023-10-31 08:00
 Author: Bronislovas Kaulakys
 Tags: video, B. Kaulakys, conference, LNFK, VU FF, Nobel prize, complex systems
 Slug: b-kaulakys-nobel-prize-2021
-Status: draft
+Status: published
 
 A member of our research group gave a talk on Nobel prize awarded in 2021 at
 [45th Lithuanian National Physics Conference](https://www.ff.vu.lt/lnfk-45).
