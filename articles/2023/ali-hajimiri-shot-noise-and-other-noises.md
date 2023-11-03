@@ -1,5 +1,5 @@
 Title: Ali Hajimiri: Shot noise and other noises
-Date: 2023-11-07 08:00
+Date: 2023-11-21 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Ali Hajimiri, statistics, shot noise, 1/f noise, spectral density
 Slug: ali-hajimiri-shot-noise-and-other-noises
