@@ -82,9 +82,9 @@ density](/tag/spectral-density/) of the signal:
 
 \begin{equation}
     S(f) = \lim\_{T\rightarrow\infty} \left\langle
-            \frac{2}{T} \lvert
+            \frac{2}{T} \left\lvert
                     \sum\_k e^{-2 \pi \mathrm{i} f t\_k}
-                \rvert^2
+                \right\rvert^2
         \right\rangle .
 \end{equation}
 
