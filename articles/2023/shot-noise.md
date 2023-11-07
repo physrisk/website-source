@@ -60,11 +60,11 @@ given by
 
 \begin{equation}
     S(f) = \lim\_{T\rightarrow\infty} \left\langle
-            \frac{2}{T} \cdot \lvert
+            \frac{2}{T} \cdot \left\lvert
                 \frac{\mathrm{i}}{2 \pi f} \left(e^{-2\pi\mathrm{i} f \theta} - 1 \right)
-            \rvert^2 \cdot \lvert
+            \right\rvert^2 \cdot \left\lvert
                     \sum\_k e^{-2 \pi \mathrm{i} f t\_k}
-                \rvert^2
+                \right\rvert^2
         \right\rangle .
 \end{equation}
 
@@ -73,7 +73,7 @@ As we have dealt with the most of the complications of the above in an
 just deal with
 
 \begin{equation}
-    \lvert \frac{\mathrm{i}}{2 \pi f} \left(e^{-2\pi\mathrm{i} f \theta} - 1 \right) \rvert^2 =
+    \left\lvert \frac{\mathrm{i}}{2 \pi f} \left(e^{-2\pi\mathrm{i} f \theta} - 1 \right) \right\rvert^2 =
         \frac{1}{2 \pi^2 f^2} \left[1 - \cos\left(2 \pi f \theta \right) \right].
 \end{equation}
 
