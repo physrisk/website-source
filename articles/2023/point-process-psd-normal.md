@@ -3,7 +3,7 @@ Date: 2023-11-07 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, point process, spectral density
 Slug: point-process-psd-normal
-Status: draft
+Status: published
 Image_url: uploads/2023/point-process-psd-normal.png
 
 I have also attended couple of conferences in the end of October. At
