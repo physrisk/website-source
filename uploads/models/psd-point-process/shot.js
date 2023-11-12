@@ -19,7 +19,7 @@ const COLORS = ["#c11", "#444"];
 function generate_series(rate = 1, shot_duration = 1) {
     let series = Array(OBSERVATION_STEPS).fill(0);
     let n_events = 0;
-    let tau = Math.max(rng.exponential(rate), 1);
+    let tau = rng.exponential(rate);
     let event_time = tau;
     while (event_time < OBSERVATION_TIME) {
         let from = Math.floor(event_time / PERIOD);
@@ -28,7 +28,7 @@ function generate_series(rate = 1, shot_duration = 1) {
             series[i] += 1;
         }
         n_events += 1;
-        tau = Math.max(rng.exponential(rate), 1);
+        tau = rng.exponential(rate);
         event_time = event_time + tau;
     }
     return {
