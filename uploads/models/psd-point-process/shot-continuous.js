@@ -6,7 +6,7 @@ const OBSERVATION_STEPS = 1048576;
 const PERIOD = 1;
 const OBSERVATION_TIME = OBSERVATION_STEPS * PERIOD;
 const PSD_POINTS = 100;
-const PSD_BOUNDS = [-Math.log10(OBSERVATION_TIME), -0.3];
+const PSD_BOUNDS = [-5, -0.3];
 const PSD_FREQS = jStat.seq(PSD_BOUNDS[0], PSD_BOUNDS[1], PSD_POINTS).map(
     // ensure that only "natural" frequencies are observed
     (v) => Math.round(Math.pow(10, v) * OBSERVATION_TIME) / OBSERVATION_TIME
