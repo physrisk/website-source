@@ -124,8 +124,8 @@ function enforce_rate_limit() {
     let shot_exp = my_parse_float(
         document.getElementById("shot_duration").value
     );
-    if (shot_exp > -rate_exp) {
-        document.getElementById("event_rate").value = -shot_exp;
+    if (shot_exp > -rate_exp + 1) {
+        document.getElementById("event_rate").value = -shot_exp + 1;
     }
 }
 
