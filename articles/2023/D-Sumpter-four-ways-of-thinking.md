@@ -6,7 +6,8 @@ Slug: D-Sumpter-four-ways-of-thinking
 Status: draft
 
 On the second day of Christmas we invite to watch a seminar given by prof.
-David Sumpter, who is likely most well-known due to his work on football
+[David Sumpter](https://www.david-sumpter.com/),
+who is likely most well-known due to his work on football
 analytics. In this seminar he gives semi-historical overview of topics more
 than relevant to the scope of our blog. We invite you to watch it!
 
