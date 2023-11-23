@@ -11,8 +11,9 @@ mathematical abstraction of [point events](/tag/point-process/) by
 considering pulses of finite duration. Yet the theory we have derived in the
 [earlier post]({filename}/articles/2023/shot-noise.md) did not fully match
 the simulated [power spectral density](/tag/spectral-density/). In this post
-we will see that the difference we have observed arises due to the
-observations being made in discrete time.
+we will see that the discrepancy close to the [Nyquist
+frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)
+arises due to the observations being made in discrete time.
 <!--more-->
 
 There is no analytical formulas or any derivation this time, as we have just
