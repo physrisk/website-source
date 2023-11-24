@@ -46,7 +46,7 @@ function generate_series(rate = 1, shot_duration = 1) {
     let tau = rng.exponential(rate);
     let event_time = tau;
     while (event_time < OBSERVATION_TIME) {
-        let from = Math.floor(event_time / PERIOD);
+        let from = Math.ceil(event_time / PERIOD);
         let to = Math.floor((event_time + shot_duration) / PERIOD);
         for (let i = from; i < OBSERVATION_STEPS && i <= to; i += 1) {
             series[i] += 1;
