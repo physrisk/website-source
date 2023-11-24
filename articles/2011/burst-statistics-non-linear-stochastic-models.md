@@ -141,10 +141,3 @@ HTML5 applet {#applet}
 
 [html5-interactive width="520" height="515" mode="iframe"
 url="/uploads/models/grk-return-model/bursts.html"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/bursts-en.html).
-The functionality of both, new HTML5 and old Java, applets is almost
-identical.
-

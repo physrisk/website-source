@@ -263,9 +263,3 @@ and unit variance. As \\\(  x \\\) has meaning only in the interval
 [html5-interactive
 url="/uploads/models/kirman-sde/index.html"
 width="470" height="480" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/kirman-sde-en.html). The
-functionality of both, new HTML5 and old Java, applets is almost
-identical.

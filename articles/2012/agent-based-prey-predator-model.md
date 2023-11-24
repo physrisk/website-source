@@ -75,8 +75,3 @@ by pressing "Stop" button. To reset the modelling press "New" button.
 [html5-interactive
 url="/uploads/models/lotka-volterra-abm/index.html"
 width="510" height="310" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/lotka-volterra-abm-en.html).
-The functionality of both applets is almost identical.

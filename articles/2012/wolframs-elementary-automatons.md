@@ -127,8 +127,3 @@ evaluation generation one by one - just use the button "Iteration".
 [html5-interactive
 url="/uploads/models/cellular-automata-elementary/index.html"
 width="490" height="580" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/cellular-automata-elementary-en.html).
-The functionality of both applets is almost identical.

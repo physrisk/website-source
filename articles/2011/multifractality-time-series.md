@@ -364,9 +364,3 @@ of agents is negligible \[cite id="Kononovicius2011LNFK"\].
 
 [html5-interactive width="520" height="505" mode="iframe"
 url="/uploads/models/kirman-sde-ret/multifractal.html"]
-
-If you came here to find the previously used Java applet, it is still
-available [here](/uploads/models/old-java/multifractal-en.html). The
-functionality of both applets is almost identical, though some noteable
-artifacts (appearing for the reasons so far are not known to us) are
-present in the new app.
