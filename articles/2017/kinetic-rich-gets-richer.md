@@ -4,7 +4,7 @@ Authors: Aleksejus Kononovicius, Julius Ruseckas
 Tags: Agent-based models, statistical physics, kinetic models, Python, wealth, Economics, free market
 Slug: non-stationary-power-law-kinetic-rich-gets-richer-model
 Status: published
-Image_url: uploads/2017/12/rgr-kinetic-power-law.png
+Image_url: uploads/2017/rgr-kinetic-power-law.png
 
 More than four years ago I (Aleksejus) started a series of posts reviewing with most well known [kinetic exchange models](/tag/kinetic-models/). Recently I had to refresh my memory on this topic as a colleague (Julius) suggested an idea how to obtain power-law from the [constant exchange model](/elementary-kinetic-exchange-models/).<!--more-->
 
@@ -72,7 +72,7 @@ def evaluateModel(nAgents,initialWealth,nSteps):
 
 Note that this formulation not only helps to obtain the results faster, but also reveals that the initial model is equivalent to a Brownian motion with absorbing boundaries. This provides intuition on how the temporal solutions should look like. And what we get from numerical simulation matches the theoretical expectation (see figure below).
 
-![Evolution of the distribution of wealth in the initial model. The PDF becomes broader and its middle peak value starts to move to the middle. After some time it starts to decline and boundary peaks (at 0 and total wealth) start to become more prominent. Figure was obtained by setting nAgents=25, wealth=4 and nSteps to the specified t values.](/uploads/2017/12/rgr-initial-idea-time-pdf.png "Evolution of the distribution of wealth in the initial model. The PDF becomes broader and its middle peak value starts to move to the middle. After some time it starts to decline and boundary peaks (at 0 and total wealth) start to become more prominent. Figure was obtained by setting nAgents=25, wealth=4 and nSteps to the specified t values.")
+![Evolution of the distribution of wealth in the initial model. The PDF becomes broader and its middle peak value starts to move to the middle. After some time it starts to decline and boundary peaks (at 0 and total wealth) start to become more prominent. Figure was obtained by setting nAgents=25, wealth=4 and nSteps to the specified t values.](/uploads/2017/rgr-initial-idea-time-pdf.png "Evolution of the distribution of wealth in the initial model. The PDF becomes broader and its middle peak value starts to move to the middle. After some time it starts to decline and boundary peaks (at 0 and total wealth) start to become more prominent. Figure was obtained by setting nAgents=25, wealth=4 and nSteps to the specified t values.")
 
 ## "Rich gets richer" modification
 
@@ -98,6 +98,6 @@ def evaluateModel(nAgents,initialWealth,nSteps):
     return wealth
 ```
 
-![The PDF of non-zero wealth for a model with nAgents=1000, initialWealth=5 and nSteps=235000. The PDF was averaged over 500 simulations.](/uploads/2017/12/rgr-kinetic-power-law.png "The PDF of non-zero wealth for a model with nAgents=1000, initialWealth=5 and nSteps=235000. The PDF was averaged over 500 simulations.")
+![The PDF of non-zero wealth for a model with nAgents=1000, initialWealth=5 and nSteps=235000. The PDF was averaged over 500 simulations.](/uploads/2017/rgr-kinetic-power-law.png "The PDF of non-zero wealth for a model with nAgents=1000, initialWealth=5 and nSteps=235000. The PDF was averaged over 500 simulations.")
 
 This model produces what seems to be a power-law, but in order to clearly observe it one needs to run many simulations and average them out. So in the end it is not clear whether the model truly produces power-law or it is just a result of some undesirable effect (e.g., non-ergodicity). Note that if we drop the aforementioned "unfairness" model no longer produces power-law, so it is an important feature of the model. Also the specification of the model seems to be a bit unrealistic. Hence, we decided that while the model does not seem to merit a publication, it would seem to be an interesting topic to cover in Physics of Risk.
