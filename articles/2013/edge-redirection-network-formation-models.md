@@ -127,5 +127,5 @@ applet with care. If you would like to analyze or generate large network
 consider downloading Gephi or obtaining other similar software packages.
 
 [html5-interactive
-url="/uploads/models/redirection-network/index.html"
+url="/uploads/models/network-models/edge-redirection/index.html"
 mode="iframe" height="320" width="480"]
