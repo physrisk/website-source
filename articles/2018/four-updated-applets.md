@@ -23,7 +23,7 @@ was addapted from it) on github in hopes that somebody would be interested
 and adopt it (find the repository
 [here](https://github.com/akononovicius/NeRFEx-newton-raphson-fractal-explorer)).
 I have also made available the code of another "ancient" Java applet,
-implementing vizualization of Mandelbrot and Julia sets, developed for
+implementing visualization of Mandelbrot and Julia sets, developed for
 Physics of Risk back in the 2006-2008 time period (find the repository
 [here](https://github.com/akononovicius/Mandelbrot-Julia-applet)).
 
