@@ -24,9 +24,9 @@ another case, the defender-defender scenario, both randomly selected
 agent are assumed to be defending the agent from the external influence,
 thus he tries to stay between them. Neither of agents are cooperating -
 they just move to take their own positions to fulfill their scenario
-conditions. As you can see in [Fig. 1](#attachment_2330) the small
+conditions. As you can see in the [figure](#attachment_2330) below the small
 difference in the game rules causes essential changes in the externally
 observed behavior.
 
 ![The simplest change in the ruleset might cause
-unpredictable difference in behavior! On the left](/uploads/2012/simple-rules-interaction-graph.png){#attachment_2330} 
+unpredictable difference in behavior!](/uploads/2012/simple-rules-interaction-graph.png){#attachment_2330} 
