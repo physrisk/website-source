@@ -50,7 +50,7 @@ convenience we just repeat Lars’s figure:
 
 ![Real
 GDP changes as published by Lars
-Christensen](/uploads/2015/07/LChristensenGDPcomp-e1438013376913.png "
+Christensen](/uploads/2015/LChristensenGDPcomp-e1438013376913.png "
 Real GDP %-change 2007-2015, published by Lars
 Christensen."){#attachment_2818} 
 
@@ -73,7 +73,7 @@ countries
 
 ![Real
 GDP changes in PPS
-(EuroStat)](/uploads/2015/07/GDP-PPP-Eurostat2015.png "
+(EuroStat)](/uploads/2015/GDP-PPP-Eurostat2015.png "
 Real GDP %-change 2005-2014, evaluated from EuroStat data in
 PPS."){#attachment_2819} 
 
@@ -88,7 +88,7 @@ figures. First we provide comparison of Sweden and Finland given in The
 Washington Post by Matt.
 
 ![Growth of Finland's and Sweeden's
-GDP](/uploads/2015/07/SweedenFinlandComparisonThWP.png "
+GDP](/uploads/2015/SweedenFinlandComparisonThWP.png "
 Comparison of GDP percentage change between Finland and Sweden
 starting from 1989."){#attachment_2820} 
 
@@ -103,7 +103,7 @@ related with Nokia just needs the time to be solved in the long-term
 macroeconomic level.
 
 ![Growth of Finland's and Sweeden's GDP in
-PPP](/uploads/2015/07/SweedenFinlandComparisonPPP_WB.png "
+PPP](/uploads/2015/SweedenFinlandComparisonPPP_WB.png "
 Comparison of GDP percentage growth between Finland and Sweden
 evaluated in current international dollars (PPP data from World
 Bank)."){#attachment_2823} 
@@ -115,5 +115,5 @@ economic growth. Nevertheless, lets compare the growth of Euro zone and
 US for the more complete picture of this annoying problem.
 
 ![Comparison of Euro zone and
-US](/uploads/2015/07/EuroZone_USA_WB_current_intern_dollars-e1438052388176.png "
+US](/uploads/2015/EuroZone_USA_WB_current_intern_dollars-e1438052388176.png "
 Comparison of Euro zone and US."){#attachment_2821} 

@@ -62,7 +62,7 @@ motion, thus its spectral density should be Browninan-like, \\\(  S(f)\sim 1/f^2
 ![Fig.
 1: Stationary probability density function of y (a) and spectral density
 of its time series
-(b).](/uploads/2015/02/garch11.png "
+(b).](/uploads/2015/garch11.png "
 Stationary probability density function of y (a) and spectral
 density of its time series (b). The following parameters were used:
 \\\( a\_1=0.015 \\\), \\\( b\_1=0.1 \\\), \\\( c\_1=0.89 \\\) (red squares), \\\( 0.88 \\\) (blue circles), \\\( 0.87 \\\) (magenta triangles)."){#attachment_2766} 
