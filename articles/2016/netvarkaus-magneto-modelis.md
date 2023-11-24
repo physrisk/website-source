@@ -32,7 +32,7 @@ interactions at the same time.
 
 ![Spin
 orientation in ferromagnetic and anti-ferromagnetic
-materials.](/uploads/2016/02/fero-anti-fero.png "
+materials.](/uploads/2016/spin-glass-fero-anti-fero.png "
 Spin orientation in ferromagnetic and anti-ferromagnetic
 materials."){#attachment_2877} 
 

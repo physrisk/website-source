@@ -39,32 +39,32 @@ you can see the typical decision making during each "evening."
 
 ![Fig
 1: Agent wants to make a choice: go home or visit the
-bar.](/uploads/2016/03/minority-game-1.png "Agent
+bar.](/uploads/2016/minority-game-1.png "Agent
 wants to make a choice: go home or visit the
 bar."){#attachment_2914} 
 
 ![Fig
 2: Agent checks his set of strategies and chooses the best
-one.](/uploads/2016/03/minority-game-2.png "Agent
+one.](/uploads/2016/minority-game-2.png "Agent
 checks his set of strategies and chooses the best
 one."){#attachment_2915} 
 
 ![Fig
 3: Agent looks up recent history (three evenings in this figure) and
 checks it against his strategy (here represented as
-vector).](/uploads/2016/03/minority-game-3.png "Agent
+vector).](/uploads/2016/minority-game-3.png "Agent
 looks up recent history (three evenings in this figure) and
 checks it against his strategy (here represented as vector)."){#attachment_2916} 
 
 ![Fig
 4: Agent makes a
-choice.](/uploads/2016/03/minority-game-4.png "Agent
+choice.](/uploads/2016/minority-game-4.png "Agent
 makes a choice."){#attachment_2917} 
 
 ![Fig
 5: Agents evaluates his choice. Strategies, which would predict
 correctly gain points, while ones that predicted incorrectly - lose
-points.](/uploads/2016/03/minority-game-5.png "Agents
+points.](/uploads/2016/minority-game-5.png "Agents
 evaluates his choice. Strategies, which would predict
 correctly gain points, while ones that predicted incorrectly - lose
 points."){#attachment_2918} 
