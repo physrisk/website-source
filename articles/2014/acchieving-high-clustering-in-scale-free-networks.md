@@ -157,7 +157,7 @@ model the clustering coefficient remains almost constant with increasing
 number of nodes \\\(  N \\\). Try the interactive HTML5 applet below.
 
 [html5-interactive width="520" height="310" mode="iframe"
-src="/uploads/models/scale-free-const-cluster/index.html"]
+src="/uploads/models/network-models/klemm-const-cluster/index.html"]
 
 Note that in this applet we have disabled automatic zoom on the graph
 (manually this can be done using mouse wheel). This was done in order to
