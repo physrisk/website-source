@@ -2,43 +2,24 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Order book vizualization | Herding behavior order book model</title>
-    <link rel="stylesheet" type="text/css" href="../js-lib/normalize.css">
-    <link rel="stylesheet" type="text/css" href="../js-lib/universal-style.css">
-	<script language="javascript" type="text/javascript" src="../js-lib/random-026.min.js"></script>
-    <script language="javascript" type="text/javascript" src="../js-lib/plotly-131.min.js"></script>
-    <script language="javascript" type="text/javascript" src="../js-lib/plotlyPlot.js"></script>
-    <style type="text/css">
-        #figWrap,#obFig{width:100%;text-align:center}
-        #obFig{height:300px}
-        .trace:nth-child(1) path {
-            stroke:#f99 !important;
-        }
-        .trace:nth-child(2) path {
-            stroke:#9af !important;
-        }
-        .trace:nth-child(3) path {
-            stroke:#333 !important;
-        }
-        .report-nothing {
-            color:inherit;
-        }
-        .report-bid, .report-exe-bid {
-            color:#d79;
-        }
-        .report-ask, .report-exe-ask {
-            color:#79d;
-        }
-        .report-exe-ask, .report-exe-bid {
-            font-weight:bold;
-        }
+    <title>Herding behavior order book model</title>
+    <link rel="stylesheet" type="text/css" href="../../js-lib/normalize.css">
+    <link rel="stylesheet" type="text/css" href="../../js-lib/universal-style.css">
+    <style>
     </style>
+	<script language="javascript" type="text/javascript" src="../../js-lib/random-026.min.js"></script>
+    <script language="javascript" type="text/javascript" src="../../js-lib/plotly-131.min.js"></script>
+    <script language="javascript" type="text/javascript" src="../../js-lib/plotlyPlot.js"></script>
+	<script language="javascript" type="text/javascript" src="../../js-lib/commonFunctions.js"></script>
 </head>
 <body>
 <div id="wrapper">
-<div id="figWrap">
-    <div id="obFig"></div>
-</div><!-- #figWrap -->
+<div id="figureWrapper">
+    <div id="retPdf" class="halfSize"></div>
+    <div id="retSpec" class="halfSize"></div>
+    <div id="pSeries" class="halfSize"></div>
+    <div id="retSeries" class="halfSize"></div>
+</div><!-- #figureWrapper -->
 <div id="controlWrapper">
     <span class="controlBlock singleWidth">
         <label for="nAgents">N=</label>
@@ -93,12 +74,13 @@
 </div><!-- #controlWrapper -->
 </div><!-- #wrapper -->
 <script language="javascript" type="text/javascript" src="./herdModel.js"></script>
-<script language="javascript" type="text/javascript" src="./herd-viz.js"></script>
+<script language="javascript" type="text/javascript" src="./herd-main.js"></script>
 <script language="javascript" type="text/javascript">
 var stopButton=document.querySelector("#stop");
 var restartButton=document.querySelector("#restart");
 /* bind events and set initial states */
 stopButton.disabled=true;
+
 restartButton.addEventListener("click",function () {
 	setup();
     stopButton.disabled=false;
