@@ -47,7 +47,7 @@ power 0.2. In the figure below, [Fig. 1](#attachment_904), we have show
 aforementioned statistical properties of one minute absolute returns
 observed in New York (red line) and Vilnius (blue line) Stock Exchanges.
 
-![image](/uploads/2010/11/return-stylized-facts.png "Statistical properties of absolute one minute, Δt=60s,
+![image](/uploads/2010/return-stylized-facts.png "Statistical properties of absolute one minute, Δt=60s,
 returns - probability density function of non-zero values (a) and power
 spectral density (b) - from two different financial markets. Red curves
 represent New York Stock Exchange, while blue correspond to statistical
@@ -138,7 +138,7 @@ id="Kaulakys2009JStatMech"\]). By manipulating with model parameter
 any spectra with \\\(  \beta \in \[0.5,2\] \\\). As an example we
 provide 1/f spectral density (see [Fig. 2b](#attachment_908)).
 
-![image](/uploads/2010/11/simple-sde.png "1/f noise obtained from the above SDE. Red curves
+![image](/uploads/2010/simple-sde.png "1/f noise obtained from the above SDE. Red curves
 correspond to model statical properties (probability density function
 (a), spectral density (b)), while black curves fit modelic statistical
 properties (q-Gaussian, q=1.66, (a), power law function, β=1, (b)). Used
@@ -212,7 +212,7 @@ integrate its solutions in some intervals and then modulate those
 solutions with q-Gaussian noise. Results obtained in this way is in
 great agreement with empirical data (see [Fig. 3](#attachment_910)).
 
-![image](/uploads/2010/12/return-model-vs-nyse-vvpb-comparison.png "Comparison of return model (black curve) and empirical
+![image](/uploads/2010/return-model-vs-nyse-vvpb-comparison.png "Comparison of return model (black curve) and empirical
 (New York Stock Exchange - red curve, Vilnius - blue) statistical
 properties, non-zero value probability density function ((a) ir (c)) and
 power spectral density ((b) ir (d)), in different time scales (1 min -
@@ -244,8 +244,8 @@ here \\\(  \xi\_i  \\\) is Gaussian noise (zero mean, unit variance) and
 url="/uploads/models/grk-return-model/index.html"]
 
 You can also download a full java program with GUI in
-[Lithuanian](/uploads/2010/12/returnModel.jar)
-or [English](/uploads/2010/12/returnModelEn.jar) language (the code
+[Lithuanian](/uploads/2010/returnModel.jar)
+or [English](/uploads/2010/returnModelEn.jar) language (the code
 for this GUI program is also available from
 [GitHub](https://github.com/akononovicius/return-model-GRK-PhysA2010)).
 Note that only GUI was localized - meaning that CLI is English in both

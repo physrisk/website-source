@@ -312,7 +312,7 @@ Using these predictions we have reproduced \\\(  1/f \\\) noise in three
 distinct cases (see [Fig 1.](#attachment_1776), this figure is featured
 in \[cite id="Kononovicius2012PhysA"\]).
 
-![image](/uploads/2011/06/kirmanour.png "Numerically calculated PDF (a) and power spectral
+![image](/uploads/2011/kirmanour.png "Numerically calculated PDF (a) and power spectral
 density (b) in three distinct cases, \\\( \alpha =0 \\\) (red squares), \\\( \alpha=1 \\\) (blue
 circles) and \\\( \alpha=2 \\\) (magenta triangles), of considered stochastic model,
 Eq. (6). Other model parameters were set as follows: \\\( \varepsilon\_1=0 \\\), \\\( \varepsilon\_2 =2-\alpha \\\).
@@ -376,7 +376,7 @@ is featured in \[cite id="Kononovicius2012PhysA"\], we have shown that
 theoretical predictions for CEV process are also valid for \\\(  y \\\)
 defined by Eq. \eqref{lany}.
 
-![image](/uploads/2011/06/kirmancev.png "Numerically calculated PDF (a) and power spectral
+![image](/uploads/2011/kirmancev.png "Numerically calculated PDF (a) and power spectral
 density (b) of considered stochastic model, Eq. (6), with linearized
 drift function in three distinct cases, \\\( \alpha=0 \\\) (red squares), \\\( \alpha=1 \\\) (blue
 circles) and \\\( \alpha=2 \\\) (magenta triangles). Other model parameters were set as

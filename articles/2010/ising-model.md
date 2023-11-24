@@ -94,7 +94,7 @@ balanced and forming orderly domains are continously being destroyed by
 random spin flips. Bellow in [Fig. 1](#attachment_994) we present
 typical lattice snapshots at different temperatures.
 
-![image](/uploads/2010/12/phases.png "Three different phases of Ising model: paramagnetic,
+![image](/uploads/2010/phases.png "Three different phases of Ising model: paramagnetic,
 critical,
 feromagnetic."){#attachment_994} 
 
@@ -105,7 +105,7 @@ aforementioned observables change with changing model parameter \\\( \frac{\Delt
 in terms of spin energy. As we see from the figure phase shift occurs in
 the interval \\\(  0.3 &lt; \left( \frac{\Delta E}{k T} \right)\_c&lt; 0.5  \\\).
 
-![image](/uploads/2010/12/temperature-ising-metrapolis-2D.png "System absolute magnetization (a) and energy (b) reached
+![image](/uploads/2010/temperature-ising-metrapolis-2D.png "System absolute magnetization (a) and energy (b) reached
 after \\\( 10^7 \\\) spin flips with different model parameter \\\( \Delta E / kT \\\)
 values."){#attachment_995} 
 
@@ -115,7 +115,7 @@ present? The answer is given in h-1/T phase diagram below (see [Fig.
 3](#attachment_1010)) - external magnetic field aligns most of the spins
 in one direction (same as the direction of magnetic field).
 
-![image](/uploads/2010/12/magnetic-field-temperature-ising-phases.png "h-1/T phase diagram: in the red and blue areas one spin
+![image](/uploads/2010/magnetic-field-temperature-ising-phases.png "h-1/T phase diagram: in the red and blue areas one spin
 direction dominates (s=1 (red) or s=-1 (blue)) due to the external
 magnetic field, paramagnetism is observed near \\\( h=0 \\\) and \\\( T > T\_c \\\)
 (magenta area), feromagnetism is observed near \\\( h=0 \\\) and \\\( T < T\_c \\\) (area

@@ -43,7 +43,7 @@ devide into additional groups (or subgroups) - pessimists and optimists.
 Therefore now all three groups (see [Fig. 1](#attachment_1910)) may
 interact among themselves.
 
-![image](/uploads/2011/09/three-type.png "Three groups interactions: f - fundamentalists, c+ -
+![image](/uploads/2011/three-type.png "Three groups interactions: f - fundamentalists, c+ -
 chartists optimists, c- - chartists pessimists. Symbols written near
 the bubbles correspond to the parameters related to individual decision,
 while symbols written on the inter-connections are related to
@@ -164,7 +164,7 @@ results can be obtained with H being larger than 10 and smaller than
 chartist-fundamentalist process do not sufficiently differ (H smaller
 than 10) or overlap (H larger 1000).
 
-![image](/uploads/2011/09/spectra.png "Spectral density (red curve) of absolute return time
+![image](/uploads/2011/three-spectra.png "Spectral density (red curve) of absolute return time
 series obtained by numerically evaluating the discussed model and its
 power law fits (blue curves). Powers of power law fits: \\\( \beta=0.68 \\\), \\\( \beta=0.22 \\\).
 Model parameters: \\\( a\_1=a\_2=b\_1=c\_1=30 \\\), \\\( b\_2=c\_2=500 \\\), \\\( h\_{cf}=1 \\\), \\\( H=50 \\\),

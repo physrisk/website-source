@@ -233,7 +233,7 @@ also apply towards this model. This time we just limit ourselves to
 simply showing that Langevin equation and agent-based model produce same
 results using same parameter values (see [Fig 1.](#attachment_788)).
 
-![image](/uploads/2010/11/sde_abm_comparison.png "Comparison of probability density function (a) and power
+![image](/uploads/2010/sde_abm_comparison.png "Comparison of probability density function (a) and power
 spectral density (b) of external observable, x, time series, which were
 produced by agent-based model (points) and stochastic model (lines).
 Parameters are set as follows: \\\( h=1 \\\) (same in all cases), \\\( \sigma\_1 =0.2 \\\) (red
