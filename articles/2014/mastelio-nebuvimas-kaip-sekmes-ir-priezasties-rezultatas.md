@@ -107,7 +107,7 @@ are equally important."){#attachment_2661}
 We invite readers to test this model using HTML5 applet below.
 
 [html5-interactive
-src="/uploads/models/router-network/index.html"
+src="/uploads/models/network-models/router-network.html"
 width="500" height="310" mode="iframe"]
 
 We would like to note that during the initial steps it rather
