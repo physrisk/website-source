@@ -156,7 +156,7 @@ similar to the log-normal distribution (similarly as in the
 but the true expression is different [cite id="Kanazawa2018PRL, Kanazawa2018arxiv"].
 
 [html5-interactive
-src="/uploads/models/takayasu-ob-model/ob-vizualization-en.html"
+src="/uploads/models/order-book-models/takayasu/ob-vizualization-en.html"
 width="520" height="430" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all
@@ -186,7 +186,7 @@ while the yellow curve shows auto-correlation of the absolute price change time
 series.
 
 [html5-interactive
-src="/uploads/models/takayasu-ob-model/index.html" width="520"
+src="/uploads/models/order-book-models/takayasu/index.html" width="520"
 height="530" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
