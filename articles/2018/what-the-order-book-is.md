@@ -29,7 +29,7 @@ In the example below we have shown an order book, which had 10 bid limit orders 
 Below you can also find a somewhat interactive preview of the model we will discuss some time in the future (the most impatient will find the detailed description in [cite id="Maslov2000PhysA"]). It shows the same plot as above: number of order vs price. Both limit and market orders here arrive at random and are executed if it is possible. If not, then limit orders are placed into order book (number of bids at given price level are shown as red dots, while number of asks as blue dots). Dark line is the last price separator.
 
 [html5-interactive
-src="/uploads/models/order-book-models/maslov/ob-vizualization-en.html" width="520"
+src="/uploads/models/order-book-models/maslov/ob.html" width="520"
 height="370" mode="iframe"]
 
 Note that new bid orders arrive to the left of the last price. While the new ask orders arrive to the right of the last price. Note that there are never bid and ask orders at the same price level. If there would be any "overlaping" limit orders, the orders would be immediately executed and removed from the order book until no overlap is left. Another key thing to note is that always the right-most (largest) bid and the left-most (lowest) ask are executed.
