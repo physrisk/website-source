@@ -168,4 +168,4 @@ of the image below (taken from
 [science.memebase.com](http://cheezburger.com/6690922752); author:
 YUNOtele).
 
-![math real life](/uploads/2012/math-real-life.jpg "math-real-life")
+![math real life](/uploads/2012/math-real-life.jpg "Real life math?")
