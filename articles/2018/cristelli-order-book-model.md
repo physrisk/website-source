@@ -92,7 +92,7 @@ is at \\\( 100 \\\) monies and the price tick is set to \\\( 0.1 \\\) money.
 This assumption were done simply to obtain easily understandable figure.
 
 [html5-interactive
-src="/uploads/models/cristelli-order-book-model/ob-vizualization-en.html"
+src="/uploads/models/order-book-models/cristelli/ob-vizualization-en.html"
 width="520" height="370" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all
@@ -118,7 +118,7 @@ defined the price tick as price measurement unit (in other words price tick is
 equal to \\\( 1 \\\)).
 
 [html5-interactive
-src="/uploads/models/cristelli-order-book-model/index.html" width="520"
+src="/uploads/models/order-book-models/cristelli/index.html" width="520"
 height="470" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
