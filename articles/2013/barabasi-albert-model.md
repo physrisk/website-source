@@ -62,7 +62,7 @@ networks and also in the internet connections (see the
 [figure](#attachment_2483) below).
 
 ![Interneto jungtys (žr.
-plačiau).](/uploads/2013/05/network-connections.jpg "
+plačiau).](/uploads/2013/network-connections.jpg "
 A macroscopic snapshot of Internet connectivity (see
 [this](http://barabasilab.com/gallery/g1.php) for more
 details)."){#attachment_2483} 

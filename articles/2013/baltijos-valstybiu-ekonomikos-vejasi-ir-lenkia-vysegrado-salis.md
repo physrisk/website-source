@@ -41,7 +41,7 @@ trends.<!--more-->
 ![Fig.
 1: GDP in USD, current prices, of Baltic, Visegrad and Scandinavian
 countries is shown in three different ways from 1995 to
-2012.](/uploads/2013/07/baltic-visegrad-scandinavia-gdp-usd-1995-2012-en.jpg "
+2012.](/uploads/2013/baltic-visegrad-scandinavia-gdp-usd-1995-2012-en.jpg "
 GDP in USD, current prices, of Baltic, Visegrad and Scandinavian
 countries is shown in three different ways from 1995 to
 2012."){#attachment_2511} 
@@ -89,7 +89,7 @@ just calculated in Euros with use of Eurostat data.
 ![Fig.
 2: GDP in Euros, current prices, of Baltic, Visegrad and Scandinavian
 countries is shown in three different ways form 1995 to 2012 (Eurostat
-data).](/uploads/2013/07/baltic-visegrad-scandinavia-gdp-eur-1995-2012-en.jpg "
+data).](/uploads/2013/baltic-visegrad-scandinavia-gdp-eur-1995-2012-en.jpg "
 GDP in Euros, current prices, of Baltic, Visegrad and
 Scandinavian countries is shown in three different ways form 1995 to
 2012 (Eurostat data)."){#attachment_2512} 
@@ -161,7 +161,7 @@ levels are higher in more developed countries (Penn effect).
 ![Fig.
 3: GDP per capita in PPS of Baltics, Visegrad and Scandinavian countries
 from 1995 to 2012 is shown in three different ways (Eurostat
-data).](/uploads/2013/07/baltic-visegrad-scandinavia-gdp-pps-1995-2012-en.jpg "
+data).](/uploads/2013/baltic-visegrad-scandinavia-gdp-pps-1995-2012-en.jpg "
 GDP per capita in PPS of Baltics, Visegrad and Scandinavian
 countries from 1995 to 2012 is shown in three different ways (Eurostat
 data)."){#attachment_2513} 
@@ -218,7 +218,7 @@ AIC curves of Baltic and Visegrad countries in Fig. 4.
 ![Fig.
 4: Actual individual consumption of Baltic and Visegrad countries
 calculated by expenditure approach in
-PPP.](/uploads/2013/07/baltic-visegrad-scandinavia-gdp-ppp-2003-2012-en.jpg "
+PPP.](/uploads/2013/baltic-visegrad-scandinavia-gdp-ppp-2003-2012-en.jpg "
 Actual individual consumption of Baltic and Visegrad countries
 calculated by expenditure approach in PPP."){#attachment_2514} 
 

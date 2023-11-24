@@ -89,4 +89,4 @@ article](/power-spectral-density-part-2 "Power spectral density (part 2)").
 
 Note that previously the interactive app was powered by Wolfram CDF technology and
 it was later replaced by the current HTML5 app. The old app can still be downloaded
-from [here](/uploads/2013/01/random-spectra-en.cdf).
+from [here](/uploads/2013/random-spectra-en.cdf).

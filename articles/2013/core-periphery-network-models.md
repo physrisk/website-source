@@ -43,7 +43,7 @@ explained in [Fig. 1](#attachment_2507).
 
 ![Fig.
 1: Core-periphery network generated using the modified Erdos-Renyi
-model.](/uploads/2013/07/core-periphery-network1.png "Core-periphery
+model.](/uploads/2013/core-periphery-network1.png "Core-periphery
 network generated using the modified Erdos-Renyi
 model. Nodes in the red area belong to core, while the nodes in the blue
 area are in periphery."){#attachment_2507} 
@@ -77,7 +77,7 @@ ideal core-periphery network.
 
 ![Fig.
 2: Ideal core-periphery
-network.](/uploads/2013/07/ideal-core-periphery.png "Ideal
+network.](/uploads/2013/ideal-core-periphery.png "Ideal
 core-periphery network."){#attachment_2508} 
 
 Yet this network topology is pretty boring - it is deterministic (only

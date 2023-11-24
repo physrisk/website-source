@@ -43,7 +43,7 @@ European economic space.
 ![The
 ratio of GDP in US dollars per capita in 1990-2011 to the GDP in
 reference year 1995 for Baltic and Visegrad
-states.](/uploads/2013/02/gdp_baltic_visegrad_group_en.png "
+states.](/uploads/2013/gdp_baltic_visegrad_group_en.png "
 The ratio of GDP in US dollars per capita in 1990-2011 to the GDP in
 reference year 1995 for Baltic and Visegrad states."){#attachment_2437} 
 
