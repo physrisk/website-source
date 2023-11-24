@@ -45,6 +45,9 @@ label {
 .controlBlock.singleWidth {
     width:100px;
 }
+.controlBlock.oneandhalfWidth {
+    width:155px;
+}
 .controlBlock.doubleWidth {
     width:210px;
 }
