@@ -62,13 +62,12 @@ function generate_series(rate = 1, shot_duration = 1) {
         fourier_real = fourier_real.map((v, i) => v + shot_contrib.real[i]);
         fourier_imag = fourier_imag.map((v, i) => v + shot_contrib.imag[i]);
     }
-    let series_mean = (shot_duration * n_events) / OBSERVATION_TIME;
     let psd = Array(PSD_FREQS.length)
         .fill(0)
         .map((v, i) => {
             return (
                 (2 *
-                    (Math.pow(fourier_real[i] - series_mean, 2) +
+                    (Math.pow(fourier_real[i], 2) +
                         Math.pow(fourier_imag[i], 2))) /
                 OBSERVATION_TIME
             );
