@@ -72,4 +72,4 @@ large number of nodes, \\\(  N \\\), limit (\\\(  p \\\) should also be
 not too small).
 
 [html5-interactive mode="iframe" height="270" width="480"
-url="/uploads/models/er-network/index.html"]
+url="/uploads/models/network-models/erdos-renyi.html"]
