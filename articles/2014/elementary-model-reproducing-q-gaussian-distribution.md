@@ -30,7 +30,7 @@ starts to approach Gaussian:
 
 
 ![Illustration of the correlated spin model taken from the
-article.](/uploads/2014/10/spins-ruseckas.png "
+article.](/uploads/2014/spins-ruseckas.png "
 Illustration of the correlated spin model taken from the
 article."){#attachment_2720} 
 

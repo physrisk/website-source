@@ -82,7 +82,7 @@ you can get acquainted with our observations.
 ![Fig.
 1: Penn effect. Scatter plot of World countries in the plane
 (LOGGDPpercapitaPPP\_USD,
-LOGPriceLevel).](/uploads/2014/02/penn-effect-world-en.jpg "
+LOGPriceLevel).](/uploads/2014/penn-effect-world-en.jpg "
 Penn effect. Scatter plot of World countries in the plane
 (LOGGDPpercapitaPPP\_USD, LOGPriceLevel)."){#attachment_2624}
 
@@ -106,7 +106,7 @@ effect.
 ![Fig.
 2: Penn effect. Scatter plot of Europian countries in the plane
 (LOGGDPpercapitaPPS,
-LOGPriceLevel).](/uploads/2014/02/penn-effect-europe-en.jpg "
+LOGPriceLevel).](/uploads/2014/penn-effect-europe-en.jpg "
 Penn effect. Scatter plot of Europian countries in the plane
 (LOGGDPpercapitaPPS, LOGPriceLevel)."){#attachment_2625}
 

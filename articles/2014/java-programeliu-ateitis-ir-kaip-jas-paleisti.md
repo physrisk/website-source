@@ -63,21 +63,21 @@ How to launch Java applets?
 
 Open Windows Control Panel and find Java control panel in it.
 
-![java-control-panel](/uploads/2014/05/java-control-panel.jpg)
+![java-control-panel](/uploads/2014/java-control-panel.jpg)
 
 Let's open Security tab and append Site List.
 
-![java-control-panel-2](/uploads/2014/05/java-control-panel-2.jpg)
+![java-control-panel-2](/uploads/2014/java-control-panel-2.jpg)
 
 You should add http://mokslasplius.lt.
 
-![java-control-panel-3](/uploads/2014/05/java-control-panel-3.jpg)
+![java-control-panel-3](/uploads/2014/java-control-panel-3.jpg)
 
-![java-control-panel-4](/uploads/2014/05/java-control-panel-4.jpg)
+![java-control-panel-4](/uploads/2014/java-control-panel-4.jpg)
 
 A warning about "security risk" should appear. Simply press "Continue".
 
-![java-control-panel-5](/uploads/2014/05/java-control-panel-5.jpg)
+![java-control-panel-5](/uploads/2014/java-control-panel-5.jpg)
 
 Leave Java control panel by pressing "OK" several times.
 
@@ -87,18 +87,18 @@ automatons](/wolframs-elementary-automatons "Wolframs elementary automatons").
 
 Press "Activate Java Platform" button.
 
-![java-browser](/uploads/2014/05/java-browser.jpg)
+![java-browser](/uploads/2014/java-browser.jpg)
 
 Choose between temporary ("Allow Now") and permanent exception ("Allow
 and Remember").
 
-![java-browser-2](/uploads/2014/05/java-browser-2.jpg)
+![java-browser-2](/uploads/2014/java-browser-2.jpg)
 
 Just press "Run" and use the applet.
 
-![java-browser-3](/uploads/2014/05/java-browser-3.jpg)
+![java-browser-3](/uploads/2014/java-browser-3.jpg)
 
-![java-browser-4](/uploads/2014/05/java-browser-4.jpg)
+![java-browser-4](/uploads/2014/java-browser-4.jpg)
 
 This step-by-step instruction was prepared using Windows 7, Firefox 29
 and Java SE Runtime Environment 7u55. On other versions of Windows or

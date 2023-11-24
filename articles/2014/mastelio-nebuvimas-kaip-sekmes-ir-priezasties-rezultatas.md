@@ -69,7 +69,7 @@ nodes connect directly to the central node.
 ![Fig.
 1: Small δ (δ=1). Network topology is hub and spoke - most edges are
 gained by central
-node.](/uploads/2014/04/d-1.jpg "
+node.](/uploads/2014/router-d-1.jpg "
 Small δ (δ=1). Network topology is hub and spoke - most edges
 are gained by central node."){#attachment_2659} 
 
@@ -82,7 +82,7 @@ our \\\(  \Pi(d) \\\) becomes flat.
 ![Fig.
 2: Large δ (δ=10000). Geometric distance becomes the most important
 factor in edge
-formation.](/uploads/2014/04/delta-10000.jpg "
+formation.](/uploads/2014/router-d-10000.jpg "
 Large δ (δ=10000). Geometric distance becomes the most important
 factor in edge formation."){#attachment_2658} 
 
@@ -100,7 +100,7 @@ and think of the router network as scale-free network.
 ![Fig.
 3: Intermediate value of δ (δ=5). Geometric and network distances are
 equally
-important.](/uploads/2014/04/d-5.jpg "
+important.](/uploads/2014/router-d-5.jpg "
 Intermediate value of δ (δ=5). Geometric and network distances
 are equally important."){#attachment_2661} 
 
