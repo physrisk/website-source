@@ -97,8 +97,6 @@ time and space.
 
 [youtube v="IBa4kgXI4Cg"]
 
-[youtube v="3JAqrRnKFHo"]
-
 Similar patterns and phenomena may be observed in living systems. For
 example each autumn we can observe birds flocking together and going
 south. Then the flock is moving it appears that each separate individual
