@@ -48,5 +48,5 @@ parameters influence only the speed with which model converges to
 stationary distribution.
 
 [html5-interactive
-src="/uploads/models/corr-spins/dyn-en.html" width="410"
+src="/uploads/models/physics-models/correlated-spins/dynamical.html" width="410"
 height="395" mode="iframe"]

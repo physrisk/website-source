@@ -71,7 +71,7 @@ To simplify this applet we have fixed number of spins in the lattice,
 \\\(  N \\\), but you can still manipulate \\\(  d \\\).
 
 [html5-interactive
-src="/uploads/models/corr-spins/make-one-en.html"
+src="/uploads/models/physics-models/correlated-spins/make-one.html"
 width="410" height="75" mode="iframe"]
 
 The second applet, on the other hand, is dedicated to mass generation of
@@ -82,5 +82,5 @@ approximation, \eqref{laips}, works well, but when \\\(  d \\\)
 grows the exponential approximation starts to fit better, \eqref{gauss}.
 
 [html5-interactive
-src="/uploads/models/corr-spins/index.html"
+src="/uploads/models/physics-models/correlated-spins/index.html"
 width="410" height="375" mode="iframe"]
