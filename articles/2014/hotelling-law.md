@@ -25,7 +25,7 @@ the average shortest path to any pharmacy as small as possible we would
 have to position pharmacies at 1/4 and 3/4 of main streets length. Both
 pharmacies in this case would have an equal share of customers.
 
-![optimal-placement](/uploads/2014/12/optimal-placement.png)
+![optimal placement](/uploads/2014/hotelling-optimal.png)
 
 The problem is that business would like to have as large share of
 customers as possible. Note that any pharmacy may increase its share

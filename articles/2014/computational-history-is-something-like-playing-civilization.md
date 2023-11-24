@@ -17,7 +17,7 @@ the formation of the organized human societies. The first people faced a
 tough challenge - if they were not organized, they were simple wiped
 off.
 
-![freeciv](/uploads/2014/01/freeciv.jpg)
+![freeciv](/uploads/2014/comp-history-freeciv.jpg)
 
 In order to familiarize yourself more with the research done by Peter
 Turchin please visit the

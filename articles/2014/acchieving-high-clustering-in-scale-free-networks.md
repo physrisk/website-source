@@ -31,7 +31,7 @@ and
 as well as regular network structure are being compared against the main
 statistical properties discussed in the previous paragraph.
 
-![networks-slide](/uploads/2014/05/networks-slide.jpg)
+![networks-slide](/uploads/2014/constant-clustering-networks-slide.jpg)
 
 As it was already told the shortest paths are OK in all three random
 network models. Indeed as Watts-Strogatz model has shown - smallest
@@ -91,7 +91,7 @@ Why regular structures possess high clustering?
 each node has 4 edges directed to its nearest neighbors. Red color is
 used for the considered node and its edges. Blue circles are its
 neighbors and green lines are the edges between
-them.](/uploads/2014/05/circle-4-clustering.png "
+them.](/uploads/2014/constant-clustering-circle.png "
 Regular network - nodes are connected as a ring, where each node has 4
 edges directed to its nearest neighbors. Red color is used for the
 considered node and its edges. Blue circles are its neighbors and green
@@ -146,7 +146,7 @@ in \[cite id="Klemm2002PhysRevE"\]:
 -   Repeat second-forth steps until you reach desired network size.
 
 ![Scale-free network with constant
-clustering.](/uploads/2014/04/constant-clustering.jpg "
+clustering.](/uploads/2014/constant-clustering.jpg "
 Scale-free network with constant clustering."){#attachment_2662} 
 
 As you can see in the figure above the generated network is

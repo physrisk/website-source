@@ -17,7 +17,7 @@ force may be approximated by the Dirac delta
 function.<!--more-->
 
 ![General schema of kicked
-rotator](/uploads/2014/10/kicked-rotor.png "
+rotator](/uploads/2014/kicked-rotor.png "
 General schema of kicked rotator."){#attachment_2731} 
 
 The following Hamiltonian may be written for this system:

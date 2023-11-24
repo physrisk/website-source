@@ -88,7 +88,7 @@ elementary automatons"). Rules 60 and 102 generate right Sierpinski
 triangles, while rule 90 generates ordinary Sierpinski triangle.
 
 ![Sierpinski triangle and elementary cellular
-automatons.](/uploads/2014/09/sierpinski-cell.png "
+automatons.](/uploads/2014/sierpinski-cell.png "
 Sierpinski triangle and elementary cellular automatons - 102, 90 and 60
 rules."){#attachment_2711} 
 
@@ -108,7 +108,7 @@ Initial condition: AB-AA-AA, Angle: 120 deg, Rules: A -> AA, B -> -AB+AB+AB-AA.
 ```
 
 ![Sierpinski triangle and Lindenmayer
-system.](/uploads/2014/09/sierpinski-lindenmayer.png "
+system.](/uploads/2014/sierpinski-lindenmayer.png "
 Sierpinski triangle and Lindenmayer system - arrowhead curve and direct
 implementation."){#attachment_2712} 
 
@@ -117,4 +117,4 @@ Finally the last method, considered in this text, is related to the
 triangle](http://en.wikipedia.org/wiki/Pascal%27s_triangle "Article on Wikipedia").
 You should simply color cells with odd numbers black.
 
-![Sierpinski triangle and Pascal triangle](/uploads/2014/09/sierpinski-pascal.png "Sierpinski triangle and Pascal triangle")
+![Sierpinski triangle and Pascal triangle](/uploads/2014/sierpinski-pascal.png "Sierpinski triangle and Pascal triangle")

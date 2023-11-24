@@ -32,7 +32,7 @@ Formulation of model
 
 ![Two
 network formation mechanisms in the discussed
-model.](/uploads/2014/05/triad-formation.png "
+model.](/uploads/2014/triad-formation.png "
 Two network formation mechanisms in the discussed model. In subfigure
 (a) we see a node 'u' was selected via preferential attachment
 mechanism, next using triad formation mechanism node 'w' was chosen
@@ -56,7 +56,7 @@ shown in the figure below.
 
 ![Evolution of clustering coefficient with the increasing
 number of nodes (as time), also node degree
-distribution.](/uploads/2014/05/triad-model.png "
+distribution.](/uploads/2014/triad-model.png "
 Evolution of clustering coefficient with the increasing number of nodes
 (as time), also node degree distribution."){#attachment_2686} 
 
