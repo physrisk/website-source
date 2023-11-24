@@ -84,7 +84,7 @@ time scale); \\\(  \bar{\omega}\_\mu = \langle | \omega |^\mu\rangle \\\), \\\( 
 
 ![Fig.
 1: Reproducing 1/f noise using nonlinear GARCH(1,1)
-model.](/uploads/2015/02/ngarch11-feedback.png "
+model.](/uploads/2015/ngarch11-feedback.png "
 Reproducing 1/f noise using nonlinear GARCH(1,1)
 model."){#attachment_2774} 
 

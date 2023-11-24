@@ -72,7 +72,7 @@ rather well.
 
 ![Fig.
 1: reproducing 1/f spectra using nonlinear GARCH(1,1)
-model.](/uploads/2015/02/ngarch11.png "
+model.](/uploads/2015/ngarch11.png "
 Reproducing 1/f spectra using nonlinear GARCH(1,1)
 model."){#attachment_2771} 
 
