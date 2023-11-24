@@ -27,13 +27,13 @@ The forth model parameter is \\\( \delta \\\), which defines log-price and retur
 In the [previous text]({filename}/articles/2018/what-the-order-book-is.md) we have already presented a simple implementation of this model to illustrate how the order book works. Here we once again share the same app as you can now look at it from a different perspective. Unlike another app at the end of the text, this app has fixed model parameter values:  \\\( p\_{lim}=0.65 \\\), \\\( \Delta=3 \\\), \\\( \delta=1 \\\) (the figure is updated after each time tick) and \\\( O\_{max} = 10000 \\\).
 
 [html5-interactive
-src="/uploads/models/maslov-order-book-model/ob-vizualization-en.html" width="520"
+src="/uploads/models/order-book-models/maslov/ob-vizualization-en.html" width="520"
 height="370" mode="iframe"]
 
 The other app we would like to share in this post is more flexible, it allows to change the four parameters discussed in the text. You can change the parameter values and observe how they impact the relevant, log-price and absolute return, time series (bottom figures) as well as the main statistical properties, the probability density function and the power spectrum density, of the absolute return time series (top figures).
 
 [html5-interactive
-src="/uploads/models/maslov-order-book-model/index.html" width="520"
+src="/uploads/models/order-book-models/maslov/index.html" width="520"
 height="500" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
