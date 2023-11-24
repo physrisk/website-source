@@ -15,4 +15,4 @@ have not yet discussed this fractal on Physics of Risk, thus we'd like
 to recommend reading [an article on the
 Wikipedia](http://en.wikipedia.org/wiki/Penrose_tiling)).
 
-![sandy symmetry](/uploads/2012/11/sandy-simetry.jpg)
+![sandy symmetry](/uploads/2012/sandy-simetry.jpg)

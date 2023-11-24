@@ -50,5 +50,5 @@ connected by the path.
 Acyclic graph is called **forest**. Connected forest is called a
 **tree**.
 
-![image](/uploads/2012/04/grafai.png "Various examples of
+![image](/uploads/2012/grafai.png "Various examples of
 graphs."){#attachment_2314} 

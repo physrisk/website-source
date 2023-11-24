@@ -81,7 +81,7 @@ Qualities of different types of noise might be efficiently illustrated
 graphical. This is done in [Fig. 1](#attachment_2346).
 
 ![White (red curve), "brown" (green) and pink (blue) noise time
-series and spectral densities.](/uploads/2012/08/dazniai-time.png "White (red curve), 'brown' (green) and pink (blue) noise time
+series and spectral densities.](/uploads/2012/colors-of-noise.png "White (red curve), 'brown' (green) and pink (blue) noise time
 series and spectral densities."){#attachment\_2346}
 
 **Black noise** is not an "official" type of noise. Silence is

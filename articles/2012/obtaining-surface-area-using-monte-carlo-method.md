@@ -35,9 +35,9 @@ Easter!<!--more-->
 Unit square
 -----------
 
-![image](/uploads/2012/04/square.png "Random Monte Carlo "){#attachment_2311} 
+![image](/uploads/2012/mc-square.png "Random Monte Carlo "){#attachment_2311} 
 
-![image](/uploads/2012/04/kvadratas-graph.png "The evolution of guessed surface area (red curve) versus
+![image](/uploads/2012/mc-kvadratas-graph.png "The evolution of guessed surface area (red curve) versus
 actual area (blue
 line)."){#attachment_2312} 
 
@@ -47,16 +47,16 @@ Unit circle (estimation of the pi value)
 It should be evident that the area of unit circle is equal to pi. Thus
 this case might also serve as pi value estimator.
 
-![image](/uploads/2012/04/apskritimas.png "Random Monte Carlo "){#attachment_2309} 
+![image](/uploads/2012/mc-apskritimas.png "Random Monte Carlo "){#attachment_2309} 
 
-![image](/uploads/2012/04/apskritimas-graph.png "The evolution of guessed surface area (red curve) versus
+![image](/uploads/2012/mc-apskritimas-graph.png "The evolution of guessed surface area (red curve) versus
 actual area (blue
 line)."){#attachment_2310} 
 
 Euclidean egg
 -------------
 
-![image](/uploads/2012/04/euklido-kiausinis-geom.png "Full scheme for the definition of the Euclidean egg (the
+![image](/uploads/2012/mc-euklido-kiausinis-geom.png "Full scheme for the definition of the Euclidean egg (the
 egg itself is inside the pink rectangle). The main part of the egg
 consists of the circle in the middle of the graph (its radius is equals
 2). This egg is inside two larger circles, centers of which are on the
@@ -80,8 +80,8 @@ answer very close to the precise one. See [Fig. 6](#attachment_2306) and
 [Fig. 7](#attachment_2308) on the application of the Monte Carlo method
 in this case.
 
-![image](/uploads/2012/04/euklido-kiausinis.png "Random Monte Carlo "){#attachment_2306} 
+![image](/uploads/2012/mc-euklido-kiausinis.png "Random Monte Carlo "){#attachment_2306} 
 
-![image](/uploads/2012/04/euklido-kiausinis-graph.png "The evolution of guessed surface area (red curve) versus
+![image](/uploads/2012/mc-euklido-kiausinis-graph.png "The evolution of guessed surface area (red curve) versus
 actual area (blue
 line)."){#attachment_2308} 
