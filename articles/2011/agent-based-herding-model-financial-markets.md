@@ -419,8 +419,3 @@ it will start to show correct and precise results as time passes.
 [html5-interactive
 url="/uploads/models/kirman-sde-ret/index.html"
 width="470" height="480" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/kirman-sde-ret-en.html).
-The functionality of both applets is almost identical.

@@ -247,8 +247,3 @@ from previous discussion.
 [html5-interactive
 url="/uploads/models/bornholdt/index.html"
 width="500" height="570" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/bornholdt-en.html). The
-functionality of both applets is almost identical.

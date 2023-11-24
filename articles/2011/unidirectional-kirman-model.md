@@ -133,8 +133,3 @@ one](/what-can-the-bass-diffusion-model-tell-us-about-piracy "Aleksejus Kononovi
 [html5-interactive
 url="/uploads/models/unidirectional-kirman-model/index.html"
 width="475" height="535" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/unidirectional-kirman-model-en.html).
-The functionality of both applets is almost identical.

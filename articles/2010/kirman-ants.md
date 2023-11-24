@@ -167,9 +167,3 @@ smaller positive number. In most of the cases \\\(  \kappa \approx1 \\\) will su
 [html5-interactive
 url="/uploads/models/kirman-abm/index.html"
 width="470" height="510" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/kirman-ants-en.html).
-The functionality of both, new HTML5 and old Java, applets is almost
-identical.

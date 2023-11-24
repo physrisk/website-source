@@ -243,11 +243,6 @@ here \\\(  \xi\_i  \\\) is Gaussian noise (zero mean, unit variance) and
 [html5-interactive width="520" height="615" mode="iframe"
 url="/uploads/models/grk-return-model/index.html"]
 
-If you came here to find the previously used Java applet, it is still
-available [here](/uploads/models/old-java/return-model-en.html).
-The functionality of both, new HTML5 and old Java, applets is almost
-identical, but some noticeable differences are present.
-
 You can also download a full java program with GUI in
 [Lithuanian](/uploads/2010/12/returnModel.jar)
 or [English](/uploads/2010/12/returnModelEn.jar) language (the code

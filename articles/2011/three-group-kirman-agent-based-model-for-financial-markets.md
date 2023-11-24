@@ -176,9 +176,3 @@ Applet
 [html5-interactive
 url="/uploads/models/three-state-return-model/index.html"
 width="515" height="385" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available [here](/uploads/models/old-java/three-state-model-en.html).
-The functionality of both, new HTML5 and old Java, applets is almost
-identical.
-  

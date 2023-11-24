@@ -139,8 +139,3 @@ from the beginning.
 [html5-interactive
 url="/uploads/models/physics-models/ising-model/index.html"
 width="440" height="475" mode="iframe"]
-
-If you came here to find the previously used Java applet, it is still
-available
-[here](/uploads/models/old-java/ising-en.html). The
-functionality of both applets is almost identical.
