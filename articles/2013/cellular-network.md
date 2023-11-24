@@ -79,5 +79,5 @@ but now the nodes in different cells will be connected with probability
 network model.
 
 [html5-interactive
-url="/uploads/models/cellular-network/index.html"
+url="/uploads/models/network-models/cellular-network.html"
 mode="iframe" height="540" width="455"]
