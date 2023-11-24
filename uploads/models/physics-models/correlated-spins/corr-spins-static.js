@@ -37,7 +37,6 @@ function play() {
         bPos.push(npos);
     }
     bPos=bPos.sort((a,b)=>a-b);
-    console.log(bPos);
     var rez=0;
     for(i=0;i<bPos.length-1;i++) {
         rez+=(2.0*(i % 2)-1)*(bPos[i+1]-bPos[i]);
