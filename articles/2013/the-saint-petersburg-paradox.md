@@ -59,7 +59,7 @@ be unable to further increase his bets.
 of the tipical realizations while using the discussed strategy. As
 everything goes well it appears that there is no risk - income is
 steady, but even shortest streak of losses might result in a
-bankruptcy.](/uploads/2013/02/st-petersburg-graph-en.jpg "
+bankruptcy.](/uploads/2013/st-petersburg-graph-en.jpg "
 One of the tipical realizations while using the discussed strategy. As
 everything goes well it appears that there is no risk - income is
 steady, but even shortest streak of losses might result in a

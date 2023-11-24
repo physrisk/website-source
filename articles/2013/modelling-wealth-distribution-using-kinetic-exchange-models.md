@@ -18,7 +18,7 @@ distribution.<!--more-->
 
 ![Inverse CDF of wealth. Data are of the United Kingdom
 from 1996. Figure taken from an article by Patriarca and Chakraborti
-(2013).](/uploads/2013/11/wealth-distribution-uk-1996-Patriarca.jpg "Inverse
+(2013).](/uploads/2013/wealth-distribution-uk-1996-Patriarca.jpg "Inverse
 cumulative distribution function of wealth. Data are of
 the United Kingdom from 1996. Figure taken from an article by Patriarca
 and Chakraborti (2013)."){#attachment_2581} 
@@ -113,7 +113,7 @@ by blue dashed curve.
 ![Sum
 over Gamma distributions (red curves) becomes power-law distribution
 (blue
-curve).](/uploads/2013/11/exp-to-powerlaw.jpg "Sum over
+curve).](/uploads/2013/exp-to-powerlaw.jpg "Sum over
 Gamma distributions (red curves) becomes power-law
 distribution (blue curve). In the subfigure (a) we can see the energy
 distributions of particles in certain intervals of κ values, which is

@@ -115,4 +115,4 @@ src="/uploads/models/psd-example/index-stoch.html"]
 
 Previously the interactive app was powered by Wolfram CDF technology, but it
 is now replaced with HTML5 app. The old app can still be downloaded from
-[here](/uploads/2013/01/random-spectra-en.cdf).
+[here](/uploads/2013/random-spectra-en.cdf).

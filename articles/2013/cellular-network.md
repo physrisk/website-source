@@ -38,7 +38,7 @@ grown separately and only then joined to form the network.
 ![Fig.
 1: Example of a cellular network. In this figure we see 9 marked (using
 distinct colors) "cells" of
-nodes.](/uploads/2013/07/cellular-network.png "Example
+nodes.](/uploads/2013/cellular-network.png "Example
 of a cellular network. In this figure we see 9 marked
 (using distinct colors) 'cells' of nodes."){#attachment_2510} 
 

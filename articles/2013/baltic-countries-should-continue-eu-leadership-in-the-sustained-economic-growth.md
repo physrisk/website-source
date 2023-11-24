@@ -77,7 +77,7 @@ more than by seeming endogenous macroeconomic disproportions in Baltics.
 
 ![Fig.
 1. Relative GDP growth of EU contries in the period 1995-2012, map of
-GDP(2011)/GDP(1995).](/uploads/2013/09/relative-gdp-growth.jpg "
+GDP(2011)/GDP(1995).](/uploads/2013/relative-gdp-growth.jpg "
 Relative GDP growth of EU contries in the period 1995-2012, map
 of GDP(2011)/GDP(1995)."){#attachment_2541} 
 
@@ -105,13 +105,13 @@ growth rates and lower relative gross earnings.
 
 ![Fig.
 2. Map of average GDP growth per year of EU countries in the period
-1995-2012.](/uploads/2013/09/eu-gdp-growth.jpg "
+1995-2012.](/uploads/2013/eu-gdp-growth.jpg "
 Map of average GDP growth per year of EU countries in the period
 1995-2012."){#attachment_2542} 
 
 ![Fig.
 3. Map of average relative gross earning in EU contries,
-1995-2012.](/uploads/2013/09/mean-relative-wage.jpg "
+1995-2012.](/uploads/2013/mean-relative-wage.jpg "
 Map of average relative gross earning in EU contries,
 1995-2012."){#attachment_2543} 
 

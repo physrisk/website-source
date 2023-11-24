@@ -102,4 +102,4 @@ mode="iframe" height="615" width="500"]
 
 Previously the interactive model was powered by Wolfram CDF technology.
 The old app can still be downloaded from
-[here](/uploads/2013/01/random-attractor-en.cdf).
+[here](/uploads/2013/random-attractor-en.cdf).
