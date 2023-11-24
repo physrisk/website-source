@@ -137,7 +137,7 @@ After stopping the calculations user can resume them or restart them
 from the beginning.
 
 [html5-interactive
-url="/uploads/models/ising-model/index.html"
+url="/uploads/models/physics-models/ising-model/index.html"
 width="440" height="475" mode="iframe"]
 
 If you came here to find the previously used Java applet, it is still
