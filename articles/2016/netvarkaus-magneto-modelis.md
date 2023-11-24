@@ -60,7 +60,7 @@ figure is renewed. Numerical calculations are started by pressing button
 calculations user can resume them or restart them from the beginning.
 
 [html5-interactive
-url="/uploads/models/ising-model/index.html\#spin-glass"
+url="/uploads/models/physics-models/ising-model/index.html\#spin-glass"
 width="440" height="475" mode="iframe"]
 
 This applet is a slightly modified version of previous applet, which was

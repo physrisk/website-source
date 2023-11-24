@@ -44,6 +44,6 @@ Explore the Kawasaki Ising model using the app below. Note that this app shares
 a lot of similarities with the app made available in the
 [original post]({filename}/articles/2010/ising-model.md) about the Ising model.
 
-[html5-interactive url="/uploads/models/ising-model/index-kawasaki.html"
+[html5-interactive url="/uploads/models/physics-models/ising-model/kawasaki.html"
 width="440" height="285" mode="iframe"]
 
