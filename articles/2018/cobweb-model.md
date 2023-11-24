@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Economics, market price, free market, supply and demand, price formation series, Cobweb model
 Slug: price-formation-cobweb-model
 Status: published
-Image_url: uploads/2017/12/cobweb-convergence.png
+Image_url: uploads/2018/cobweb-convergence.png
 
 Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work.
 
