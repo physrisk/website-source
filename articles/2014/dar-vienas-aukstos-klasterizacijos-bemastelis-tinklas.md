@@ -63,7 +63,7 @@ Evolution of clustering coefficient with the increasing number of nodes
 We invite you to test this model using our interactive applet.
 
 [html5-interactive width="530" height="350" mode="iframe"
-src="/uploads/models/cluster-variable-network/index.html"]
+src="/uploads/models/network-models/triad-model/index.html"]
 
 Note that graph layout (figure on the left) is not updated
 automatically. It was disabled to conserve processing power of your
