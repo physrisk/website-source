@@ -143,7 +143,7 @@ consider downloading [Gephi](http://gephi.org/) or obtaining other
 similar software packages.
 
 [html5-interactive
-url="/uploads/models/scale-free-network/index.html"
+url="/uploads/models/network-models/barabasi-albert/index.html"
 mode="iframe" height="320" width="480"]
 
 Previously, on the old Physics of Risk, we used a Lithuanian translated
