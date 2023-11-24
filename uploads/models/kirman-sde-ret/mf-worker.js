@@ -1,4 +1,4 @@
-importScripts("../js-lib/commonFunctions.js");
+importScripts("../shared-libs/commonFunctions.js");
 importScripts("./kirmanSdeRetModel.js");
 
 var active=false;

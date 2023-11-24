@@ -1,5 +1,5 @@
 // import shared scripts
-importScripts("../js-lib/commonFunctions.js");
+importScripts("../shared-libs/commonFunctions.js");
 // import local scripts
 importScripts("./returnModel.js");
 
