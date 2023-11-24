@@ -57,7 +57,7 @@ to show the amount of order per price level (though the price levels are still
 discrete as in the previous example).
 
 [html5-interactive
-src="/uploads/models/order-book-models/bak/ob-vizualization-en.html" width="520"
+src="/uploads/models/order-book-models/bak/ob.html" width="520"
 height="370" mode="iframe"]
 
 The second applet has a somewhat more traditional look. By using the applet

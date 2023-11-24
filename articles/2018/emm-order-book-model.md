@@ -42,7 +42,7 @@ order book is always filled with one order per quote. What changes is only the
 boundary between the sides of the order book.
 
 [html5-interactive
-src="/uploads/models/order-book-models/efficient-market-maker/ob-vizualization-en.html"
+src="/uploads/models/order-book-models/efficient-market-maker/ob.html"
 width="520" height="340" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all

@@ -156,7 +156,7 @@ similar to the log-normal distribution (similarly as in the
 but the true expression is different [cite id="Kanazawa2018PRL, Kanazawa2018arxiv"].
 
 [html5-interactive
-src="/uploads/models/order-book-models/takayasu/ob-vizualization-en.html"
+src="/uploads/models/order-book-models/takayasu/ob.html"
 width="520" height="430" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all

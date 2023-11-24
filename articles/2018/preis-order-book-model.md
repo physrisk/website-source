@@ -130,7 +130,7 @@ that both sides of the order book look symmetric and have log-normal shape
 quickly, while the other decays significantly slower).
 
 [html5-interactive
-src="/uploads/models/order-book-models/preis/ob-vizualization-en.html"
+src="/uploads/models/order-book-models/preis/ob.html"
 width="520" height="400" mode="iframe"]
 
 The second applet is in certain sense traditional Physics of Risk applet for all
