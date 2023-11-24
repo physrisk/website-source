@@ -3,9 +3,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Standard map</title>
-    <link rel="stylesheet" type="text/css" href="../js-lib/normalize.css">
-	<script language="javascript" type="text/javascript" src="../js-lib/jquery-183.min.js"></script>
-	<script language="javascript" type="text/javascript" src="../js-lib/jquery.flot-08.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="../shared-libs/normalize.css">
+	<script language="javascript" type="text/javascript" src="../shared-libs/jquery-183.min.js"></script>
+	<script language="javascript" type="text/javascript" src="../shared-libs/jquery.flot-08.min.js"></script>
 	<style type="text/css">
 		input,select,button{box-sizing:border-box;height:20px;line-height:20px;padding:0 6px;border:1px solid #999;}
 		*{margin:0;padding:0}
@@ -71,7 +71,7 @@ $(function () {
 		makeWorker();
 		
 		$("#new-map").click(function () {
-			$("#figure").html("<img id=\"ajax-loader\" src=\"../js-lib/ajax-loader-130315.gif\"/>");
+			$("#figure").html("<img id=\"ajax-loader\" src=\"../shared-libs/ajax-loader-130315.gif\"/>");
 			var sendData={
 				k: myParseFloat($("#stochForce").attr("value")),
 				npoints: parseInt($("#Npoints").attr("value")),

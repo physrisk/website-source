@@ -1,4 +1,4 @@
-importScripts("../js-lib/random-026.min.js");
+importScripts("../shared-libs/random-026.min.js");
 
 let rng = new Random();
 let invTemp = 30;

@@ -17,7 +17,7 @@ You may (re)use the content according to [CC-BY-NC](https://creativecommons.org/
 under different licenses. Contact the authors of respective theses for more
 information.
 
-**Note:** Some files in `uploads/models/js-lib/` may also be a subject to a
+**Note:** Some files in `uploads/models/shared-libs/` may also be a subject to a
 different license. We have retained respective license notifications (or
 links to the applicable licenses) wherever possible with the files
 themselves.
