@@ -59,25 +59,25 @@ trajectories.
 Gallery of the random attractors
 --------------------------------
 
-![stone](/uploads/2012/01/akmuo2.png "Stone")
+![stone](/uploads/2013/random-attractor-akmuo2.png "Stone")
 
-![spaceship](/uploads/2012/01/erdvelaivis.png "Spaceship")
+![spaceship](/uploads/2013/random-attractor-erdvelaivis.png "Spaceship")
 
-![swan](/uploads/2012/01/gulbe.png "Swan")
+![swan](/uploads/2013/random-attractor-gulbe.png "Swan")
 
-![mountain](/uploads/2012/01/kalnas.png "Mountain")
+![mountain](/uploads/2013/random-attractor-kalnas.png "Mountain")
 
-![bird](/uploads/2012/01/krekzdute.png "Bird")
+![bird](/uploads/2013/random-attractor-krekzdute.png "Bird")
 
-![crocodile](/uploads/2012/01/krokodilas.png "Crocodile")
+![crocodile](/uploads/2013/random-attractor-krokodilas.png "Crocodile")
 
-![cilinder](/uploads/2012/01/rite.png "Cilinder")
+![cylinder](/uploads/2013/random-attractor-rite.png "Cylinder")
 
-![hourglass](/uploads/2012/01/smelio-laikrodis.png "Hourglass")
+![hourglass](/uploads/2013/random-attractor-smelio-laikrodis.png "Hourglass")
 
-![triangle](/uploads/2012/01/trikampis2.png "Triangle")
+![triangle](/uploads/2013/random-attractor-trikampis2.png "Triangle")
 
-![ufo](/uploads/2012/01/ufo.png "UFO")
+![ufo](/uploads/2013/random-attractor-ufo.png "UFO")
 
 Interactive model
 -----------------

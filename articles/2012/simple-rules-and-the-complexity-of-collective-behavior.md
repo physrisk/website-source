@@ -29,4 +29,4 @@ difference in the game rules causes essential changes in the externally
 observed behavior.
 
 ![The simplest change in the ruleset might cause
-unpredictable difference in behavior! On the left](/uploads/2012/05/interaction-graph.png){#attachment_2330} 
+unpredictable difference in behavior! On the left](/uploads/2012/simple-rules-interaction-graph.png){#attachment_2330} 

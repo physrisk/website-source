@@ -59,7 +59,7 @@ correct answer will be noticeable. The deviation will depend on the size
 of the time step - if it is small, the deviation will also tend to be
 smaller.
 
-![image](/uploads/2012/05/euler.png "Illustration of the Euler method applied towards
+![image](/uploads/2012/num-methods-euler.png "Illustration of the Euler method applied towards
 non-linear differential equation. Note that the numerical solution (red
 dots) doesn't fully coincide with the correct answer (blue
 curve)."){#attachment_2323} 
@@ -188,7 +188,7 @@ The idea of the variable time steps can be easily and somewhat
 efficiently applied towards solution of the ordinary differential
 equations - see [Fig. 2](#attachment_2324).
 
-![image](/uploads/2012/05/eulerVarStep.png "Introducing variable time steps into the original Euler
+![image](/uploads/2012/num-methods-eulerVarStep.png "Introducing variable time steps into the original Euler
 method. Note that under similar conditions the agreement between
 analytical and numerical solution is
 improved."){#attachment_2324} 

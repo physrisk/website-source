@@ -112,7 +112,7 @@ is known as "Monty Hall" problem in honor of Monty Hall, long term host
 of "Let's make deal" (very popular show in the US, back in the 20th
 century).
 
-![monty hall problem](/uploads/2012/11/monty-hall.png)
+![monty hall problem](/uploads/2012/monty-hall.png)
 
 The
 game is played as follows. At first the player choose one of the three
@@ -139,7 +139,7 @@ you were right or wrong in your first choice. As the probability that
 you were wrong is twice as large as being right, you should opt to
 switch the door.
 
-![monty hall tries](/uploads/2012/11/monty-hall-tries.png "
+![monty hall tries](/uploads/2012/monty-hall-tries.png "
 Evolution of the percentage of wins in the Monty Hall problem:
 switching strategy (blue circles) and staying strategy (red squares).
 Note that the percentage of wins converges to the expected results while
@@ -168,4 +168,4 @@ of the image below (taken from
 [science.memebase.com](http://cheezburger.com/6690922752); author:
 YUNOtele).
 
-![math real life](/uploads/2012/11/math-real-life.jpg "math-real-life")
+![math real life](/uploads/2012/math-real-life.jpg "math-real-life")

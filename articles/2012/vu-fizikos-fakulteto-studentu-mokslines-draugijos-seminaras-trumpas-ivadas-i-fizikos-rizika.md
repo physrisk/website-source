@@ -26,5 +26,5 @@ Vilnius)](https://www.ff.vu.lt/), 201 auditorium.
 **Facebook event:**
 [here](https://www.facebook.com/events/395011713904204/).
 
-**Slides:** [download](/uploads/2012/03/Kononovicius2012SMD.pdf) (in
+**Slides:** [download](/uploads/2012/Kononovicius2012SMD.pdf) (in
 Lithuanian).

@@ -14,4 +14,4 @@ By the way did you know that surface of the human brain has a fractal,
 Hausdorff, dimension of 2.79? This actually means that human brain is
 neither 3D, nor 2D object.
 
-![what is in side my head](/uploads/2012/02/kas_galvoje.jpg)
+![what is in side my head](/uploads/2012/kas_galvoje.jpg)

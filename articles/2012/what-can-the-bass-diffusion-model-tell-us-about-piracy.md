@@ -113,7 +113,7 @@ green one, though the green one reaches larger value than the blue one.
 If piracy is present it "consumes" part of the market potential (red
 curve).
 
-![image](/uploads/2012/02/BassPiracy.png "Bass diffusion without piracy (green curve) and with it
+![image](/uploads/2012/BassPiracy.png "Bass diffusion without piracy (green curve) and with it
 (pirates - red curve; legal consumers - blue curve). Model parameters
 are identical in both cases. On the abscissa axis we plot time, t, while
 on the ordinate we plot the number of consumers,
@@ -125,7 +125,7 @@ scenario is shown in [Fig. 2](#attachment_2289). Note that once again
 diffusion is faster then pirates are present, yet in this case larger
 profit is gained as more consumers are legals.
 
-![image](/uploads/2012/02/BassPiracy2.png "Bass diffusion without piracy (green curve) and with it
+![image](/uploads/2012/BassPiracy2.png "Bass diffusion without piracy (green curve) and with it
 (pirates - red curve; legal consumers - blue curve). Model parameters
 are identical in both
 cases."){#attachment_2289} 
@@ -136,7 +136,7 @@ with large discounts. The model stays the same as in case with "shadow"
 diffusion, but the "shadow" diffusion term remains constant, \\\( Y(t) = Y\_0 \\\). As you can see in [Fig. 3](#attachment_2290) profit loss
 once again stays minimal, yet the diffusion is even faster.
 
-![image](/uploads/2012/02/BassPiracy3.png "Bass diffusion without piracy (green curve), with
+![image](/uploads/2012/BassPiracy3.png "Bass diffusion without piracy (green curve), with
 pirates (blue curve) and with "){#attachment_2290} 
 
 The full effectiveness of the previous approach can not be seen from the

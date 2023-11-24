@@ -81,7 +81,7 @@ while index 2 marks the relation to the predator population. All
 parameters in these equations are positive numbers - the nature of
 interaction is already accounted for.
 
-![Solution of L-V eqs](/uploads/2012/09/lv-graph.png "Solution of the Lotka-Volterra equations. Red line marks the
+![Solution of L-V eqs](/uploads/2012/lv-graph.png "Solution of the Lotka-Volterra equations. Red line marks the
 predator evolution, while blue - prey's. Dashed lines mark the model's
 fixed points. Parameters: \\\( X\_1(0)=8 \\\), \\\( X\_2(0)=12 \\\), \\\( a\_1=20 \\\), \\\( a\_2 =30\\\),
 \\\( c\_\{12\}=c\_\{21\}=1 \\\)."){#attachment_2359}
@@ -121,7 +121,7 @@ width="465" height="540" mode="iframe"]
 
 Previously, instead of the currently used HTML5 app, we have used an app
 based on the Wolfram CDF technology. The old app is still available for
-[download](/uploads/2012/10/lotka-volterra.cdf).
+[download](/uploads/2012/lotka-volterra.cdf).
 
 Stochastic Lotka-Volterra model
 -------------------------------
