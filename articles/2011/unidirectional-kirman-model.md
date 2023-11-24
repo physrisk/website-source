@@ -109,7 +109,7 @@ diffusion model describe mean, while unidirectional Kirman's model
 provides only single realization. This figure is featured in \[cite
 id="Daniunas2011ICCGI"\].
 
-![image](/uploads/2011/06/bassKirmanCurves.png "Agreement between Kirman's (red dots) and Bass
+![image](/uploads/2011/bassKirmanCurves.png "Agreement between Kirman's (red dots) and Bass
 diffusion (blue curves) models. (a) N=1000, Δt=0.1, (b) N=1000, Δt=1,
 (c) N=10000, Δt=0.1, (d) N=10000, Δt=1. Other model parameters: σ=0.01,
 h=0.275."){#attachment_1747}

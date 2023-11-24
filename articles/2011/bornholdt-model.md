@@ -217,18 +217,18 @@ id="Kaizoji2002PhysA"\],
 Model results
 -------------
 
-![image](/uploads/2011/02/phase_bornholdt.png "Phases observed in Bornholdt model: calmness (left
+![image](/uploads/2011/bornholdt_phase.png "Phases observed in Bornholdt model: calmness (left
 figure), chaotic frustration (right figure). Note that Bornholdt doesn&#x27;t
 reach stable state - shown phases interchange during whole model
 evolution."){#attachment_1342} 
 
-![image](/uploads/2011/02/price_bornholdt.png "Evolution of log-price (red curve) and fundamental
+![image](/uploads/2011/bornholdt_price.png "Evolution of log-price (red curve) and fundamental
 log-price (blue curve). Note that price fluctuations are by far stronger
 than fluctuations of fundamental price. Financial bubbles occur and end
 without major change in fundamental
 price."){#attachment_1341} 
 
-![image](/uploads/2011/02/stats_bornholdt.png "Statistical properties, probability density function
+![image](/uploads/2011/bornholdt_stats.png "Statistical properties, probability density function
 ((a) and (c)) and spectral density ((b) and (d)), of normalized return
 (red curve) and changes of fundamental price (blue curve) observed in
 Bornholdt model. Figures (a) and (b) were obtained with small σ values,
