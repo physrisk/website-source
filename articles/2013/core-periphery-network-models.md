@@ -99,7 +99,7 @@ you can move the nodes by dragging, and also restart app by pressing
 "&gt;" button.
 
 [html5-interactive mode="iframe" height="490" width="480"
-url="/uploads/models/core-periphery-network/destroy-network-challenge.html"]
+url="/uploads/models/network-models/core-periphery/destroy-network.html"]
 
 Modifying Erdos-Renyi model to recover core-periphery network model
 -------------------------------------------------------------------
@@ -123,7 +123,7 @@ model, we will assume that the first type nodes are the core nodes and
 we will require that at least one node of this type actually exists.
 
 [html5-interactive mode="iframe" height="540" width="480"
-url="/uploads/models/core-periphery-network/er-index.html"]
+url="/uploads/models/network-models/core-periphery/random-network.html"]
 
 Note that the app shows only the nodes which are connected to the core
 nodes. All of the other nodes are not shown.
@@ -153,7 +153,7 @@ nodes with large degrees) in the periphery, though the core nodes should
 still have larger degrees.
 
 [html5-interactive mode="iframe" height="540" width="480"
-url="/uploads/models/core-periphery-network/index.html"]
+url="/uploads/models/network-models/core-periphery/index.html"]
 
 This time the core was dictated by the history of the network - it
 existed before we started to grow the network.
