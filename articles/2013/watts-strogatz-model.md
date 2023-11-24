@@ -59,4 +59,4 @@ via the "Rewire" button (one attempt per second) and also manually via
 "Add edge" button.
 
 [html5-interactive mode="iframe" height="550" width="480"
-url="/uploads/models/small-world-network/index.html"]
+url="/uploads/models/network-models/small-world/index.html"]
