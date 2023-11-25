@@ -35,4 +35,4 @@ only taken into account the mixed strategy equilibrium, but the updated app
 shows all three curves.
 
 [html5-interactive width="520" height="240" mode="iframe"
-url="/uploads/models/price-war-game/graph-update.html"]
+url="/uploads/models/game-theory/price-war-game/graph-update.html"]
