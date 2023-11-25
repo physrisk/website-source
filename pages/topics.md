@@ -33,7 +33,7 @@ could be explained by studying complex interactions of somewhat similar and
 somewhat different individuals within financial markets. Evidently these ideas
 can be applied while studying other socio-economic systems.
 
-It is possible to explore the socio-economic interactions through the lense of
+It is possible to explore the socio-economic interactions through the lens of
 agent-based models. In these models we replace the individuals from the real
 life socio-economic systems with abstract entities called agents (hence the
 term for this framework). These agents act based on predefined rules and
@@ -74,7 +74,7 @@ equations.
 Human society is not a grid of people. Nor it is a hierarchical ladder.
 But how does its structure look like? In the middle of XIX century
 Auguste Comte proposed to analyze society in micro level, where each
-individual would be represented some object, e.g. agent, and its relation
+individual would be represented some object, e.g., agent, and its relation
 to the other objects. After nearly half of century ideas of Comte found
 their place in the first works about social network theory, mostly by
 G. Simmel and J. Moreno. In his works J. Moreno widely used sociograms.
@@ -100,10 +100,10 @@ promote new products?).
 
 ## [Stochastic models](/tag/stochastic-models/)
 
-All earlier topics cover the modelling of the microscopic details of human
+All earlier topics cover the modeling of the microscopic details of human
 behavior. Macroscopic dynamics in these models emerge from microscopic rules,
 but in some applications simple description of macroscopic dynamics is more
-usefull than a sophisticated microscopic models.
+useful than a sophisticated microscopic models.
 
 Usually macroscopic dynamics of complex systems could potentially be described
 using Stochastic Calculus. Yet most of the complex systems are well described
@@ -124,7 +124,7 @@ Calculus, namely stochastic differential (usually Langevin) equations.
 ## [Dynamical chaos](/tag/dynamical-chaos/)
 
 As we have mentioned non-linear stochastic models are in a certain sense similar to
-sophysticated dynamical systems, which exhibit dynamical chaos. But what dynamical
+sophisticated dynamical systems, which exhibit dynamical chaos. But what dynamical
 chaos actually is?
 
 Physicists love mathematics. Especially and most usually differential calculus.
@@ -139,7 +139,7 @@ measurements of reality. As we all know it measurements are just approximation �
 measurement has some error related to it, no matter how small or apparently insignificant
 it appears. Measurement bias in the linear systems may play no role at all – system
 evolves as predicted with small or no corrections at all. But most of the interesting
-systems are not linear! In fact most of them are strongly non-linear. Non-linearities
+systems are not linear! In fact most of them are strongly non-linear. Non-linearity
 in dynamical equations may cause accumulating differences between solutions with
 apparently insignificant variation in initial conditions. Thus over the time in non-linear
 system prediction of evolution and observed evolution may start to disagree by far more
@@ -166,7 +166,7 @@ fractal geometry of nature. This of course is an obvious truth, but the message
 behind it is truly fascinating. So what is fractal and what significance does
 it have?
 
-Word fractal originated from latin word fractus (en. “composed of pieces”). Thus
+Word fractal originated from Latin word fractus (en. “composed of pieces”). Thus
 fractal ought to be composed of smaller parts. And thus the most fascinating
 property of fractals lies within it, as each smaller part fully or partially
 resembles every other smaller and larger parts. Mathematicians call it
