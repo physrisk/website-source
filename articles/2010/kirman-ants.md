@@ -45,17 +45,13 @@ about food source, \\\(  \sigma\_i \\\), and herding, \\\(  h \\\), for
 relatively short time intervals, \\\(  \Delta t \\\), we can write
 probabilities for minimal changes of system state:
 
-
 \begin{equation}
  p(x \rightarrow x+1) = (N - x) (\sigma\_1 + h x) \Delta t ,
 \end{equation}
 
-
-
 \begin{equation}
  p(x \rightarrow x-1) = x (\sigma\_2 + h (N-x))\Delta t .
 \end{equation}
-
 
 In the equations above \\\(  \sigma\_i \\\), individual behavior, terms
 are multiplied by population once, accordingly by \\\(  x \\\) and
@@ -78,20 +74,16 @@ lots of differing answers, but generally times should as short as it
 must be for sum of transition probabilities, \\\(  p(x \rightarrow x+1) \\\) and \\\(  p(x \rightarrow x-1) \\\), to be smaller than one.
 Mathematically we can rewrite this requirement as
 
-
 \begin{equation}
  \Delta t&lt;\frac{1}{(N - x) \sigma\_1 + x \sigma\_2 + 2 h N(N-x)} , 
 \end{equation}
 
-
 as probabilities are largest at \\\(  x=N/2 \\\) we can further simplify
 this expression to
-
 
 \begin{equation}
  \Delta t&lt;\frac{2}{N (\sigma\_1 + \sigma\_2 + h N)}\simeq \frac{2}{h N^2} . 
 \end{equation}
-
 
 Different quality of evolution observed in model
 ------------------------------------------------
@@ -107,7 +99,7 @@ herding is not important in this case, intermediate value around which
 fluctuations occur depends on the ratio of \\\(  \sigma\_1 \\\) and
 \\\(  \sigma\_2 \\\).
 
-![image](/uploads/2010/00.02.en_.png "Weak herding behavior (\\\( h=0.02 \\\),
+![image]({static}/uploads/2010/00.02.en_.png "Weak herding behavior (\\\( h=0.02 \\\),
 \\\( \sigma\_1 = \sigma\_2 =1 \\\))."){#attachment_547} 
 
 In other extreme case, \\\(  \sigma\_1 \approx \sigma\_2 \ll h  \\\),
@@ -120,7 +112,7 @@ off individualism within the system, its state will converge to stable
 states at \\\(  x=0 \\\) or \\\(  x=N \\\) - there will be no further
 fluctuations.
 
-![image](/uploads/2010/50.00.en_.png "Strong herding behavior (\\\( h=50 \\\),
+![image]({static}/uploads/2010/50.00.en_.png "Strong herding behavior (\\\( h=50 \\\),
 \\\( \sigma\_1 = \sigma\_2 =1 \\\))."){#attachment_546} 
 
 Dynamics in the extreme cases illustrate mostly single one mechanism
@@ -131,7 +123,7 @@ entropy of the system is at its or near its maximum as probabilities
 of observing each system state are very similar (see [Fig
 3](#attachment_548).).
 
-![image](/uploads/2010/01.00.en_.png "Balanced behavior case (\\\( h=1 \\\),
+![image]({static}/uploads/2010/01.00.en_.png "Balanced behavior case (\\\( h=1 \\\),
 \\\( \sigma\_1 = \sigma\_2 =1\\\))."){#attachment_548} 
 
 In all previous examples behavior of the system is symmetrical - neither
@@ -142,7 +134,7 @@ state, \\\(  x \\\), values. This means that first food source, the one
 which is exploited by \\\(  x \\\) ants, becomes preferred and is used
 more frequently than the other one (see [Fig 4.](#attachment_551)).
 
-![image](/uploads/2010/asimetry.en_.png "Asimmetric behavior case (\\\( h=1 \\\),
+![image]({static}/uploads/2010/asimetry.en_.png "Asimmetric behavior case (\\\( h=1 \\\),
 \\\( \sigma\_1 =1.2 \\\), \\\( \sigma\_2 =0.8 \\\))."){#attachment_551} 
 
 Applet
@@ -153,11 +145,9 @@ equations to have mathematically correct interpretation. In the program
 below we have chosen to use one of the previous inequalities to define
 actual value of \\\(  \Delta t \\\):
 
-
 \begin{equation}
  \Delta t = \frac{2 \kappa}{N (\sigma\_1 + \sigma\_2 + h N)}, 
 \end{equation}
-
 
 note that here parameter \\\(  \kappa \\\) has appeared. This parameter
 is responsible for precision of the calculations and allows user to

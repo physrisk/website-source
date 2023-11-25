@@ -15,10 +15,10 @@ Physics of Risk will also be available in English!
 As website is now available in two languages all of the old models,
 which were created for project *Science. Scientists. Society* (lt.
 *Mokslas. Mokslininkai. Visuomenė*), are now queued for minor
-improvements and translation. All of the old models are available in the
-[copy](http://mokslasplius.itpa.lt/rizikos-fizika "copy of the old Physics of Risk website")
+improvements and translation. <del>All of the old models are available in the
+copy
 of the old Physics of Risk website (though content is available only in
-Lithuanian).
+Lithuanian).</del>
 
 [More about the project and the website of Physics of Risk
-»](/about "About the project")
+»]({filename}/pages/about.md "About the project")
