@@ -1,20 +1,20 @@
 Title: Agent-based cobweb model
 Date: 2020-01-28 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, Economics, supply and demand, free market, market price, Cobweb model
+Tags: Interactive models, Agent-based models, Economics, supply and demand, free market, market price, cobweb model
 Slug: agent-based-cobweb-model
 Status: published
 Image_url: uploads/2020/cobweb-abm.png
 
 [Long time ago]({filename}/articles/2020/cobweb-emm.md) theoretical background
-of the [Cobweb model]({filename}/articles/2018/cobweb-model.md) has somewhat
+of the [cobweb model]({filename}/articles/2018/cobweb-model.md) has somewhat
 troubled me. So I wanted to explore my doubts. At the time I didn't have any
 idea how to do this properly, but recently I think I have figured it out.
 
 In this post I will construct quite simple agent-based model of the price formation
 in the [free market](/tag/free-market). This time the approach works, at least
 in part, and from these we can uncover hidden assumption made in the classical
-[Cobweb model]({filename}/articles/2018/cobweb-model.md).
+[cobweb model]({filename}/articles/2018/cobweb-model.md).
 <!--more-->
 
 ## Agent-based cobweb model
@@ -23,7 +23,7 @@ Note that this is not a true agent-based model as buyers and suppliers are not
 heterogeneous and are effectively represented by a single agent. Nevertheless
 let us continue with the introduction of the model.
 
-From the [Cobweb model]({filename}/articles/2018/cobweb-model.md) we have the
+From the [cobweb model]({filename}/articles/2018/cobweb-model.md) we have the
 supply and the demand laws. Our suppliers will produce in accordance to the
 current market price and observe how well their product is received. They will
 observe for a single unit of time.
@@ -62,7 +62,7 @@ decrease.
 Now, the dynamics of this model are a lot nicer than the ones we had in the
 [previous approach]({filename}/articles/2020/cobweb-emm.md). While at the first
 glance they somewhat contradict the intuitions of the original
-[Cobweb model]({filename}/articles/2018/cobweb-model.md), but we can quickly
+[cobweb model]({filename}/articles/2018/cobweb-model.md), but we can quickly
 fix that.
 
 First of all let us define inverse supply and inverse demand laws. Original
@@ -86,7 +86,7 @@ S^{-1}(P) = \frac{P - P\_{eq}}{\alpha\_s} + Q\_{eq},
 D^{-1}(P) = \frac{P\_{eq} - P}{\alpha\_d} + Q\_{eq}.
 \end{equation}
 
-Price in the original [Cobweb model]({filename}/articles/2018/cobweb-model.md)
+Price in the original [cobweb model]({filename}/articles/2018/cobweb-model.md)
 is updated as follows:
 
 \begin{equation}
@@ -143,7 +143,7 @@ overestimation usually will result in the market collapse.
 assumption that suppliers know the demand law (or at least its slope) of the
 buyers. But if they know the law fully, they should be able to immediately know
 where the equilibrium point lies. This is likely the thing that originally
-bothered me about the [Cobweb model]({filename}/articles/2018/cobweb-model.md).
+bothered me about the [cobweb model]({filename}/articles/2018/cobweb-model.md).
 
 Another catch is that after few initial observation periods the suppliers could
 be even smarter. They could used linear fit to make a rather good guess of the
@@ -176,7 +176,7 @@ src="/uploads/models/cobweb-model/abm.html" width="520" height="500"]
 ## Disclaimer
 
 Note that this model is a product of my inquiries to the nature of the
-[Cobweb model]({filename}/articles/2018/cobweb-model.md). This exploration
+[cobweb model]({filename}/articles/2018/cobweb-model.md). This exploration
 might not make a lot of sense to a person more familiar with
 [Economics](/tag/economics) than myself. Also it is quite possible that someone
 has already made a similar inquiry.
