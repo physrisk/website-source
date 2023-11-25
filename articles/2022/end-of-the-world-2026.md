@@ -97,4 +97,4 @@ doomsday, \\\( t\_0 \\\), to happen around 2100 and set \\\( k = 1.17 \\\),
 you will also get a reasonably nice fit. Try and verify!
 
 [html5-interactive width="520" height="250" mode="iframe"
-url="/uploads/models/doomsday/index.html"]
+url="/uploads/models/data-driven-apps/population-doomsday/index.html"]
