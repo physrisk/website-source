@@ -27,5 +27,5 @@ retain his life? What about P2? Original captain? You can try your
 solution using applet below.
 
 [html5-interactive
-src="/uploads/models/pirate-game/index.html"
+src="/uploads/models/game-theory/pirate-game/index.html"
 width="450" height="170" mode="iframe"]
