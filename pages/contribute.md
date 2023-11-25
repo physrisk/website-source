@@ -26,8 +26,19 @@ We are always happy to accept contributed texts from external authors. Especiall
 
 ## Submission
 
-If you are willing to submit content, please contact the [blog maintainer](/about/). Texts will be reviewed by the [blog maintainer](/about/) and might not be accepted if they violate the guidelines or in some other (not listed) edge cases. After review the contributions will be published under the same license as other content on Physics of Risk blog ([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)).
+If you are willing to submit content, please contact the [blog
+maintainer]({filename}/pages/about.md). Texts will be reviewed by the [blog
+maintainer]({filename}/pages/about.md) and might not be accepted if they violate the
+guidelines or in some other (not listed) edge cases. After review the
+contributions will be published under the same license as other content on
+Physics of Risk blog
+([CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)).
 
 ## If you have noticed an error
 
-You could report your finding to the [blog maintainer](/about/), write us via Facebook message (our Facebook page can be found at [https://www.facebook.com/physics.risk/](https://www.facebook.com/physics.risk/)) or use proper GitHub tools (links to repositories can be found in the sidebar).
+You could report your finding to the [blog
+maintainer]({filename}/pages/about.md), write us via Facebook message (our
+Facebook page can be found at
+[https://www.facebook.com/physics.risk/](https://www.facebook.com/physics.risk/))
+or use proper GitHub tools (links to repositories can be found in the
+sidebar).
