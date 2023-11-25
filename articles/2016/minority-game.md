@@ -1,7 +1,7 @@
 Title: Minority game
 Date: 2016-04-12 07:23
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, competition
+Tags: Agent-based models, Interactive models, competition, game theory
 Slug: minority-game
 Status: published
 
@@ -79,7 +79,7 @@ window you will score and also your current position as well as number
 of points scored by the current number one.
 
 [html5-interactive
-src="/uploads/models/minority-game/index.html"
+src="/uploads/models/game-theory/minority-game/index.html"
 height="430" width="500" mode="iframe"]
 
 Feel free to share you score with us!
