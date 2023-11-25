@@ -65,4 +65,4 @@ You may find a better set of parameters using the interactive app below. Feel
 free to try.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/covid-19-rec/weib-conv.html" width="520" height="270"]
+src="/uploads/models/epidemic-models/covid-19-recovery/weib-conv.html" width="520" height="270"]
