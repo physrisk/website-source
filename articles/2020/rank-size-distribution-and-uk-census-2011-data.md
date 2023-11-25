@@ -44,5 +44,5 @@ is the inverse cumulative distribution function.
 After this quick introduction we invite you to explore scaling behavior of the
 UK census 2011 data using the interactive app below.
 
-[html5-interactive url="/uploads/models/uk-census/rsd.html"
+[html5-interactive url="/uploads/models/data-driven-apps/census-uk-2011/rsd.html"
 width="520" height="460" mode="iframe"]

@@ -23,5 +23,5 @@ Our geographical resolution being postal areas.
 After this quick introduction we invite you to explore the data set from the
 scatter plot perspective using the interactive app below.
 
-[html5-interactive url="/uploads/models/uk-census/index.html"
+[html5-interactive url="/uploads/models/data-driven-apps/census-uk-2011/index.html"
 width="520" height="510" mode="iframe"]
