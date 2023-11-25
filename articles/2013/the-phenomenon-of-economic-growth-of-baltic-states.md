@@ -64,8 +64,8 @@ Interactive program
 -------------------
 
 [html5-interactive
-url="/uploads/models/gdp-comparison/\#lang=En.countries=132,65,134,177,207,49,92.fromy=1990.toy=-9999.normy=1995"
+url="/uploads/models/data-driven-apps/gdp-comparison/\#lang=En.countries=132,65,134,177,207,49,92.fromy=1990.toy=-9999.normy=1995"
 mode="img"
-imgurl="/uploads/models/gdp-comparison/gdp-comparison-en.jpg"]
+imgurl="/uploads/models/data-driven-apps/gdp-comparison/gdp-comparison-en.jpg"]
 
 **Note:** The app was updated with most recent available data on 2018-02-11.
