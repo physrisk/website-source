@@ -325,7 +325,7 @@ Applet
 ------
 
 GUI of the applet below is reminiscent of the previous
-[applet](/agent-based-herding-model-financial-markets),
+[applet]({filename}/articles/2011/agent-based-herding-model-financial-markets.md),
 which was published together with the text on Agent-based herding model
 of financial markets. Thus there is no point in discussing its input
 parameters. Furthermore most of the input parameters are directly
