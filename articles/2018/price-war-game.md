@@ -15,7 +15,7 @@ In the interactive app below you can try changing some these values. I have only
 Further \\\( p\_0 \\\) is used to denote the production costs, \\\( p\_1 \\\) - "Price 1", \\\( p\_2 \\\) - "Price 2", \\\( N \\\) - units of product which competing companies produce (bottom limit is fixed at 50, so that all consumer could buy either product, upper limit is fixed at 100 to avoid overproduction). Try changing the parameter values to see what happens.
 
 [html5-interactive
-src="/uploads/models/price-war-game/index.html" width="410"
+src="/uploads/models/game-theory/price-war-game/index.html" width="410"
 height="150" mode="iframe"]
 
 Obviously as you change the parameter values the expected profits (the payoffs in the matrix) are updated. Depending on the expected profits the companies also update the price they charge for their product. The price charge by the company is highlighted in bold, while one of the cells becomes green (companies receive profits written in that cell). As the game is symmetric both companies will charge the same price for the product (either "Price 1" or "Price 2"). These simple changes occur if you do not drastically change \\\( N \\\).
@@ -35,7 +35,7 @@ here \\\( p \\\) is the probability to choose "Price 1" and likewise \\\( 1-p \\
 Now let us assume that if there is "pure" dominating strategy, then the competitors will use that strategy all the time. Otherwise they will randomize the charged price and will do so optimally. This leads to an interesting plot below (presented as interactive figure).
 
 [html5-interactive
-src="/uploads/models/price-war-game/graph-en.html" width="400"
+src="/uploads/models/game-theory/price-war-game/graph.html" width="400"
 height="300" mode="iframe"]
 
 Try matching parameter values between the interactive apps. Explore the transition points to understand the peculiar shape seen in the figure. Observe the transition from the prisoners dilemma to the coordination game. Observe as coordination game once again becomes the game with dominating strategy (I am not sure if it has well-known name).
