@@ -28,8 +28,9 @@ freely available at
 Next we briefly discuss our research and the scientific context, thus
 if you want to familiarize yourself more with our research you should
 start by reading chapter 27 of aforementioned book.
+<!--more-->
 
-<!--more-->There is huge variety of scientific papers
+There is huge variety of scientific papers
 concerned with financial market modeling. But there is not only huge
 variety in numbers, but in the fundamental ideas also. Thus there is no
 agreement even on the most essential properties of the financial
@@ -45,7 +46,7 @@ markets:
 
 Furthermore different research groups find different ways to express
 their ideas using, seemingly, the very same modeling language – some
-prefer stochastic differential equations, others rely on autoregresive
+prefer stochastic differential equations, others rely on autoregressive
 models. Numbers of groups study microscopical structure of financial
 markets – by using agent-based and network models. Reviewing all those
 of trends and ideas would be hard and virtually impossible task.
@@ -75,7 +76,7 @@ freely available book *Stochastic Control*
 (<http://sciyo.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets>).
 
 Processes, whose dynamics are heavily dependent on the stochastic
-influence of different kinds (ex. internal or external noise),
+influence of different kinds (ex., internal or external noise),
 mathematically are described using stochastic differential equations.
 Further evolution of the proposed interpretation, based on point
 processes, of 1/f noise showed that it is only one of the many possible

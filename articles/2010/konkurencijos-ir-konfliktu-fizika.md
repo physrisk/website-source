@@ -8,5 +8,5 @@ Status: published
 Here you can read the full Memorandum of Understanding for the
 implementation of a European Concerted Research Action designated as
 COST Action MP0801: Physics of Competition and Conflicts. See [Memorandum of
-the COST action MP0801 &raquo;](/uploads/2010/Memorandum-MP0801-e.pdf)
+the COST action MP0801 &raquo;]({static}/uploads/2010/Memorandum-MP0801-e.pdf)
 

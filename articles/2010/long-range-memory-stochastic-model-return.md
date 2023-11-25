@@ -16,11 +16,9 @@ variable related to the relative price changes, which is known as
 return  
 <!--more-->
 
-
 \begin{equation}
  r (t, \Delta t) = \ln \left\[ \frac{p(t)}{p(t-\Delta t)}\right\] . 
 \end{equation}
-
 
 If the change of price, \\\(  p(t)-p(t-\Delta t)  \\\), is small, then
 the above definition of return is analogous to relative price change,
@@ -47,7 +45,7 @@ power 0.2. In the figure below, [Fig. 1](#attachment_904), we have show
 aforementioned statistical properties of one minute absolute returns
 observed in New York (red line) and Vilnius (blue line) Stock Exchanges.
 
-![image](/uploads/2010/return-stylized-facts.png "Statistical properties of absolute one minute, Δt=60s,
+![image]({static}/uploads/2010/return-stylized-facts.png "Statistical properties of absolute one minute, Δt=60s,
 returns - probability density function of non-zero values (a) and power
 spectral density (b) - from two different financial markets. Red curves
 represent New York Stock Exchange, while blue correspond to statistical
@@ -82,29 +80,23 @@ From the stochastic analysis (see for example \[cite
 id="Gardiner2009Springer"\]) it is known that, if in general case
 Langevin equation can be written as
 
-
 \begin{equation}
  \mathrm{d} r = f(r) \mathrm{d} t + g(r) \mathrm {d} W ,
 \end{equation}
 
-
 then stationary distribution of this equation is
-
 
 \begin{equation}
  p (r) = \frac{1}{g^2(r)} \exp \left\[ 2 \int\frac{f(r)}{g^2(r)} \mathrm{d} r \right\] . 
 \end{equation}
 
-
 The above relation can be re-expressed in differential terms with
 respect to one of the functions from Langevin equation, \\\(  f(r)  \\\)
 or \\\(  g(r)  \\\),
 
-
 \begin{equation}
  f(r) = \frac{1}{2} g^2(r) \frac{\partial\_r p(r)}{p(r)} +g(r) \partial\_r g(r) . 
 \end{equation}
-
 
 This differential relation is needed as we know that stationary
 distribution must be q-Gaussian (more transparent form is obtained in
@@ -114,21 +106,17 @@ write Langevin equation for return. Though by making some substitutions,
 \\\(  x=\frac{r}{r\_0}  \\\), \\\(  t\_s = \sigma^2 r\_0^{2(\eta - 1)} t  \\\), we can obtain dimensionless stochastic
 differential equation
 
-
 \begin{equation}
  \mathrm{d} x = \left ( \eta - \frac{\lambda}{2} \right)\left( 1+x^2 \right)^{\eta-1} x \mathrm{d} t + \left( 1+x^2\right)^{\frac{\eta}{2}} \mathrm{d} W . 
 \end{equation}
-
 
 The equation above describes dynamics of momentary return, while we are
 interested in compounded return. Thus the solutions of the above
 equation must be integrated in chosen time intervals, \\\(  \tau \\\),
 
-
 \begin{equation}
  X(t) = \frac{1}{\tau} \left | \int\limits\_{t}^{t+\tau}x(s) \mathrm{d} s \right | . 
 \end{equation}
-
 
 The above stochastic differential equation reproduces time series with
 q-Gaussian stationary distribution (power fitting the tail is \\\( \lambda  \\\)) and power law spectral density - in one region approximated
@@ -138,7 +126,7 @@ id="Kaulakys2009JStatMech"\]). By manipulating with model parameter
 any spectra with \\\(  \beta \in \[0.5,2\] \\\). As an example we
 provide 1/f spectral density (see [Fig. 2b](#attachment_908)).
 
-![image](/uploads/2010/simple-sde.png "1/f noise obtained from the above SDE. Red curves
+![image]({static}/uploads/2010/simple-sde.png "1/f noise obtained from the above SDE. Red curves
 correspond to model statical properties (probability density function
 (a), spectral density (b)), while black curves fit modelic statistical
 properties (q-Gaussian, q=1.66, (a), power law function, β=1, (b)). Used
@@ -157,11 +145,9 @@ law regions). To reproduce the fracture one must to divide space of
 Improved stochastic differential equation, with two powers of
 multiplicativy, can be written as
 
-
 \begin{equation}
  \mathrm{d} x = \left ( \eta - \frac{\lambda}{2} \right)\frac{\left( 1+x^2 \right)^{\eta-1}}{\left( 1 + \epsilon\sqrt{1+x^2} \right)^2} x \mathrm{d} t + \frac{\left( 1+x^2\right)^{\frac{\eta}{2}}}{1 + \epsilon \sqrt{1+x^2}} \mathrm{d}W , 
 \end{equation}
-
 
 here \\\(  \epsilon  \\\) parameter controls division of \\\(  x \\\)
 diffusion space. One can introduce into the above equation new terms,
@@ -177,8 +163,8 @@ Introduction of q-Gaussian noise
 
 Yet still solutions of the above equation appear to be smoother than
 empirical time series \[cite id="Gontis2010Intech"\] - difference
-between power laws approximating modelic spectra are minor, while in the
-time domain modelic return fluctuates as slow continuous function.
+between power laws approximating model spectra are minor, while in the
+time domain model return fluctuates as slow continuous function.
 Similar behavior is demonstrated by the moving average of actual return.
 Thus this encourages us to proposed to decompose return into two very
 different processes - slow long-range memory process (described by
@@ -189,20 +175,16 @@ fluctuations is also q-Gaussian, \\\(  r = \zeta \left( r\_0 ,\lambda\_2 \right)
 distribution tail appears to be constant and equal to 5. While \\\( r\_0 \\\), responsible for variance in time series, appears to be linearly
 related to the moving average of return, \\\(  MA(r(t)) \\\),
 
-
 \begin{equation}
  r\_0(MA(r(t))) = 1 + 2 \left | MA(r(t)) \right | . 
 \end{equation}
 
-
 As \\\(  MA(r(t)) \\\) seems to behave similarly to \\\(  X  \\\) we can
 rewrite above relation as
-
 
 \begin{equation}
  r\_0 (t) = 1 + \frac{\bar {r\_0}}{\tau\_s} \left |\int\limits\_{t\_s}^{t\_s + \tau\_s} x(s) \mathrm{d} s \right | ,
 \end{equation}
-
 
 here \\\(  \bar {r\_0}  \\\) is model parameter bearing the meaning of
 mean return per unit time interval.
@@ -212,7 +194,7 @@ integrate its solutions in some intervals and then modulate those
 solutions with q-Gaussian noise. Results obtained in this way is in
 great agreement with empirical data (see [Fig. 3](#attachment_910)).
 
-![image](/uploads/2010/return-model-vs-nyse-vvpb-comparison.png "Comparison of return model (black curve) and empirical
+![image]({static}/uploads/2010/return-model-vs-nyse-vvpb-comparison.png "Comparison of return model (black curve) and empirical
 (New York Stock Exchange - red curve, Vilnius - blue) statistical
 properties, non-zero value probability density function ((a) ir (c)) and
 power spectral density ((b) ir (d)), in different time scales (1 min -
@@ -244,8 +226,8 @@ here \\\(  \xi\_i  \\\) is Gaussian noise (zero mean, unit variance) and
 url="/uploads/models/grk-return-model/index.html"]
 
 You can also download a full java program with GUI in
-[Lithuanian](/uploads/2010/returnModel.jar)
-or [English](/uploads/2010/returnModelEn.jar) language (the code
+[Lithuanian]({static}/uploads/2010/returnModel.jar)
+or [English]({static}/uploads/2010/returnModelEn.jar) language (the code
 for this GUI program is also available from
 [GitHub](https://github.com/akononovicius/return-model-GRK-PhysA2010)).
 Note that only GUI was localized - meaning that CLI is English in both
