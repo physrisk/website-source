@@ -7,7 +7,7 @@ Status: published
 
 Previously discussed [Granovetter
 threshold
-model](/granovetterio-slenksciu-modelis) is
+model]({filename}/articles/2017/granovetterio-slenksciu-modelis.md) is
 just one of the numerous simple collective action model. This time we
 continue the same topic by considering another, yet a bit more complex,
 riot model, which was proposed by Epstein in \[cite
@@ -45,11 +45,9 @@ They also move around the lattice randomly. As they move around they
 observe the number of protesters, \\\(  A \\\), and the number of
 policemen, \\\(  C \\\), in their vision radius (also given by \\\( v \\\)). According to these numbers they perceive level of risk:
 
-
 \begin{equation}
  R\_i= r\_i \theta(C-A+0.1) , 
 \end{equation}
-
 
 here \\\(  \theta(x) \\\) is a [Heaviside theta
 function](https://en.wikipedia.org/wiki/Heaviside_step_function), while
@@ -58,11 +56,9 @@ a random number in interval \\\(  \[0,1\] \\\)). The \\\(  0.1 \\\) term
 is included purely for the sake of simplicity, so that \\\( \theta(x) \\\) yields only \\\(  0 \\\) or \\\(  1 \\\). Perception of risk
 influences the agent's decision to protest:
 
-
 \begin{equation}
  H\_i (1-L) - R\_i &gt; T , 
 \end{equation}
-
 
 here \\\(  H\_i \\\) is the hardship experienced by the agent (in model
 it is a random value from interval \\\(  \[0,1\] \\\)), \\\(  L \\\) is
