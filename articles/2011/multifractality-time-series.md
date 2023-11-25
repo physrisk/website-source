@@ -11,13 +11,13 @@ lack characteristic scale. Those "fractured" objects are self-similar -
 defining geometry is clearly visible on multitude of scales. It is known
 that self-similarity is observed not only in formally defined geometric
 objects, such as [Sierpinski
-triangle](/sierpinski-triangle/)
+triangle]({filename}/articles/2014/sierpinski-triangle.md)
 or Koch
 snowflake,
 but also in the surrounding nature. One of my most favorite examples is
 a comparison of tree, its branches and a leaf (for more inspiring
 examples see [introduction of Fractals
-section](/tag/fractals "Fractals on Physics of Risk website"))
+section](/tag/fractals/))
 - they all have branching structure and something green filling the
 extra space in between.
 
@@ -41,11 +41,9 @@ In Physics, but not only in Physics, scale invariance is mostly
 associated with power law dependencies. One can put this idea down
 mathematically as:
 
-
 \begin{equation}
  W(a t) = a^H W(t) , 
 \end{equation}
-
 
 where \\\(  W(t) \\\) is some time series, \\\(  a \\\) some scale shift,
 \\\(  H \\\) characteristic scaling exponent. Equality of the left hand
@@ -87,11 +85,9 @@ Multifractal detrended fluctuation analysis (MF-DFA)
 **To begin with** (step 1) the analysis of time series using MF-DFA
 method one should obtain the profile of time series:
 
-
 \begin{equation}
  y\_i = \sum\_{k=1}^{i} \[x\_k - \langle x \rangle\] , \quad i=1, 2, \ldots, N , 
 \end{equation}
-
 
 here \\\(  y \\\) is profile, \\\(  x \\\) is the analyzed time series,
 \\\(  \langle x \rangle  \\\) is its mean value, while \\\(  N \\\)
@@ -99,7 +95,7 @@ stands for the length of the series. Subtraction of mean is not
 necessary, yet it might facilitate (depends on the method used for
 detrending) calculations in further steps.
 
-![image](/uploads/2011/multifrac-signal-profile.png "Step 1: stochastic time series (a) and its profile (b).
+![image]({static}/uploads/2011/multifrac-signal-profile.png "Step 1: stochastic time series (a) and its profile (b).
 Stochastic time series generated using standard Wiener
 process."){#attachment_1972} 
 
@@ -123,7 +119,7 @@ of first to third order are considered. For the sake of simplicity and
 ease of presentation we use MF-DFA1 method, namely we use linear
 least-square fits to detect and remove trends in the profile series.
 
-![image](/uploads/2011/multifrac-fitted-profile.png "Steps 2 and 3: we have split the profile (red curve)
+![image]({static}/uploads/2011/multifrac-fitted-profile.png "Steps 2 and 3: we have split the profile (red curve)
 into s=100 sized segments (splits are marked with dashed line) and
 estimated their trends (blue curve). The profile has remained the same
 as in , while the profile fits in each given segment are
@@ -133,32 +129,26 @@ linear."){#attachment_1973}
 them from the profile series. Mathematically for the segments, which
 were formed the start of the series, \\\(  \nu = 1, 2, \ldots,N\_s \\\), this can be expressed as:
 
-
 \begin{equation}
  F^2\_{\nu}(s) = \frac{1}{s} \sum\_{i=1}^{s} \left\[y\_{(\nu-1) s +i} - {\bar y}\_{\nu}(i) \right\]^2 , 
 \end{equation}
 
-
 while for the remaining segments, \\\(  \nu = N\_s +1, \ldots, 2N\_s \\\), same thing can be done like this:
-
 
 \begin{equation}
  F^2\_{\nu}(s)= \frac{1}{s} \sum\_{i=1}^{s} \left\[y\_{N-(\nu-N\_s) s +i} - {\bar y}\_{\nu}(i) \right\]^2 . 
 \end{equation}
 
-
-![image](/uploads/2011/multifrac-f2ns.png "Step 4: \\\( F\_ν^2(100) \\\) for the selected segments. Profile
+![image]({static}/uploads/2011/multifrac-f2ns.png "Step 4: \\\( F\_ν^2(100) \\\) for the selected segments. Profile
 and its splits remain the same as in Fig.
 2."){#attachment_1974} 
 
 **All what remains** (step 5) is to average obtained fluctuations
 functions over all segments:
 
-
 \begin{equation}
  F\_q(s) = \left\\\{ \frac{1}{2 N\_s} \sum\_{\nu=1}^{2 N\_s}\left\[ F^2\_{\nu}(s) \right\]^{\frac{q}{2}}\right\\\}^{\frac{1}{q}}. 
 \end{equation}
-
 
 In the above \\\(  q \\\) stands for generalized coefficient, which is
 the one enabling us to recover multifractal features - it is also the
@@ -168,24 +158,22 @@ method \[cite id="Kantelhardt2002PhysA"\]. It is worthy to note that
 relation diverges. Thus in such case one must substitute ordinary
 averaging procedure with exponential averaging:
 
-
 \begin{equation}
  F\_0(s) = \exp\left\\\{ \frac{1}{4 N\_s} \sum\_{\nu=1}^{2N\_s} \ln\left\[ F^2\_{\nu}(s) \right\] \right\\\}. 
 \end{equation}
-
 
 **Finally** (step 6) by changing \\\(  q \\\) and \\\(  s \\\), while once
 again iterating through steps 2, 3, 4 and 5, one obtains \\\( F\_q(s) \\\) curves. From their plots on log-log scale one should be able
 to recover power law relations - \\\(  F\_q(s) \sim s^{h(q)}  \\\)
 (here \\\(  h(q) \\\) is a generalized exponent, which is related to the
 generalized Hurst exponents as \\\(  H(q) = h(q) -1 \\\) (for
-non-stationary \\\(  h(q)&gt;1 \\\) time series) or \\\(  H(q) = h(q) \\\)
-(for stationary series, \\\(  h(q)&lt;1 \\\))). If generalized exponents
+non-stationary \\\(  h(q)>1 \\\) time series) or \\\(  H(q) = h(q) \\\)
+(for stationary series, \\\( h(q)<1 \\\))). If generalized exponents
 are constant or almost constant, then time series can be considered
-monofractal. While if \\\(  h(q) \\\) dependence (or in other words
+monofractal. While if \\\( h(q) \\\) dependence (or in other words
 spectrum) is rich, then time series can be considered multifractal.
 
-![image](/uploads/2011/multifrac-hurst-spectra.png "Steps 5 and 6: deviations from trends estimated for
+![image]({static}/uploads/2011/multifrac-hurst-spectra.png "Steps 5 and 6: deviations from trends estimated for
 different segment sizes (a) and generalized exponent spectrum (b).
 Relations obtained from time series based on one presented in 
 (original series extended to 32768
@@ -212,14 +200,14 @@ spectrum of multifractal time series is far more broader - 1.1
 (approximately 90% of the mean). Curves presented in [Fig.
 5](#attachment_1993) were obtained by analyzing time series generated by
 the [Agent-based herding model of financial
-markets](/agent-based-herding-model-financial-markets "Agent-based herding model of financial markets on Physics of Risk").
+markets]({filename}/articles/2011/agent-based-herding-model-financial-markets.md).
 Multifractal properties of this model were already studied with two
 different methods - GHHCF \[cite id="Kononovicius2012PhysA"\] and the
 very same MF-DFA \[cite id="Kononovicius2011LNFK"\]. Also note the
 difference in scaling of \\\(  F\_q(s) \\\) ([Fig. 5](#attachment_1993)
 (a) and [Fig. 4](#attachment_1976) (a)).
 
-![image](/uploads/2011/multifrac-hurst-spectra-multi.png "Multifractal features of Agent-based herding model of
+![image]({static}/uploads/2011/multifrac-hurst-spectra-multi.png "Multifractal features of Agent-based herding model of
 financial markets: deviations from trends estimated for different
 segment sizes (a) and generalized exponent spectrum (b). Model
 parameters: \\\( \varepsilon\_1=\varepsilon\_2=1 \\\), \\\( \Delta t=0.001 \\\),
@@ -239,51 +227,49 @@ obtained with MF-DFA.
 Judging from \\\(  h(2) \\\) time series might be \[cite
 id="Buldyrev1995PhysRevE"\]:
 
--   anti-correlated, if \\\(  h(2)&lt;0.5 \\\).
--   uncorrelated (be related to white noise), if \\\(  h(2) \simeq    0.5 \\\).
--   positively correlated, if \\\(  h(2) &lt; 1 \\\).
--   strongly positively correlated, if \\\(  h(2) \simeq 1 \\\). Or in
-    other words exhibit so-called pink, or \\\(  1/f \\\), noise. Such
+-   anti-correlated, if \\\( h(2) < 0.5 \\\).
+-   uncorrelated (be related to white noise), if \\\( h(2) \simeq 0.5 \\\).
+-   positively correlated, if \\\( h(2) < 1 \\\).
+-   strongly positively correlated, if \\\( h(2) \simeq 1 \\\). Or in
+    other words exhibit so-called pink, or \\\( 1/f \\\), noise. Such
     time series should exhibit other long range memory related
     properties. Note that we have obtained such results with time series
     from Agent-based herding model of financial markets (see [Fig.
     5](#attachment_1993)).
--   non-stationary or similar to random walk, if \\\(  h(2) &lt;    1.5 \\\).
--   related to Brown noise or Wiener process, if \\\(  h(2) \simeq    1.5 \\\). See [Fig. 4](#attachment_1976).
+-   non-stationary or similar to random walk, if \\\( h(2) < 1.5 \\\).
+-   related to Brown noise or Wiener process, if \\\( h(2) \simeq 1.5 \\\). See [Fig. 4](#attachment_1976).
 
 The above discussion can might be briefly mathematically expressed as
 \[cite id="Buldyrev1995PhysRevE"\]:
-
 
 \begin{equation}
  \gamma = 2 - 2 h(2) , \quad \beta = 2 h(2) - 1 , 
 \end{equation}
 
-
 here \\\(  \gamma \\\) is negative correlation function exponent, while
 \\\(  \beta \\\) is negative power spectral density exponent. Note that
 the above relations are strict in no way - they might hold for some
-short regions of dependence, of for example frequences (in case of power
+short regions of dependence, of for example frequencies (in case of power
 spectral density).
 
 It is important to note that actual \\\(  h(q) \\\) might be negative,
 while MF-DFA is able to detect only its positive values. Though one can
 extend the detectable range of \\\(  h(q) \\\) of repeating step 1 few
 times. After each repetition detected generalized exponents increases by
-1, \\\(  \tilde{h}(q) = h(q) + n \\\) (here \\\(  \tilde{h}(q) \\\) is
+1, \\\( \tilde{h}(q) = h(q) + n \\\) (here \\\( \tilde{h}(q) \\\) is
 detected generalized exponent, \\\(  h(q) \\\) actual generalized
-exponent and \\\(  n \\\) is a number of step 1 repetition times),
+exponent and \\\( n \\\) is a number of step 1 repetition times),
 allowing one to analyze strongly anti-correlated time series. This
 property of generalized exponent also suggests what might be observed
-for \\\(  h(2)&gt;1.5 \\\).
+for \\\(  h(2) > 1.5 \\\).
 
 This discussion also leads to another interesting conclusion - if step 1
 is skipped results obtained from MF-DFA method should also coincide with
 results obtained from GHHCF method. For example Brownian-like time
-series would have \\\(  h(2) \\\) equal to 0.5. Though in such case it
+series would have \\\( h(2) \\\) equal to 0.5. Though in such case it
 would a problem to differentiate between Pink and White noises. The
 corresponding time series would be almost indistinguishable - both very
-different dynamics would produce the same value of \\\(  h(2) \\\),
+different dynamics would produce the same value of \\\( h(2) \\\),
 namely zero. Thus obtaining time series profile is very important step
 needed to be able to distinguish Pink and White noises.
 
@@ -306,20 +292,16 @@ is defined in the terms of MF-DFA or DFA, not in the terms of box
 counting formalism. Though it is known that both scaling exponents are
 related \[cite id="Kantelhardt2002PhysA"\]:
 
-
 \begin{equation}
  \tau(q) = q h(q) -1 . 
 \end{equation}
 
-
 By transforming, using Legendre transform, \\\(  \tau(q) \\\) one
 obtains \[cite id="Kantelhardt2002PhysA"\]:
-
 
 \begin{equation}
  \alpha = \partial\_q \tau(q) = h(q) + q \partial\_q h(q) ,\quad f(\alpha) = q \alpha - \tau(q) = q \left\[ \alpha - h(q)\right\] +1 , 
 \end{equation}
-
 
 here \\\(  \alpha \\\) is Hölder exponent, which describes the strength
 of singularity, while \\\(  f(\alpha) \\\) denotes the dimension of the
@@ -330,7 +312,7 @@ analyzed models/processes - singularity spectrum of Agent-based herding
 model of financial markets time series has broad spectrum of Hölder
 exponents, while Wiener process has very thin spectrum.
 
-![image](/uploads/2011/multifrac-holder-spectra.png "Singularity spectrum: standard Wiener process (red
+![image]({static}/uploads/2011/multifrac-holder-spectra.png "Singularity spectrum: standard Wiener process (red
 curve) and Agent-based herding model of financial markets (blue curve).
 Parameters of Agent-based herding model of financial markets were set as
 follows: \\\( \varepsilon\_1=\varepsilon\_2=1 \\\), \\\( \Delta t=0.001 \\\),

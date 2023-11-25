@@ -10,9 +10,9 @@ non-linear stochastic models exhibit rather interesting statistical
 properties. On Physics of Risk we have already discussed some of these
 models \[cite id="Gontis2010Intech, Kononovicius2012PhysA"\] (ex.
 [stochastic model of
-return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return on Physics of Risk"),
+return]({filename}/articles/2010/long-range-memory-stochastic-model-return.md),
 [herding model of financial
-markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets on Physics of Risk")),
+markets]({filename}/articles/2011/agent-based-herding-model-financial-markets.md)),
 which are able to reproduce statistical properties of high frequency
 return (namely spectral density and probability distribution).
 
@@ -46,7 +46,7 @@ of the example burst, start of the next to the example burst. These
 three events will be further referenced then introducing variables
 schematically introduced in [Fig. 1](#attachment_1854).
 
-![image](/uploads/2011/bursts_time_series.png "Variables related to the burst statistics: h -
+![image]({static}/uploads/2011/bursts_time_series.png "Variables related to the burst statistics: h -
 threshold value; τ - waiting time; T - burst duration; S - burst size; θ
 - inter-burst
 time."){#attachment_1854} 
@@ -80,7 +80,7 @@ retained, but powers themselves slightly differ, in \\\(  \eta &lt;1 \\\) case \
 2](#attachment_1881), we have shown typical results obtained by using
 interactive applet provided at [the end of this text](#applet).
 
-![image](/uploads/2011/bursts_stats.png "Burst statistics observed in non-linear stochastic
+![image]({static}/uploads/2011/bursts_stats.png "Burst statistics observed in non-linear stochastic
 model. All scales are lg-lg. (a) S versus T, (b) τ , (c) T and (d) θ
 probability densities. Blue dots are numerically obtained results, while
 differently colored lines fit them with power law. Slope, power, of gray
@@ -92,7 +92,7 @@ Eq. \eqref{sde} was derived while looking for stochastic model
 capable of reproducing empirical statistical properties of high
 frequency return \[cite id="Gontis2010Intech"\] (see [the corresponding
 text on Physics of
-Risk](/long-range-memory-stochastic-model-return#simple "Langevin equation with q-Gaussian stationary distribution")).
+Risk]({filename}/articles/2010/long-range-memory-stochastic-model-return.md)).
 Though this equation is simpler than final one, it is still able to
 reproduce power law distribution and long-range memory of return. Thus
 analysis of this equation in terms of burst statistics might provide
@@ -122,7 +122,7 @@ has similar burst statistics:
     averaged over 26 stocks, θ probability density function. Empirical
     data once again can be fitted by power law, \\\(  p(\theta) \sim    \theta^{-1.52}  \\\).
 
-![image](/uploads/2011/bursts_empir.png "Empirical burst statistics (h=1) of one minute absolute
+![image]({static}/uploads/2011/bursts_empir.png "Empirical burst statistics (h=1) of one minute absolute
 return time series, filtered by one hour moving average filter, of 26
 varying stocks from New York Stock Exchange, traded from January 2005 to
 March 2007. (a) burst size versus burst duration of 9 randomly selected

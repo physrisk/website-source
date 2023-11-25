@@ -18,11 +18,11 @@ Oral presentation *Microscopic justification of stochastic models*
 presented models:
 
 -   [Kirman’s ant colony
-    model](/kirman-ants "Kirman’s ant colony model on Physics of Risk"),
+    model]({filename}/articles/2010/kirman-ants.md),
 -   [Unidirectional Kirman’s
-    model](/unidirectional-kirman-model "Unidirectional Kirman’s model on Physics of Risk"),
+    model]({filename}/articles/2011/unidirectional-kirman-model.md),
 -   [Agent based herding model of financial
-    markets](/agent-based-herding-model-financial-markets "Agent based herding model of financial markets on Physics of Risk").
+    markets]({filename}/articles/2011/agent-based-herding-model-financial-markets.md).
 
 While description of another model, related to the multifractality of
 time series, will be published on Physics of Risk in the near time.
@@ -34,17 +34,13 @@ thought that pink noise is related to the power law distributions, but
 apprantely it is possible to obtain pink noise from Gaussian signal.
 This is shown by numerically solving set of Langevin equations:
 
-
 \begin{equation}
  \mathrm{d} I = - \gamma(t) I \mathrm{d} t + \sigma\_0\gamma(t)^{\mu} \mathrm{d} W\_I , 
 \end{equation}
 
-
-
 \begin{equation}
  \mathrm{d} \gamma = \sigma\_\gamma\gamma^{-\frac{\eta}{2}} \mathrm{d} W\_\gamma . 
 \end{equation}
-
 
 It shouldn't be hard to show that if \\\(  \mu = 0.5 \\\) values of I
 follow normal distribution, while in the opposite case distribution of I
