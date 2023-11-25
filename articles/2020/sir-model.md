@@ -116,5 +116,5 @@ explore the effect of quarantine (isolation) or to compare the effects when
 quarantine is applied early and late.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/sir-model/index.html" width="520" height="500"]
+src="/uploads/models/epidemic-models/sir-model/index.html" width="520" height="500"]
 
