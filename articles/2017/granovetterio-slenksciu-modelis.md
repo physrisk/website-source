@@ -8,12 +8,12 @@ Status: published
 Here on Physics of Risk
 we once again present you a model of collective action. Last time we
 have considered [Standing Ovation
-Model](/plojimu-atsistojus-modelis) by
+Model]({filename}/articles/2017/plojimu-atsistojus-modelis.md) by
 Miller and Page, in earlier years we have written a lot about
 [Kirman](/tag/kirman-model) and
 [Bass](/tag/bass-model) models, as well as
 [correspondence between
-them](/unidirectional-kirman-model). There
+them]({filename}/articles/2011/unidirectional-kirman-model.md). There
 is another classic model, which will be covered in this post, which
 models human intention to join the collective political action with
 inherent risk. In this text we will consider a threshold model proposed
@@ -63,12 +63,12 @@ everyone being unhappy with the regime, only 20% (all agents in group 1)
 will join the protest. It is so because the members of group 2 have a
 large threshold of 25%.
 
-![Failed protest](/uploads/2017/granovetter-fail.png)
+![Failed protest]({static}/uploads/2017/granovetter-fail.png)
 
 If the threshold is set to a lower value, lets say 15%, then the protest
 will eventually involve everybody.
 
-![Successful protest](/uploads/2017/granovetter-success.png)
+![Successful protest]({static}/uploads/2017/granovetter-success.png)
 
 By changing number of group, their respective sizes and thresholds we
 could produce protests of different sizes. We could also neglect
@@ -76,7 +76,7 @@ separation into groups and assign each agent his own, possibly randomly
 picked, threshold. In such case we could reproduce not only the size of
 the protests, but also their "diffusion" curves. All of these curves
 would have a sigmoid, stretched letter S, form. Similar curves may be
-obtained from the [Kirman and Bass models](/unidirectional-kirman-model), which
+obtained from the [Kirman and Bass models]({filename}/articles/2011/unidirectional-kirman-model.md), which
 suggests certain similarity between the three models. Kirman and Bass
 models require less assumptions, but also have less explanatory power in
 sociological terms.
