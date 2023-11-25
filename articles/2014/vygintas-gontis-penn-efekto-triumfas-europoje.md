@@ -190,7 +190,12 @@ economic convergence in the period of EU integration.
 Interactive applet
 ------------------
 
-[Click here](/uploads/models/penn-world-en/index.html) for interactive applet.
+* [Click
+  here](/uploads/models/data-driven-apps/penn-effect-europe/index.html) for
+  interactive applet with only European data.
+* [Click
+  here](/uploads/models/data-driven-apps/penn-effect-world/index.html) for
+  interactive applet with whole world data.
 
 Appendix
 --------
