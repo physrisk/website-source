@@ -41,7 +41,7 @@ sets: GDP in market prices and labor gross earnings given in PPS. Other
 presented variables are simple functions of these two basic sets.
 
 [Interactive program
-StatPlanet](/uploads/models/statplanet-gdp/index.html)
+StatPlanet](/uploads/models/data-driven-apps/gdp-statplanet/index.html)
 plots three time series (t.s.) in the year interval from 1995 to 2012:
 
 1.  GDP per capita in PPS,
@@ -55,12 +55,12 @@ And two averages of time series in the considered time intervals:
 2.  Average of ratio gross earning/GDP.
 
 [external-interactive
-url="/uploads/models/statplanet-gdp/index.html"
-imgurl="/uploads/models/statplanet-gdp/index.jpg"
+url="/uploads/models/data-driven-apps/gdp-statplanet/index.html"
+imgurl="/uploads/models/data-driven-apps/gdp-statplanet/index.jpg"
 mode="img"]
 
 One can interactively choose plot parameters exhibited by [the FLASH
-applet](/uploads/models/statplanet-gdp/index.html) and analyze
+applet](/uploads/models/data-driven-apps/gdp-statplanet/index.html) and analyze
 three time series and two their averages for the all EU countries and
 few main EU partner countries. We do aim to discuss in more details
 economic growth of Baltic in comparison with other countries. We would
