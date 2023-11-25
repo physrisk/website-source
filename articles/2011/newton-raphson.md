@@ -83,7 +83,7 @@ basins. Interestingly enough neither of basins has root inside them
 (thus "jumps" to the other places on the complex plain occur in the eyes
 of each basin).
 
-![another edge](/uploads/2011/newton-fig1c.png)
+![another edge]({static}/uploads/2011/newton-fig1c.png)
 
 Let's analyze one more complex case - \\\(  z^7+15 z^4+3=0  \\\).
 Let real and imaginary part of roots be constrained in \[-5;5\]. This we
