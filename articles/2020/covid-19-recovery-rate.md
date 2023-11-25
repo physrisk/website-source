@@ -44,7 +44,7 @@ to change the parameter values and observe how RMSE changes (smaller values are
 better).
 
 [html5-interactive mode="iframe"
-src="/uploads/models/covid-19-rec/index.html" width="520" height="240"]
+src="/uploads/models/epidemic-models/covid-19-recovery/index.html" width="520" height="240"]
 
 In this app we have used red color to plot \\\( I(t) \times (1-d) \\\) and
 blue color to plot \\\( R(t - \Delta t) \\\).
@@ -56,7 +56,7 @@ assumed to Poisson processes. Namely, the transition times are assumed to be
 distributed exponentially. Lets see what happens!
 
 [html5-interactive mode="iframe"
-src="/uploads/models/covid-19-rec/exp.html" width="520" height="270"]
+src="/uploads/models/epidemic-models/covid-19-recovery/exp.html" width="520" height="270"]
 
 The simulation result (gray curve) does not look good very good with neither
 our estimated inverse mean recovery time,

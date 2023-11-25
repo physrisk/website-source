@@ -48,7 +48,7 @@ should not do. After proper inversion the data should become sharper, not
 smoother.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/covid-19-rec/deconv-bad.html" width="520" height="270"]
+src="/uploads/models/epidemic-models/covid-19-recovery/deconv-bad.html" width="520" height="270"]
 
 In the app above you can actually see that reconstructed time series (dark gray
 curve) is smoother than the true \\\( I(t) \\\) series (red curve) and also
@@ -118,7 +118,7 @@ series is plotted as the red curve, empirical \\\( R(t) \\\) is given by the
 blue curve, while reconstructed series are shown as dark and light gray curves.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/covid-19-rec/deconv.html" width="520" height="270"]
+src="/uploads/models/epidemic-models/covid-19-recovery/deconv.html" width="520" height="270"]
 
 In my opinion the best result is achieved with the default parameter values and
 it is far from being perfect. While the reconstructed \\\( R(t) \\\) (light
@@ -135,5 +135,5 @@ deviation. Observe how changing standard deviation changes the reconstructed
 series.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/covid-19-rec/deconv-norm.html" width="520" height="270"]
+src="/uploads/models/epidemic-models/covid-19-recovery/deconv-norm.html" width="520" height="270"]
 

@@ -48,7 +48,7 @@ Which is really close to the value we have estimated manually in the previous
 post.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/covid-19-rec/weib.html" width="520" height="270"]
+src="/uploads/models/epidemic-models/covid-19-recovery/weib.html" width="520" height="270"]
 
 Likely, a better set of parameters could be found by conducting multiple
 simulations with the same parameters (estimating confidence intervals for
