@@ -18,13 +18,13 @@ treatments of Kirman model \[cite id="Kirman1993QJE"\].
 
 One part of this work is dedicated to the transition between original
 Kirman model (was previously discussed on [this
-website](/kirman-ants "Kirman's ant colony model on Physics of Risk"))
+website]({filename}/articles/2010/kirman-ants.md))
 and stochastic Kirman's model for return. Previously Alfarano et al.
 have attempted to obtain stochastic treatment of Kirman's model, though
 they stopped after obtaining stochastic model for population fraction
 \[cite id="Alfarano2005CompEco"\] (we have discussed their derivation on
 [Physics of
-Risk](/stochastic-ant-colony-model "Stochastic ant colony model on Physics of Risk")).
+Risk]({filename}/articles/2010/stochastic-ant-colony-model.md)).
 We derive analogous equation for population fraction by using one-step
 formalism and further use Ito variable substitution formula \[cite
 id="Gardiner2009Springer"\] to obtain stochastic model for return.
@@ -34,4 +34,4 @@ Another important part of this work is dedicated to Bass diffusion model
 the very same Kirman's model. Indeed as we show in \[cite
 id="Daniunas2011ICCGI"\], Bass diffusion is actually analogous to
 unidirectional Kirman's model (see discussion on [our
-website](/unidirectional-kirman-model "Unidirectional Kirman model on Physics of Risk")).
+website]({filename}/articles/2011/unidirectional-kirman-model.md)).

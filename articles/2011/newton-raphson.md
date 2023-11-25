@@ -14,14 +14,12 @@ linearize function at the guessing point. The point where linearized
 function passes the abscissa axis is assumed to be a more precise
 estimate of the actual root.<!--more--> Mathematically:
 
-
 \begin{equation}
  z\_{n+1} = z\_n - \frac{f(z\_n)}{f'(z\_n)}, 
 \end{equation}
 
-
 here \\\(  z\_n \\\) is our previous guess (also the point of
-linearization). n-th guess of the root is assumed to be precise enough
+linearization). The n-th guess of the root is assumed to be precise enough
 if \\\(  | z\_{n} - z\_{n-1} | &lt; \varepsilon \\\) (here \\\( \varepsilon \\\) is allowable error). Note that if n-th guess matches root
 precisely (t.y. \\\(  f(z\_\infty)=0 \\\)) error equals zero, \\\(  |z\_{n} - z\_{n-1} | = 0 \\\).
 
@@ -57,7 +55,7 @@ fractals.
 In the image below you see solution of \\\(  z^2+2 \imath z+1=0 \\\) one the complex plane (real and imaginary parts are constrained
 in \[-5;5\]).
 
-![sprendimas](/uploads/2011/newton-sprendimas.png)
+![solution]({static}/uploads/2011/newton-sprendimas.png)
 
 While this image is not breathtaking, it is perfect for understanding of
 the method - in it you can clearly see how different guesses converge
@@ -72,11 +70,11 @@ be constrained in \[0;5\], while imaginary being in \[-0.25;1.75\]. In
 the image below we can see three different roots. Though only one is
 seen fully, while the others are seen only partly (via basins).
 
-![z5+z3+2iz+1](/uploads/2011/newton-fig1a.png)
+![z5+z3+2iz+1]({static}/uploads/2011/newton-fig1a.png)
 
 But what happens near the edge of basin?
 
-![edge of basin](/uploads/2011/newton-fig1b.png)
+![edge of basin]({static}/uploads/2011/newton-fig1b.png)
 
 As we can see interesting thing happen on the edge - many small basins
 are attached to the larger one. Attachment should persist at different
@@ -92,18 +90,18 @@ Let real and imaginary part of roots be constrained in \[-5;5\]. This we
 can clearly see six different roots, while seventh is hardly seen as it
 is the only real root and convergence towards it is very slow.
 
-![z7+15z4+3](/uploads/2011/newton-fig2a.png)
+![z7+15z4+3]({static}/uploads/2011/newton-fig2a.png)
 
 Bellow you can see the case then two different basins "interact" with
 each other.
 
-![basin interaction](/uploads/2011/newton-fig2b.png)
+![basin interaction]({static}/uploads/2011/newton-fig2b.png)
 
 In the image below you can see small root basins overlapping. Note that
 even smaller root basins are overlapping. These overlaps would persist
 at any scale.
 
-![basin overlap](/uploads/2011/newton-fig2c.png)
+![basin overlap]({static}/uploads/2011/newton-fig2c.png)
 
 Newton-Raphson fractal generator
 --------------------------------
@@ -111,8 +109,8 @@ Newton-Raphson fractal generator
 We have called this fractal generator NeRFEx (abbrevation from *Ne*wton
 *R*aphson *F*ractal *Ex*plorer). Note that Java applet has some functions
 disabled, those functions are made available in standalone java program (you
-can download its [English](/uploads/2011/NeRFExEn.jar) or
-[Lithuanian](/uploads/2011/NeRFExLt.jar) localization).
+can download its [English]({static}/uploads/2011/NeRFExEn.jar) or
+[Lithuanian]({static}/uploads/2011/NeRFExLt.jar) localization).
 
 To start working with fractal generator press "Open NeRFEx in new
 window". Pop-up shall open and you'll be see main GUI of NeRFEx.

@@ -25,7 +25,6 @@ verslui ir visuomenei“ ir jo inovatyvios žinios*).
 Attendance is free, though note that all talks will be given in
 Lithuanian. Also note that you must inform organizers about your
 attendance before 24th of October, 2011 by email
-<mokslasplius@itpa.lt> or by phone 8 5 2616775, 8 698 12369.
+<mokslasplius@itpa.lt>.
 
-[Read
-more...](http://www.mokslasplius.lt/naujienos/konferencija_2011_10_25 "Invitation to the conference on mokslasplius.lt Science news (Lithuanian)")
+<del>Read more</del>

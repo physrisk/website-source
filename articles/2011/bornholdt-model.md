@@ -7,11 +7,11 @@ Status: published
 
 Previously we have discussed ant colony model \[cite
 id="Kirman1993QJE, Alfarano2005CompEco"\] (see Kirman's [agent
-based](/kirman-ants "Kirman ant colony agent-based model on Physics of Risk website")
+based]({filename}/articles/2010/kirman-ants.md)
 and
-[stochastic](/stochastic-ant-colony-model "Kirman ant colony stochastic model on Physics of Risk website")
+[stochastic]({filename}/articles/2010/stochastic-ant-colony-model.md)
 model of ant colony), which is an interesting example of applying
-knowledge obtained from one field to another. Human (ex. trader in the
+knowledge obtained from one field to another. Human (ex., trader in the
 financial markets) crowd behavior is ideologically quite similar to the
 behavior in ant colonies, thus the success and relevancy of the
 aforementioned model were to be expected. Though the key to success lies
@@ -23,7 +23,7 @@ behavior using classical models of statistical physics as an
 inspiration. In this text we will discuss agent-based spin model of the
 financial markets proposed by Bornholdt \[cite id="Bornholdt2001IJMPC,
 Kaizoji2002PhysA"\], which is based on widely known [Ising
-model](/ising-model "Ising model on Physics of Risk").<!--more-->
+model]({filename}/articles/2010/ising-model.md).<!--more-->
 Despite the fact that Ising model models inanimate system, natural
 interactions are introduced by assuming two different types of
 interactions between the agents - local herding (local feromagnetic
@@ -39,11 +39,11 @@ Bornholdt's modifications of Ising model
 ----------------------------------------
 
 In [the previous
-text](/ising-model "Ising model on Physics of Risk website")
+text]({filename}/articles/2010/ising-model.md)
 on Ising model we have already mentioned that Ising model can be applied
 towards human crowd behavior modeling. One just have to imagine that
 each particle within the grid is agent representing some subject in the
-modeled system (ex. human). In such case the spin of particle can be
+modeled system (ex., human). In such case the spin of particle can be
 interpreted as agent's decision or opinion towards some question. As in
 the financial markets agents choose to buy or to sell stock - we can use
 simplest case (with spins point either up or down) of Ising model when
@@ -59,11 +59,9 @@ while being in contact with a heat bath, whose temperature \\\(  T\sim \frac{1}{
 decision, after polling statistically (Boltzmann distribution is used)
 depends on the energy of the state:
 
-
 \begin{equation}
  p\_{S\_i(t+1) = 1} = \frac{1}{1+\exp(-2 \beta h\_i(t))}\,,\quad p\_{S\_i(t+1) = -1} = 1-p\_{S\_i(t+1) = 1}\,,
 \end{equation}
-
 
 here \\\(  h\_i(t) \\\) is local magnetic field acting on particle *i*.
 Note that the above probabilities were simplified by using the fact that
@@ -86,11 +84,9 @@ interact with global magnetic field, which is created by all particles
 inside the grid. Thus in Bornholdt's model local magnetic field is be
 expressed as:
 
-
 \begin{equation}
  h\_i(t) = \sum\limits\_{j=1}^N J\_{ij} S\_j(t) - \alpha C\_i(t) \frac{1}{N} \sum\limits\_{j=1}^N S\_j(t) ,
 \end{equation}
-
 
 here \\\(  N \\\) is a number of particles in the grid, \\\(  J\_{ij} \\\) - strength of local interaction between two particles (\\\( J\_{ij} = 1  \\\) if particles *i* and *j* are neighbors, o otherwise
 constant equals zero), \\\(  \alpha \\\) - strength of global
@@ -100,11 +96,9 @@ game and herding instinct - very common in agent-based model of the
 financial markets \[cite id="Cristelli2012Fermi"\]. Transition of
 \\\(  C\_i(t) \\\) are defined according:
 
-
 \begin{equation}
  C\_i(t+1) = -C\_i(t) , \quad \text{if} \quad \alpha C\_i(t)S\_i(t) \frac{1}{N} \sum\limits\_{j=1}^N S\_j(t) &lt; 0 . 
 \end{equation}
-
 
 Briefly (for detailed explanation see \[cite id="Bornholdt2001IJMPC"\])
 the above scenario can be summarized as: agents in minority might panic
@@ -113,11 +107,9 @@ majority might see a possibility of making profit if they would join
 minority (one might draw analogy with the minority game). Thus one can
 simplify the expression of local magnetic field to
 
-
 \begin{equation}
  h\_i(t) = \sum\limits\_{j=1}^N J\_{ij} S\_j(t) - \alpha\left| M(t) \right|,
 \end{equation}
-
 
 here \\\(  M(t) \\\) is average particle magnetization. In \[cite
 id="Kaizoji2002PhysA"\] it is assumed that this scenario describes
@@ -143,63 +135,53 @@ If there are \\\(  m \\\) fundamentalists in the market and their
 influence equals \\\(  a \\\), then this group creates excess demand,
 which equals:
 
-
 \begin{equation}
  ED\_f (t)= a m \ln \frac{P\_f(t)}{P(t)} . 
 \end{equation}
 
-
 Evidently chartist excess demands is dependent on magnetization of the
 grid:
-
 
 \begin{equation}
  ED\_c (t) = b N M(t) , 
 \end{equation}
 
-
 here \\\(  b \\\) is chartist influence on the market.
 
 By assuming that trades occur through the market maker, who sets correct
-prices by balancing demands (original Walrassian scenario), one can
+prices by balancing demands (original Walras scenario), one can
 obtain
-
 
 \begin{equation}
  ED\_f (t) + ED\_c (t) = a m \ln \frac{P\_f(t)}{P(t)} + b NM(t) = 0. 
 \end{equation}
 
-
 From the above expression one can defined log-price of the stock:
-
 
 \begin{equation}
  \ln P(t) = \ln P\_f(t) + \frac{b N}{a m} M(t) . 
 \end{equation}
 
-
 And in such case return:
-
 
 \begin{equation}
  r(t, \Delta t) = \ln P(t) - \ln P(t-\Delta t) = \sigma\sqrt{\Delta t} \xi(t) + \frac{b N}{a m} \left\[M(t) - M(t-\Delta t) \right\] , 
 \end{equation}
 
-
 here \\\(  \sigma \\\) is variability of fundamental value and \\\( \xi(t) \\\) is Gaussian random variable (unit variance, zero mean). If
 \\\(  \sigma \\\) is small, then one will observe typical statistical
 properties of return - power law distribution of returns and
-clusterization of volatility. Otherwise dynamics of the market will be
+clustering of volatility. Otherwise dynamics of the market will be
 overwhelmed by the changes of fundamental value - market will act
 according to the efficient market hypothesis (one will observe Gaussian
-distribusion and White noise spectral density).
+distribution and White noise spectral density).
 
 Under the assumption of market maker clearing the market one can also
 obtain expression of market volume. Note that if grid is not magnetized
 then price equals fundamental price, thus fundamentalists do not
 generate any demand. Though chartists also generate no excess demand in
 such case, yet both chartist groups generate their demands (as they are
-equal excess demand remains equal to zero). From Walrassian scenario
+equal excess demand remains equal to zero). From Walras scenario
 follows that if magnetization is non-zero fundamentalists are forced by
 the market maker to make deals with the chartists, who were unable to
 make trades with other chartists. Therefore total amount of trade equals
@@ -208,27 +190,25 @@ with minority chartists, some trade with fundamentalists. By putting the
 above words into math one can express volume \[cite
 id="Kaizoji2002PhysA"\],
 
-
 \begin{equation}
  v(t) = \frac{V(t)}{N} = b \frac{1 + \left| M(t) \right|}{2}. 
 \end{equation}
 
-
 Model results
 -------------
 
-![image](/uploads/2011/bornholdt_phase.png "Phases observed in Bornholdt model: calmness (left
+![image]({static}/uploads/2011/bornholdt_phase.png "Phases observed in Bornholdt model: calmness (left
 figure), chaotic frustration (right figure). Note that Bornholdt doesn&#x27;t
 reach stable state - shown phases interchange during whole model
 evolution."){#attachment_1342} 
 
-![image](/uploads/2011/bornholdt_price.png "Evolution of log-price (red curve) and fundamental
+![image]({static}/uploads/2011/bornholdt_price.png "Evolution of log-price (red curve) and fundamental
 log-price (blue curve). Note that price fluctuations are by far stronger
 than fluctuations of fundamental price. Financial bubbles occur and end
 without major change in fundamental
 price."){#attachment_1341} 
 
-![image](/uploads/2011/bornholdt_stats.png "Statistical properties, probability density function
+![image]({static}/uploads/2011/bornholdt_stats.png "Statistical properties, probability density function
 ((a) and (c)) and spectral density ((b) and (d)), of normalized return
 (red curve) and changes of fundamental price (blue curve) observed in
 Bornholdt model. Figures (a) and (b) were obtained with small σ values,

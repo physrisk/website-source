@@ -7,13 +7,13 @@ Status: published
 
 As we have seen previously [application of the
 original Kirman's
-model](/agent-based-herding-model-financial-markets "Agent-based herding model of financial markets on Physics of Risk")
+model]({filename}/articles/2011/agent-based-herding-model-financial-markets.md)
 enables reproduction of single power law spectral density \[cite
 id="Kononovicius2012PhysA"\]. While actual financial markets and
 [sophisticated stochastic
-models](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return on Physics of Risk")
+models]({filename}/articles/2010/long-range-memory-stochastic-model-return.md)
 \[cite id="Gontis2010Intech"\] have double power law spectral density -
-i. e. fractured spectral density. Thus it would be nice to obtain
+i.e., fractured spectral density. Thus it would be nice to obtain
 fracture of spectral density by improving application of Kirman's agent
 based model towards financial markets.<!--more-->
 
@@ -35,7 +35,7 @@ Three group financial market model
 In this text we will attempt to obtain fractured spectral density
 without making any strong assumptions. Similar, though broader,
 discussion is available in \[cite id="Purlys2011mtd2"\]). [In previous
-application](/agent-based-herding-model-financial-markets "Agent-based herding model of financial markets on Physics of Risk")
+application]({filename}/articles/2011/agent-based-herding-model-financial-markets.md)
 we have considered dynamics only between chartist and fundamentalist
 groups \[cite id="Kononovicius2012PhysA"\], while it is natural to
 expect that chartist agents may disagree in their expectations and thus
@@ -43,7 +43,7 @@ devide into additional groups (or subgroups) - pessimists and optimists.
 Therefore now all three groups (see [Fig. 1](#attachment_1910)) may
 interact among themselves.
 
-![image](/uploads/2011/three-type.png "Three groups interactions: f - fundamentalists, c+ -
+![image]({static}/uploads/2011/three-type.png "Three groups interactions: f - fundamentalists, c+ -
 chartists optimists, c- - chartists pessimists. Symbols written near
 the bubbles correspond to the parameters related to individual decision,
 while symbols written on the inter-connections are related to
@@ -51,46 +51,34 @@ herding."){#attachment_1910}
 
 Group interactions are mathematically described in the terms of
 [original Kirman's
-model](/kirman-ants "Kirman’s ant colony model on Physics of Risk"),
+model]({filename}/articles/2010/kirman-ants.md),
 where relevant parameters somewhat differ (see [Fig.
 1](#attachment_1910)). These now six, as we have interactions between
 three groups, transition equations mathematically are expressed as:
-
 
 \begin{equation}
  p( c\_{-} \rightarrow f) = n\_{c-} (a\_1 + h\_{cf} n\_f)\Delta t , 
 \end{equation}
 
-
-
 \begin{equation}
  p( c\_{+} \rightarrow f) = n\_{c+} (a\_2 + h\_{cf} n\_f)\Delta t , 
 \end{equation}
-
-
 
 \begin{equation}
  p( f \rightarrow c\_{+}) = n\_{f} (b\_1 + h\_{cf} n\_{c+})\Delta t , 
 \end{equation}
 
-
-
 \begin{equation}
  p( c\_{-} \rightarrow c\_{+}) = n\_{c-} (b\_2 + h\_{cc}n\_{c+}) \Delta t , 
 \end{equation}
-
-
 
 \begin{equation}
  p( f \rightarrow c\_{-}) = n\_{f} (c\_1 + h\_{cf} n\_{c-})\Delta t , 
 \end{equation}
 
-
-
 \begin{equation}
  p( c\_{+} \rightarrow c\_{-}) = n\_{c+} (c\_2 + h\_{cc}n\_{c-}) \Delta t . 
 \end{equation}
-
 
 Note that the above transition probabilities describe one agent
 transition between varying groups. \\\(  a\_i \\\), \\\(  b\_i \\\) and
@@ -107,11 +95,9 @@ constant value will hinder numerical evaluation. Therefore it is more
 convenient to use variable \\\(  \Delta t \\\), which can be defined by
 requiring that the sum of the transition probabilities is one or less:
 
-
 \begin{equation}
  \sum\limits\_i p(i) = \Delta t \sum\limits\_i \pi(i) =\kappa \quad \Rightarrow \quad \Delta t =\frac{\kappa}{\sum\limits\_i \pi(i)} , 
 \end{equation}
-
 
 here \\\(  p(i) = \pi(i) \Delta t \\\), index \\\(  i \\\) denotes all
 possible single transition scenarios, \\\(  \kappa \leq 1 \\\) may
@@ -127,27 +113,23 @@ Application towards financial markets
 
 All that is left to do now is to relate previously discussed group
 dynamics to the financial market observables, namely price and return.
-We do so by utilizing original Walras law, i. e. we assume that market
+We do so by utilizing original Walras law, i.e., we assume that market
 maker stabilizes the market after each change to the supply and demand.
 We have already discussed this topic on Physics of Risk (see [this
-text](/agent-based-herding-model-financial-markets#price-return "Introducing price and return into the agent-based herding model of financial markets")).
+text]({filename}/articles/2011/agent-based-herding-model-financial-markets.md)).
 Thus from the market maker assumption, and by using previous experience,
 we can draw expression of price
-
 
 \begin{equation}
  P(t) = P\_f(t) \exp \left\[ r\_0 \frac{N\_c(t)}{N\_f(t)}\xi(t) \right\] = P\_f(t) \exp \left\[ -r\_0\frac{N\_{c+}(t)-N\_{c-}(t)}{N\_f(t)} \right\] , 
 \end{equation}
 
-
 and thus return, under the assumption that fundamental price remains
 constant,
-
 
 \begin{equation}
  r\_{T}(t)=\ln \frac{P(t)}{P(t-T)} = r\_0 \left\[-\frac{N\_{c+}(t)-N\_{c-}(t)}{N\_f(t)} +\frac{N\_{c+}(t-T)-N\_{c-}(t-T)}{N\_f(t-T)} \right\] . 
 \end{equation}
-
 
 As in this text we are only interested in spectral density we can drop
 \\\(  r\_0 \\\) from the definition of return.
@@ -164,7 +146,7 @@ results can be obtained with H being larger than 10 and smaller than
 chartist-fundamentalist process do not sufficiently differ (H smaller
 than 10) or overlap (H larger 1000).
 
-![image](/uploads/2011/three-spectra.png "Spectral density (red curve) of absolute return time
+![image]({static}/uploads/2011/three-spectra.png "Spectral density (red curve) of absolute return time
 series obtained by numerically evaluating the discussed model and its
 power law fits (blue curves). Powers of power law fits: \\\( \beta=0.68 \\\), \\\( \beta=0.22 \\\).
 Model parameters: \\\( a\_1=a\_2=b\_1=c\_1=30 \\\), \\\( b\_2=c\_2=500 \\\), \\\( h\_{cf}=1 \\\), \\\( H=50 \\\),

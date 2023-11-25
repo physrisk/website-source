@@ -9,7 +9,7 @@ Bass diffusion model \[cite
 id="Bass1969ManSci"\] is widely known and very important model in
 marketing science. This model predicts diffusion, sales, of new
 successful products inside the market. While previously [discussed
-model](/kirman-ants "Kirman's ant colony model on Physics of Risk"),
+model]({filename}/articles/2010/kirman-ants.md),
 Kirman model \[cite id="Kirman1993QJE"\], has wide range of possible
 applications - from biology to finance. In \[cite id="Kirman1993QJE"\]
 it is noted that behavior observed by entomologists is similar to one
@@ -25,31 +25,25 @@ probability of adopting by those who have not yet adopted is a linear
 function of those who had previously adopted" \[cite
 id="Bass1969ManSci"\]. Or mathematically:
 
-
 \begin{equation}
  \partial\_t F(t) = \[1-F(t)\] \[p + q F(t)\] , \label{bassode}
 \end{equation}
-
 
 where \\\(  F(t) \\\) is fraction of market that have adopted product by
 time t, \\\(  p \\\) is coefficient of innovation, while \\\(  q \\\) is
 coefficient of imitation. Solution of the above ordinary differential
 equation, with boundary condition \\\(  F(0)=0 \\\), is:
 
-
 \begin{equation}
  F(t) = \frac{p \left\[ e^{(p+q) t} -1 \right\]}{e^{(p+q)t}+q} . 
 \end{equation}
 
-
 Number of new consumers per unit of time is given by the derivative of
 the above:
-
 
 \begin{equation}
  \Delta F(t) = \frac{p (p+q)^2 e^{(p+q) t}}{\left\[pe^{(p+q) t}+q \right\]^2} . 
 \end{equation}
-
 
 Kirman's model \[cite id="Kirman1993QJE"\] is based on very similar
 ideas - some ants discover food sources independently, while other ants
@@ -60,17 +54,13 @@ only one possible transition - from potential consumer to consumer.
 Though it is rather easy to introduce this unidirectionality into
 Kirman's model. We simply one transition probability to zero:
 
-
 \begin{equation}
  p(X \rightarrow X+1) = (N - X) \left( \sigma + \frac{h X}{N} \right) \Delta t , 
 \end{equation}
 
-
-
 \begin{equation}
  p(X \rightarrow X-1) = 0 , 
 \end{equation}
-
 
 here \\\(  X \\\) is number of consumers, while \\\(  N-X \\\) is thus a
 number of potential consumers. \\\(  \sigma \\\) and \\\(  h \\\) are
@@ -79,7 +69,7 @@ product (they should be equivalent to \\\(  p \\\) and \\\(  q \\\) in
 \eqref{bassode}). Note that transition probabilities are somewhat
 different from the original ones \[cite id="Kirman1993QJE"\] (or see
 [this model on Physics of
-Risk](/kirman-ants "Kirman's ant colony model on Physics of Risk")).
+Risk]({filename}/articles/2010/kirman-ants.md)).
 This happens due to assumption that rate of consumption is indepedent of
 absolute size of the market.
 
@@ -88,11 +78,9 @@ assume \\\(  N \\\) to be large enough to secure continuity of \\\( x \\\)) and 
 id="VanKampen2007NorthHolland"\] we obtain macroscopic model for the
 unidirectional Kirman model,
 
-
 \begin{equation}
  \partial\_t x = (1-x) (\sigma + h x) , 
 \end{equation}
-
 
 which is notably identical to the Bass diffusion model. Thus in the
 limit of large \\\(  N \\\) we can expect that unidirectional agent-based
@@ -109,7 +97,7 @@ diffusion model describe mean, while unidirectional Kirman's model
 provides only single realization. This figure is featured in \[cite
 id="Daniunas2011ICCGI"\].
 
-![image](/uploads/2011/bassKirmanCurves.png "Agreement between Kirman's (red dots) and Bass
+![image]({static}/uploads/2011/bassKirmanCurves.png "Agreement between Kirman's (red dots) and Bass
 diffusion (blue curves) models. (a) N=1000, Δt=0.1, (b) N=1000, Δt=1,
 (c) N=10000, Δt=0.1, (d) N=10000, Δt=1. Other model parameters: σ=0.01,
 h=0.275."){#attachment_1747}
@@ -127,7 +115,7 @@ parameters with a notable exception to \\\(  \Delta t \\\). Here
 additional parameters \\\(  \alpha \\\) (tolerance for piracy) and
 \\\(  Y\_0 \\\) (charity) not discussed in this text, but considered in
 the [another
-one](/what-can-the-bass-diffusion-model-tell-us-about-piracy "Aleksejus Kononovicius: What can the Bass diffusion model tell us about piracy?")
+one]({filename}/articles/2012/what-can-the-bass-diffusion-model-tell-us-about-piracy.md)
 (Bass curves are plotted while not taking these into account).
 
 [html5-interactive

@@ -8,8 +8,7 @@ Status: published
 Slides
 from the closure conference were made available at mokslasplius.lt
 portal's science news website. Though note that slides are only
-available in Lithuanian (see
-[here](http://www.mokslasplius.lt/naujienos/konferencija_2011_10_25)).
+available in Lithuanian (see <del>here</del>).
 We would like to remind you that Physics of Risk was represented by V.
 Gontis and V. Daniūnas, thus their slides might be the most useful for
 visitors of Physics of Risk website.
