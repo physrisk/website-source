@@ -59,7 +59,7 @@ the results of original paper [cite id="Foerster1960"] we plot the data and
 model results as if 2026 was still a special year.
 
 [html5-interactive width="520" height="290" mode="iframe"
-url="/uploads/models/doomsday/finite.html"]
+url="/uploads/models/data-driven-apps/population-doomsday/finite.html"]
 
 Note that the default parameters of the app are different from the best fit
 I have found. It is as it is to encourage you to find your own good looking
