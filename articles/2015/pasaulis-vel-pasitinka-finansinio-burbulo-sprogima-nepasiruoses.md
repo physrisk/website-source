@@ -28,14 +28,14 @@ building new economic disproportions inside the country. The general
 estimation of the stimulation program indicates that this contributed to
 the growth of China after 2008 exceeds up to the 90 percent of whole GDP
 growth (see [article by Bill Powel on
-Time](http://content.time.com/time/magazine/article/0,9171,1975336,00.html#ixzz1g4B5P26P)).
+Time](https://content.time.com/time/magazine/article/0,9171,1975336,00.html#ixzz1g4B5P26P)).
 Nevertheless, several giant projects have really failed.<!--more-->
 
 The Chinese municipal governments have developed the independent
 infrastructure programs with total value of used credits up to the 1.7
 trillions of US dollars (see [Telegraph's article on China subprime
 credit
-bubble](http://www.telegraph.co.uk/finance/china-business/8770945/China-faces-subprime-credit-bubble-crisis.html)),
+bubble](https://www.telegraph.co.uk/finance/china-business/8770945/China-faces-subprime-credit-bubble-crisis.html)),
 the one third of these loans are estimated as bad one. This results that
 considerable part of municipalities could be considered as a local
 "Greece-like" problems of China. So extensive use of credits was
@@ -43,12 +43,12 @@ followed by increased inflation and overvaluation of real estate.
 Contrary to the many other countries, where prices of real estate after
 2008 experienced correction, the bubble in China was blowing up further
 (see [NY Times article on China's housing
-bubble](http://www.nytimes.com/roomfordebate/2011/04/14/chinas-scary-housing-bubble?ref=asia)).
+bubble](https://www.nytimes.com/roomfordebate/2011/04/14/chinas-scary-housing-bubble?ref=asia)).
 As in the case of other financial bubbles the China experiences
 increased demand of luxury products, in general estimates the market of
 luxury products here is larger than in US and Europe together (see
 [Businessinsider.com article on luxury demand in
-China](http://www.businessinsider.com/luxury-demand-china-2011-10)).
+China](https://www.businessinsider.com/luxury-demand-china-2011-10)).
 
 These obvious features of financial and economic bubbles in China have
 to be considered very seriously by other countries, where, including US,
@@ -65,7 +65,7 @@ considering the financial information as ordinary correction of markets,
 our duty is to warn that, probably, there are the first sounds of global
 bubble explosion and we have to be ready for the worst (see [Telepgrah's
 article on possible global market
-crash](http://www.telegraph.co.uk/finance/11805523/Doomsday-clock-for-global-market-crash-strikes-one-minute-to-midnight-as-central-banks-lose-control.html)).
+crash](https://www.telegraph.co.uk/finance/11805523/Doomsday-clock-for-global-market-crash-strikes-one-minute-to-midnight-as-central-banks-lose-control.html)).
 One can find more opinions of financial analysts looking at the various
 web sources of financial information.
 

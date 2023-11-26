@@ -16,7 +16,7 @@ consequences seems to follow power-law distribution.
 In this text we will briefly discuss how the model works and present
 interactive applet. We would like to draw your attention to a previous
 article in which described [earthquake
-model](/zemes-drebejimu-modelis).<!--more-->
+model]({filename}/articles/2014/zemes-drebejimu-modelis.md).<!--more-->
 
 How model works
 ---------------

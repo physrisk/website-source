@@ -13,5 +13,5 @@ Status: published
 
 **Where?** Institute of Mathematics and Informatics VU [Faculty of
 Mathematics and Informatics (Naugarduko g. 24,
-Vilnius)](http://www.mif.vu.lt/), 400 auditorium.
+Vilnius)](https://www.mif.vu.lt/), 400 auditorium.
 

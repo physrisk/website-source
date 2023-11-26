@@ -16,10 +16,10 @@ This notion is not new in economics as it has its own branch known as
 behavioral economics (or behavioral finance). Dan Ariely is one of
 economists who are interested in human brain bugs on individual and
 global level. In his talk, recorded for
-[ted.com](http://www.ted.com/talks/dan_ariely_on_our_buggy_moral_code),
+[ted.com](https://www.ted.com/talks/dan_ariely_on_our_buggy_moral_code),
 he develops one of the aspects behind behavioral economics - human
 tendency to tell small lies and bypass their own moral code.
 
 \[iframe
-src="http://embed-ssl.ted.com/talks/dan\_ariely\_on\_our\_buggy\_moral\_code.html"
+src="https://embed-ssl.ted.com/talks/dan\_ariely\_on\_our\_buggy\_moral\_code.html"
 width="560" height="315"\]

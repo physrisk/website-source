@@ -10,7 +10,7 @@ tabletop, card and role-playing game projects are launched on
 crowd-funding platform Kickstarter each week. Some of these projects do
 well, while others fail to muster support. Recently we have noticed
 interesting project by Dan Ariely, whose [TED talk we have shared
-earlier](/d-ariely-on-our-buggy-moral-code),
+earlier]({filename}/articles/2015/d-ariely-on-our-buggy-moral-code.md),
 and Irrational Ventures named "Irrational Card Game." This game, as a
 tabletop game, might not be the most interesting, but it is certainly
 interesting as a tool to bring social science to the masses. First of

@@ -20,9 +20,9 @@ based on a belief that a coin might be melted down and traded for a
 similar value. This principle is behind the money in Westeros, but the
 author of the forbes.com article considers the possibilities to create
 central bank in Westeros. The article is an interesting read to both
-fans of the [show](http://www.hbo.com/game-of-thrones) (or books) as
+fans of the [show](https://www.hbo.com/game-of-thrones) (or books) as
 well as to the people interested in how central banks emerge and what do
 they do.
 
 [Read more on forbes.com
-»](http://www.forbes.com/sites/modeledbehavior/2015/04/18/game-of-thrones-economics-why-doesnt-westeros-have-a-central-bank/)
+»](https://www.forbes.com/sites/modeledbehavior/2015/04/18/game-of-thrones-economics-why-doesnt-westeros-have-a-central-bank/)

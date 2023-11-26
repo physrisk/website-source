@@ -18,7 +18,7 @@ fact that it never made any profits from trading.
 We invite you to see videos by [Extra
 Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg),
 which tell the story with more details, but in attractive and
-approachable manner. You can find the playlist on youtube by following
+approachable manner. You can find the playlist on YouTube by following
 this URL:
 <https://www.youtube.com/watch?v=k1kndKWJKB8&list=PLhyKYa0YJ_5Aq7g4bil7bnGi0A8gTsawu&index=17>.
 Below you should the embed of the first video.
