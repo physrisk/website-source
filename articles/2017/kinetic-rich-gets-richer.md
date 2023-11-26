@@ -76,7 +76,7 @@ Note that this formulation not only helps to obtain the results faster, but also
 
 ## "Rich gets richer" modification
 
-Let us modify the model by introducing rich gets richer dynamics, in a spirit of the [Barabasi-Albert model](/barabasi-albert-model/), into our kinetic model. Namely, the probabilities for the agent to be picked are no longer equal, they are proportional to the agent's wealth. This small change does not influence the outcome of the model - it will still arrive to a fixed state, but it will arrive at a different manner.
+Let us modify the model by introducing rich gets richer dynamics, in a spirit of the [Barabasi-Albert model]({filename}/articles/2013/barabasi-albert-model.md), into our kinetic model. Namely, the probabilities for the agent to be picked are no longer equal, they are proportional to the agent's wealth. This small change does not influence the outcome of the model - it will still arrive to a fixed state, but it will arrive at a different manner.
 
 Note that previously we always transferred wealth to the first agent we picked and subtracted wealth from the second agent. Although this seems to be unfair (or illogical), but as the selection probabilities were equal, it was equally possible to pick agent A and then agent B and vice versa. Now as the probabilities are wealth-dependent the probabilities of AB and BA are not equal if agents have different wealth. If A is richer, then AB will be more likely than BA. We keep this "unfairness" in the modified model.
 
