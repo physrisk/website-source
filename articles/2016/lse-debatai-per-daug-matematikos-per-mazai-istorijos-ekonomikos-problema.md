@@ -8,7 +8,7 @@ Status: published
 Recently one of the most prestigious
 schools of economics, London School of Economics, held an interesting
 debate between economists who prefer historical retrospective and
-economists who prefer mathematical modelling. Interestingly enough both
+economists who prefer mathematical modeling. Interestingly enough both
 sides of the debate agreed that neoclassical economic theory doesn't
 work well. But the answer why and its implications differ. Bellow you
 should see a youtube video with the recording of the debate. We invite
@@ -34,7 +34,7 @@ economics) is not (or should not be) of interest to economists. Yet
 maths and computer modeling is an excellent tool to test general
 insights about how economic systems work. The data may be interpreted
 wildly differently and it is completely unclear which of the
-interpretations is correct one. Maths, and computer modelling, helps
+interpretations is correct one. Maths, and computer modeling, helps
 narrow down the set of possible interpretations. It is like filter, or
 more like reality check.
 
