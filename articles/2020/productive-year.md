@@ -26,5 +26,5 @@ So, for 2020 I plan to keep on writing about
 [opinion dynamics](/tag/opinion-dynamics/), especially because I haven't yet
 written about new results I published during my postdoctoral research project.
 Some of these results will likely lead us to a related topic of human mobility.
-I would also like to write about some [economic](/tag/economics) models, which
+I would also like to write about some [economic](/tag/economics/) models, which
 would highlight the dark side of the [free market](/tag/free-market/).

@@ -6,9 +6,9 @@ Slug: exploring-parking-strategies
 Status: published
 Image_url: uploads/2022/parking-optimist.png
 
-[Traffic](/tag/traffic) problems are ones we all face every day and we can
+[Traffic](/tag/traffic/) problems are ones we all face every day and we can
 explore using Physics of Risk tools such as [agent-based
-models](/tag/agent-based-models). Here we will take a look at a couple
+models](/tag/agent-based-models/). Here we will take a look at a couple
 simple parking strategies from [cite id="Krapivsky2019JStat,
 Krapivsky2020JStat"].
 <!--more-->

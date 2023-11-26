@@ -101,4 +101,4 @@ src="/uploads/models/emm-ob-model/cobweb.html" width="520" height="560"]
 Note that this model is a product of my inquiries to the nature of the
 [cobweb model]({filename}/articles/2018/cobweb-model.md). This exploration
 might not make a lot of sense to a person more familiar with
-[Economics](/tag/economics) than myself.
+[Economics](/tag/economics/) than myself.

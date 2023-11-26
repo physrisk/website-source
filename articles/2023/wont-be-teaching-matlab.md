@@ -90,7 +90,7 @@ understand `for` loops, too.
 
 I also didn't like that arrays start at 1. Come on... I have made lots of
 mistakes during live coding sessions simply because of this.
-[Python](/tag/python), JavaScript and C (languages I use almost every day)
+[Python](/tag/python/), JavaScript and C (languages I use almost every day)
 all start their arrays at 0. So yeah, after a semester with
 [Matlab](/tag/matlab/) I had to relearn this. Additional confusion arising
 because [Matlab](/tag/matlab/) uses `()` to index arrays instead of the

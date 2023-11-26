@@ -37,5 +37,5 @@ Either way, we will continue with posts on
 [opinion dynamics](/tag/opinion-dynamics/), too, as I have a few interesting
 models, which I thought to have already posted about. This will give me a
 chance to write about the last result from my
-[postdoctoral project](/tag/postdoctoral-project), which is related to the
+[postdoctoral project](/tag/postdoctoral-project/), which is related to the
 [Latane's social impact theory](https://en.wikipedia.org/wiki/Social_impact_theory).

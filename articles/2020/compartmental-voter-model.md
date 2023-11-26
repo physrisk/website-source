@@ -8,16 +8,16 @@ Image_url: uploads/2020/cvm-schema.png
 
 In [sociological](/tag/sociology/) papers it is quite common to see the analysis
 of how specific socio-demographic factors influence voting behavior. In
-[opinion dynamics](/tag/opinion-dynamics) on the other hand we are usually
+[opinion dynamics](/tag/opinion-dynamics/) on the other hand we are usually
 interested only in contagion effects. Though some of the models sometimes are
 more sophisticated and include things like
-[bounded confidence](/tag/bounded-confidence), [explicit](/tag/network-models)
-or implicit (like in [Ishii's trust and suspicion models](/tag/trust-and-suspicion)
+[bounded confidence](/tag/bounded-confidence/), [explicit](/tag/network-models)
+or implicit (like in [Ishii's trust and suspicion models](/tag/trust-and-suspicion/)
 we have recently discussed) network structure, which effectively segment the
 society into separate groups. Yet these groups are surely not equivalent to the
 socio-demographic groups.<!--more-->
 
-Another issue is that often in [opinion dynamics](/tag/opinion-dynamics) the
+Another issue is that often in [opinion dynamics](/tag/opinion-dynamics/) the
 data is not temporal, but is spatial instead. One way to avoid this problem is
 to assume that electoral districts (our spatial dimension) are independent of
 each other (we have implicitly made this assumption

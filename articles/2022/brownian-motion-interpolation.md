@@ -7,13 +7,13 @@ Status: published
 Image_url: uploads/2022/brownian-motion-interpolation.png
 
 Suppose you have obtained a sample path of [Brownian
-motion](/tag/brownian-motion) using discrete step size \\\( \Delta t \\\).
+motion](/tag/brownian-motion/) using discrete step size \\\( \Delta t \\\).
 Yet what happens at a finer scale? While in the experimental setup it would
 be impossible to say how the Brownian particle actually moved in between
 \\\( t \\\) and \\\( t + \Delta t \\\), one could numerically generate
 probable paths particle took in that time period. We do this by relying on
-the [fractal](/tag/fractals) nature of the [Brownian
-motion](/tag/brownian-motion).
+the [fractal](/tag/fractals/) nature of the [Brownian
+motion](/tag/brownian-motion/).
 <!--more-->
 
 ## Interpolation method

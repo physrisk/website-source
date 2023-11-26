@@ -10,7 +10,7 @@ Last time we have proposed the
 [agent-based cobweb model]({filename}/articles/2020/cobweb-abm.md). In certain
 case price time series of this model exhibit different volatility. So this time
 we will take a look at price change statistics in this model. As is common for
-our [financial markets](/tag/financial-markets) posts we will consider
+our [financial markets](/tag/financial-markets/) posts we will consider
 probability density functions and spectral density.
 <!--more-->
 

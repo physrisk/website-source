@@ -19,7 +19,7 @@ dynamics. Both of which predict exponential growth of population under
 constant conditions. Verhulst only expands upon the idea by introducing
 limited resources, so the population will eventually reach certain maximum.
 
-We have also written about [Lotka-Volterra equations](/tag/lotka-volterra),
+We have also written about [Lotka-Volterra equations](/tag/lotka-volterra/),
 which serve as a model of prey-predator interactions. Yet we, as human
 beings, do not suffer from any major predator. So Lotka-Volterra model
 does not apply to us.

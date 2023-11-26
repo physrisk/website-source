@@ -20,7 +20,7 @@ Sznajd model itself is rather simple. In its original formulation
 [cite id="Sznajd2000IntJModPhysC"] it uses only two rules: social validation rule
 and discord rule.
 
-Unlike in the most other models of [opinion dynamics](/tag/opinion-dynamics) these
+Unlike in the most other models of [opinion dynamics](/tag/opinion-dynamics/) these
 rules apply not only to two neighboring agents, but to their immediate neighbors
 as well. If the two neighboring agents agree (share the same opinion), their
 neighbors will also start to agree. If the two neighboring agents disagree (have

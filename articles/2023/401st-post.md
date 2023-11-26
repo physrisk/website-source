@@ -10,7 +10,7 @@ The [post]({filename}/articles/2023/waiting-time-paradox.md) we have posted
 before the summer vacation was our 400th post! We haven't noticed this
 milestone at the time, but let us then celebrate 401st post by looking at
 the [language statistics](/tag/language-statistics/) of our posts.
-Particularly, we can ask a question whether [Zipf's law](/tag/zipfs-law)
+Particularly, we can ask a question whether [Zipf's law](/tag/zipfs-law/)
 applies for our posts.
 
 Technically this 402nd post, but it was written before the [previous
@@ -19,7 +19,7 @@ now :)
 
 ## Zipf's law
 
-[Zipf's law](/tag/zipfs-law) is an empirical observation, that often in
+[Zipf's law](/tag/zipfs-law/) is an empirical observation, that often in
 popularity (frequency, or size) tables the popularity decays as power-law
 function of rank:
 
@@ -34,12 +34,12 @@ So, will it hold?<!--more-->
 
 ## Tag popularity
 
-First we have checked whether [Zipf's law](/tag/zipfs-law) holds for our
+First we have checked whether [Zipf's law](/tag/zipfs-law/) holds for our
 tags. We have counted how many times each tag was used to tag a post.
 After the counting we have ranked (ordered) tags based on the respective
 popularity. To simplify the analysis, we have divided all counts by the top
 count (162 posts were tagged with [Interactive
-models](/tag/interactive-models) tag) thus obtaining their relative
+models](/tag/interactive-models/) tag) thus obtaining their relative
 occurrences. Finally we have plotted the obtained data on log-log axes.
 
 ![Zipf's plot for the relative tag occurances on Physics of Risk

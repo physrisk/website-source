@@ -7,7 +7,7 @@ Status: published
 
 Can probabilities be negative? Yes, whenever information behaves in quirky
 ways in [quantum systems](/tag/quantum-mechanics/). Video comments seem to
-suggest that similar observations can also apply in [traffic](/tag/traffic).
+suggest that similar observations can also apply in [traffic](/tag/traffic/).
 
 For a detailed explanation on when using negative probabilities might make
 sense, watch the video by Steven G below (it took part in a "Summer of Math

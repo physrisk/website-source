@@ -13,7 +13,7 @@ energy to prepare some new content for Physics of Risk. So Physics of Risk
 lives again!
 
 Now, this semester we will take a look at a quite a few [statistical
-puzzles](/tag/statistics). Some of the upcoming posts will be inspired by
+puzzles](/tag/statistics/). Some of the upcoming posts will be inspired by
 recent preprints I have seen on the [arXiv](https://arxiv.org) this summer,
 while others will be solutions to various Riddler problems published on
 [fivethirtyeight.com](https://fivethirtyeight.com).

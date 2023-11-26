@@ -9,10 +9,10 @@ Image_url: uploads/2022/ks-test.png
 [Last
 time]({filename}/articles/2022/brownian-motion-interpolation-part-2.md) we
 have explored the distribution of increments obtained from the interpolated
-[Brownian motion](/tag/brownian-motion). We have seen that the correct
+[Brownian motion](/tag/brownian-motion/). We have seen that the correct
 interpolation formula generates proper increments. Yet we have seen that
 with just our eyes. While the eyes are a good tool, they sometimes can lie.
-Thus it is wise to use a formal [method](/tag/methods) to verify our
+Thus it is wise to use a formal [method](/tag/methods/) to verify our
 intuition.
 
 Here in this post we will discuss one of the simplest methods to verify

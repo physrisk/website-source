@@ -11,7 +11,7 @@ COVID-19. It helped a lot that majority of them were quite terrible, those
 have saved me some time. Though there were also a few more interesting ones.
 In [cite id="Burghardt2020"] it was shown that the distribution of deaths and
 cases over US counties follows a power-law distribution. This finding is quite
-similar to [Zipf's law](/tag/zipfs-law), but
+similar to [Zipf's law](/tag/zipfs-law/), but
 specifically for the [epidemic spread](/tag/epidemiology/).
 
 In this post we will replicate the empirical finding and in the next post we

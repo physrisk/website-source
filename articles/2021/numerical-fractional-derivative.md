@@ -10,7 +10,7 @@ Status: published
 looked into fractional derivatives and even managed to derive fractional
 derivative for \\\( f(x) = x \\\). For more complicated functions this is
 much more problematic. Here, in this post, we will show you a quick
-[numerical method](/tag/methods) to calculate fractional derivative of any
+[numerical method](/tag/methods/) to calculate fractional derivative of any
 arbitrary series.
 <!--more-->
 

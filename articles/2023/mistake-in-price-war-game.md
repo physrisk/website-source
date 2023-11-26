@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2023/price-war-game-prob.png
 
 [Five years ago]({filename}/articles/2018/price-war-game.md) when analyzing
-rational strategies in a [game](/tag/game-theory) I have made a mistake. I
+rational strategies in a [game](/tag/game-theory/) I have made a mistake. I
 was so fascinated that for some parameter sets mixed strategy can be used,
 that I have forgotten, that pure strategy equilibria might still exist and
 be more attractive than the mixed strategy equilibrium. In this post, I

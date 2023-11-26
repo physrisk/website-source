@@ -20,7 +20,7 @@ independent transitions are not influenced by the support provided by the
 peers. This yields another variation of the noisy voter model with
 supportive interactions, which exhibits a more complicated phase portrait.
 This model is also a part of my last paper of the
-[postdoctoral project](/tag/postdoctoral-project)
+[postdoctoral project](/tag/postdoctoral-project/)
 [cite id="Kononovicius2021CSF"].
 <!--more-->
 

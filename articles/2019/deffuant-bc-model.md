@@ -6,7 +6,7 @@ Slug: deffuant-bounded-confidence-model
 Status: published
 Image_url: uploads/2019/deffuant-bc-model.png
 
-All of the [opinion dynamics](/tag/opinion-dynamics) models we have considered
+All of the [opinion dynamics](/tag/opinion-dynamics/) models we have considered
 so far had discrete opinions. However it would be rather natural to think about
 opinions as being continuous. Opinions become discrete only due to the way we
 observe them, namely ballots in the elections and questionnaires in the polls

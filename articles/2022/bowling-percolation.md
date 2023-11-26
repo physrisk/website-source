@@ -37,7 +37,7 @@ ping? How does it depend on \\\( p \\\)?
 General analytical solution for arbitrary \\\( N \\\) is quite cumbersome to
 obtain. Actually, it is an [unsolved
 problem](https://fivethirtyeight.com/features/can-you-escape-the-casino/) in
-the [percolation theory](/tag/percolation). Yet this problem is quite
+the [percolation theory](/tag/percolation/). Yet this problem is quite
 approachable to be solve numerically.
 
 Below you should see an interactive app, which allows you to experiment with

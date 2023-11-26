@@ -6,11 +6,11 @@ Slug: anomalous-diffusion-in-nonlinear-transformation-of-voter-model
 Status: published
 Image_url: uploads/2021/anomalous-diffusion-in-nonlinear-transformation-of-voter-model.png
 
-Lets continue the topic of [anomalous diffusion](/tag/anomalous-diffusion) by
+Lets continue the topic of [anomalous diffusion](/tag/anomalous-diffusion/) by
 considering my recent manuscript together with R. Kazakevicius
 [cite id="Kazakevicius2021AnoVM"]. In the said manuscript we have considered two
 different non-linear transformations of the noisy
-[voter model](/tag/voter-model). Here we present you with non-linear
+[voter model](/tag/voter-model/). Here we present you with non-linear
 transformation of the observable.<!--more-->
 
 ## Model
@@ -66,7 +66,7 @@ switched to steady state behavior (this happens close to \\\( t = 1 \\\)).
 In the interactive app below you can see two plots: left one is for the
 temporal evolution of mean, right one is for the temporal evolution of
 variance (not standard deviation we have used in the previous posts on
-[anomalous diffusion](/tag/anomalous-diffusion)). In those figures you'll see
+[anomalous diffusion](/tag/anomalous-diffusion/)). In those figures you'll see
 two main curves - red dots show the simulation results (calculated over
 \\\( 100 \\\) sample series), while dark gray lines show the theoretical
 power-law dependence (these are meant just to guide your eye). If

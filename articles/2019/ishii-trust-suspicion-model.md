@@ -25,7 +25,7 @@ in a manner I do not like), we will choose one random agent and update its
 opinion. There are two different opinion update rules in
 [cite id="Ishii2019GDN"], one is based on the earlier works of the same group
 (we will refer to this update rule as Type I model), the other is based on
-[bounded confidence models](/tag/bounded-confidence) (we will refer to this 
+[bounded confidence models](/tag/bounded-confidence/) (we will refer to this 
 update rule as Type II model).
 
 Type I update rule is given by:

@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2018/majority-vote-model.png
 
 Couple of years ago we have discussed one of the most prominent models in
-[opinion dynamics](/tag/opinion-dynamics) - [voter model]({filename}/articles/2016/rinkejo-modelis.md).
+[opinion dynamics](/tag/opinion-dynamics/) - [voter model]({filename}/articles/2016/rinkejo-modelis.md).
 This time we consider a generalization of the [voter model]({filename}/articles/2016/rinkejo-modelis.md),
 which draws inspiration from the [Ising model]({filename}/articles/2010/ising-model.md).
 This generalization, known as majority-vote model [cite id="Liggett1985,Oliveira1992JStatPhys"],

@@ -28,7 +28,7 @@ Notice that for non-trivial values of \\\( \varepsilon \\\) the
 model appears to not be able to settle down close to the self-centered
 polarization state. Also note the peculiar shapes of the cluster of agents
 with similar external opinions. They are very much reminiscent of the
-clusters observed in the [Ising model](/tag/ising-model) near the critical
+clusters observed in the [Ising model](/tag/ising-model/) near the critical
 temperature.
 
 [html5-interactive width="520" height="480" mode="iframe"

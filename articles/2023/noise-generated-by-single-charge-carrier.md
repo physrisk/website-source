@@ -67,10 +67,10 @@ S\left(f\right)=\frac{4a^{2}\bar{\nu}}{\left(\lambda\_{\theta}+\lambda\_{\tau}\r
 
 Namely, for low frequencies (lower than \\\( \left(\frac{\lambda\_\theta +
 \lambda\_\tau}{2 \pi}\right)^2 \\\) the [spectral
-density](/tag/spectral-density) will be flat, while for higher frequencies
+density](/tag/spectral-density/) will be flat, while for higher frequencies
 \\\( S(f) \\\) will decay as \\\( 1/f^2 \\\). There will be a very narrow
 region of frequencies where the switch between the [white
-noise](/tag/white-noise/) and [Brownian-like noise](/tag/Brownian-motion)
+noise](/tag/white-noise/) and [Brownian-like noise](/tag/Brownian-motion/)
 occurs.
 
 ## Interactive app

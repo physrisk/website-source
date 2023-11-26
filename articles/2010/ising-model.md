@@ -21,9 +21,9 @@ algorithm - heat bath algorithm.
 Note that this model is not only applicable towards common problems of
 Statistical Physics, but it also has many different interdisciplinary
 applications. It is true as one can put
-[agents](/tag/agent-based-models), generalized
+[agents](/tag/agent-based-models/), generalized
 objects imitating seemingly human behavior, into the vertices of the
-[graph](/tag/network-models). Thus one could
+[graph](/tag/network-models/). Thus one could
 analyze herding behavior in human inhabited systems (see for ex. \[cite
 id="Bornholdt2001IJMPC, Kaizoji2002PhysA, Yook2008JKPS"\]).
 

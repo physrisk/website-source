@@ -12,7 +12,7 @@ these individuals have different opinions. While nothing will happen if
 these individuals hold the same opinions. Though Latane social impact
 [cite id="Latane1981"] predicts that support provided by like-minded
 individuals can also play a role. In this post I'll discuss my last work done
-during my [postdoctoral project](/tag/postdoctoral-project)
+during my [postdoctoral project](/tag/postdoctoral-project/)
 [cite id="Kononovicius2021CSF"], which introduces supportive interactions
 into the [voter model](/tag/voter-model/).
 <!--more-->

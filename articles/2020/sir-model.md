@@ -24,7 +24,7 @@ One needs to make certain assumptions about the spread of disease and the
 efficiency of quarantine to get any reasonable estimate.
 
 So this time we will talk about a classical model in
-[epidemiology](/tag/epidemiology) known as Susceptible-Infected-Recovered model
+[epidemiology](/tag/epidemiology/) known as Susceptible-Infected-Recovered model
 or SIR model for short.<!--more-->
 
 ## The model

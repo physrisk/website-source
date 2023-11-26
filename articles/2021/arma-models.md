@@ -6,8 +6,8 @@ Slug: arma-models
 Image_url: uploads/2021/arma-models.png
 Status: published
 
-In [the last few posts](/tag/arfima-series) we have talked about how
-physical models relate to ["economical"](/tag/economics) AR(p) models. Yet
+In [the last few posts](/tag/arfima-series/) we have talked about how
+physical models relate to ["economical"](/tag/economics/) AR(p) models. Yet
 our end goal is to about ARFIMA models of which "AR" makes up just about
 1/3rd. In this post we introduce you to MA(q) models and show how they
 combine AR(p) models to make up ARMA(p, q) models.

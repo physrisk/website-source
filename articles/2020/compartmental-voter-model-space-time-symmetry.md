@@ -6,7 +6,7 @@ Slug: space-and-time-symmetry-in-the-compartmental-voter-model
 Status: published
 Image_url: uploads/2020/cvm-symmetry.png
 
-Today we continue our [series of posts](/tag/compartmental-voter-model) on
+Today we continue our [series of posts](/tag/compartmental-voter-model/) on
 compartmental voter model. Today we ask a question: is there a symmetry between
 stationary (temporal) and spatial distributions? Note that we have observed
 this symmetry in the

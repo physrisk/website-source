@@ -8,7 +8,7 @@ Image_url: uploads/2022/brownian-motion-interpolation-part-2.png
 
 [Last time]({filename}/articles/2022/brownian-motion-interpolation.md) we
 have discussed how to statistically correct interpolate [Brownian
-motion](/tag/brownian-motion). You have probably noticed that the correct
+motion](/tag/brownian-motion/). You have probably noticed that the correct
 interpolation formula has one peculiarity:
 
 \begin{equation}

@@ -6,7 +6,7 @@ Slug: ritvikmath-beta-distribution
 Status: published
 
 I like Beta distribution, as it arises from my favorite model - [voter
-model](/tag/voter-model/) (and [Kirman model](/tag/kirman-model) due to
+model](/tag/voter-model/) (and [Kirman model](/tag/kirman-model/) due to
 their similarity). There are other, arguably more important, reasons to like
 it. These are discussed in another excellent [statistics](/tag/statistics/)
 video by [ritvikmath](https://www.youtube.com/@ritvikmath).

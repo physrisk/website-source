@@ -12,7 +12,7 @@ troubled me. So I wanted to explore my doubts. At the time I didn't have any
 idea how to do this properly, but recently I think I have figured it out.
 
 In this post I will construct quite simple agent-based model of the price formation
-in the [free market](/tag/free-market). This time the approach works, at least
+in the [free market](/tag/free-market/). This time the approach works, at least
 in part, and from these we can uncover hidden assumption made in the classical
 [cobweb model]({filename}/articles/2018/cobweb-model.md).
 <!--more-->
@@ -178,5 +178,5 @@ src="/uploads/models/cobweb-model/abm.html" width="520" height="500"]
 Note that this model is a product of my inquiries to the nature of the
 [cobweb model]({filename}/articles/2018/cobweb-model.md). This exploration
 might not make a lot of sense to a person more familiar with
-[Economics](/tag/economics) than myself. Also it is quite possible that someone
+[Economics](/tag/economics/) than myself. Also it is quite possible that someone
 has already made a similar inquiry.
