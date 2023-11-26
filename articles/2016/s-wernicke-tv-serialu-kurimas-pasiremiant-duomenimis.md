@@ -7,9 +7,9 @@ Status: published
 
 Sebastian Wernicke talks about how data
 science helps Amazon and Netflix to make decisions about creating their
-tv shows. The process itself is not without its intricacies, which are
+TV shows. The process itself is not without its intricacies, which are
 covered in this TED talk. We invite you to watch it!
 
-\[iframe
-src="http://embed-ssl.ted.com/talks/sebastian\_wernicke\_how\_to\_use\_data\_to\_make\_a\_hit\_tv\_show.html"
-width="560" height="315"\]
+[iframe
+src="https://embed.ted.com/talks/sebastian\_wernicke\_how\_to\_use\_data\_to\_make\_a\_hit\_tv\_show.html"
+width="560" height="315"]

@@ -6,14 +6,14 @@ Slug: dynamical-correlated-spin-model
 Status: published
 
 Previously we already
-[wrote](/elementary-model-reproducing-q-gaussian-distribution)
+[wrote]({filename}/articles/2014/elementary-model-reproducing-q-gaussian-distribution.md)
 about a work of our colleague, Julius Ruseckas, in which he proposed an
 elementary model, which reproduces q-Gaussian distribution. Recently we
 introduced temporal dynamics into that static model \[cite id="Kononovicius2016PhysLettA"\]. In this text we briefly discuss the
 dynamical version of the model.
 
 Let us remind you that the [correlated spin
-model](/elementary-model-reproducing-q-gaussian-distribution)
+model]({filename}/articles/2014/elementary-model-reproducing-q-gaussian-distribution.md)
 describes possible configurations of the spin chain. In this spin chain
 neighboring spins are usually coaligned, meaning that nearby spins point
 in the same direction, though there are fixed number of cases \\\( d-1 \\\) (in this text \\\(  d \\\) has slightly different meaning) where

@@ -14,8 +14,8 @@ how good the countries are in a sense that how useful they are to the
 world. See Simon's Anholt's talk recorded for TED.
 
 \[iframe
-src="//embed-ssl.ted.com/talks/simon\_anholt\_which\_country\_does\_the\_most\_good\_for\_the\_world.html"
+src="https://embed.ted.com/talks/simon\_anholt\_which\_country\_does\_the\_most\_good\_for\_the\_world.html"
 width="560" height="315"\]
 
 You might also be interested to study [Good Country
-Index](http://goodcountry.org/index/overall-rankings) on your own.
+Index](https://goodcountry.org/index/overall-rankings) on your own.
