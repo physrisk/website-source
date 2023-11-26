@@ -10,7 +10,7 @@ schools of economics, London School of Economics, held an interesting
 debate between economists who prefer historical retrospective and
 economists who prefer mathematical modeling. Interestingly enough both
 sides of the debate agreed that neoclassical economic theory doesn't
-work well. But the answer why and its implications differ. Bellow you
+work well. But the answer why and its implications differ. Below you
 should see a youtube video with the recording of the debate. We invite
 you to listen.
 

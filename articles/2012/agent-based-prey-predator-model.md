@@ -57,7 +57,7 @@ the two randomly picked cells, one has to apply the following rules:
     changed and movement of the agent is possible, then the agent moves
     from one cell to another unoccupied cell.
 
-Bellow you should an interactive HTML5 applet, which can be used to
+Below you should an interactive HTML5 applet, which can be used to
 study the dynamics of the agent-based model formulated in this text.
 Note that unlike in the previous case of deterministic model, this model
 possesses certain stochastic features. Namely you can observe certain

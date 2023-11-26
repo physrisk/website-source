@@ -87,7 +87,7 @@ spin domains will form and grow, while finally in the end one spin will
 dominate whole lattice. Most interesting behavior is observed at
 intermediate, critical, temperature - aforementioned two behaviors are
 balanced and forming orderly domains are continuously being destroyed by
-random spin flips. Bellow in [Fig. 1](#attachment_994) we present
+random spin flips. Below in [Fig. 1](#attachment_994) we present
 typical lattice snapshots at different temperatures.
 
 ![image]({static}/uploads/2010/phases.png "Three different phases of Ising model: paramagnetic,
@@ -96,7 +96,7 @@ feromagnetic."){#attachment_994}
 
 In order to numerically estimate critical temperature one must check a
 range of temperatures and observe how magnetization and system energy
-change. Bellow in [Fig. 2](#attachment_995) we demonstrate how the
+change. Below in [Fig. 2](#attachment_995) we demonstrate how the
 aforementioned observables change with changing model parameter \\\( \frac{\Delta E}{k T} \\\) (\\\(  \frac{\Delta \mathcal{H}}{k T} =\frac{\Delta E}{k T} J \sum\limits\_{\langle i , j \rangle} s\_js\_i  \\\)), which is actually inverse temperature measured as energy
 in terms of spin energy. As we see from the figure phase shift occurs in
 the interval \\\(  0.3 &lt; \left( \frac{\Delta E}{k T} \right)\_c&lt; 0.5  \\\).

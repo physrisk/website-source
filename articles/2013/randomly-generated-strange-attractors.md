@@ -80,7 +80,7 @@ Gallery of the random attractors
 Interactive model
 -----------------
 
-Bellow you should be able to fined small applet, which enables
+Below you should be able to fined small applet, which enables
 generation of random strange attractors (using the method discussed
 above). In this applet we have implemented some filters, which remove
 the trivial attractors, though note that the algorithm behind the filter

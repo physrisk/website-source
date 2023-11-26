@@ -13,7 +13,7 @@ example the tendency to willingness to save money for the future may be
 dependent on if our mother-tongue is futureless or not (do we say "It
 rain tomorrow" or "It will rain tomorrow"? e.g., German may be seen as a
 futureless language, while Lithuanian and English have strongly
-differing future tense). Bellow you will find two videos - [one made by
+differing future tense). Below you will find two videos - [one made by
 eBay Deals](https://www.youtube.com/watch?v=S3G51gDHTXE), which provides
 a broad outlook, and [another recorded by
 TED](https://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money.html "Video on ted.com"),

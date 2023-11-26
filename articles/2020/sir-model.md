@@ -105,7 +105,7 @@ time).
 
 ## Interactive app
 
-Feel free to explore basic SIR model using the interactive application bellow.
+Feel free to explore basic SIR model using the interactive application below.
 This app implements discrete (agent-based) SIR model. It assumes that there are
 \\\( 1000 \\\) agents in the system of which \\\( 1 \\\) is infected at the
 start of the simulation.

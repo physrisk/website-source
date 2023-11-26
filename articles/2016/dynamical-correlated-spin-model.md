@@ -38,7 +38,7 @@ of domains needs to be conserved. Thus if due to the movement of
 boundaries any single domain would disappear, then the movement is
 canceled.
 
-Bellow you should see an interactive app, which may be used to test this
+Below you should see an interactive app, which may be used to test this
 model. Namely, observe that for even \\\(  d \\\) the dynamical model
 generates a q-Gaussian PDF of total spin. For odd \\\(  d \\\) small
 deviation (to the right side) from the q-Gaussian PDF will be observed.

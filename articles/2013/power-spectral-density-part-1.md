@@ -68,7 +68,7 @@ periodic signals.
 Spectral density of the deterministic periodic signals
 ------------------------------------------------------
 
-Bellow you should see an interactive program, which plots the
+Below you should see an interactive program, which plots the
 \\\(  f(x) = \sin(2 \pi x) + A \sin(2 \pi \nu x + \phi) \\\) in
 time (the top figure) and frequency (the bottom figure) domains. Take a
 note how the position of the peaks changes then you change the \\\( \nu \\\),
