@@ -11,12 +11,14 @@ debate between economists who prefer historical retrospective and
 economists who prefer mathematical modeling. Interestingly enough both
 sides of the debate agreed that neoclassical economic theory doesn't
 work well. But the answer why and its implications differ. Below you
-should see a youtube video with the recording of the debate. We invite
+should see a YouTube video with the recording of the debate. We invite
 you to listen.
 
 [youtube v="6rXBBqMmIP8"]
 
-<!--more-->The discussion might be summarized as follows. "Historians"
+<!--more-->
+
+The discussion might be summarized as follows. "Historians"
 are highly convinced that neoclassical economic theory has failed due to
 its intimate relationship with math and lack of historical insights.
 Neoclassical economists obtain nice mathematical equations, but fail to

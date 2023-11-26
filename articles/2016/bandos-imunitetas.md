@@ -41,48 +41,40 @@ below)), infected agent might become healthy again, \\\(  p\_{ih} \\\),
 or die, \\\(  p\_{id} \\\).
 
 ![Simplified scheme of the
-model](/uploads/2016/herd-im-model-scheme.png "
-Simplified scheme of the model"){#attachment_2899} 
+model]({static}/uploads/2016/herd-im-model-scheme.png "Simplified scheme of
+the model"){#attachment_2899} 
 
 During each time tick (we assume that it is fixed and equal to 1) each
 agent interacts with 4 of his nearest neighbors. Thus each of his
 infected neighbors might infect him. Let us assume that \\\( n\_{j,i} \\\) of agents \\\(  j \\\) neighbors are infected. Then the
 probability that agent will not get infected from any of them equals:
 
-
 \begin{equation}
  p\_{j,hh} = (1-p\_{hi})^{n\_{j,i}} . 
 \end{equation}
 
-
 Probability of the opposite event, that agent will get infected, is
 given by:
-
 
 \begin{equation}
  {\tilde p}\_{j,hi} = 1 - p\_{j,hh} = 1 -(1-p\_{hi})^{n\_{j,i}} . 
 \end{equation}
 
-
 Lets say that \\\(  p\_{im} \\\) describes the probability of avoiding
 infection due to natural immunity. Then the probability to become
 infected has the following form:
-
 
 \begin{equation}
  p\_{j,hi} = (1 - p\_{im}) {\tilde p}\_{j,hi} = (1 - p\_{im}) \[1 - (1-p\_{hi})^{n\_{j,i}} \] . 
 \end{equation}
 
-
 Vaccinated agents are further protected. Let us say that \\\( p\_{eff} \\\) describes the probability of avoiding infection due to
 vaccination. Then the probability to become infected has the following
 form:
 
-
 \begin{equation}
  p\_{j,v,hi} = (1-p\_{eff}) p\_{j,hi} = (1-p\_{eff}) (1 -p\_{im}) \[1 - (1-p\_{hi})^{n\_{j,i}}\] . 
 \end{equation}
-
 
 From the comparison between \\\(  p\_{j,hi} \\\) and \\\( p\_{j,v,hi} \\\) should evident that \\\(  p\_{j,hi} \geq p\_{j,v,hi} \\\)
 (the probability of getting infected is larger for the unvaccinated
@@ -98,11 +90,9 @@ Each infected agent, during each time tick, might become healthy again
 or die. These probabilities were already discussed above, but then
 setting their values it is important to satisfy the following condition:
 
-
 \begin{equation}
  p\_{ih} + p\_{id} \leq 1 . 
 \end{equation}
-
 
 The modeling might be further complicated by introducing the impact of
 immunity and vaccination (or drugs) to the probability to get healthy or
@@ -143,11 +133,9 @@ agent populations. We consider it only because anti-vaxxers like to use
 one similar to it. They like to estimate the fraction of vaccinated
 agents among dead agents:
 
-
 \begin{equation}
  \frac{N\_{dead,vac}}{N\_{dead}} =\frac{N\_{dead}-N\_{dead,unv}}{N\_{dead}} = 1 -\frac{N\_{dead,unv}}{N\_{dead}}. 
 \end{equation}
-
 
 Anti-vaxxers prefer this variable due to a very simple reason. It is
 extremely easy to find cases, which would imply the conclusion, which
@@ -165,21 +153,19 @@ be vaccinated. So far the narration implies that it is dangerous to get
 vaccinated. But let us see how many lives will be taken if vaccination
 rates are low!
 
-![If
-vaccination rates are high, then you may obtain cases were majority of
+![If vaccination rates are high, then you may obtain cases were majority of
 victims will be among vaccinated
-agents.](/uploads/2016/herd-im-case-1.png "
-If vaccination rates are high, then you may obtain cases were majority
-of victims will be among vaccinated agents. If vaccination rates are
-low, everybody dies."){#attachment_2896} 
+agents.]({static}/uploads/2016/herd-im-case-1.png "If vaccination rates are
+high, then you may obtain cases were majority of victims will be among
+vaccinated agents. If vaccination rates are low, everybody
+dies."){#attachment_2896} 
 
-![If
-vaccination rates are high, then you may also obtain cases were majority
-of victims will be among unvaccinated
-agents.](/uploads/2016/herd-im-case-2.png "
-If vaccination rates are high, then you may also obtain cases were
-majority of victims will be among unvaccinated agents. If vaccination
-rates are low, everybody dies."){#attachment_2897} 
+![If vaccination rates are high, then you may also obtain cases were
+majority of victims will be among unvaccinated
+agents.]({static}/uploads/2016/herd-im-case-2.png "If vaccination rates are
+high, then you may also obtain cases were majority of victims will be among
+unvaccinated agents. If vaccination rates are low, everybody
+dies."){#attachment_2897} 
 
 The important figure is the total number of victims and not the ratios
 between the vaccinated and unvaccinated victims. High vaccination rates

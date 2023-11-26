@@ -7,9 +7,9 @@ Status: published
 
 Mike Rugnetta and the
 team behind the PBS Idea Channel each week tackle an interesting idea or
-question related to the contemperary life. We share their video in which
+question related to the contemporary life. We share their video in which
 they tackle a question intimately related to the themes covered in
 Physics of Risk blog - how to control social systems (see [related
-post](/a-kononovicius-i-kazakevicius-valdomu-agentu-itaka-kirmano-modelio-dinamikai)).
+post]({filename}/articles/2013/a-kononovicius-i-kazakevicius-valdomu-agentu-itaka-kirmano-modelio-dinamikai.md)).
 
 [youtube v="F7SzwMJ3MZQ"]

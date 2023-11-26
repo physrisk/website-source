@@ -37,37 +37,28 @@ financial markets. In this game, based on recent history agents make
 their choice based on their best performing strategy. In Figures below
 you can see the typical decision making during each "evening."
 
-![Fig
-1: Agent wants to make a choice: go home or visit the
-bar.](/uploads/2016/minority-game-1.png "Agent
-wants to make a choice: go home or visit the
-bar."){#attachment_2914} 
+![Fig 1: Agent wants to make a choice: go home or visit the
+bar.]({static}/uploads/2016/minority-game-1.png "Agent wants to make a
+choice: go home or visit the bar."){#attachment_2914} 
 
-![Fig
-2: Agent checks his set of strategies and chooses the best
-one.](/uploads/2016/minority-game-2.png "Agent
-checks his set of strategies and chooses the best
-one."){#attachment_2915} 
+![Fig 2: Agent checks his set of strategies and chooses the best
+one.]({static}/uploads/2016/minority-game-2.png "Agent checks his set of
+strategies and chooses the best one."){#attachment_2915} 
 
-![Fig
-3: Agent looks up recent history (three evenings in this figure) and
+![Fig 3: Agent looks up recent history (three evenings in this figure) and
 checks it against his strategy (here represented as
-vector).](/uploads/2016/minority-game-3.png "Agent
-looks up recent history (three evenings in this figure) and
-checks it against his strategy (here represented as vector)."){#attachment_2916} 
+vector).]({static}/uploads/2016/minority-game-3.png "Agent looks up recent
+history (three evenings in this figure) and checks it against his strategy
+(here represented as vector)."){#attachment_2916} 
 
-![Fig
-4: Agent makes a
-choice.](/uploads/2016/minority-game-4.png "Agent
-makes a choice."){#attachment_2917} 
+![Fig 4: Agent makes a choice.]({static}/uploads/2016/minority-game-4.png
+"Agent makes a choice."){#attachment_2917} 
 
-![Fig
-5: Agents evaluates his choice. Strategies, which would predict
+![Fig 5: Agents evaluates his choice. Strategies, which would predict
 correctly gain points, while ones that predicted incorrectly - lose
-points.](/uploads/2016/minority-game-5.png "Agents
-evaluates his choice. Strategies, which would predict
-correctly gain points, while ones that predicted incorrectly - lose
-points."){#attachment_2918} 
+points.]({static}/uploads/2016/minority-game-5.png "Agents evaluates his
+choice. Strategies, which would predict correctly gain points, while ones
+that predicted incorrectly - lose points."){#attachment_2918} 
 
 Now you should be able to understand how agents think. Thus we invite
 you to beat them! As their number is finite (100), their memory (as well

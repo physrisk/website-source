@@ -25,7 +25,7 @@ in the long run, the profitability of the lottery should increase.
 
 Watch [Extra Credits video](https://www.youtube.com/watch?v=pVKTiXdCDyQ)
 or read
-[Wired](http://www.wired.com/2016/01/the-fascinating-math-behind-why-you-wont-win-powerball/)
+[Wired](https://www.wired.com/2016/01/the-fascinating-math-behind-why-you-wont-win-powerball/)
 for more information.
 
 [youtube v="pVKTiXdCDyQ"]

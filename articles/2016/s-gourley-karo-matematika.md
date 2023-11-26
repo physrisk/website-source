@@ -8,6 +8,6 @@ Status: published
 Sean Gourley TED talk on general
 mathematical laws of war and the possibility to model armed conflicts.
 
-\[iframe
-src="//embed-ssl.ted.com/talks/sean\_gourley\_on\_the\_mathematics\_of\_war.html"
-width="560" height="315"\]
+[iframe
+src="https://embed.ted.com/talks/sean\_gourley\_on\_the\_mathematics\_of\_war.html"
+width="560" height="315"]

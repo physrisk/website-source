@@ -8,7 +8,7 @@ Status: published
 In 1973 two British scientists
 proposed an elementary model of spatial conflict between two distinct
 species \[cite id="Clifford1973"\]. The results of this model were
-heavily dependent on the dimesionality of the topology on which
+heavily dependent on the dimensionality of the topology on which
 modeling occurred, which was rather interesting phenomenon at that
 time. In contemporary science this model is rather popular, thought now
 it is known as the voter model. This text discusses the simplest version
