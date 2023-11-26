@@ -13,7 +13,7 @@ to look at. This time lets take into account letter I (which stands for
 "integrated") - lets look at ARIMA models. 
 <!--more-->
 
-Although in [the earlier posts](/tag/arfima-series) we have seen that
+Although in [the earlier posts](/tag/arfima-series/) we have seen that
 ARMA(p, q) models can produce non-stationary time series, fitting these
 models to non-stationary data is quite problematic. Therefore in practice
 ARMA(p, q) models are used to study and forecast only stationary time
@@ -21,8 +21,8 @@ series [cite id="Holmes2021ATSA"].
 
 [In an earlier post]({filename}/articles/2021/random-walk-as-ar-process.md)
 we have used differencing technique to transform non-stationary [random
-walk](/tag/brownian-motion) into uncorrelated stationary time series ([white
-noise](/tag/white-noise)). Not surprisingly differencing is also behind
+walk](/tag/brownian-motion/) into uncorrelated stationary time series ([white
+noise](/tag/white-noise/)). Not surprisingly differencing is also behind
 ARIMA models.
 
 In ARIMA(p, d, q) models ARMA(p, q) is used to forecast not the time series
@@ -55,7 +55,7 @@ given parameter values.
 url="/uploads/models/arma/arima2d2.html"]
 
 For example, notice that ARIMA(1, 0, 0) and ARIMA(0, 1, 0) both model
-[random walk](/tag/brownian-motion). ARIMA(1, 0, 0) is equivalent to AR(1)
+[random walk](/tag/brownian-motion/). ARIMA(1, 0, 0) is equivalent to AR(1)
 and we have already [seen that it models random
 walk]({filename}/articles/2021/random-walk-as-ar-process.md). For ARIMA(0, 1, 0)
 we understand that ARMA(0, 0) is used to model the first differences of
@@ -70,4 +70,4 @@ we understand that ARMA(0, 0) is used to model the first differences of
 \end{equation}
 
 In the above we see just a sum (integral) of white noise, \\\( \xi\_t \\\),
-which actually is the definition of [random walk](/tag/brownian-motion).
+which actually is the definition of [random walk](/tag/brownian-motion/).

@@ -6,7 +6,7 @@ Slug: compartmental-voter-model-and-uk-census-data
 Status: published
 Image_url: uploads/2020/cvm-london.png
 
-We are concluding the [ongoing series of posts](/tag/compartmental-voter-model)
+We are concluding the [ongoing series of posts](/tag/compartmental-voter-model/)
 on the compartmental voter model. As in [cite id="Kononovicius2019Comp"] we
 will conclude with comparing the model against
 [UK census data]({filename}/articles/2020/rank-size-distribution-and-uk-census-2011-data.md).

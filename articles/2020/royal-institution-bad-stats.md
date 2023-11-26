@@ -6,9 +6,9 @@ Slug: j-rogers-how-not-to-fall-for-bad-statistics
 Status: published
 
 Most people hate math and (I would like to claim that) they hate
-[statistics](/tag/statistics) even more, because statistics are often harder
+[statistics](/tag/statistics/) even more, because statistics are often harder
 to understand than everyday geometry, compound interest or any other everyday
-math problem. Yet understanding [statistics](/tag/statistics) is vitally
+math problem. Yet understanding [statistics](/tag/statistics/) is vitally
 important for many everyday decisions. While we can't fix the larger problem in
 just one post, we can suggest an interesting talk by Jennifer Rogers given at
 the [Royal Institution](/tag/the-royal-institution/) about statistical lies

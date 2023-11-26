@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2023/forest-fire-model.png
 
 One of the classic [agent-based](/tag/agent-based-models/) and [cellular
-automata](/tag/cellular-automata) models is so-called forest fire model. It
+automata](/tag/cellular-automata/) models is so-called forest fire model. It
 is an excellent example of a modeling problem which could, in theory, be
 solved using standard mathematical modeling tools (such as, partial
 differential equations), but it would be extremely hard. On the other hand
@@ -21,7 +21,7 @@ There are couple somewhat different variations of the model, but they all
 share the same core mechanism: fire spreads to nearby trees, and they spread
 the fire to their unburnt neighbors. The original rules of the model were
 defined in [cite id="Drossel1992PRL"]. And the original model was intended
-as a [self-organized criticality](/tag/self-organized-criticality) model
+as a [self-organized criticality](/tag/self-organized-criticality/) model
 along the lines of the [sandpile
 model]({filename}/articles/2015/smelio-kruvos-modelis.md). So, there could
 be multiple fires burning at the same time, while the trees were also

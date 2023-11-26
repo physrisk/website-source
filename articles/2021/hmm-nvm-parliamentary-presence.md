@@ -12,7 +12,7 @@ Brazilian and Lithuanian parliaments exhibits anomalous diffusion. Actually
 we have analyzed Lithuanian data [cite id="Kononovicius2020JStat"], while
 Brazilian data was considered by Vieira and others [cite id="Vieira2019PRE"].
 Also in a [follow up post]({filename}/articles/2021/nvm-parliamentary-presence.md)
-we have shown that a noisy [voter model](/tag/voter-model) is able to reproduce
+we have shown that a noisy [voter model](/tag/voter-model/) is able to reproduce
 ballistic regime and normal diffusion when we consider individual agent
 trajectories. Now let us extend the model to account for sub-linear diffusion
 of parliamentary attendance.<!--more-->

@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2019/many-state-herd-model.png
 
 Let us close this year with a model proposed by us and which is based on the
-[Kirman model](/tag/kirman-model). The main difference from the
+[Kirman model](/tag/kirman-model/). The main difference from the
 [original model]({filename}/articles/2010/kirman-ants.md) is that here we have
 multiple state dynamics. Yet unlike in our three state approach to the financial
 markets (see the initial post [here]({filename}/articles/2011/three-group-kirman-agent-based-model-for-financial-markets.md)

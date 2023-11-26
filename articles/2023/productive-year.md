@@ -9,9 +9,9 @@ Image_url: uploads/2023/rf-posts.png
 Well, at least it was as productive on Physics of Risk blog. Though with
 less focus with quite a few assorted posts. In a few a bit longer series of
 posts we have taken a look at three papers I have found interesting. [cite
-id="Krapivsky2020JStat"] inspired few posts on [traffic](/tag/traffic).
+id="Krapivsky2020JStat"] inspired few posts on [traffic](/tag/traffic/).
 [cite id="Krapivsky2022Birds"] inspired couple posts on
-[biology](/tag/biology). Exploration of [cite id="Olmeda2022Dating"]
+[biology](/tag/biology/). Exploration of [cite id="Olmeda2022Dating"]
 continues in series of posts on [dating apps](/tag/dating-apps-series/).
 
 ![Number of posts written in English and still available on this site]({static}/uploads/2023/rf-posts.png "The

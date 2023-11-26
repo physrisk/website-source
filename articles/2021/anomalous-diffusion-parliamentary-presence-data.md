@@ -11,7 +11,7 @@ While my [postdoctoral project](/tag/postdoctoral-project/) has already finished
 I want to discuss here on Physics of Risk. This time let me take an empirical
 perspective, let me consider parliamentary presence data. Why this data could be
 interesting to us? Because, it was shown that parliamentary presence in the
-Brazilian parliament does exhibit [anomalous diffusion](/tag/anomalous-diffusion)
+Brazilian parliament does exhibit [anomalous diffusion](/tag/anomalous-diffusion/)
 [cite id="Vieira2019PRE"]. And it seems that Lithuanian Seimas does too
 [cite id="Kononovicius2020JStat"].<!--more-->
 
@@ -57,7 +57,7 @@ Now let us study the cumulative presence data during selected legislature:
 x^{(i)}\_{t+1} = x^{(i)}\_{t} + \eta^{(i)}\_{t+1} .
 \end{equation}
 
-As in previous posts on [anomalous diffusion](/tag/anomalous-diffusion) we will
+As in previous posts on [anomalous diffusion](/tag/anomalous-diffusion/) we will
 consider [mean]({filename}/articles/2020/anomalous-diffusion.md) and
 [standard deviation]({filename}/articles/2020/anomalous-diffusion-std.md) of
 \\\( x^{(i)}\_t \\\) series. Note that in this case our ensemble will consist

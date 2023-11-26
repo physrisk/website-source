@@ -6,7 +6,7 @@ Slug: arfima-model
 Image_url: uploads/2021/arfima-model.png
 Status: published
 
-[Slowly but surely](/tag/arfima-series) we have finally reached ARFIMA
+[Slowly but surely](/tag/arfima-series/) we have finally reached ARFIMA
 model! Taking such small step (adding letter F to the acronym) took a lot of
 effort, but it was worth it. Why? Well, this exercise has allowed me to get
 a glimpse at fractional calculus and develop some intuition with this tool.
@@ -15,8 +15,8 @@ a glimpse at fractional calculus and develop some intuition with this tool.
 ARFIMA(0, d, 0) is also one of the ways to generate fractional Gaussian
 noise (abbr. fGn). It is fractional derivative of order \\\( d \\\) of the
 ordinary Gaussian white noise. fGn is important in our field as the integral
-of fGn is fractional [Brownian motion](/tag/brownian-motion) (abbr. fBm) one
-of the [stochastic processes](/tag/stochastic-models), which encodes true
+of fGn is fractional [Brownian motion](/tag/brownian-motion/) (abbr. fBm) one
+of the [stochastic processes](/tag/stochastic-models/), which encodes true
 long range memory.  Relationship between [Hurst
 index]({filename}/articles/2011/multifractality-time-series.md) of the
 generated fGn is given by:

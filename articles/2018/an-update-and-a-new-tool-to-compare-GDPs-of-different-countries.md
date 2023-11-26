@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/models/data-driven-apps/gdp-comparison/gdp-comparison-ppp.jpg
 
 Over the years we have written multiple posts about the
-[economic convergence](/tag/economic-convergence) phenomenon. We have also
+[economic convergence](/tag/economic-convergence/) phenomenon. We have also
 provided a couple of interesting apps, which could be used to study the real
 world data. Recently we have updated one of them with new data from World Bank
 (see [this post]({filename}/articles/2013/the-phenomenon-of-economic-growth-of-baltic-states.md)

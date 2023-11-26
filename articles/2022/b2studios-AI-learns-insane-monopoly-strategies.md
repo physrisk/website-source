@@ -7,7 +7,7 @@ Status: published
 
 [A year ago]({filename}/articles/2021/solving-monopoly.md) I have shared
 recording of my lecture in which I have used [Matlab](/tag/matlab/) and
-[Markov chains](/tag/markov-chains/) to solve [board game](/tag/board-games)
+[Markov chains](/tag/markov-chains/) to solve [board game](/tag/board-games/)
 Monopoly. The solution revolved around finding properties, which were
 visited most often.
 

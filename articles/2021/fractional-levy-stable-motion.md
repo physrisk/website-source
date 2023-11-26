@@ -7,15 +7,15 @@ Image_url: uploads/2021/fractional-levy-stable-motion.png
 Status: published
 
 [The last post]({filename}/articles/2021/arfima-model.md) in the [ARFIMA
-series](/tag/arfima-series) was not the last stop in understanding the model
+series](/tag/arfima-series/) was not the last stop in understanding the model
 we have studied in [cite id="Kazakevicius2021Entropy"]. In the paper we have
 looked at ARFIMA as a model for fractional Levy stable motion (abbr. FLSM),
-which is a generalization of [Brownian motion](/tag/brownian-motion) in two
+which is a generalization of [Brownian motion](/tag/brownian-motion/) in two
 regards: [fractionality]({filename}/articles/2021/fractional-derivatives.md)
 and noise distribution.
 <!--more-->
 
-Typical [Brownian motion](/tag/brownian-motion), whether fractional or not,
+Typical [Brownian motion](/tag/brownian-motion/), whether fractional or not,
 uses [normal
 distribution](https://en.wikipedia.org/wiki/Normal_distribution) to describe
 noise. FLSM uses \\\( \alpha \\\)-[stable
@@ -29,7 +29,7 @@ distribution](https://en.wikipedia.org/wiki/Stable_distribution) is
 equivalent to [normal
 distribution](https://en.wikipedia.org/wiki/Normal_distribution) and FLSM is
 equivalent to fBm.  Otherwise we will observe deviations from the usual
-shape of [Brownian motion](/tag/brownian-motion).  Note that
+shape of [Brownian motion](/tag/brownian-motion/).  Note that
 \\\( \alpha = 1 \\\) is also a special case. In this case the distribution
 corresponds to [Cauchy
 distribution](https://en.wikipedia.org/wiki/Cauchy_distribution).

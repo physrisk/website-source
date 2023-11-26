@@ -6,8 +6,8 @@ Slug: pacf-ar-models
 Image_url: uploads/2021/pacf-ar-models.png
 Status: published
 
-In [the last few posts](/tag/arfima-series) we have seen that [random
-walk](/tag/brownian-motion) can be written in [recursive
+In [the last few posts](/tag/arfima-series/) we have seen that [random
+walk](/tag/brownian-motion/) can be written in [recursive
 form]({filename}/articles/2021/random-walk-as-ar-process.md), which suggests
 that random walk is AR(1) process. We have also became familiar with the
 [partial auto-correlation

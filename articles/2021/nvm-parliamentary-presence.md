@@ -10,7 +10,7 @@ In a [previous post]({filename}/articles/2021/anomalous-diffusion-parliamentary-
 Brazilian and Lithuanian parliaments exhibits anomalous diffusion. Actually
 we have analyzed Lithuanian data [cite id="Kononovicius2020JStat"], while
 Brazilian data was considered by Vieira and others [cite id="Vieira2019PRE"].
-This time let me constructed a [voter model](/tag/voter-model) to replicate
+This time let me constructed a [voter model](/tag/voter-model/) to replicate
 the observations.<!--more-->
 
 ## The model
@@ -19,7 +19,7 @@ Let us assume that binary states in the voter model represent willingness to
 attend. Let state \\\( 1 \\\) indicate willingness to attend, while state
 \\\( 0 \\\) indicate willingness to skip. Let the agents rethink their
 willingness after each daily session. Let the transitions between the states
-be described by a typical [voter model](/tag/voter-model) transition
+be described by a typical [voter model](/tag/voter-model/) transition
 probabilities:
 
 \begin{equation}

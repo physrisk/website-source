@@ -38,7 +38,7 @@ When the distribution parameter \\\( \mu \\\) gets small, and \\\( \sigma
 distribution will no longer work, and effective value of \\\( \mu_\text{eff}
 \\\) (the one measured during the experiment) will become notably different
 from the model parameter \\\( \mu \\\). Spikes in the [spectral
-density](/tag/spectral-density) might be observed close to \\\(
+density](/tag/spectral-density/) might be observed close to \\\(
 \frac{1}{\mu_\text{eff}} \\\), but this is unlikely, because with
 comparatively larger values of \\\( \sigma \\\) the power will leak to
 nearby frequencies. Namely, the spikes will become harder and harder to

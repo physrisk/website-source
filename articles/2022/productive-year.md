@@ -7,14 +7,14 @@ Status: published
 Image_url: uploads/2022/rf-posts.png
 
 We have started the year by finishing the series of posts on the [anomalous
-diffusion](/tag/anomalous-diffusion) in voter model. The series featured one
-more recent endeavor with [Rytis Kazakevičius](/tag/r-kazakevicius) and one
+diffusion](/tag/anomalous-diffusion/) in voter model. The series featured one
+more recent endeavor with [Rytis Kazakevičius](/tag/r-kazakevicius/) and one
 "forgotten" paper written for my [postdoctoral
 project](/tag/postdoctoral-project/). We also went back to the topic of the
-[opinion dynamics](/tag/opinion-dynamics) and have talked about [supportive
-interactions](/tag/latane-social-impact-theory) and partisan voting. We
+[opinion dynamics](/tag/opinion-dynamics/) and have talked about [supportive
+interactions](/tag/latane-social-impact-theory/) and partisan voting. We
 have finished the year by exploring various time series models leading us up
-to [ARFIMA model](/tag/arfima-series).
+to [ARFIMA model](/tag/arfima-series/).
 
 All in all, Physics Risk had 33 posts in 2021 (-8 posts in comparison to
 2021). 17 of the posts were filled under [interactive

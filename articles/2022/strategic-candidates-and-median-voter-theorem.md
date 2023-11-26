@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2022/strategic-candidates-polarized.png
 
 Usually in sociophysics we care about the social aspects of [opinion
-dynamics](/tag/opinion-dynamics) and ignoring grains of rationality present
+dynamics](/tag/opinion-dynamics/) and ignoring grains of rationality present
 in decision making. Though there are models, which do the opposite. Here in
 this post we will take a look at a model [cite id="Jones2021"] which
 considers rational voters and strategic candidates.
@@ -16,7 +16,7 @@ considers rational voters and strategic candidates.
 ## Model
 
 In this model, unlike in the many iterations of the [voter
-model](/tag/voter-model), voters are abstracted away - they are represented
+model](/tag/voter-model/), voters are abstracted away - they are represented
 by a population density function (black curve in the figures and the app).
 The function is given by a sum of two bell shapes (PDFs of the normal
 distribution):
@@ -91,7 +91,7 @@ them.")
 Though for other parameter sets candidates will move closer towards the
 median voter. Such convergence is predicted by the [Hotelling
 law]({filename}/articles/2014/hotelling-law.md) and the [median voter
-theorem](/tag/median-voter-theorem). For example try: \\\( \alpha = 0.4 \\\),
+theorem](/tag/median-voter-theorem/). For example try: \\\( \alpha = 0.4 \\\),
 \\\( \sigma = 0.3 \\\), \\\( P = 2 \\\), \\\( Q = 30 \\\) and \\\( R = 1 \\\).
 
 ![In this case candidates converge towards the median

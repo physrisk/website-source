@@ -10,16 +10,16 @@ In the [previous post]({filename}/articles/2021/big-review.md) I have
 mentioned that in our review we have also presented a novel result, which we
 have analyzed ARFIMA process. Understanding ARFIMA process requires some
 specialized knowledge, which we will cover in this and [the next few
-posts](/tag/arfimas-series).
+posts](/tag/arfimas-series/).
 
 In this post we will take a well-known physical model, [random
-walk](/tag/brownian-motion), and try
+walk](/tag/brownian-motion/), and try
 to understand it in the context of economical model, AR(p) process.
 <!--more-->
 
 ## White noise
 
-A key component to the [random walk](/tag/brownian-motion) is white noise. It is a type of noise,
+A key component to the [random walk](/tag/brownian-motion/) is white noise. It is a type of noise,
 which is simply a collection of independent random values (samples from some
 given distribution). As these values do not depend on the past samples
 or influence future samples, the white noise series is said to be
@@ -37,14 +37,14 @@ used ACF is close to zero for all lags except \\\( \tau = 0 \\\).
 url="/uploads/models/arma/white-noise.html"]
 
 Note that earlier we have examined [spectral
-density](/tag/spectral-density) of the white noise process (see [this
+density](/tag/spectral-density/) of the white noise process (see [this
 post]({filename}/articles/2013/power-spectral-density-part-2.md)). It is
 completely flat, which indicates that there are no periodic patterns in the
 white noise series.
 
 ## Random walk
 
-Mathematically [random walk](/tag/brownian-motion) is defined as a sum (or integral) of white noise:
+Mathematically [random walk](/tag/brownian-motion/) is defined as a sum (or integral) of white noise:
 
 \begin{equation}
     x\_t = \sum\_{i=1}^{t} \xi\_i .

@@ -6,7 +6,7 @@ Slug: total-population-dynamics-in-the-compartmental-voter-model
 Status: published
 Image_url: uploads/2020/cvm-pops.png
 
-Today we continue our [series of posts](/tag/compartmental-voter-model) on
+Today we continue our [series of posts](/tag/compartmental-voter-model/) on
 compartmental voter model. Recently I had another idea how to examine the
 impact of the finite capacity on the
 [compartmental voter model]({filename}/articles/2020/compartmental-voter-model.md)
