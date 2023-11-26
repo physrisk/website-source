@@ -13,9 +13,9 @@ deviations, which occur more frequently than the aforementioned "rare
 events", may be amplified in a way to cause a catastrophe. The financial
 markets are on of such systems - they are intrinsically highly complex.
 The article developing these ideas was published on
-[ekonomika.lt](http://www.ekonomika.lt/naujiena/finansu-pasaulis-pernelyg-sudetingas-kad-veiktu-sklandziai-43427.html),
+[ekonomika.lt](https://www.ekonomika.lt/naujiena/finansu-pasaulis-pernelyg-sudetingas-kad-veiktu-sklandziai-43427.html),
 thus we would like to suggest reading it (though note that the article
 is written in Lithuanian).
 
 [Read the article on ekonomika.lt
-»](http://www.ekonomika.lt/naujiena/finansu-pasaulis-pernelyg-sudetingas-kad-veiktu-sklandziai-43427.html)
+»](https://www.ekonomika.lt/naujiena/finansu-pasaulis-pernelyg-sudetingas-kad-veiktu-sklandziai-43427.html)

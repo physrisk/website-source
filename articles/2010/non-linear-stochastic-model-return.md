@@ -9,7 +9,7 @@ Vygintas Gontis, Julius Ruseckas and Aleksejus
 Kononovicius (2010). A Non-Linear Double Stochastic Model of Return in
 Financial Markets, Stochastic Control, Chris Myers (Ed.), ISBN:
 978-953-307-121-3, Sciyo, Available from:
-<http://www.intechopen.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets>
+<https://www.intechopen.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets>
 – the latest review of research, done in the recent years, by
 scientists from Institute of Theoretical Physics and Astronomy, Vilnius
 University.
@@ -23,7 +23,7 @@ invited to share our results with scientific community through the book
 named *Stochastic Control*. In 2010 this book was published by open
 access publisher sciyo.com, who has made electronic version of this book
 freely available at
-[http://www.intechopen.com](http://www.intechopen.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets "Stochastic Control").
+[https://www.intechopen.com](https://www.intechopen.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets "Stochastic Control").
 
 Next we briefly discuss our research and the scientific context, thus
 if you want to familiarize yourself more with our research you should
@@ -73,7 +73,7 @@ brief and simplified review of our work, thus we will not refer to any
 specific scientific papers, as you can find all of the references, to
 our articles and related articles by other authors, in our chapter of
 freely available book *Stochastic Control*
-(<http://sciyo.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets>).
+(<https://sciyo.com/articles/show/title/a-non-linear-double-stochastic-model-of-return-in-financial-markets>).
 
 Processes, whose dynamics are heavily dependent on the stochastic
 influence of different kinds (ex., internal or external noise),

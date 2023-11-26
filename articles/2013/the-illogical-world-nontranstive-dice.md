@@ -32,8 +32,7 @@ mirror values shown on the walls, which are seen). Which of the dice is
 a better one? Which one will roll higher values than the other two?
 
 ![Nontransitive dice]({static}/uploads/2013/non-transitive-dice.png "
-Nontransitive dice. Image taken from
-http://en.wikipedia.org/wiki/File:Intransitive_dice_2.svg."){#attachment_2490} 
+Nontransitive dice. Image taken from Wikipedia"){#attachment_2490} 
 
 The answer should be evident - the red one will beat the green one with
 the probability of 5/9, the green one will be better than blue one with

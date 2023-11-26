@@ -12,6 +12,6 @@ the Urinal" out of pure general interest. Yet after finishing watching
 it I thought that it should prove to be very interesting in a context of
 Physics of Risk. Thus I would like to encourage you to watch it on the
 Discovery Science channel (as far as I know it is being shown again from
-time to time) or on the [vimeo.com website](http://vimeo.com/2266845).
+time to time) or on the [vimeo.com website](https://vimeo.com/2266845).
 
 [vimeo v="2266845"]

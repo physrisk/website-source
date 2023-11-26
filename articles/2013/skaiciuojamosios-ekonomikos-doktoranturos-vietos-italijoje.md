@@ -28,13 +28,13 @@ statistics.<!--more-->
 Rules and application form (deadline for application is September 20th):
 ------------------------------------------------------------------------
 
-<http://www.studenti.unige.it/postlaurea/dottorati/XXIX/bandoGeneraleEN>
+<https://www.studenti.unige.it/postlaurea/dottorati/XXIX/bandoGeneraleEN>
 (English)
 
-<http://www.studenti.unige.it/postlaurea/dottorati/XXIX> (Italian)
+<https://www.studenti.unige.it/postlaurea/dottorati/XXIX> (Italian)
 
 (in particular see the Curriculum on Economy and Management, at pag. 36
 of Annex A)
 
 Interested candidates may contact well in advance Dr. Marco RABERTO (
-<http://ideas.repec.org/e/pra66.html> ) for further information.
+<https://ideas.repec.org/e/pra66.html> ) for further information.
