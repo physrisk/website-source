@@ -31,7 +31,7 @@ there are no gaps, then you'll have to backtrack.
 * **Optimistic**. Go all the way to the end (destination) and then backtrack
 until you find available spot.
 
-These parking strategies are illustrated in the figure bellow. The figure
+These parking strategies are illustrated in the figure below. The figure
 and the respective caption was copied from the original article [cite
 id="Krapivsky2019JStat"].
 

@@ -116,7 +116,7 @@ networks \[cite id="Albert2002RevModPhys"\].
 Interactive HTML5 applet
 ------------------------
 
-Bellow you should find a HTML5 applet, which allows you to generate the
+Below you should find a HTML5 applet, which allows you to generate the
 scale-free networks (with different \\\(  \alpha \\\)). By using left
 mouse click you should be able to pan the figure, while using the mouse
 wheel you can zoom in and out of the figure. The network can be

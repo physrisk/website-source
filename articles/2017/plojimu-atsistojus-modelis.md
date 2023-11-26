@@ -79,7 +79,7 @@ uncomfortable (black curve is at 0).")
 Interactive HTML5 applet
 ------------------------
 
-Bellow you should see an interactive HTML5 app, which uses the algorithm
+Below you should see an interactive HTML5 app, which uses the algorithm
 described above. Model parameters and curves shown in the figure were
 discussed in the text. Try different parameter values for yourself to
 understand their importance to the observed dynamics of the model.

@@ -28,7 +28,7 @@ like their neighborhood or not. Agents like their neighborhood based on
 the similarity of types of their neighbors. If they do not like it, they
 try to move to other empty cells.
 
-Bellow you will find a HTML5 app in which agents may be of two types -
+Below you will find a HTML5 app in which agents may be of two types -
 reds and blues. Initially, while populating the grid with agents, two
 parameters are important - probability that cell might be empty, \\\( p\_e \\\), and probability that non-empty cell contains red agent, \\\( p\_r \\\). After going through all cells and forming initial configuration,
 random agents are picked one at a time. The agent counts number of his

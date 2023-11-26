@@ -90,7 +90,7 @@ diffusion model.
 Comparison of models
 --------------------
 
-Bellow, in [Fig. 1](#attachment_1747), you can see that agreement
+Below, in [Fig. 1](#attachment_1747), you can see that agreement
 between Kirman's and Bass diffusion models improve with larger \\\( N \\\) and \\\(  \Delta t \\\) (here it is time series discretization
 step). With lower values of these parameters agreement is worse, as Bass
 diffusion model describe mean, while unidirectional Kirman's model

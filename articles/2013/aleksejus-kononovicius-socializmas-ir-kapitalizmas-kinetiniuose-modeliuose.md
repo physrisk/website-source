@@ -85,7 +85,7 @@ is evenly redistributed among all particles:
  w\_n(t+1) = w\_n(t) + \frac{2 w\_0}{N} , \quad \forall n .
 \end{equation}
 
-Bellow you can find HTML5 applet, which illustrates that socialism, as
+Below you can find HTML5 applet, which illustrates that socialism, as
 defined, does not have any noticeable impact on the stationary
 distribution. The Boltzmann-Gibbs distribution is still obtained. Though
 it is worthwhile to note that ideally "lazy", avoiding interaction,

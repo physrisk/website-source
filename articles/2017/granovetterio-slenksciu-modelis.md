@@ -96,7 +96,7 @@ random agent is selected:
 
 The model is not spatial, thus the grid on left is just for the
 illustrative purpose. On the right side you should see a plot, which
-shows how the number of protesting agents evolves in time. Bellow the
+shows how the number of protesting agents evolves in time. Below the
 two figures you should see previous "history," which contains groups
 agents of which have recently joined the protest.
 

@@ -49,7 +49,7 @@ of the social networks due to the connections of their friends.
 Interactive HTML5 applet
 ------------------------
 
-Bellow you can find a HTML 5 applet, which illustrates how the small
+Below you can find a HTML 5 applet, which illustrates how the small
 world networks can be generated. In the applet you can select a number
 of nodes in the network, \\\(  N \\\), and a probability to create a
 random edge, \\\(  p \\\). Using mouse wheel you can zoom in and out of

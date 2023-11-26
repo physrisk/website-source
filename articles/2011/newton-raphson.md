@@ -92,7 +92,7 @@ is the only real root and convergence towards it is very slow.
 
 ![z7+15z4+3]({static}/uploads/2011/newton-fig2a.png)
 
-Bellow you can see the case then two different basins "interact" with
+Below you can see the case then two different basins "interact" with
 each other.
 
 ![basin interaction]({static}/uploads/2011/newton-fig2b.png)

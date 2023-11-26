@@ -14,7 +14,7 @@ the fairy tales. So we would be amused if we would see the black swan
 with our own eyes, yet if we would see the dragon king we would be
 completely shocked. In nature these kinds of event are extremely rare
 and improbable, while in the financial markets we see these kind of
-events frequently enough. Bellow you can find a talk by Didier Sornette
+events frequently enough. Below you can find a talk by Didier Sornette
 (taken from
 [ted.com](https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis.html),
 some of the related info is available from

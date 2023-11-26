@@ -20,7 +20,7 @@ model.<!--more-->
 Context of the three main random network models
 -----------------------------------------------
 
-Bellow you should see a contents of the slide featured in the
+Below you should see a contents of the slide featured in the
 presentation by A. L. Barabasi (full slides may be found here:
 <http://barabasilab.neu.edu/courses/phys5116/>). On this slide the three
 main network formation models

@@ -185,7 +185,7 @@ then the control is very limited.
 Interactive applet
 ------------------
 
-Bellow you should find an interactive Kirman's agent-based model applet,
+Below you should find an interactive Kirman's agent-based model applet,
 which incorporates the controlled agents. We would like to draw your
 attention to the fact that in this applet we allow both negative and
 positive values of \\\(  M \\\). The negative values just indicate that

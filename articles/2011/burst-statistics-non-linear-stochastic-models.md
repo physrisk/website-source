@@ -76,7 +76,7 @@ provides \\\(  S \propto T^2  \\\), \\\(  p(\tau) \sim\tau^{-1.5}  \\\), \\\(  p
 probability density function of certain variable. It was shown that
 these relations hold for \\\(  \eta \geq 1 \\\) case \[cite
 id="Kaulakys2009AIP"\] and are very similar, power law nature is
-retained, but powers themselves slightly differ, in \\\(  \eta &lt;1 \\\) case \[cite id="Alaburda2011JDySES"\]. Bellow, see [Fig.
+retained, but powers themselves slightly differ, in \\\(  \eta &lt;1 \\\) case \[cite id="Alaburda2011JDySES"\]. Below, see [Fig.
 2](#attachment_1881), we have shown typical results obtained by using
 interactive applet provided at [the end of this text](#applet).
 
