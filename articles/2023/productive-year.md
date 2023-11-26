@@ -14,7 +14,7 @@ id="Krapivsky2020JStat"] inspired few posts on [traffic](/tag/traffic).
 [biology](/tag/biology). Exploration of [cite id="Olmeda2022Dating"]
 continues in series of posts on [dating apps](/tag/dating-apps-series/).
 
-![Number of posts written in English and still available on this site](/uploads/2023/rf-posts.png "The
+![Number of posts written in English and still available on this site]({static}/uploads/2023/rf-posts.png "The
 number of posts written in English and still available on this iteration of Physics
 of Risk. The wide bars represent total number of posts for each year since 2010,
 while the narrower bars represent a number of posts with 'Interactive models' tag.")

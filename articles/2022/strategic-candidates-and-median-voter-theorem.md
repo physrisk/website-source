@@ -84,7 +84,7 @@ parameters into the interactive app below: \\\( \alpha = 0.6 \\\),
 \\\).
 
 ![In this case candidates become more polarized than the society electing
-them.](/uploads/2022/strategic-candidates-polarized.png "In this case
+them.]({static}/uploads/2022/strategic-candidates-polarized.png "In this case
 candidates (vertical lines) become more polarized than the society electing
 them.")
 
@@ -95,14 +95,14 @@ theorem](/tag/median-voter-theorem). For example try: \\\( \alpha = 0.4 \\\),
 \\\( \sigma = 0.3 \\\), \\\( P = 2 \\\), \\\( Q = 30 \\\) and \\\( R = 1 \\\).
 
 ![In this case candidates converge towards the median
-opinion.](/uploads/2022/strategic-candidates-median.png "In this case
+opinion.]({static}/uploads/2022/strategic-candidates-median.png "In this case
 candidates (vertical lines) converge towards the median opinion.")
 
 In the intermediate phase candidates will be polarized, but less than the
 underlying society. This phase can be seen with the default parameters of
 the interactive app.
 
-![The optimal positioning of the candidates with the default parameter values. Candidates are polarized, but less than the society.](/uploads/2022/strategic-candidates-less-polarized.png "The optimal positioning of the candidates (vertical lines) with the default parameter values. Candidates are polarized, but less than the society.")
+![The optimal positioning of the candidates with the default parameter values. Candidates are polarized, but less than the society.]({static}/uploads/2022/strategic-candidates-less-polarized.png "The optimal positioning of the candidates (vertical lines) with the default parameter values. Candidates are polarized, but less than the society.")
 
 The authors of [cite id="Jones2021"] also took a look at empirical
 distributions of voters and it seems that in the US scenario optimal

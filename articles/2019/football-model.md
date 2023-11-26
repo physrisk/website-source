@@ -31,11 +31,11 @@ have written about [earlier]({filename}/articles/2019/hot-hand-fallacy.md).
 Interestingly unlike for the "hot hands" we clearly see that home teams gain
 noticeable advantage against their opponents.
 
-![Home advantage all teams](/uploads/2019/football-home-wins.png "Proprotions
+![Home advantage all teams]({static}/uploads/2019/football-home-wins.png "Proprotions
 of the games won, drawn and lost by the home teams during the English Premier
 League 2000/2001 season.")
 
-![Home advantage top 5 teams](/uploads/2019/football-home-wins-top.png "Proprotions
+![Home advantage top 5 teams]({static}/uploads/2019/football-home-wins-top.png "Proprotions
 of the games won, drawn and lost by the top 5 teams of the English Premier
 League 2000/2001 season playing home and away.")
 

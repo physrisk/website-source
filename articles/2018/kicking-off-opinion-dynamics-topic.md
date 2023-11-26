@@ -10,7 +10,7 @@ scope of Physics of Risk, but to a completely different subject still within our
 research interests. Namely, we will move on to cover some of the most well known
 or otherwise interesting models of the [opinion dynamics](/tag/opinion-dynamics).
 
-![elections (photo by Arnaud Jaegers on Unsplash)](/uploads/2018/arnaud-jaegers-253360-unsplash.jpg)
+![elections (photo by Arnaud Jaegers on Unsplash)]({static}/uploads/2018/arnaud-jaegers-253360-unsplash.jpg)
 
 Note that we have already covered a few [opinion dynamics](/tag/opinion-dynamics)
 models. Such as

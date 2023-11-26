@@ -25,7 +25,7 @@ obviously, meek strategy (dark gray cruve) is the best. In fact it performs
 even better when parking lot becomes filled.
 
 ![Performance of strategies when walking is cheaper than
-driving.](/uploads/2022/parking-random-W0.5.png "Performance of strategies
+driving.]({static}/uploads/2022/parking-random-W0.5.png "Performance of strategies
 when walking is cheaper than driving.")
 
 When walking becomes more costly (likely because it takes more time), then
@@ -35,7 +35,7 @@ than the meek strategy. Yet optimist strategy doesn't become best as soon as
 then 1/2 rule seems to perform slightly better.
 
 ![Performance of strategies when walking is slightly more costly than
-driving.](/uploads/2022/parking-random-W2.png "Performance of strategies
+driving.]({static}/uploads/2022/parking-random-W2.png "Performance of strategies
 when walking is slightly more costly than driving.")
 
 Though for \\\( W \gg D \\\) optimist strategy yields lowest cost. This is
@@ -43,7 +43,7 @@ natural as in this case walking is penalized a lot more than a little bit
 extra driving.
 
 ![Performance of strategies when walking is noticeably more costly than
-driving.](/uploads/2022/parking-random-W4.png "Performance of strategies
+driving.]({static}/uploads/2022/parking-random-W4.png "Performance of strategies
 when walking is noticeably more costly than driving.")
 
 ## Different popular strategies
@@ -53,22 +53,22 @@ drivers. For this particular case we will keep costs fixed at \\\( W=4 \\\)
 and \\\( D=1 \\\).
 
 ![If meek drivers dominate then optimist strategy works extremely
-well.](/uploads/2022/parking-random-meek.png "If meek drivers dominate then
+well.]({static}/uploads/2022/parking-random-meek.png "If meek drivers dominate then
 optimist strategy works extremely well.")
 
 ![If prudent drivers dominate then optimist strategy works reasonably well,
 1/2 rule drivers also do rather
-well.](/uploads/2022/parking-random-prudent.png "If prudent drivers dominate
+well.]({static}/uploads/2022/parking-random-prudent.png "If prudent drivers dominate
 then optimist strategy works reasonably well, 1/2 rule drivers also do
 rather well.")
 
 ![If optimist drivers dominate then all strategies perform similarly
-well.](/uploads/2022/parking-random-optimist.png "If optimist drivers
+well.]({static}/uploads/2022/parking-random-optimist.png "If optimist drivers
 dominate then all strategies perform similarly well.")
 
 ![If 1/2 rule followers dominate then all strategies perform similarly well,
 though optimists seem to do somewhat
-better.](/uploads/2022/parking-random-half.png "If 1/2 rule followers
+better.]({static}/uploads/2022/parking-random-half.png "If 1/2 rule followers
 dominate then all strategies perform similarly well, though optimists seem
 to do somewhat better.")
 

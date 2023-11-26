@@ -12,7 +12,7 @@ our best year since 2013 as we have published 39 posts and 15
 [interactive models](/tag/interactive-models/), while in 2013 we had 42 posts and 16
 [interactive models](/tag/interactive-models/).
 
-![Number of posts written in English and still available on this site](/uploads/2019/rf-posts.png "The
+![Number of posts written in English and still available on this site]({static}/uploads/2019/rf-posts.png "The
 number of posts written in English and still available on this iteration of Physics
 of Risk. The wide bars represent total number of posts for each year since 2010,
 while the narrower bars represent a number of posts with 'Interactive models' tag.")

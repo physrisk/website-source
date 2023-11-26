@@ -6,7 +6,7 @@ Slug: abm-tutorial-in-lithuanian
 Status: published
 Image_url: uploads/2023/abm-tutorial.jpg
 
-![first slide](/uploads/2023/abm-tutorial.jpg)
+![first slide]({static}/uploads/2023/abm-tutorial.jpg)
 
 Over the last few weeks I had an opportunity to give a tutorial on
 [agent-based modeling](/tag/agent-based-models/) in sociophysics. I have

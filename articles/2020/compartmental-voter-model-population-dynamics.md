@@ -27,9 +27,9 @@ If capacity would have no impact on the model dynamics, then both observables
 would have similar rank-size distributions and the curves would noticeably
 overlap.
 
-![We can see that the capacity does not have influence on the dynamics if it is infinite.](/uploads/2020/cvm-pops.png "We can see that capacity does not have influence on the dynamics if it is infinite.")
+![We can see that the capacity does not have influence on the dynamics if it is infinite.]({static}/uploads/2020/cvm-pops.png "We can see that capacity does not have influence on the dynamics if it is infinite.")
 
-![We can see that the capacity does have influence if it is finite.](/uploads/2020/cvm-pops-2.png "We can see that capacity does have influence if it is finite.")
+![We can see that the capacity does have influence if it is finite.]({static}/uploads/2020/cvm-pops-2.png "We can see that capacity does have influence if it is finite.")
 
 ## Interactive app
 

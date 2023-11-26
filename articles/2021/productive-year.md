@@ -26,7 +26,7 @@ year by shrugging of some of the extraneous responsibilities. Once again, I
 start new year with doubts about the future of Physics of Risk, because I still
 feel that I have too much responsibilities.
 
-![Number of posts written in English and still available on this site](/uploads/2021/rf-posts.png "The
+![Number of posts written in English and still available on this site]({static}/uploads/2021/rf-posts.png "The
 number of posts written in English and still available on this iteration of Physics
 of Risk. The wide bars represent total number of posts for each year since 2010,
 while the narrower bars represent a number of posts with 'Interactive models' tag.")

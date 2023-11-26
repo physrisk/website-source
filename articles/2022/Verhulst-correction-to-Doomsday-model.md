@@ -45,7 +45,7 @@ your own. One that I found is shown in the figure below.
 
 ![One of the reasonably looking fits of the corrected Doomsday model to the
 world population
-data.](/uploads/2022/verhulst-correction-to-doomsday-model.png "One of the
+data.]({static}/uploads/2022/verhulst-correction-to-doomsday-model.png "One of the
 reasonably looking fits of the corrected Doomsday model to the world
 population data.")
 

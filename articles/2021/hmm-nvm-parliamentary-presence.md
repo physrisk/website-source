@@ -25,7 +25,7 @@ do. Let \\\( q\_i \\\) be the probability that agent in state \\\( i \\\)
 will attend the session. To keep the original meaning of states we have to
 require that \\\( q\_0 \leq q\_1 \\\).
 
-![(figure from my paper) Schematic representation of the hidden model](/uploads/2021/hmm-nvm-parliamentary-presence.png "(figure from my paper) Schematic representation
+![(figure from my paper) Schematic representation of the hidden model]({static}/uploads/2021/hmm-nvm-parliamentary-presence.png "(figure from my paper) Schematic representation
 of the hidden model")
 
 Note that this model is somewhat alike hidden Markov models, but the dynamics

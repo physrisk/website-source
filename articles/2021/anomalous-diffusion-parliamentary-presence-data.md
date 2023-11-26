@@ -68,7 +68,7 @@ Lithuanian Seimas.
 representatives ((a) and (d)), also mean ((b) and (e)) and standard deviation
 ((c) and (f)) series for the considered legislatures. While mean grows
 linearly, standard deviation exhibits sub-linear growth with power law exponent
-equal to 0.85.](/uploads/2021/anomalous-diffusion-parliamentary-presence-data.png
+equal to 0.85.]({static}/uploads/2021/anomalous-diffusion-parliamentary-presence-data.png
 "(figure from my paper) Empirical presence time series of selected
 representatives ((a) and (d)), also mean ((b) and (e)) and standard deviation
 ((c) and (f)) series for the considered legislatures. While mean grows

@@ -41,15 +41,15 @@ spherical appearance.
 Here are few interesting shapes I was able to find either online or using
 the search function of the app below.
 
-![Infinity](/uploads/2022/clifford-attractor-infinity.png "Infinity")
+![Infinity]({static}/uploads/2022/clifford-attractor-infinity.png "Infinity")
 
-![Sphere inside the sphere](/uploads/2022/clifford-attractor-sphere.png
+![Sphere inside the sphere]({static}/uploads/2022/clifford-attractor-sphere.png
 "Sphere inside the sphere")
 
-![Loopy triangle](/uploads/2022/clifford-attractor-loops.png "Loopy
+![Loopy triangle]({static}/uploads/2022/clifford-attractor-loops.png "Loopy
 triangle")
 
-![Six sided die](/uploads/2022/clifford-attractor-die.png "Six sided die")
+![Six sided die]({static}/uploads/2022/clifford-attractor-die.png "Six sided die")
 
 The shades of gray you are seeing in these figures correspond to the number
 of the attractor trajectories passing each pixel.

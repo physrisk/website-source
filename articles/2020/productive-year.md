@@ -17,7 +17,7 @@ as in 2018) and 22 [interactive models](/tag/interactive-models/), which is our
 new best result. I am not completely sure if I can keep this tempo up,
 especially as my postdoctoral project will soon end, but lets hope for the best.
 
-![Number of posts written in English and still available on this site](/uploads/2020/rf-posts.png "The
+![Number of posts written in English and still available on this site]({static}/uploads/2020/rf-posts.png "The
 number of posts written in English and still available on this iteration of Physics
 of Risk. The wide bars represent total number of posts for each year since 2010,
 while the narrower bars represent a number of posts with 'Interactive models' tag.")

@@ -27,7 +27,7 @@ and the temporal rank-size distribution. Given some time for the temporal
 distribution converge, we should see that both rank-size distributions are
 quite similar.
 
-![Temporal \(red\) vs spatial \(blue\) rank-size distribution: N=2600, T=2, M=100, C=30, ε=2.](/uploads/2020/cvm-symmetry.png "Temporal \(red\) vs spatial \(blue\) rank-size distribution: N=2600, T=2, M=100, C=30, ε=2.")
+![Temporal \(red\) vs spatial \(blue\) rank-size distribution: N=2600, T=2, M=100, C=30, ε=2.]({static}/uploads/2020/cvm-symmetry.png "Temporal \(red\) vs spatial \(blue\) rank-size distribution: N=2600, T=2, M=100, C=30, ε=2.")
 
 Note that in the figure above we study \\\( f \\\) instead of the usual
 \\\( X \\\). While \\\( X \\\) stands for the total population of certain agent

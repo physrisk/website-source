@@ -14,7 +14,7 @@ difference of our approach, from the approaches taken by other groups, is
 that we use Markovian models without embedding actual memory into our
 models.
 
-![Title page](/uploads/2021/big-review.png)
+![Title page]({static}/uploads/2021/big-review.png)
 
 The paper also includes a new result - application of [burst
 statistics](/tag/burst-statistics) (note that the paper uses another term -

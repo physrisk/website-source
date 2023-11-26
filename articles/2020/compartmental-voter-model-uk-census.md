@@ -23,11 +23,11 @@ not excellent, the differences are quite easy to explain - not all
 socio-demographic categories (social identities) are as important when making
 choice on where to live.
 
-![Ethnic group distribution in London: \(a\) White, \(b\) Asian, \(c\) Black and \(d\) other.](/uploads/2020/cvm-london.png "Ethnic group distribution in London: \(a\) White, \(b\) Asian, \(c\) Black and \(d\) other.")
+![Ethnic group distribution in London: \(a\) White, \(b\) Asian, \(c\) Black and \(d\) other.]({static}/uploads/2020/cvm-london.png "Ethnic group distribution in London: \(a\) White, \(b\) Asian, \(c\) Black and \(d\) other.")
 
-![Religious group distribution in Leicester: \(a\) Christians, \(b\) no religion and \(c\) other.](/uploads/2020/cvm-leicester.png "Religious group distribution in Leicester: \(a\) Christians, \(b\) no religion and \(c\) other.")
+![Religious group distribution in Leicester: \(a\) Christians, \(b\) no religion and \(c\) other.]({static}/uploads/2020/cvm-leicester.png "Religious group distribution in Leicester: \(a\) Christians, \(b\) no religion and \(c\) other.")
 
-![Working class distribution in Sheffield: \(a\) top, \(b\) middle, \(c\) bottom and \(d\) unemployed.](/uploads/2020/cvm-sheffield.png "Working class distribution in Sheffield: \(a\) top, \(b\) middle, \(c\) bottom and \(d\) unemployed.")
+![Working class distribution in Sheffield: \(a\) top, \(b\) middle, \(c\) bottom and \(d\) unemployed.]({static}/uploads/2020/cvm-sheffield.png "Working class distribution in Sheffield: \(a\) top, \(b\) middle, \(c\) bottom and \(d\) unemployed.")
 
 ## Interactive app
 

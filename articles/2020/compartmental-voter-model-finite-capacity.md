@@ -22,7 +22,7 @@ of \\\( M \\\) and \\\( T \\\). While \\\( N \\\) can be larger, but it still
 should not be extremely big. Note, that stationary distribution we have
 obtained in certain cases posses discontinuous jumps.
 
-![Model \(red\) vs MC result \(black\) for finite capacity: N=100, M=2 and T=2 \(\(a\) and \(b\)\), N=90, M=3 and T=1 \(\(c\) and \(d\)\), C=40 \(c\), 60 \(\(a\) and \(d\)\) and 80 \(b\), ε=2 \(\(a\) and \(c\)\) and 0.03 \(\(b\) and \(d\)\).](/uploads/2020/cvm-caps.png "Model \(red\) vs MC result \(black\) for finite capacity: N=100, M=2 and T=2 \(\(a\) and \(b\)\), N=90, M=3 and T=1 \(\(c\) and \(d\)\), C=40 \(c\), 60 \(\(a\) and \(d\)\) and 80 \(b\), ε=2 \(\(a\) and \(c\)\) and 0.03 \(\(b\) and \(d\)\).")
+![Model \(red\) vs MC result \(black\) for finite capacity: N=100, M=2 and T=2 \(\(a\) and \(b\)\), N=90, M=3 and T=1 \(\(c\) and \(d\)\), C=40 \(c\), 60 \(\(a\) and \(d\)\) and 80 \(b\), ε=2 \(\(a\) and \(c\)\) and 0.03 \(\(b\) and \(d\)\).]({static}/uploads/2020/cvm-caps.png "Model \(red\) vs MC result \(black\) for finite capacity: N=100, M=2 and T=2 \(\(a\) and \(b\)\), N=90, M=3 and T=1 \(\(c\) and \(d\)\), C=40 \(c\), 60 \(\(a\) and \(d\)\) and 80 \(b\), ε=2 \(\(a\) and \(c\)\) and 0.03 \(\(b\) and \(d\)\).")
 
 Note that here we report only stationary distributions via probability density
 functions. This is because with low \\\( M \\\) spatial rank-size distribution

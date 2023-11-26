@@ -22,7 +22,7 @@ Standard economic theory states that shifts in the supply and demand curves occu
 
 If competition becomes weaker, then the supplier obviously is able to increase the price. Namely the supply law shifts to the left. This shift is somewhat mitigated if the entry to the market is easy and feasible. Then one cannot drastically increase the price as a new competitor might emerge. But the harder it is to enter the market and the easier it is for the existing companies to deter new competitors, the more existing business can increase the prices. As the demand curve shifts to the left (from S to S'), the equilibrium point fill also move to the left and to the right. The new equilibrium will mean that the price will be higher and the demanded quantity of the product will decrease.
 
-![A shift in the supply curve causes equilibrium point to move. Notation is explained in the text and previous posts.](/uploads/2018/shift-in-supply.png "A shift in the supply curve causes equilibrium point to move. Notation is explained in the text.")
+![A shift in the supply curve causes equilibrium point to move. Notation is explained in the text and previous posts.]({static}/uploads/2018/shift-in-supply.png "A shift in the supply curve causes equilibrium point to move. Notation is explained in the text.")
 
 ## Why the competition should keep the prices low?
 
@@ -51,7 +51,7 @@ P\_{LL} = 50 \times 3 - 100 \times 0.5 = 100 .
 
 We can formulate this situation as a game known as [prisoner's dilemma](/tag/prisoners-dilemma/). See figure below for the payoff matrix of the game.
 
-![A game in which companies A and B decide whether to charge high or low prices.](/uploads/2018/price-competition.png "A game in which companies A and B decide whether to charge high or low prices.")
+![A game in which companies A and B decide whether to charge high or low prices.]({static}/uploads/2018/price-competition.png "A game in which companies A and B decide whether to charge high or low prices.")
 
 In the figure above we have shown the payoff matrix of the game. Payoffs (profits in this particular case) received by the companies depend both on their choice and on their "opponents" choice. Note that company A is always better off choosing the low price (as the red numbers in the first column are smaller than the respective numbers in the second column). The same is true for the company B as blue numbers in the first row are smaller than the respective numbers in the second row.
 

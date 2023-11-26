@@ -16,7 +16,7 @@ What I did not notice previously, until revisiting the topic while writing this 
 
 To continue the discussion, let us take a simple example, which will illustrate this logic. Let us assume that a printing press wants to publish a book. Printing press is perfectly aware of its own supply law (because they know how much materials and labor as well as their alternative costs), which describes their worst-case intent to sell. Their supply law is given in a figure below by blue-ish curve with label S.
 
-![The illustration of the printing press example using supply and demand laws. Notation is explained in the text and previous posts.](/uploads/2018/price-formation-dynamics.png "The illustration of the printing press example using supply and demand laws. Notation is explained in the text and previous posts.")
+![The illustration of the printing press example using supply and demand laws. Notation is explained in the text and previous posts.]({static}/uploads/2018/price-formation-dynamics.png "The illustration of the printing press example using supply and demand laws. Notation is explained in the text and previous posts.")
 
 After conducting market research, they determine the worst-case intent to buy - the demand curve of the potential buyers (green dashed curve with label D). From the laws they know they determine the equilibrium price and quantity (black dot), which they will produce and try to sell at.
 
