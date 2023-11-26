@@ -23,16 +23,13 @@ of nearby spins. When we have really long spin lattice, \\\(  N\rightarrow \inft
 and the distribution of magnetization, \\\(  M = \sum\_i s\_i \\\),
 starts to approach Gaussian:
 
-
 \begin{equation}
  P\_{nc}(M) = \frac{1}{2^N} \frac{N!}{(M+N/2)!(N/2-M)!} \sim\exp\left(-\frac{2 M^2}{N}\right) . \label{gauss}
 \end{equation}
 
-
 ![Illustration of the correlated spin model taken from the
-article.](/uploads/2014/spins-ruseckas.png "
-Illustration of the correlated spin model taken from the
-article."){#attachment_2720} 
+article.]({static}/uploads/2014/spins-ruseckas.png "Illustration of the
+correlated spin model taken from the article."){#attachment_2720} 
 
 Now let us assume that our spins are **strongly correlated**. This means
 that there is only a few cases when spins change orientation. Let us
@@ -40,22 +37,18 @@ assume that there is \\\(  d \\\) such cases, with \\\(  d \ll N \\\). In
 such case we have \\\(  d+1 \\\) single spin orientation domains.
 Consequently in this case we can rewrite the global magnetization as:
 
-
 \begin{equation}
  M = s\_1 \sum\_{i=1}^{d+1} (-1)^{i-1} n\_i , 
 \end{equation}
-
 
 where \\\(  s\_1 \\\) is orientation of the first spin, \\\(  n\_i \\\) is
 the size \\\(  i \\\)-th domain. Now the distribution of \\\(  M \\\) is
 no longer Gaussian (unless \\\(  d \gg 1 \\\)), it is well approximated
 by power-law \[cite id="Ruseckas2015PhysLettA"\]:
 
-
 \begin{equation}
  P\_{c}(M) \propto \left(1-\frac{4M^2}{N^2}\right)^{\mathrm{int}\left\[\frac{d-1}{2}\right\]} ,\label{laips}
 \end{equation}
-
 
 here \\\(  \mathrm{int}\[x\] \\\) extracts integer part of a real number
 (fractional part is dropped). It should be evident that \\\( P\_{c}(M) \\\) can be rewritten using q-Gaussian with \\\(  q = 1 -\mathrm{int}\left\[\frac{d-1}{2}\right\]^{-1} \\\). We invite you to

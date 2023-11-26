@@ -7,7 +7,7 @@ Status: published
 
 The idea of this contribution has come after
 the publication in *The Economist* [The Big Mac
-index](http://www.economist.com/content/big-mac-index). Such index was
+index](https://www.economist.com/content/big-mac-index). Such index was
 introduce to explain the concept of real currency exchange rate needed
 to deal with the problem of varying price levels in different countries.
 The different price levels cause the different purchasing powers of the
@@ -37,7 +37,7 @@ process as leverage of temperatures in thermodynamics. Unfortunately,
 such convergence is still disputable and can be observed only as
 conditional process. We as Europeans need an answer to the question: is
 the geopolitical and macro economical EU experiment favorable for the
-economic convergence of EU members? Or sceptics are right? The countries
+economic convergence of EU members? Or skeptics are right? The countries
 will tend to the economic differentiation and disintegration and such
 union is not stable. We just look for the quantitative estimation of
 real processes in Europe comparing it to the rest of the world. To
@@ -46,14 +46,14 @@ popular Big Mac index to the well-established method of purchasing power
 parities (PPP), giving us an evaluation of price levels aggregate GDP.
 
 Here we present interactive graphs based on the [World
-Bank](http://www.worldbank.org/) and
-[Eurostat](http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home/)
+Bank](https://www.worldbank.org/) and
+[Eurostat](https://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home/)
 data. The PPP method gives us the countries price level aggregate GDP
 and the GDP evaluated in purchasing power standards (PPS), accounting
 different price levels and different purchasing powers. The most visual
 method to present this data and to exhibit the strength of Penn effect
 is a GDP and price level scatter plot of countries. It is very helpful
-to use [StatTrend](http://www.statsilk.com/software/stattrends) software
+to use [StatTrend](https://www.statsilk.com/software/stattrends) software
 just developed for such task. The interactive interface of such
 visualization gives us an insight into world development and specific
 fluctuations during the crises. We present the data in the time interval
@@ -63,12 +63,12 @@ crises.
 The statistical data can be viewed combining six variables: PriceLevel,
 GDPpercapitaUSD, GDPpercapitaPPP\_USD, LogPriceLevel,
 LogGDPpercapitaUSD, LogGDPpercapitaPPP\_USD. Notations of variables are
-self-explaining; GDP is presented accounting PPP and jus in current USD
+self-explaining; GDP is presented accounting PPP and just in current USD
 for comparison. We introduce Log scale as more appropriate for the
 exponential processes such as economic growth. For more detailed
 reference to data source take a look at information given in the
 Appendix. There is a possibility to view data as time series or column
-charts, just click on the appropriate pictogram. Very impressive is the
+charts, just click on the appropriate icon. Very impressive is the
 scatter plot time animation with possibility to view economic growth
 trajectories of individual countries. In the right panel there is a list
 of countries distributed into six continental regions: Former Soviet
@@ -79,11 +79,10 @@ data, experiment yourself clicking on the [Fig.
 1](#attachment_2624), and then
 you can get acquainted with our observations.
 
-![Fig.
-1: Penn effect. Scatter plot of World countries in the plane
+![Fig.  1: Penn effect. Scatter plot of World countries in the plane
 (LOGGDPpercapitaPPP\_USD,
-LOGPriceLevel).](/uploads/2014/penn-effect-world-en.jpg "
-Penn effect. Scatter plot of World countries in the plane
+LOGPriceLevel).]({static}/uploads/2014/penn-effect-world-en.jpg "Penn
+effect. Scatter plot of World countries in the plane
 (LOGGDPpercapitaPPP\_USD, LOGPriceLevel)."){#attachment_2624}
 
 Looking at the world scatter plot for the pair of variables (LogGDPper
@@ -103,12 +102,11 @@ of economic development for European countries is the most suitable to
 check theories of international macroeconomics seeking to explain Penn
 effect.
 
-![Fig.
-2: Penn effect. Scatter plot of Europian countries in the plane
+![Fig.  2: Penn effect. Scatter plot of Europian countries in the plane
 (LOGGDPpercapitaPPS,
-LOGPriceLevel).](/uploads/2014/penn-effect-europe-en.jpg "
-Penn effect. Scatter plot of Europian countries in the plane
-(LOGGDPpercapitaPPS, LOGPriceLevel)."){#attachment_2625}
+LOGPriceLevel).]({static}/uploads/2014/penn-effect-europe-en.jpg "Penn
+effect. Scatter plot of Europian countries in the plane (LOGGDPpercapitaPPS,
+LOGPriceLevel)."){#attachment_2625}
 
 We do have intention to analyze Eurostat data based on the PPP to get in
 more details of Penn effect manifestation in Europe. The method of
@@ -146,7 +144,7 @@ trajectories of development very close to the joint trend of their
 scatter plot. Certainly, such ideas have to be considered and proved in
 much more detailed studies. Now we just consider it as an idea how to
 optimize development of community such as EU. We are pleased to notice
-that Lithuania has some space to increase local prices and non-tradable
+that Lithuania has some space to increase local prices and non-tradeable
 sector in order to lever countries GDP.
 
 We do care most of economic convergence in European region, whether it
@@ -187,34 +185,34 @@ convergence as differences in economic development being one of the
 reasons for disintegration before EU reversed into the new stage of
 economic convergence in the period of EU integration.
 
-Interactive applet
-------------------
+Interactive applets
+-------------------
 
 * [Click
-  here](/uploads/models/data-driven-apps/penn-effect-europe/index.html) for
+  here]({static}/uploads/models/data-driven-apps/penn-effect-europe/index.html) for
   interactive applet with only European data.
 * [Click
-  here](/uploads/models/data-driven-apps/penn-effect-world/index.html) for
+  here]({static}/uploads/models/data-driven-apps/penn-effect-world/index.html) for
   interactive applet with whole world data.
 
 Appendix
 --------
 
-The [World Bank](http://data.worldbank.org/) data can be retrieved using
+The [World Bank](https://data.worldbank.org/) data can be retrieved using
 following information:
 
 -   GDPper capitaUSD - World Development Indicators, GDP per capita
     (current US$) -
-    [NY.GDP.PCAP.CD](http://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
+    [NY.GDP.PCAP.CD](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
 -   GDPpercapitaPPP\_USD - World Development Indicators, GDP per capita,
     PPP (current international $) -
-    [NY.GDP.PCAP.PP.CD](http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD)
+    [NY.GDP.PCAP.PP.CD](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD)
 -   PriceLevel - World Development Indicators, PPP conversion factor
     (GDP) to market exchange rate ratio -
-    [PA.NUS.PPPC.RF](http://data.worldbank.org/indicator/PA.NUS.PPPC.RF)
+    [PA.NUS.PPPC.RF](https://data.worldbank.org/indicator/PA.NUS.PPPC.RF)
 
 The
-[Eurostat](http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home/)
+[Eurostat](https://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home/)
 data is available as indicators:
 
 -   GDPpercapitaPPS - GDP and main components - Gross domestic product

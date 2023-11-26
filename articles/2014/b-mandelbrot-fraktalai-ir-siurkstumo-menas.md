@@ -15,5 +15,5 @@ basic concepts of fractal geometry. We invite you to listen to this
 great man speak.
 
 \[iframe
-src="http://embed.ted.com/talks/benoit\_mandelbrot\_fractals\_the\_art\_of\_roughness.html"
+src="https://embed.ted.com/talks/benoit\_mandelbrot\_fractals\_the\_art\_of\_roughness.html"
 width="560" height="315"\]

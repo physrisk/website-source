@@ -16,7 +16,6 @@ market<!--more-->:
  H = \sum\_{i=1}^N s\_i^2 . 
 \end{equation}
 
-
 If \\\(  H \\\) is:
 
 -   smaller than \\\(  0.01 \\\), then the competition in market is
@@ -65,6 +64,6 @@ with equal probabilities).
 Both indicators might be used to solve or understand the same problems.
 The choice should depend on the available data and should be guided by
 statistical tests (e.g., for binary cases one might use
-[ROC](http://en.wikipedia.org/wiki/Receiver_operating_characteristic)).
+[ROC](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)).
 As far as I am aware both indicators produce similar results, yet slight
 variations are present.

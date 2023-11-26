@@ -10,8 +10,8 @@ whiz working at Google, talks about ideas shared by physics and
 marketing.
 
 \[iframe
-src="http://embed-ssl.ted.com/talks/dan\_cobley\_what\_physics\_taught\_me\_about\_marketing.html"
+src="https://embed-ssl.ted.com/talks/dan\_cobley\_what\_physics\_taught\_me\_about\_marketing.html"
 width="560" height="315"\]
 
 Talk was recorded by TED (see
-[here](http://www.ted.com/talks/dan_cobley_what_physics_taught_me_about_marketing)).
+[here](https://www.ted.com/talks/dan_cobley_what_physics_taught_me_about_marketing)).

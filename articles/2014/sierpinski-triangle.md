@@ -8,12 +8,12 @@ Status: published
 Sierpinski triangle is a fractal named
 after Polish mathematician Waclaw Sierpinski, who was the first one to
 describe it in scientific literature (in 1915). The fractal itself is
-interesting in a sense that it is a two dimensional atractor to couple
+interesting in a sense that it is a two dimensional attractor to couple
 iterative operations related to triangles (primarily).
 
 In this text we will discuss iterative removal of triangles, shrinking and
 duplication, chaos game. We will also briefly mention [Lindenmayer
-system](/tag/l-system/), [cellular automata](/tag/cellular-automata) and
+system](/tag/l-system/), [cellular automata](/tag/cellular-automata/) and
 Pascal's triangles.<!--more-->
 
 Iterative removal of triangles
@@ -82,18 +82,19 @@ Other ways to obtain Sierpinski triangle
 ----------------------------------------
 
 One of the methods, previously discussed on Physics of Risk, to obtain
-Sierpinski triangle is [cellular automata](/tag/cellular-automata),
-[Wolfram's elementary automatons](/wolframs-elementary-automatons "Wolfram
-elementary automatons"). Rules 60 and 102 generate right Sierpinski
-triangles, while rule 90 generates ordinary Sierpinski triangle.
+Sierpinski triangle is [cellular automata](/tag/cellular-automata/),
+[Wolfram's elementary
+automatons]({filename}/articles/2012/wolframs-elementary-automatons.md).
+Rules 60 and 102 generate right Sierpinski triangles, while rule 90
+generates ordinary Sierpinski triangle.
 
 ![Sierpinski triangle and elementary cellular
-automatons.](/uploads/2014/sierpinski-cell.png "
+automatons.]({static}/uploads/2014/sierpinski-cell.png "
 Sierpinski triangle and elementary cellular automatons - 102, 90 and 60
 rules."){#attachment_2711} 
 
 Two more ways to obtain Sierpinski triangle are related to the [Lindenmayer
-system](/tag/l-system). One is related to the arrowhead curve, which in this
+system](/tag/l-system/). One is related to the arrowhead curve, which in this
 system is described as:  
 
 ```
@@ -108,13 +109,13 @@ Initial condition: AB-AA-AA, Angle: 120 deg, Rules: A -> AA, B -> -AB+AB+AB-AA.
 ```
 
 ![Sierpinski triangle and Lindenmayer
-system.](/uploads/2014/sierpinski-lindenmayer.png "
+system.]({static}/uploads/2014/sierpinski-lindenmayer.png "
 Sierpinski triangle and Lindenmayer system - arrowhead curve and direct
 implementation."){#attachment_2712} 
 
 Finally the last method, considered in this text, is related to the
 [Pascal's
-triangle](http://en.wikipedia.org/wiki/Pascal%27s_triangle "Article on Wikipedia").
+triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle "Article on Wikipedia").
 You should simply color cells with odd numbers black.
 
-![Sierpinski triangle and Pascal triangle](/uploads/2014/sierpinski-pascal.png "Sierpinski triangle and Pascal triangle")
+![Sierpinski triangle and Pascal triangle]({static}/uploads/2014/sierpinski-pascal.png "Sierpinski triangle and Pascal triangle")

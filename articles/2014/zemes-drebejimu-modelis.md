@@ -8,7 +8,7 @@ Status: published
 One of the classical
 examples of power-law distributions may be found in geology. It is the
 [Gutenberg-Richeter
-law](http://en.wikipedia.org/wiki/Gutenberg%E2%80%93Richter_law), which
+law](https://en.wikipedia.org/wiki/Gutenberg%E2%80%93Richter_law), which
 relates the number of earthquakes to their magnitude. Mathematically
 this relation is expressed as \\\(  \lg N = a - b M \\\). Here \\\( N \\\) is a number of earthquakes of certain magnitude \\\(  M \\\) or
 stronger, \\\(  b \\\) is empirically determined and depends on seismic
@@ -33,21 +33,17 @@ the magnitude of earthquake.
 Mathematically this may be written down as follows. If there are no
 critical cells, then
 
-
 \begin{equation}
  K\_{ij} \leftarrow K\_{ij} + (1-K\_{max}) , \quad t\leftarrow t + (1-K\_{max}) , \quad K\_{max} = \mathrm{max}\_{(i,j)\in S} K\_{ij} . 
 \end{equation}
-
 
 On the other hand if there some critical cells, \\\(  C\_i \\\), then the
 following procedure should be repeated over all neighborhoods of
 critical cells, \\\(  S\_{C\_i} \\\):
 
-
 \begin{equation}
  K\_{j} \leftarrow K\_{j} + \alpha K\_{C\_i} \;\forall j \in S\_{C\_i} , \quad K\_{C\_i} \leftarrow 0 . 
 \end{equation}
-
 
 This algorithm is implemented in our HTML5 applet below. We invite you
 to try it and observe the emergence of power-law distribution.

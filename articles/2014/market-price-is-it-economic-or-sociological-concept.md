@@ -12,7 +12,7 @@ Markets" published in open access interdisciplinary journal PLoS ONE
 research at the [Institute of Theoretical Physics and
 Astronomy](https://www.ff.vu.lt/tfai) of [Vilnius
 University](https://www.vu.lt) implementing the ideas of econophysics.
-Though our research is mostly related to the modelling of return
+Though our research is mostly related to the modeling of return
 statistics in financial markets implementing ideas from statistical
 physics, the concepts behind this work and conclusions are related to
 the much more extensive interdisciplinary understanding of the social
