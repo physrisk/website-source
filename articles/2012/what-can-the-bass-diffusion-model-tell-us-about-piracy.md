@@ -133,8 +133,8 @@ diffusion, but the "shadow" diffusion term remains constant, \\\( Y(t) = Y\_0 \\
 once again stays minimal, yet the diffusion is even faster.
 
 ![image]({static}/uploads/2012/BassPiracy3.png "Bass diffusion without
-piracy (green curve), with pirates (blue curve) and with discount marketing
-strategy (magenta curve)."){#attachment_2290} 
+piracy (green curve), with pirates (blue curve) and in 'charity' scenario
+(magenta curve). Model parameters are otherwise identical."){#attachment_2290} 
 
 The full effectiveness of the previous approach can not be seen from the
 point of our analysis. Recall that our model is very simple - namely
