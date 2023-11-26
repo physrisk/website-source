@@ -6,14 +6,14 @@ Slug: agent-based-prey-predator-model
 Status: published
 
 The simplest ecological system can be
-constructed from the two interacting species, ex. prey and predator.
+constructed from the two interacting species, e.g., prey and predator.
 This kind of system is very interesting in the terms of Physics of Risk
 primarily because it is nonlinear \[cite id="Goel1971RevModPhys"\], and
 due to being real life example of competition (conflict). Also there are
 few known simple models for the prey-predator interaction. Among them
 there are both macroscopic, Lotka-Volterra equations, and microscopic,
 agent-based, models. In this text we continue the [previous
-discussion](/lotka-volterra-equations) by
+discussion]({filename}/articles/2012/lotka-volterra-equations.md) by
 considering the agent-based model.<!--more-->
 
 Interestingly due to the various applications of the Lotka-Volterra
@@ -46,7 +46,7 @@ the two randomly picked cells, one has to apply the following rules:
 -   If one cell is occupied by predator and another by prey, then the
     prey is eaten. After doing so the predator gives a birth to another
     predator with a certain probability. The new predator is placed in
-    the formre prey's cell.
+    the former prey's cell.
 -   If both cells are occupied by the same type of agent, then nothing
     happens.
 -   If we have a prey cell and empty cell, then prey gives a birth to
@@ -68,9 +68,9 @@ and due to the probabilistic formulation of the model.
 HTML5 applet
 ------------
 
-To initialize modelling press button "Continue". If modelling was
-paused, then the program will resume instead. Modelling can be stopped
-by pressing "Stop" button. To reset the modelling press "New" button.
+To initialize modeling press button "Continue". If modeling was
+paused, then the program will resume instead. Modeling can be stopped
+by pressing "Stop" button. To reset the modeling press "New" button.
 
 [html5-interactive
 url="/uploads/models/lotka-volterra-abm/index.html"

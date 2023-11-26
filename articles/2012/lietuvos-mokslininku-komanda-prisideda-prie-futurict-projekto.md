@@ -13,5 +13,4 @@ Lithuanian scientists have joined it! We, scientists of VU ITPA, are
 also among them.
 
 More information can be found on the official project home page
-[futurict.eu](http://futurict.eu). While Lithuanian team is introduced
-[here](/futurict "FuturICT").
+<del>futurict.eu</del>.

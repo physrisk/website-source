@@ -16,7 +16,7 @@ very challenging topic as economic globalization, or integration, is
 very complex process. Though the basic understanding of what is known to
 economists about the economic convergence might be obtained by checking
 freely available source such as
-[Wikipedia](http://en.wikipedia.org/wiki/Convergence_(economics)).
+[Wikipedia](https://en.wikipedia.org/wiki/Convergence_(economics)).
 
 Our interest in this topic stems from the widely seen and heard, even
 among specialists (economists scientists, financial analytics and
@@ -29,4 +29,4 @@ that interactive tools provided in the text will enable You to
 experiment with data and find the answers to your questions.
 
 [Full text is available on V. Gontis home page
-»](http://gontis.eu/2012/01/kur-slepiasi-saliu-ekonomine-konvergencija/?lang=en#more-258 "Read more on gontis.eu")
+»](https://gontis.eu/2012/01/kur-slepiasi-saliu-ekonomine-konvergencija/)

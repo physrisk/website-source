@@ -8,7 +8,7 @@ Status: published
 **Topic:** "Physics is not a risk: Brief introduction into the Physics of
 Risk"  
 
-**Speaker:** [Aleksejus Kononovicius](http://kononovicius.lt/)  
+**Speaker:** [Aleksejus Kononovicius](https://kononovicius.lt/)  
 
 **Briefly:** Social sciences have accomplished many different things.  Yet
 it should be evident that there is a place for improvements - to look into
@@ -26,5 +26,5 @@ Vilnius)](https://www.ff.vu.lt/), 201 auditorium.
 **Facebook event:**
 [here](https://www.facebook.com/events/395011713904204/).
 
-**Slides:** [download](/uploads/2012/Kononovicius2012SMD.pdf) (in
+**Slides:** [download]({static}/uploads/2012/Kononovicius2012SMD.pdf) (in
 Lithuanian).

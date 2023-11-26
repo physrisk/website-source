@@ -5,10 +5,8 @@ Tags: Stochastic models, 1/f noise, Brownian motion, white noise, spectral densi
 Slug: colors-of-noise
 Status: published
 
-What
-is [white](/tag/white-noise),
-[pink](/tag/1f-noise),
-["brown"](/tag/brownian-motion) and even
+What is [white](/tag/white-noise/), [pink](/tag/1f-noise/),
+["brown"](/tag/brownian-motion/) and even
 black? It is around us every day and usually is very useful. Yet from
 time to time it annoys us and sometimes we even call police to keep it
 in check? The answer to this quite complex, as it is oriented towards
@@ -29,14 +27,14 @@ simple time series constructed by rolling six sided board game dice.
 The essence of the **"brown" noise** also lies in its name, but unlike
 white noise the name is not related to the name of certain color. It is
 related to the Scottish botanist Robert Brown. In 1827 he observed
-pollens under the microscope and noticed that pollens move! Initially he
+pollen under the microscope and noticed that pollen move! Initially he
 thought that they were moving, because they are alive. Later he observed
 the same behavior by the clearly inanimate objects (ex., grains of
 iron), thus disapproving initial hypothesis. Though he was not able to
 find the reason for the observed movement. Only in the begging of 20th
 century mathematician Bachelier (1900) and physicist Einstein (1905) and
 Smoluchowski (1906) independently discovered reasons for this kind of
-movement. From the physical point of view pollens have moved due to many
+movement. From the physical point of view pollen have moved due to many
 minute interactions with atoms and molecules, while in economical field
 Bachelier assumed that price moves because of random nature of incoming
 exogenous news. One can put this ideas more simply by saying that
@@ -48,14 +46,14 @@ with the exponent equal to 2.
 
 The last of the main colors of noise is **pink**. In Physics of Risk,
 and in the scientific literature, this type of noise is called flicker
-or [1/f noise](/tag/1f-noise). This is due
+or [1/f noise](/tag/1f-noise/). This is due
 to the spectral density of such noise, which is of \\\(  S(f) \sim1/f^\beta  \\\) type with exponent equal or approximately equal to
 1. This noise is of great importance not only because it is in between
 of two easily physically understood white and brown noises, but also it
 is very common in complex and social systems. This type of noise is also
 rather pleasant to human ear, thus it is not so surprising that this
 type of noise is observed in many [classical music
-pieces](/music-point-processes-and-1f-noise "Music, point processes and 1/f noise on Physics of Risk").
+pieces]({filename}/articles/2012/music-point-processes-and-1f-noise.md).
 It is thought that pink noise is pleasant due to the nature of human
 hearing. Human ear is used to "hear" sounds grouped by octaves, not
 frequencies, thus it is more pleasant to hear equally intense octaves,
@@ -75,13 +73,13 @@ jump towards a fly in order to catch it. Thus we would have very similar
 sounds and very distinct sounds grouped together.
 
 You can also compare these type of noise by **listening** to them on
-[playnoise.com](http://playnoise.com/) website.
+[playnoise.com](https://playnoise.com/) website.
 
 Qualities of different types of noise might be efficiently illustrated
 graphical. This is done in [Fig. 1](#attachment_2346).
 
 ![White (red curve), "brown" (green) and pink (blue) noise time
-series and spectral densities.](/uploads/2012/colors-of-noise.png "White (red curve), 'brown' (green) and pink (blue) noise time
+series and spectral densities.]({static}/uploads/2012/colors-of-noise.png "White (red curve), 'brown' (green) and pink (blue) noise time
 series and spectral densities."){#attachment\_2346}
 
 **Black noise** is not an "official" type of noise. Silence is

@@ -106,13 +106,13 @@ only limited to the financial markets.
 Next B. M. Roehner delves into the problem of intercommunication between
 physicists and economists. He claims that some neoliberal societies (the
 most prominent of them is [Mont Pelerin
-Society](http://en.wikipedia.org/wiki/Mont_Pelerin_Society "Mont Pelerin Society on Wikipedia"))
+Society](https://en.wikipedia.org/wiki/Mont_Pelerin_Society "Mont Pelerin Society on Wikipedia"))
 are more concerned with propaganda of neoliberal ideas rather than doing
 science. These organizations tend to have more ideological goals than
 scientific interests. Therefore the current situation in Economics might
 be even compared to religious traditions (these ideas are more broadly
 developed in \[cite id="Nelson2001UniversityPark"\]). In our opinion
-this might explain the economists' conservativeness, though the
+this might explain the economists' conservative attitude, though the
 physicists should not see it as the main reason for the
 miscommunication.
 
@@ -133,7 +133,7 @@ In our opinion, the mechanistic understanding of social reality, namely
 then the complex social system is being replaced with unnatural
 mechanically interacting agent-based systems, will not yield sufficient
 results. Growing computational power might enable solution of the
-extremely complex problems and thus enable modelling of complex
+extremely complex problems and thus enable modeling of complex
 mechanically interacting system, but it would be naive to expect that
 such model would sufficiently reproduce empirical data. We believe that
 social agents interact in non-deterministic ways - their interaction is

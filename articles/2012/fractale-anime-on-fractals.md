@@ -20,12 +20,12 @@ sophisticated.<!--more-->
 
 While the story takes us to the distant future, in which people live in
 utopia of limitless freedom and possibilities. All the manual and boring
-works are being done by the doppels (digitalized robots?), while people
+works are being done by the doppels (digitized robots?), while people
 roam all other the place and do what they like without any concerns or
 problems. At first this seems the most disturbing as this freedom causes
 people to distance other people - even kids are being looked after by
 the machines and not their parents, who might be at completely different
-and distant place. This utopian world has only one single and very
+and distant place. This utopia has only one single and very
 general rule - everyone at the certain time of day must pray to certain
 stars in the sky. The hidden catch is that the so-called stars and not
 stars, but transmitters connected to the "Fractale".

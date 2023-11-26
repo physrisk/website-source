@@ -12,8 +12,8 @@ lot of disccusion on anti-piracy and the proportionality of so-called
 and PIPA, while EU countries one after another expressed will to join
 ACTA. In Lithuanian media and blogosphere, as most probably in the rest
 of the world, has split into the [ACTA
-supporter](http://mokslas.delfi.lt/technology/acaplikas-sprendimas-prisijungti-prie-acta-yra-teisingas.d?id=55518815)
-and [oppositioner](http://www.kroitus.com/2012/02/26/tai-kas-gi-vagia/)
+supporter](https://mokslas.delfi.lt/technology/acaplikas-sprendimas-prisijungti-prie-acta-yra-teisingas.d?id=55518815)
+and [opposition](https://www.kroitus.com/2012/02/26/tai-kas-gi-vagia/)
 camps.<!--more-->
 
 It is rather easy to notice that representatives from both camps
@@ -21,7 +21,7 @@ sometimes base themselves on the ideological "truths" and personal
 experiences. Most of arguments by the ACTA supporters nicely fit into
 the phrase "property is sacred", which is one of the main postulates of
 liberal ideology. The only thing that is strange here is that another
-postulate of the same ideology is the sacrality economic and social
+postulate of the same ideology is the sacred nature of economic and social
 freedom of each individual. Which is obviously breached if very person
 using the Internet is assumed to be criminal by definition. ACTA's
 opposition relies on a more diverse set of arguments. Yet I find the
@@ -30,7 +30,7 @@ intellectual creation process itself to be the key point. Actually I
 myself have dealt with artists who use pirated software to produce their
 intellectual product, yet asking money for their own service. In
 Lithuania we have also had numerous plagiarism scandals ranging from the
-music to monumental art (ex. sculptures). But let us stop here while we
+music to monumental art (e.g., sculptures). But let us stop here while we
 can - we are interested in the fundamental truths, not ideology or
 personal experiences. Let us attempt to understand the actual and
 observed reality!
@@ -38,8 +38,8 @@ observed reality!
 By the way on the Internet I have found two more-or-less professionally
 written texts (though I am aware that most probably there are more of
 them) - see [lawyer M.
-Kiškis](http://kiskis.eu/post/17969820474/trigrasis-apie-acta/) and
-[sepuku.lt](http://www.sepuku.lt/?p=2048) blogs. In the first text the
+Kiškis](https://kiskis.eu/post/17969820474/trigrasis-apie-acta/) and
+sepuku.lt blogs. In the first text the
 ACTA is tackled from the legal point of view, while the second is based
 on the scientific research \[cite id="Dahaner2012"\]. Further in text I
 will also rely on the scientific works relevant in terms of Physics of
@@ -50,7 +50,7 @@ id="Prasad2003IJResMar"\].
 The links to other websites above are available only in Lithuanian.
 Writing this text I am mostly concerned with Lithuania, though the
 actual ideas below are not geo-centric. Either way for serious analysis
-in English I refer you to the [cited works](#cited).
+in English I refer you to the cited works.
 
 Introducing piracy into the Bass model
 --------------------------------------
@@ -64,17 +64,13 @@ between these groups is determined by the availability of the product
 piracy. Mathematically this ideas are put down like this \[cite
 id="Prasad2003IJResMar"\]:
 
-
 \begin{equation}
  \partial\_t X(t) = f(p(t)) \left\[ N-X(t)-Y(t) \right\]\left\[ \sigma +\frac{h}{N} \\\{X(t) - Y(t)\\\} \right\] , 
 \end{equation}
 
-
-
 \begin{equation}
  \partial\_t Y(t) = \alpha \left\[ N-X(t)-Y(t) \right\]\left\[ \sigma +\frac{h}{N} \\\{X(t) - Y(t)\\\} \right\] , 
 \end{equation}
-
 
 here \\\(  N \\\) is a market potential (total amount of agents in the
 system, the theoretical limit for the product adoption), \\\(  X \\\) -
@@ -99,7 +95,7 @@ empirical data. While the third suggestion is caused by the simplicity
 of the model - it is highly doubtful that all of the pirates would
 become legals under certain conditions. Another point ruling out the
 third suggestion is that precise evaluation of actual market potential
-is very troublesome task (if completable at all). Thus the profit might
+is very troublesome task (if doable at all). Thus the profit might
 be also lost due to overestimation of the market potential.
 
 The analysis of different scenarios: constant tolerance, initial tolerance and "charity"
@@ -113,10 +109,10 @@ green one, though the green one reaches larger value than the blue one.
 If piracy is present it "consumes" part of the market potential (red
 curve).
 
-![image](/uploads/2012/BassPiracy.png "Bass diffusion without piracy (green curve) and with it
-(pirates - red curve; legal consumers - blue curve). Model parameters
-are identical in both cases. On the abscissa axis we plot time, t, while
-on the ordinate we plot the number of consumers,
+![image]({static}/uploads/2012/BassPiracy.png "Bass diffusion without piracy
+(green curve) and with it (pirates - red curve; legal consumers - blue
+curve). Model parameters are identical in both cases. On the abscissa axis
+we plot time, t, while on the ordinate we plot the number of consumers,
 X."){#attachment_2288} 
 
 One could stop tolerating piracy after a certain moment to gain both
@@ -125,9 +121,9 @@ scenario is shown in [Fig. 2](#attachment_2289). Note that once again
 diffusion is faster then pirates are present, yet in this case larger
 profit is gained as more consumers are legals.
 
-![image](/uploads/2012/BassPiracy2.png "Bass diffusion without piracy (green curve) and with it
-(pirates - red curve; legal consumers - blue curve). Model parameters
-are identical in both
+![image]({static}/uploads/2012/BassPiracy2.png "Bass diffusion without
+piracy (green curve) and with it (pirates - red curve; legal consumers -
+blue curve). Model parameters are identical in both
 cases."){#attachment_2289} 
 
 One might consider another marketing strategy. One could further
@@ -136,9 +132,9 @@ with large discounts. The model stays the same as in case with "shadow"
 diffusion, but the "shadow" diffusion term remains constant, \\\( Y(t) = Y\_0 \\\). As you can see in [Fig. 3](#attachment_2290) profit loss
 once again stays minimal, yet the diffusion is even faster.
 
-![image](/uploads/2012/BassPiracy3.png "Bass diffusion without piracy (green curve), with
-pirates (blue curve) and with discount marketing strategy (magenta
-curve)."){#attachment_2290} 
+![image]({static}/uploads/2012/BassPiracy3.png "Bass diffusion without
+piracy (green curve), with pirates (blue curve) and with discount marketing
+strategy (magenta curve)."){#attachment_2290} 
 
 The full effectiveness of the previous approach can not be seen from the
 point of our analysis. Recall that our model is very simple - namely
@@ -181,7 +177,7 @@ software there two very active social elements - governmental
 organizations and public (and private?) schools. Due to the software
 adoption in schools most of kids would assumed to be taught using only
 the presented software, thus after graduating they might be unable to
-use the the other (possibly analogous) pieces of software. While
+use the other (possibly analogous) pieces of software. While
 software adoption in governmental organizations forces adults and
 business to adopt same kind of software, because effective electronic
 communication would be only possible if both parties use the same
@@ -192,7 +188,7 @@ is also widely applied. In Lithuania most schools use the same software
 to teach kids. Thus in the end only a few school graduates are aware
 that Windows and Microsoft Office have their corresponding alternatives.
 Also most of governmental organizations use Microsoft Office "native"
-formats to convey information to the people (ex. presenting templates
+formats to convey information to the people (e.g., presenting templates
 .doc on their websites).
 
 Therefore for me it is very strange why we have this situation? Why the
@@ -201,7 +197,7 @@ software piracy problems, without any discussion are eager to ratify
 questionable agreements, which possible infringe human rights? Why the
 first idea in their heads is to capture and punish? Why they do not care
 about educating society and increasing accessibility of electronic
-government (ex. by legislating open standards)?
+government (e.g., by legislating open standards)?
 
 Note that this analysis is mostly based on the example of software
 piracy, yet the same mathematical formalism applies towards other types
@@ -214,4 +210,4 @@ specifics of the industries should not influence the general conclusions
 reached in this analysis.
 
 You can explore these possibilities by using interactive applet available
-[here](/unidirectional-kirman-model "Unidirectional Kirman model").
+[here]({filename}/articles/2011/unidirectional-kirman-model.md).

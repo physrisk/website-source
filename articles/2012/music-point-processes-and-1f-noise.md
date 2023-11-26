@@ -1,7 +1,7 @@
 Title: Music, point processes and 1/f noise
 Date: 2012-04-30 07:28
 Author: Aleksejus Kononovicius
-Tags: Stochastic models, 1/f noise, popular culture
+Tags: Stochastic models, 1/f noise, popular culture, point process
 Slug: music-point-processes-and-1f-noise
 Status: published
 
@@ -19,40 +19,34 @@ ideas are applied towards musical rhythm. To us \[cite
 id="Levitin2012PNAS"\] is especially interesting as this paper considers
 our own model, \[cite id="Gontis2002MC, Kaulakys2005PhysRevE"\], as a
 proper model for the 1/f noise in the spectral density of musical
-rythm.<!--more-->
+rhythm.<!--more-->
 
-Musical rhythm is an excelent example of the point process. Namely we
+Musical rhythm is an excellent example of the point process. Namely we
 can see each individual key press as unit impulse at a certain moment.
 In such case the time series is defined by the sum of such impulses:
-
 
 \begin{equation}
  I(t) = \sum\_i \delta(t-T\_i) . 
 \end{equation}
 
-
 Note that the time series is also fully described by the event times,
 \\\(  T \\\). Alternatively by assuming that our time series starts at
 the origin we can describe the same time series using inter-event times:
-
 
 \begin{equation}
  \tau\_i = T\_{i+1} - T\_i . 
 \end{equation}
 
-
 The inter-event times prove to be useful in the empirical analysis of
 varying complex systems - be it [financial
-markets](/tag/financial-markets "Financial market articles on Physics of Risk")
+markets](/tag/financial-markets/)
 or music. In \[cite id="Gontis2002MC"\] it was noted that the empirical
 financial market data has specific statistical features, which can be
 modeled using the following equation as the model for inter-trade times:
 
-
 \begin{equation}
  \tau\_{s,k+1} = \tau\_{s,k} + \gamma \tau\_{s,k}^{2 \mu-1} + \tau^\mu\_{s,k} \zeta\_{k} , 
 \end{equation}
-
 
 here \\\(  \tau\_{s,k} \\\) is the k-th scaled time between two
 consecutive trades, \\\(  \gamma \\\) is related to the relaxation of
@@ -61,18 +55,16 @@ the time series (note that here we use slightly different form than in
 variance). It should be evident that the above equation is difference
 equation thus it can be rewritten as Langevin equation and that for
 further analysis we can use [stochastic
-calculus](/tag/stochastic-models "Stochastic modeling on Physics of Risk").
+calculus](/tag/stochastic-models/).
 
 In this text we won't consider more delicate topics related to the point
 process model. We just have to mention that the spectral density of the
 point process model in a certain range of frequencies can be
 approximated by the power law:
 
-
 \begin{equation}
  S(f) \sim 1/f^\beta , \quad \beta = 1 + \frac{2 \gamma -2 \mu}{3 - 2 \mu} , \quad 0.5&lt;\beta &lt;2 . 
 \end{equation}
-
 
 From this expression it should be evident that we will obtain pink noise
 signal, if the inter-event times will change according the Brownian

@@ -17,11 +17,9 @@ equations.<!--more-->
 Let us recall that in general case stochastic differential equation
 looks like:
 
-
 \begin{equation}
  \mathrm{d} x = f(x) \mathrm{d} t + g(x) \mathrm{d} W. 
 \end{equation}
-
 
 The above can be even more general if the drift and diffusion functions
 would also depend on time, but in the most applied stochastic models
@@ -36,20 +34,16 @@ most intuitive and simple method is known as Euler method or first order
 numerical discretization method. In our case, while neglecting diffusion
 term, we obtain:
 
-
 \begin{equation}
  \Delta x = f(x) \Delta t \quad \Rightarrow \quad x\_{i+1} =x\_i + f(x\_i) \Delta t . 
 \end{equation}
 
-
 To understand what have we done here recall the definition of
 derivative:
-
 
 \begin{equation}
  \frac{\mathrm{d} x(t)}{\mathrm{d} t} = \lim\_{\Delta t\rightarrow 0} \frac{x(t) - x(t-\Delta t)}{\Delta t} \approx\frac{\Delta x}{\Delta t} . 
 \end{equation}
-
 
 It should be evident that if the diffusion function is constant, namely
 if the correct answer linear, then Euler method is precise. While if the
@@ -59,7 +53,7 @@ correct answer will be noticeable. The deviation will depend on the size
 of the time step - if it is small, the deviation will also tend to be
 smaller.
 
-![image](/uploads/2012/num-methods-euler.png "Illustration of the Euler method applied towards
+![image]({static}/uploads/2012/num-methods-euler.png "Illustration of the Euler method applied towards
 non-linear differential equation. Note that the numerical solution (red
 dots) doesn't fully coincide with the correct answer (blue
 curve)."){#attachment_2323} 
@@ -70,11 +64,11 @@ results one can decrease the time step (which was selected to be large
 on purpose) or use another, more precise, numerical method. One of the
 possible choices, in order to retain speed of the numerical evaluation,
 would be [midpoint
-method](http://en.wikipedia.org/wiki/Midpoint_method "Read about the midpoint method on Wikipedia"),
+method](https://en.wikipedia.org/wiki/Midpoint_method "Read about the midpoint method on Wikipedia"),
 which is an improved version of the first order Euler method considered
 in this text. In order to further improve the precision one should
 become interested in higher order methods - ex. [Runge-Kutta 4-th order
-method](http://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods "Read about the Runge-Kutta methods on Wikipedia").
+method]({filename}/articles/2022/runge-kutta-4-order-method.md).
 Another interesting idea might be implementation of variable time steps
 (see [further](#var-step)).
 
@@ -86,11 +80,9 @@ equations! First let us substitute the differentiation with the changes
 of variables during some time window. By doing so we obtain the
 following difference equation:
 
-
 \begin{equation}
  x\_{i+1} = x\_i + f(x\_i) \Delta t + g(x\_i) \Delta W . 
 \end{equation}
-
 
 The difference equation has a very familiar shape and the only
 unanswered question is about W process. Here W is a standard Brownian
@@ -102,11 +94,9 @@ deviation will depend on time window width, actually the standard
 deviation will increase as a root of time window width. In such case we
 can rewrite the difference equation as follows:
 
-
 \begin{equation}
  x\_{i+1} = x\_i + f(x\_i) \Delta t + g(x\_i) \sqrt{\Delta t}\zeta\_i . 
 \end{equation}
-
 
 Here we purely intuitively arrive at numerical method which is known as
 Euler-Maruyama method. For more details on this method and its
@@ -129,11 +119,9 @@ computational load if it is not necessary.
 Let us now consider the following non-linear stochastic differential
 equation:
 
-
 \begin{equation}
  \mathrm{d} x = \left(\eta - \frac{\lambda}{2} \right)x^{2 \eta -1} \mathrm{d} t + x^\eta \mathrm{d} W . 
 \end{equation}
-
 
 We choose this equation as it represents very general class of
 stochastic differential equations \[cite id="Ruseckas2010PhysRevE,
@@ -146,11 +134,9 @@ processes (we will discuss this in the following texts).
 Following the previous ideas we can rewrite our non-linear stochastic
 differential equation as the following difference equation:
 
-
 \begin{equation}
  x\_{i+1} = x\_i + \left(\eta - \frac{\lambda}{2} \right)x\_i^{2 \eta -1} \Delta t + x\_i^\eta \sqrt{\Delta t} \zeta\_i .
 \end{equation}
-
 
 Note the powers of random variable in the drift and diffusion terms.
 Also take note of the powers of time step. By comparing them we can that
@@ -159,24 +145,20 @@ linearize the difference equation. Though now we will have to deal with
 two difference equations (one for the random variable, another for the
 time):
 
-
 \begin{equation}
  x\_{i+1} = x\_i + \kappa^2 \left(\eta - \frac{\lambda}{2}\right) x\_i + \kappa x\_i \zeta\_i , 
 \end{equation}
 
-
-
 \begin{equation}
  t\_{i+1} = t\_i + \kappa^2 x\_i^{2- 2 \eta} . 
 \end{equation}
-
 
 Note that now the equations includes \\\(  \kappa \\\), which stands for
 the numerical precision. Ideally it should be as small as possible, but
 in most of the cases 0.1 or 0.01 are ok.
 
 This difference equation can be already solved numerically. Yet some
-problems might occur - ex. for \\\(  \eta&gt;1 \\\) and small values of
+problems might occur - e.g., for \\\(  \eta&gt;1 \\\) and small values of
 random variable the time step might become very large. This problem
 might be solved by switching back to the constant time step (of course
 only if its smaller than the variable one). Another frequent problem is
@@ -188,7 +170,7 @@ The idea of the variable time steps can be easily and somewhat
 efficiently applied towards solution of the ordinary differential
 equations - see [Fig. 2](#attachment_2324).
 
-![image](/uploads/2012/num-methods-eulerVarStep.png "Introducing variable time steps into the original Euler
+![image]({static}/uploads/2012/num-methods-eulerVarStep.png "Introducing variable time steps into the original Euler
 method. Note that under similar conditions the agreement between
 analytical and numerical solution is
 improved."){#attachment_2324} 

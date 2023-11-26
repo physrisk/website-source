@@ -7,7 +7,7 @@ Status: published
 
 Previously (ex. while speaking about the
 [multifractality of time
-series](/multifractality-time-series)) we have
+series]({filename}/articles/2011/multifractality-time-series.md)) we have
 already discussed that fractals are observed in many daily phenomena.
 Interestingly enough we can eat fractals for our breakfast! Recently we
 have found an article \[cite id="Valous2010MeatSci"\] which studies

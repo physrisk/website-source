@@ -7,7 +7,7 @@ Status: published
 
 Previously, approximately 2 years
 ago, we have
-[written](/non-linear-stochastic-model-return "A Non-Linear Double Stochastic Model of Return in Financial Markets")
+[written]({filename}/articles/2010/non-linear-stochastic-model-return.md)
 that we published a review of our works \[cite id="Gontis2010Intech"\]
 in a book by open-access publisher. Recently we discovered that during
 the recent two and a half years this books was downloaded almost 7000
@@ -30,19 +30,19 @@ statistics - only the summer is relatively low activity period. Also
 unlike the last year Windows 7 is the most popular OS (last year it was
 Windows XP). Some other things have remained unchanged - Firefox is
 still the most popular browser, Google - the most used search engine,
-[main portal of the MVV project](http://mokslasplius.lt) - the best
+[main portal of the MVV project](https://mokslasplius.lt) - the best
 referrer, article on [Ising
-model](/ising-model "Ising model") - the
+model]({filename}/articles/2010/ising-model.md) - the
 most read article. The other popular articles included [the discussion
 on the multifractality of time
-series](/multifractality-time-series "Multifractality of time series ")
+series]({filename}/articles/2011/multifractality-time-series.md)
 and [the article on the Newton-Raphson
-method](/newton-raphson "Newton-Raphson method ").
+method]({filename}/articles/2011/newton-raphson.md).
 It is worthwhile to mention [the article on elementary
-automatons](/wolframs-elementary-automatons "Wolframo elementarios programėlės"),
+automatons]({filename}/articles/2012/wolframs-elementary-automatons.md),
 which has recently received "extended" international attention (it is
 referenced in [the
-article](http://blog.sciencenet.cn/blog-677221-636232.html "Link to the article by the Chinese blogger")
+article](https://blog.sciencenet.cn/blog-677221-636232.html "Link to the article by the Chinese blogger")
 by a certain Chinese blogger).
 
 We have also finally received some input by our readers! Do not be
