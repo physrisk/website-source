@@ -15,7 +15,7 @@ prepare couple of posts for this website.
 
 Previously, I have already written about [the Erdos-Renyi network
 formation
-model](/erdos-renyi-model "Erdos-Renyi model on Physics of Risk").
+model]({filename}/articles/2013/erdos-renyi-model.md).
 While this time I'll write about the Watts-Strogatz network formation
 model ("small world" networks). The Barabasi-Albert model ("scale-free"
 networks) will be left for the next post.<!--more-->
@@ -26,7 +26,7 @@ Watts-Strogatz model and the properties of the small world networks
 Let us recall that Erdos-Renyi networks were generated completely at
 random. In this sense the Watts-Strogatz model is almost exact opposite.
 During the first step we select a known network topology with \\\( N \\\) nodes. Note that in the applet below we choose the ring topology,
-while other topologies are also possible (e.g., the node can be
+while other topology are also possible (e.g., the node can be
 connected not to the two nearest nodes, but to four). Next we iterate
 trough all nodes in the topology and with probability \\\(  p \\\) create
 an additional random edge, which does not exists at this time and isn't
@@ -41,7 +41,7 @@ shortcuts can be created in an actual social networks.
 
 Thus this model is a simplest illustration possible for the "six degrees
 of separation" theory. This theory states that any two people on Earth
-are separated by 6 handshakes (i.e. common friends or friends of friends
+are separated by 6 handshakes (i.e., common friends or friends of friends
 and etc.). Consequently two completely random people, who have almost
 nothing in common, can easily find each other despite of the huge size
 of the social networks due to the connections of their friends.

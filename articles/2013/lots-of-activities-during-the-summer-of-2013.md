@@ -10,9 +10,9 @@ interesting one for us. In June we will participate in four conferences,
 in Lithuania and abroad, and present five reports (4 talks and 1 poster)
 on the most recent research done by us. During July and August we will
 have two students-trainees, who will participate in the project
-"[Promotion of Student Scientific
-Activities](http://studentai.lmt.lt/index_en.php)" from the [Research
-Council of Lithuania](http://www.lmt.lt/en/). The training will be held
+"Promotion of Student Scientific
+Activities" from the [Research
+Council of Lithuania](https://www.lmt.lt/). The training will be held
 on the topics of "Economic convergence as thermodynamic appreciation of
 real currency exchange rate" (supervisor dr. (HP) Vygintas Gontis;
 student-trainee Kęstutis Acus) and "Controling complex stochastic
@@ -21,18 +21,18 @@ Kazakevičius).<!--more-->
 
 **On
 the 5-6th of June** in the Mykolas Romeris University the international
-conference "[Social Transformations in Contemporary Society
-2013](http://sticsconference.blogspot.com/)" will be held. During the
+conference "Social Transformations in Contemporary Society
+2013" will be held. During the
 conference Aleksejus Kononovicius will give a talk on "Agent-based and
 macroscopic modeling of the complex socio-economic systems" (coauthor
 Valentas Daniūnas). The material behind the presentation will be
-published in an open-access journal "[Social
-Technologies](http://st.mruni.eu/)".
+published in an open-access journal "Social
+Technologies".
 
 **On
 the 10-12th of June** in the Faculty of Physics, Vilnius University, the
-"[40th Lithuanian national physics
-conference](http://www.lnfk.ff.vu.lt/)" will be held. During this
+"40th Lithuanian national physics
+conference" will be held. During this
 conference we will present an oral presentation ("Mikroskopinis ir
 makroskopinis sudėtingų sistemų modeliavimas" by Aleksejus Kononovicius
 and Vygintas Gontis) and also a poster presentation ("Levio triukšmo
@@ -42,16 +42,16 @@ be given on 11th of June - the poster session will be held from 13:00 to
 14:30, while the oral session from 16:10 to 17:30.
 
 **On the 17-22th of June** in the Reykjavik University PhD summer school
-and international conference "[18th Annual Workshop on the Economic
+and international conference "18th Annual Workshop on the Economic
 Science with Heterogeneous Interacting
-Agents](https://sites.google.com/site/wehia2013/)" will be held.
+Agents" will be held.
 Aleksejus Kononovicius will be participating in both. During the
 conference he will give a talk on "Generalizing binary choice
 agent-based herding model" (coauthor Vygintas Gontis).
 
 **On
-the 24-28th of June** in Montpelier, France, "[22th International
-Conference on Noise and Fluctuations](http://icnf.wordpress.com/)" will
+the 24-28th of June** in Montpelier, France, "22th International
+Conference on Noise and Fluctuations" will
 be held. During the conference Vygintas Gontis will be giving an oral
 presentation "Fluctuation analysis of three agent group herding model"
 (coauthor Aleksejus Kononovicius). The related article should be also

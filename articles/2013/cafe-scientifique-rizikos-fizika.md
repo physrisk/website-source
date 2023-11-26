@@ -5,20 +5,24 @@ Tags: Agent-based models, General information, Economics, Stochastic models, Net
 Slug: cafe-scientifique-physics-of-risk
 Status: published
 
-**Topic:** "Physics of Risk: The
-more physics, the less risk"  
-**Speaker:** [Aleksejus Kononovicius](http://kononovicius.lt/)  
+**Topic:** "Physics of Risk: The more physics, the less risk"
+
+**Speaker:** [Aleksejus Kononovicius](https://kononovicius.lt/)
+
 **Briefly:** I will talk about the complexity of socio-economic systems
 and how physicists (and not only physicists) attempt to understand,
 describe and explain it. I will present some of the research done
-worldwide and also research done at VU ITPA.  
-**When?** 6th of November, 19:00.  
-**Where?** Cafe "Savas Kampas" (Vokiečių st. 4, Vilnius)  
-**Organized by:** [VU Faculty of Physics Students Scientific
-Association](http://www.smd.ff.vu.lt/).  
+worldwide and also research done at VU ITPA.
+
+**When?** 6th of November, 19:00
+
+**Where?** Cafe "Savas Kampas" (Vokiečių st. 4, Vilnius)
+
+**Organized by:** VU Faculty of Physics Students Scientific Association
+
 **Facebook event:**
-[here](https://www.facebook.com/events/197125190473421/).
+[here](https://www.facebook.com/events/197125190473421/)
 
 **Slides:**
-[Download](/uploads/2013/Kononovicius2013CafeSci.pdf)
-(without video; Lithuanian).
+[Download]({static}/uploads/2013/Kononovicius2013CafeSci.pdf)
+(without video; Lithuanian)

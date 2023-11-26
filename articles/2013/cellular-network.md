@@ -13,7 +13,7 @@ lot about them from a point of view of the network theory and the most
 recent research. This time we will consider a new, at least on Physics
 of Risk website, network topology and at the same time [network
 formation
-model](/tag/network-formation-models).<!--more-->
+model](/tag/network-models/).<!--more-->
 
 Interestingly enough this network topology is very intuitive, yet formal
 definition it was given only recently. One of the first works to
@@ -28,19 +28,18 @@ Cellular network - what is it?
 Cellular network is a network, topology of which has well pronounced
 groups of nodes (in a similar manner as we have seen core and periphery
 in the [core-periphery
-networks](/core-periphery-network-models "Core-periphery network models")),
+networks]({filename}/articles/2013/core-periphery-network-models.md)),
 which are connected with distinct topology. The distinctness of the
 topology might be minor - larger density of the edges between the nodes
 might be enough. Look at [Fig. 1](#attachment_2510) below. The separate
 group of nodes are so well pronounced that it appears that they were
 grown separately and only then joined to form the network.
 
-![Fig.
-1: Example of a cellular network. In this figure we see 9 marked (using
-distinct colors) "cells" of
-nodes.](/uploads/2013/cellular-network.png "Example
-of a cellular network. In this figure we see 9 marked
-(using distinct colors) 'cells' of nodes."){#attachment_2510} 
+![Fig.  1: Example of a cellular network. In this figure we see 9 marked
+(using distinct colors) "cells" of
+nodes.]({static}/uploads/2013/cellular-network.png "Example of a cellular
+network. In this figure we see 9 marked (using distinct colors) 'cells' of
+nodes."){#attachment_2510} 
 
 Why are the cellular networks intuitive? Imagine that people live on the
 island (example taken from \[cite id="Jackson2005JEEA"\]). Moving by
@@ -60,20 +59,20 @@ The answer was already given - you just need to grow distinct parts of
 the network separately and afterwards connect them. It is important for
 the connection mechanism to differ at least somewhat. For example, we
 could grow network parts by using [Erdos-Renyi
-model](/erdos-renyi-model "Erdos-Renyi model")
+model]({filename}/articles/2013/erdos-renyi-model.md)
 and later connect them using [Barabasi-Albert
-model](/barabasi-albert-model "Barabasi-Albert model").
+model]({filename}/articles/2013/barabasi-albert-model.md).
 But let us more broadly discuss a simpler case.
 
 So let us start with \\\(  N \\\) nodes. Let's place each node, upon
 creation, in a random point of the finite 1-dimensional space. Now let
 us split the space into \\\(  N\_c \\\) even parts. These parts are
 actually our "growth" cells. Inside these cells let us use [Erdos-Renyi
-model](/erdos-renyi-model "Erdos-Renyi model")
+model]({filename}/articles/2013/erdos-renyi-model.md)
 to connected the nodes with probability \\\(  p\_{ic} \\\). After
 iterating over all cells, let us now create connections between them
 using the same [Erdos-Renyi
-model](/erdos-renyi-model "Erdos-Renyi model"),
+model]({filename}/articles/2013/erdos-renyi-model.md),
 but now the nodes in different cells will be connected with probability
 \\\(  p\_{bc} \\\) (which should be significantly smaller than \\\( p\_{ic} \\\)). After completing this step we would obtain a cellular
 network model.

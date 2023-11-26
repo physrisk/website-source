@@ -14,12 +14,12 @@ ideal gasses. This simple model allowed to analytically derive the
 distribution of energy and velocities in gasses and to lay foundations
 for the statistical physics. In the context of Physics of Risk it is
 worthwhile to mention that Maxwell and Boltzman relied not only on the
-empirical works by other physicists, but also on the demographical data!
+empirical works by other physicists, but also on the demographic data!
 Boltzmann even wrote that "molecules are like so many individuals,
 having the most various states of motion" \[cite id="Ball2002PhysA,
 Patriarca2013AJP"\]. Inspired by this quote we will briefly review,
 while relying on \[cite id="Patriarca2013AJP"\], some of the simplest
-kinetic models and their applications to modelling of socio-economic
+kinetic models and their applications to modeling of socio-economic
 systems.<!--more-->
 
 Elementary kinetic model
@@ -45,11 +45,9 @@ that only these two particles are interacting at this moment. Evidently
 the kinetic energies after the interaction will depend on the energies
 particles had prior to the interaction:
 
-
 \begin{equation}
  w\_i(t+1) = w\_i(t) - \Delta w\_{ij} , \quad w\_j(t+1) =w\_j(t) + \Delta w\_{ij} . \label{wchange}
 \end{equation}
-
 
 \\\(  \Delta w\_{ij} \\\), in general case, may have many distinct
 forms. Yet we can talk about some of them in the physical context. E.g.,
@@ -62,11 +60,9 @@ and larger variety of collisions become probable. Due to the molecular
 chaos hypothesis for a two dimension case we can assume that \[cite
 id="Patriarca2013AJP"\]:
 
-
 \begin{equation}
  \Delta w\_{ij} = (1-\varepsilon) w\_i(t) - \varepsilon w\_j(t) , \label{elementary}
 \end{equation}
-
 
 were \\\(  \varepsilon \\\) is a random variable uniformly distributed
 in \\\(  \[0,1\] \\\). Note the general similarity of the two and one
@@ -77,11 +73,9 @@ decreases proportional to the dimensionality of the system, \\\(  p\_c\sim 1/d \
 
 Note that by putting \eqref{elementary} into \eqref{wchange} one obtains
 
-
 \begin{equation}
  w\_i(t+1) = \varepsilon \[ w\_i(t) + w\_j(t) \] , \quad w\_j(t+1) = (1-\varepsilon) \[ w\_i(t) + w\_j(t) \] . 
 \end{equation}
-
 
 As we can see in the above, in this case, after collision, we have total
 kinetic energy of both particles being uniformly distributed among them.
@@ -102,11 +96,9 @@ Constant exchange model
 Boltzmann-Gibbs distribution can be also easily obtained if the exchange
 rate is constant, namely if:
 
-
 \begin{equation}
  \Delta w\_{ij} = w\_0 , 
 \end{equation}
-
 
 here \\\(  w\_0 \\\) is a model parameter describing the amount of energy
 exchange during each interaction.
@@ -144,7 +136,7 @@ width="420" height="415" mode="iframe"]
 
 We would like to draw your attention to the fact that these kind of
 borrowing and saving rules are somewhat simplistic and are not very
-realistic in context of modelling real socio-economic systems. Though
+realistic in context of modeling real socio-economic systems. Though
 even from this simple model one can draw a correct conclusion -
 limitless borrowing may destabilize the system. In the nearest future we
 promise to comeback with at least a more sophisticated saving rules.
@@ -156,11 +148,9 @@ Another possible variation of the model is to implement the "All in"
 exchange. Namely the particle with less energy "gambles" by "betting"
 its whole energy (same as "all in" in poker or similar betting game):
 
-
 \begin{equation}
  \Delta w\_{ij} = \mathop{min} (w\_i, w\_j) . 
 \end{equation}
-
 
 It should be evident that this model is quite different, because sooner
 or later all energy will be accumulated by a single particle, while all

@@ -13,7 +13,7 @@ time series values. So let us now discuss the power spectral
 density.<!--more-->
 
 Note that we have already written on the "colors" of noise (see
-[here](/colors-of-noise "Colors of noise")),
+[here]({filename}/articles/2012/colors-of-noise.md)),
 which are related to the power spectral density, but the relation is not
 so direct. Also the presented information overlaps with a few articles
 on the old Physics of Risk (written by dr. Julius Ruseckas).
@@ -85,8 +85,8 @@ could describe the input of periodic signals into the analyzed time
 series. After understanding the basic principles you should move on to
 the applications of spectral density in the analysis of stochastic
 processes. But this will be considered in the [next
-article](/power-spectral-density-part-2 "Power spectral density (part 2)").
+article]({filename}/articles/2013/power-spectral-density-part-2.md).
 
 Note that previously the interactive app was powered by Wolfram CDF technology and
 it was later replaced by the current HTML5 app. The old app can still be downloaded
-from [here](/uploads/2013/deterministic-spectra.cdf).
+from [here]({static}/uploads/2013/deterministic-spectra.cdf).

@@ -14,9 +14,9 @@ Yet the knowledge I have obtained by viewing videos of this course
 enabled me to prepare couple of posts for this website.
 
 Previously, I have already written about the
-[Erdos-Renyi](/erdos-renyi-model "Erdos-Renyi model on Physics of Risk")
+[Erdos-Renyi]({filename}/articles/2013/erdos-renyi-model.md)
 and the
-[Watts-Strogatz](/watts-strogatz-model "Watts-Strogatz model on Physics of Risk")
+[Watts-Strogatz]({filename}/articles/2013/watts-strogatz-model.md)
 ("small world" networks) network formation models. This time I'll write
 about the Barabasi-Albert model ("scale-free"
 networks).<!--more-->
@@ -25,9 +25,9 @@ The essence of the Barabasi-Albert model
 ----------------------------------------
 
 Previously described
-[Erdos-Renyi](/erdos-renyi-model "Erdos-Renyi model on Physics of Risk")
+[Erdos-Renyi]({filename}/articles/2013/erdos-renyi-model.md)
 and
-[Watts-Strogatz](/watts-strogatz-model "Watts-Strogatz model on Physics of Risk")
+[Watts-Strogatz]({filename}/articles/2013/watts-strogatz-model.md)
 network formation models have very the in common with the real life
 networks. The latter is just random graph, while the former is only able
 to reproduce the "small world" properties. Both these models posses
@@ -40,7 +40,7 @@ the new nodes select old nodes, with which they will form links (edges),
 based on their degree (number of links the nodes has). Due to this
 preference for the higher degree nodes the algorithm is called
 preferential attachment. Due to this preference the nodes with higher
-degrees will further incrase, while the lower degree nodes will stay
+degrees will further increase, while the lower degree nodes will stay
 with the same degree. This effect in the sociology is known as Matthew
 effect or "rich gets richer" effect. In the empirical data this effect
 is observed as power law distribution.
@@ -61,20 +61,15 @@ of popularity. Similar situation is observed in the scientific citation
 networks and also in the internet connections (see the
 [figure](#attachment_2483) below).
 
-![Interneto jungtys (žr.
-plačiau).](/uploads/2013/network-connections.jpg "
-A macroscopic snapshot of Internet connectivity (see
-[this](http://barabasilab.com/gallery/g1.php) for more
-details)."){#attachment_2483} 
+![Network connections]({static}/uploads/2013/network-connections.jpg "A macroscopic
+snapshot of Internet connectivity."){#attachment_2483} 
 
 Taking the above into account we can mathematically express the
 probability that the node \\\(  i \\\) will gain another degree as
 
-
 \begin{equation}
  p\_i = \frac{k\_i^\alpha}{\sum\_j k\_j^\alpha} . 
 \end{equation}
-
 
 In the above \\\(  k\_i \\\) is a degree of the node \\\(  i \\\), \\\( \alpha \\\) is an influence of the popularity (the larger it gets the more
 larger degrees are preferred), while the division by the sum over all
@@ -95,31 +90,27 @@ Essential properties of the Barabasi-Albert model and scale-free networks
 First of all the distribution of degrees is a power law \[cite
 id="Albert2002RevModPhys"\]:
 
-
 \begin{equation}
  p(k) \sim k^{-\lambda}, 
 \end{equation}
-
 
 here \\\(  \lambda \\\) is the slope of the power law function (\\\( \lambda=3 \\\), when \\\(  \alpha=1 \\\)).
 
 The average path length in the scale-free networks (generated using
 Barabasi-Albert model) is smaller than in a case of the
-[Watts-Strogatz](/watts-strogatz-model "Watts-Strogatz model on Physics of Risk")
+[Watts-Strogatz]({filename}/articles/2013/watts-strogatz-model.md)
 model \[cite id="Albert2002RevModPhys"\]:
-
 
 \begin{equation}
  l \sim \frac{\ln N}{\ln \ln N}. 
 \end{equation}
 
-
 Therefore it should be evident that the scale-free networks are
 ultra-small world networks.
 
-And lastly, the scale-free network has a large clusterization
+And lastly, the scale-free network has a large clustering
 coefficient. Larger than the one observed in the
-[Erdos-Renyi](/erdos-renyi-model "Erdos-Renyi model on Physics of Risk")
+[Erdos-Renyi]({filename}/articles/2013/erdos-renyi-model.md)
 networks \[cite id="Albert2002RevModPhys"\].
 
 Interactive HTML5 applet
@@ -139,15 +130,9 @@ degrees (note that both axes are logarithmic).
 Note that with a large number of nodes (100 or more) the applet might
 free and disrupt your browser operation, thus you should handle the
 applet with care. If you would like to analyze or generate large network
-consider downloading [Gephi](http://gephi.org/) or obtaining other
+consider downloading [Gephi](https://gephi.org/) or obtaining other
 similar software packages.
 
 [html5-interactive
 url="/uploads/models/network-models/barabasi-albert/index.html"
 mode="iframe" height="320" width="480"]
-
-Previously, on the old Physics of Risk, we used a Lithuanian translated
-Java applet, originally created with NetLogo, to provide an interactive
-demonstration. The original, english, applet (created by Uri Wilensky)
-can be found on the [NetLogo Model
-Library](http://ccl.northwestern.edu/netlogo/models/PreferentialAttachment).

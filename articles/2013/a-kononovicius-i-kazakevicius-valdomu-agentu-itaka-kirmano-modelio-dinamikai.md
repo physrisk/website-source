@@ -11,7 +11,7 @@ herding, group, behavior tendencies and their individual preferences.
 The herding tendencies imply the possibility to control the collective
 behavior. In this text we discuss this possibility through the context
 of [Kirman's agent-based herding
-model](/kirman-ants "Kirman's ant colony model").
+model]({filename}/articles/2010/kirman-ants.md).
 
 The possibility to control the collective behavior can be clearly seen
 by taking the social systems as a primary example. In this case we
@@ -30,7 +30,7 @@ Introduction of the controlled agents
 -------------------------------------
 
 Previously we already wrote about [Kirman's agent-based herding
-model](/kirman-ants "Kirman's ant colony model").
+model]({filename}/articles/2010/kirman-ants.md).
 Now let us extend the original model by introducing \\\(  M \\\)
 controlled agents, who occupy the selected state. Note that now we have
 a system composed of \\\(  N+M \\\) agents. The only difference between
@@ -53,11 +53,9 @@ influence of the controlled agents.
 Let us rewrite the one-step probability (which differs from the original
 model):
 
-
 \begin{equation}
  P(X \rightarrow X+1) = (N-X) \[(\sigma\_1 + h M)+h X\] \Delta t = (N-X) \[\tilde{\sigma}\_1 + h X\] \Delta t. 
 \end{equation}
-
 
 As you can see the controlled agents have a very limited effect - they
 just serve as a perturbation of the \\\(  \sigma\_1 \\\). This is
@@ -68,18 +66,16 @@ id="Carro2013"\], is more transparent in the microscopic sense.
 
 By using the previous intuition we can easily rewrite the stochastic
 model, by using the [previous
-results](/stochastic-ant-colony-model "Stochastic ant colony model"):
+results]({filename}/articles/2010/stochastic-ant-colony-model.md):
 
 \begin{eqnarray} \mathrm{d} x &=& \[\tilde{\sigma}\_1 (1-x)- \sigma\_2 x\] \mathrm{d} t + \sqrt{2 h x (1-x)} \mathrm{d} W =\nonumber \\ &=& \[( \sigma\_1 + h M ) (1-x) - \sigma\_2 x\]\mathrm{d} t + \sqrt{2 h x (1-x)} \mathrm{d} W. \end{eqnarray}
 
 The influence of the controlled agents can be more transparently seen by
 obtaining the stationary PDF and mean for \\\(  x \\\):
 
-
 \begin{equation}
  p(x) =\frac{\Gamma(\varepsilon\_1+\varepsilon\_2+M)}{\Gamma(\varepsilon\_1+M)\Gamma(\varepsilon\_2)} (1-x)^{\varepsilon\_2-1}x^{\varepsilon\_1+M-1} , \quad \langle x \rangle =\frac{\varepsilon\_1+M}{\varepsilon\_1+\varepsilon\_2+M} ,\label{xpdf}
 \end{equation}
-
 
 where \\\(  \varepsilon\_i = \sigma\_i / h \\\).
 
@@ -96,7 +92,7 @@ ways \[cite id="Alfarano2005CompEco, Alfarano2008Dyncon"\]. In one case
 the agents may interact with all other agents (this case was considered
 above), while in the other case agents may interact only with their
 neighbors (recall the [comparison with Bass
-model](/unidirectional-kirman-model "Unidirectional Kirman model")).
+model]({filename}/articles/2011/unidirectional-kirman-model.md)).
 Note that if Kirman's model can be interpreted in two ways, then our
 model can be interpreted in four:
 
@@ -161,19 +157,15 @@ the controlled agents remain! It is worthwhile to note that the
 macroscopic model in this case is given by ordinary differential
 equation:
 
-
 \begin{equation}
  \mathrm{d} x = \left\[ (\sigma\_1 + h M) (1-x) - \sigma\_2 x\right\] \mathrm{d} t , 
 \end{equation}
 
-
 solution of which exponentially fast converges to the desired value:
-
 
 \begin{equation}
  x(t) =\frac{\varepsilon\_1+M}{\varepsilon\_1+\varepsilon\_2+M} + \left(x\_0 - \frac{\varepsilon\_1+M}{\varepsilon\_1+\varepsilon\_2+M}\right) \exp(- h \[\varepsilon\_1+\varepsilon\_2+M\]) . 
 \end{equation}
-
 
 Thus in this case we have ideal control over the collective behavior!
 
@@ -197,7 +189,7 @@ Bellow you should find an interactive Kirman's agent-based model applet,
 which incorporates the controlled agents. We would like to draw your
 attention to the fact that in this applet we allow both negative and
 positive values of \\\(  M \\\). The negative values just indicate that
-controled agent choose the opposite state to the one represented by
+controlled agent choose the opposite state to the one represented by
 \\\(  x \\\). The meaning behind and usage of the other parameters of the
 applet is standard.
 

@@ -7,5 +7,5 @@ Status: published
 
 The authors of Physics of Risk website
 encourage all to endorse the open economic principles. All the relevant
-information is available on <http://openeconomics.net/principles/>
+information is available on <https://openeconomics.net/principles/>
 website.

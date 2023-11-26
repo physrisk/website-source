@@ -7,7 +7,7 @@ Status: published
 
 In the
 previous
-[text](/baltijos-valstybiu-ekonomikos-vejasi-ir-lenkia-vysegrado-salis/)
+[text]({filename}/articles/2013/baltijos-valstybiu-ekonomikos-vejasi-ir-lenkia-vysegrado-salis.md)
 we considered statistical information from various sources, exhibiting
 sustained economic growth of Baltic countries. Now with some confidence
 we can conclude that even world financial crises has made only
@@ -17,7 +17,7 @@ sustain these positions in the nearest future.
 
 The particular role of exports in the recovered economic growth confirms
 presumptions regarding exceptional manifestation of [Balassa-Samuelson
-effect](http://en.wikipedia.org/wiki/Balassa%E2%80%93Samuelson_effect "Read about Balassa-Samuelson effect on Wikipedia")
+effect](https://en.wikipedia.org/wiki/Balassa%E2%80%93Samuelson_effect "Read about Balassa-Samuelson effect on Wikipedia")
 in Baltics. Nevertheless, one needs more arguments, why this effect
 contributes more in the development of Baltic region then others. For
 example, the Visegrad countries, having a similar level of gross
@@ -41,7 +41,7 @@ sets: GDP in market prices and labor gross earnings given in PPS. Other
 presented variables are simple functions of these two basic sets.
 
 [Interactive program
-StatPlanet](/uploads/models/data-driven-apps/gdp-statplanet/index.html)
+StatPlanet]({static}/uploads/models/data-driven-apps/gdp-statplanet/index.html)
 plots three time series (t.s.) in the year interval from 1995 to 2012:
 
 1.  GDP per capita in PPS,
@@ -60,7 +60,7 @@ imgurl="/uploads/models/data-driven-apps/gdp-statplanet/index.jpg"
 mode="img"]
 
 One can interactively choose plot parameters exhibited by [the FLASH
-applet](/uploads/models/data-driven-apps/gdp-statplanet/index.html) and analyze
+applet]({static}/uploads/models/data-driven-apps/gdp-statplanet/index.html) and analyze
 three time series and two their averages for the all EU countries and
 few main EU partner countries. We do aim to discuss in more details
 economic growth of Baltic in comparison with other countries. We would
@@ -77,7 +77,7 @@ more than by seeming endogenous macroeconomic disproportions in Baltics.
 
 ![Fig.
 1. Relative GDP growth of EU contries in the period 1995-2012, map of
-GDP(2011)/GDP(1995).](/uploads/2013/relative-gdp-growth.jpg "
+GDP(2011)/GDP(1995).]({static}/uploads/2013/relative-gdp-growth.jpg "
 Relative GDP growth of EU contries in the period 1995-2012, map
 of GDP(2011)/GDP(1995)."){#attachment_2541} 
 
@@ -105,13 +105,13 @@ growth rates and lower relative gross earnings.
 
 ![Fig.
 2. Map of average GDP growth per year of EU countries in the period
-1995-2012.](/uploads/2013/eu-gdp-growth.jpg "
+1995-2012.]({static}/uploads/2013/eu-gdp-growth.jpg "
 Map of average GDP growth per year of EU countries in the period
 1995-2012."){#attachment_2542} 
 
 ![Fig.
 3. Map of average relative gross earning in EU contries,
-1995-2012.](/uploads/2013/mean-relative-wage.jpg "
+1995-2012.]({static}/uploads/2013/mean-relative-wage.jpg "
 Map of average relative gross earning in EU contries,
 1995-2012."){#attachment_2543} 
 
@@ -122,7 +122,7 @@ observe from the data that economic growth of countries in South Europe:
 Italy, Portugal and Spain, discontinues when gross earning approaches
 GDP per capita. It is accepted in research literature that for countries
 with similar level of development the [Balassa-Samuelson
-effect](http://en.wikipedia.org/wiki/Balassa%E2%80%93Samuelson_effect "Read about Balassa-Samuelson effect on Wikipedia")
+effect](https://en.wikipedia.org/wiki/Balassa%E2%80%93Samuelson_effect "Read about Balassa-Samuelson effect on Wikipedia")
 is already spent. Probably, too high levels of gross earnings for these
 countries can be one more obstacle for the competitiveness of their
 economies. It is too early to make certain conclusions regarding

@@ -5,7 +5,7 @@ Tags: Interactive models, nontransitivity, paradox
 Slug: the-illogical-world-nontranstive-dice
 Status: published
 
-[Previously](/the-illogical-world-voting-paradox "The illogical world - voting paradox")
+[Previously]({filename}/articles/2013/the-illogical-world-voting-paradox.md)
 we wrote about the "illogical" world, which is full of paradoxes and
 nontransitivity. This time we discuss an elementary dice game, which is
 also nontransitive and thus appears to be unnatural, "cheated" and etc.
@@ -31,8 +31,7 @@ empirically by making the dice as they are show in the
 mirror values shown on the walls, which are seen). Which of the dice is
 a better one? Which one will roll higher values than the other two?
 
-![Nontransitive
-dice](/uploads/2013/non-transitive-dice.png "
+![Nontransitive dice]({static}/uploads/2013/non-transitive-dice.png "
 Nontransitive dice. Image taken from
 http://en.wikipedia.org/wiki/File:Intransitive_dice_2.svg."){#attachment_2490} 
 
