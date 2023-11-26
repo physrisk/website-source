@@ -24,7 +24,7 @@ Often limit orders have some expiry time or they are removed if the order book g
 
 In the example below we have shown an order book, which had 10 bid limit orders (red full circles) and 7 ask limit orders (blue filled circles) in it. Then one additional bid limit order came in and was placed based on its limit price (direction of arrow). Afterwards an ask market order (empty circle with blue outline) came in and was executed by pairing with best bid limit order (the crossed out red circle). The new market price would be set to the price of the executed limit order (60 monies as per previous example).
 
-![Example events in the order book.](/uploads/2018/order-book.svg.png "Example events in the order book.")
+![Example events in the order book.]({static}/uploads/2018/order-book.svg.png "Example events in the order book.")
 
 Below you can also find a somewhat interactive preview of the model we will discuss some time in the future (the most impatient will find the detailed description in [cite id="Maslov2000PhysA"]). It shows the same plot as above: number of order vs price. Both limit and market orders here arrive at random and are executed if it is possible. If not, then limit orders are placed into order book (number of bids at given price level are shown as red dots, while number of asks as blue dots). Dark line is the last price separator.
 

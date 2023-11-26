@@ -38,7 +38,7 @@ could allow their nation to prosper at the expense of the other nations.
 Supposedly economic nationalism is different from, and thus much better than,
 other economic ideologies, because it embraces thousands of years of experience.
 
-![Confused](/uploads/2018/confused-pixabay-cc0.jpg)
+![Confused]({static}/uploads/2018/confused-pixabay-cc0.jpg)
 
 Strangely this experience is not recognized by the other economists, despite of
 hundreds years of research. This narrative inspires to make a comparison with folk
@@ -65,7 +65,7 @@ and on the imported sweaters.
 1. The collected tax is reinvested in the nation A by building wool mills. Hence the
 nation A prospers!
 
-![Sheep](/uploads/2018/sheep-pixabay-cc0.jpg)
+![Sheep]({static}/uploads/2018/sheep-pixabay-cc0.jpg)
 
 But when you actually try to think about it, it occurs that it is not that
 simple. Just think what these steps do to the supply and demand curves.
@@ -128,7 +128,7 @@ themselves and the prosperity of Venice declined. Also some nations got
 extremely pissed and declared war on Venice. **The lesson is** that Venice
 exploited its superior position to extract wealth from the other countries.
 
-![The British Empire](/uploads/2018/british-empire-1920-pixabay-cc0.jpg)
+![The British Empire]({static}/uploads/2018/british-empire-1920-pixabay-cc0.jpg)
 
 The British Empire isolated itself by imposing huge tariffs on some of the imported
 goods in around 1600s. This raised prices as well as created the need for the
@@ -150,7 +150,7 @@ the price with deaths of millions of their own citizens. Another lesson is that
 the ones who benefited from economic nationalism were the elite and not the
 ordinary people (who are rallied by contemporary economic nationalists).
 
-![Matsumoto Castle](/uploads/2018/matsumoto-castle-pixabay-cc0.jpg)
+![Matsumoto Castle]({static}/uploads/2018/matsumoto-castle-pixabay-cc0.jpg)
 
 From 1630s to 1850s Japan isolated itself from the rest of the world banning
 almost all foreign trade (with exception of couple of ports, which were open to

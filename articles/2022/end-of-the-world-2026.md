@@ -72,7 +72,7 @@ to see the value of \\\( \alpha^\prime \\\) as you change other parameters.
 
 ![Data (points) against model prediction (line). Points come in two colors:
 green dots show data of the period prior to publication, red dots show data
-of the post-publication period.](/uploads/2022/end-of-the-world-2026.png
+of the post-publication period.]({static}/uploads/2022/end-of-the-world-2026.png
 "Data (points) against model prediction (line). Points come in two colors:
 green dots show data of the period prior to publication, red dots show data
 of the post-publication period.")

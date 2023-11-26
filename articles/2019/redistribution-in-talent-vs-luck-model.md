@@ -36,7 +36,7 @@ This strategy puts huge emphasis on initial luck. As the time goes on, the
 agents who were lucky in the beginning split from the rest and now two clusters
 are observed. Total wealth decreases.
 
-![talent vs luck model with redistribution to best](/uploads/2019/tvl-model-r.png
+![talent vs luck model with redistribution to best]({static}/uploads/2019/tvl-model-r.png
 "Results of a random simulation with 'flat tax, give to 10% best' redistribution
 strategy.")
 

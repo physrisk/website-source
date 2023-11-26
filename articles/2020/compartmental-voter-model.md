@@ -60,7 +60,7 @@ district \\\( i \\\), \\\( \varepsilon^{(k)} \\\) is the individual transition
 rate for type \\\( k \\\), \\\( N\_j \\\) is total number of agents in the
 district \\\( j \\\).
 
-![Schema of the compartmental voter model.](/uploads/2020/cvm-schema.png "Schema of the compartmental voter model. Arrows show directions of possible transitions along with respective transition rates. Note that zero rate means that this transitions will not happen unless something changes. Parameters: N = 20, T=2, M=5, C=5, ε=2.")
+![Schema of the compartmental voter model.]({static}/uploads/2020/cvm-schema.png "Schema of the compartmental voter model. Arrows show directions of possible transitions along with respective transition rates. Note that zero rate means that this transitions will not happen unless something changes. Parameters: N = 20, T=2, M=5, C=5, ε=2.")
 
 Note that the compartmental voter model is conceptually similar to the
 [original Schelling's model]({filename}/articles/2015/selingo-segregacijos-modelis.md)
@@ -81,12 +81,12 @@ For the infinite capacity case it can be easily shown that the stationary
 distribution is Beta distribution, or for finite \\\( N \\\) it is Beta-binomial
 distribution instead.
 
-![Model \(red\) vs Beta-fit \(black\): N=3000, T=1, M=100 and C=N \(both\), ε=2 \(a\) and 0.03 \(b\).](/uploads/2020/cvm-jstat-fig1.png "Model \(red\) vs Beta-fit \(black\): N=3000, T=1, M=100 and C=N \(both\), ε=2 \(a\) and 0.03 \(b\).")
+![Model \(red\) vs Beta-fit \(black\): N=3000, T=1, M=100 and C=N \(both\), ε=2 \(a\) and 0.03 \(b\).]({static}/uploads/2020/cvm-jstat-fig1.png "Model \(red\) vs Beta-fit \(black\): N=3000, T=1, M=100 and C=N \(both\), ε=2 \(a\) and 0.03 \(b\).")
 
 Yet interestingly the same fit also applies to the compartmental rank-size
 distribution.
 
-![Model \(red\) vs Beta-fit \(black\) with the same parameters as in the previous figure.](/uploads/2020/cvm-jstat-fig2.png "Model \(red\) vs Beta-fit \(black\) with the same parameters as in the previous figure")
+![Model \(red\) vs Beta-fit \(black\) with the same parameters as in the previous figure.]({static}/uploads/2020/cvm-jstat-fig2.png "Model \(red\) vs Beta-fit \(black\) with the same parameters as in the previous figure")
 
 Note that there is an essential difference between how we calculate stationary
 and compartmental distributions. Stationary distributions are obtained by

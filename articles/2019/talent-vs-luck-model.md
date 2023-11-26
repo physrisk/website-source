@@ -47,7 +47,7 @@ Below you can see that in this model relative luck of an agent (lucky
 events minus unlucky events) is better predictor of his success than his talent.
 While talent does have impact, it is relatively hard to see.
 
-![talent vs luck model](/uploads/2019/tvl-model.png "Results of a random simulation,
+![talent vs luck model]({static}/uploads/2019/tvl-model.png "Results of a random simulation,
 which uses the default parameters.")
 
 ## A bit of criticism

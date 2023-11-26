@@ -36,7 +36,7 @@ and the respective caption was copied from the original article [cite
 id="Krapivsky2019JStat"].
 
 ![Figure and its caption copied from the arXiv copy of (Krapivsky & Redner,
-2019).](/uploads/2022/parking-strategies.png)
+2019).]({static}/uploads/2022/parking-strategies.png)
 
 Another strategy was proposed in [cite id="Krapivsky2020JStat"]. This
 strategy is known as **1/2 rule**. If using this strategy, the driver
@@ -69,7 +69,7 @@ parking lot, because if the last place is taken, then they will be looking
 for the first gap.
 
 ![If meek drivers parked in the simulated parking
-lot.](/uploads/2022/parking-meek.png "If meek drivers parked in the
+lot.]({static}/uploads/2022/parking-meek.png "If meek drivers parked in the
 simulated parking lot.")
 
 Prudent drivers, as per [cite id="Krapivsky2019JStat"], will leave number of
@@ -77,7 +77,7 @@ available spots very close to the destination (marked by the red square),
 but otherwise will pack quite nicely in front of the parking lot.
 
 ![If prudent drivers parked in the simulated parking
-lot.](/uploads/2022/parking-prudent.png "If prudent drivers parked in the
+lot.]({static}/uploads/2022/parking-prudent.png "If prudent drivers parked in the
 simulated parking lot.")
 
 Optimist drivers, as per [cite id="Krapivsky2019JStat"], will quickly fill
@@ -85,7 +85,7 @@ in any gap close to the destination and will pack even tighter than the
 prudent drivers.
 
 ![If optimist drivers parked in the simulated parking
-lot.](/uploads/2022/parking-optimist.png "If optimist drivers parked in the
+lot.]({static}/uploads/2022/parking-optimist.png "If optimist drivers parked in the
 simulated parking lot.")
 
 Drivers using 1/2 rule will fill in the parking lot very much alike to
@@ -98,7 +98,7 @@ spot. Prudent strategy will rarely require backtracking, but will give the
 best spot with probability vanishing as \\\( \lambda^{-1/2} \\\).
 
 ![If 1/2 rule drivers parked in the simulated parking
-lot.](/uploads/2022/parking-half.png "If 1/2 rule drivers parked in the
+lot.]({static}/uploads/2022/parking-half.png "If 1/2 rule drivers parked in the
 simulated parking lot.")
 
 ## The cost

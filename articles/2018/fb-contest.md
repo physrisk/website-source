@@ -43,7 +43,7 @@ asked for a number, so the participants gave numbers as answers. There were
 couple angry comments about the incompleteness of problem, but they were
 significantly out numbered.
 
-## Structure of [the data file](/uploads/2018/fb-comments.csv)
+## Structure of [the data file]({static}/uploads/2018/fb-comments.csv)
 
 I have downloaded the comment data using Facebook's Graph
 API. Next I have classified the comments based on their content into 13
@@ -58,13 +58,13 @@ There were also a couple of comments, which suggested that answer is either 3
 or 5 ("ans35"), as well as a couple of comments providing reasoning why 5 is the
 only possible answer ("ans5a").
 
-The other columns in [the data file](/uploads/2018/fb-comments.csv)
+The other columns in [the data file]({static}/uploads/2018/fb-comments.csv)
 either store time in seconds since midnight
 2018-07-09 ("time") or provide total number of comments giving some answers
 ("comments") at that time. Note that "time" column gives a time when comment was
 posted.
 
-Feel free to [download the data file (CSV)](/uploads/2018/fb-comments.csv).
+Feel free to [download the data file (CSV)]({static}/uploads/2018/fb-comments.csv).
 
 ## Exploration
 
@@ -80,7 +80,7 @@ comments suggesting that either of these can be answer. Notably there were five
 comments explaining why 5 is the only possible answer and no comments providing
 arguments for the other guesses.
 
-![Total number of comments](/uploads/2018/fb-comm-numbers.png "The
+![Total number of comments]({static}/uploads/2018/fb-comm-numbers.png "The
 growth of the number of comments. Blue line gives the total number of comments,
 red line indicates the total number of comments which have guessed 5, while the
 green line summarizes the total number of all other comments."){#fig1}
@@ -91,7 +91,7 @@ first saturation occurs at midnight of the first day (vertical gridlines
 correspond to the midnights). The diffusion resumes the
 next day until the true saturation is reached over the next few days.
 
-![Fraction of guess 5 comments](/uploads/2018/fb-comm-frac.png "The
+![Fraction of guess 5 comments]({static}/uploads/2018/fb-comm-frac.png "The
 evolution of the share of the Guess 5 comments."){#fig2}
 
 Graph for the fraction of comments, [Fig. 2](#fig2), looks less interesting after

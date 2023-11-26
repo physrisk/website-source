@@ -25,6 +25,6 @@ to my newest paper [cite id="Kononovicius2022CSF"]), random telegraph noise
 have to wait until after the new year.
 
 ![Photo of a book by N. Arya (available from
-pexels.com).](/uploads/2022/summer-2022-book-n-arya-pexels.jpg)
+pexels.com).]({static}/uploads/2022/summer-2022-book-n-arya-pexels.jpg)
 
 Happy new academic year!

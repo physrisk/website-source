@@ -51,7 +51,7 @@ has a narrow stationary distribution, which shrinks as
 \\\( N \rightarrow \infty \\\). Parameter \\\( \beta \\\) has similar
 meaning as \\\( \alpha \\\), but applies only to supportive interactions.
 
-![Special points of the transition rates](/uploads/2021/imitation-supportive-rates.png "Special points of the transition rates (corresponds to Fig. 3 from the article).")
+![Special points of the transition rates]({static}/uploads/2021/imitation-supportive-rates.png "Special points of the transition rates (corresponds to Fig. 3 from the article).")
 
 Bifurcation diagrams of this model will be a bit more complicated as few
 different attraction basins exist (as can be seen in the figure above as
@@ -116,7 +116,7 @@ numerically for the specific parameter values. Below you should see a
 typical bifurcation diagram of the model (figure corresponds to Fig. 6 (b)
 from [cite id="Kononovicius2021CSF"]).
 
-![Bifurcation diagram](/uploads/2021/imitation-supportive-phases.png
+![Bifurcation diagram]({static}/uploads/2021/imitation-supportive-phases.png
 "Bifurcation diagram of the model with α=β=0 (corresponds to Fig. 6 (b) from
 the article).")
 

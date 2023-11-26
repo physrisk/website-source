@@ -98,7 +98,7 @@ Otherwise ordered (ferromagnetic) phase should be observed. Note that for \\\( q
 I model has a rather complicated behavior in the vicinity of critical
 probability. Namely, both phases appear to coexist.
 
-![Phase diagram](/uploads/2019/qaivoter-phase.png "Phase diagram for
+![Phase diagram]({static}/uploads/2019/qaivoter-phase.png "Phase diagram for
 the A model \(red\) and I model \(green\). Lines show the critical value
 dependence on q. Ordered phase area is shaded.")
 
@@ -114,7 +114,7 @@ a bit larger \\\( p\_a \\\).
 src="/uploads/models/voter/qaivoter.html"]
 
 You can also study the models separately using separate app for each of the
-models. [Click here to find the app for the A model](/uploads/models/voter/qavoter.html)
-and [click here for the I model](/uploads/models/voter/qivoter.html).
+models. [Click here to find the app for the A model]({static}/uploads/models/voter/qavoter.html)
+and [click here for the I model]({static}/uploads/models/voter/qivoter.html).
 
 [acknowledge id="postdoc-ak-2017-lit"]

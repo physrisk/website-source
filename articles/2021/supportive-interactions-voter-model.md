@@ -90,7 +90,7 @@ certain scenarios not all phases will be observable. For a more complete
 picture of the phase behavior of the model see Fig. 2 in
 [cite id="Kononovicius2021CSF"].
 
-![Bifurcation diagram](/uploads/2021/full-supportive-phases.png "Bifurcation diagram of the model with α=β=1 (corresponds to Fig. 2 (a) from
+![Bifurcation diagram]({static}/uploads/2021/full-supportive-phases.png "Bifurcation diagram of the model with α=β=1 (corresponds to Fig. 2 (a) from
 the article).")
 
 ## Interactive app

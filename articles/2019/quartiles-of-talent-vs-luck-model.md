@@ -22,7 +22,7 @@ somewhat poor (capital Q3). We will be examining, how well the quartile in one
 regard predicts quartile in another regard. Below you can see a random simulation
 results.
 
-![quartiles of talent vs luck model](/uploads/2019/tvl-model-q.png
+![quartiles of talent vs luck model]({static}/uploads/2019/tvl-model-q.png
 "Results of a random simulation with 'no redistribution' redistribution
 strategy.")
 

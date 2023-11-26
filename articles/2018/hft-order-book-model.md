@@ -34,7 +34,7 @@ from the [cite id="Kanazawa2018arxiv"]). This idea provides a background
 for the experimental (data analysis) setup as well as analytical treatment
 of the model.
 
-![correspondence between the kinetic theory in Physics and order book dynamics in Finance](/uploads/2018/hft-ob-correspondence.png "The main idea of the model as illustrated by Kanazawa et al.")
+![correspondence between the kinetic theory in Physics and order book dynamics in Finance]({static}/uploads/2018/hft-ob-correspondence.png "The main idea of the model as illustrated by Kanazawa et al.")
 
 After performing the empirical analysis of high resolution order-book level data,
 the researchers determined four key features of the HFTs (abbr. high-frequency
@@ -93,7 +93,7 @@ quotes by \\\( - L\_j/2 \\\) and agent's \\\( i \\\) quotes by \\\( L\_i /2 \\\)
 To visually understand how the model behaves see an illustration by Kanazawa et al.
 below (the figure is a screenshot of Fig. 4 from the [cite id="Kanazawa2018arxiv"]).
 
-![schematic representation of the model by Kanazawa et al.](/uploads/2018/hft-ob-schema.png "Schematic representation of the model as illustrated by Kanazawa et al.")
+![schematic representation of the model by Kanazawa et al.]({static}/uploads/2018/hft-ob-schema.png "Schematic representation of the model as illustrated by Kanazawa et al.")
 
 ## Weak, strong and marginal trend following regimes
 
@@ -117,7 +117,7 @@ In this case diffusive behavior of the HFTs dominates, hence the price change
 distribution is approximately Gaussian. Auto-correlation function for the short lags
 is noticeably negative.
 
-![weak trend following](/uploads/2018/hft-ob-weak.png "Weak trend following (default parameters, except \\\( \\sigma=14.5 \\\)).")
+![weak trend following]({static}/uploads/2018/hft-ob-weak.png "Weak trend following (default parameters, except \\\( \\sigma=14.5 \\\)).")
 
 If \\\( \\tilde c \\\) would be significantly larger than 1, then trend following is
 strong. In this case drift behavior of the HFTs dominates. The price change PDF
@@ -127,14 +127,14 @@ positive. The auto-correlation function in our app below is positive, if last
 persists for longer than 1024 points, then auto-correlation function will fluctuate
 around zero. This is just minor artifact of the algorithm we implemented in the app.
 
-![strong trend following](/uploads/2018/hft-ob-strong.png "Strong trend following (default parameters, except \\\( \\sigma=1.8 \\\)).")
+![strong trend following]({static}/uploads/2018/hft-ob-strong.png "Strong trend following (default parameters, except \\\( \\sigma=1.8 \\\)).")
 
 If \\\( {\\tilde c} \\approx 1 \\\), then trend following is marginal. In this case
 we observe interplay between the drift and diffusion terms of the HFTs. The price
 change PDF is exponential. While the auto-correlation function will fluctuate around
 zero. For some parameter sets it will favor negative side, for some - positive side.
 
-![marginal trend following](/uploads/2018/hft-ob-marginal.png "Marginal trend following (default parameters).")
+![marginal trend following]({static}/uploads/2018/hft-ob-marginal.png "Marginal trend following (default parameters).")
 
 The empirical estimates point to the third case. The paper reports that marginal
 following case is also consistent with empirical facts (price change PDF and

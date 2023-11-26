@@ -14,7 +14,7 @@ on [Kirman's ants]({filename}/articles/2010/kirman-ants.md) was published on
 April 11, 2010), it is still an important post, which marks our transition to
 writing in English.
 
-![Stock image from pixabay.](/uploads/2020/pixabay-fireworks.jpg "Stock image
+![Stock image from pixabay.]({static}/uploads/2020/pixabay-fireworks.jpg "Stock image
 from pixabay.")
 
 It is interesting to see if we will survive another 10 years.

@@ -60,28 +60,28 @@ When \\\( \mu \\\) is large, then one needs to take into account more than
 first order terms, so the overall shape looks like an exponential. For moderate
 \\\( mu \\\) in some cases one can ignore the higher order terms.
 
-![Temporal curves with large μ.](/uploads/2020/power-law-in-exp-growth-1.png "Temporal curves with large μ.")
+![Temporal curves with large μ.]({static}/uploads/2020/power-law-in-exp-growth-1.png "Temporal curves with large μ.")
 
 Small \\\( \nu \\\) lead to large values of \\\( t\_i \\\). Most, if not all, of
 \\\( t\_i \\\) will be larger than the small times we want to observe. Thus for
 small \\\( t \\\) we observe just a single exponential growth in the first
 spatial unit. Which is linear for \\\( t \ll 1 \\).
 
-![Temporal curves with small ν.](/uploads/2020/power-law-in-exp-growth-2.png "Temporal curves with small ν.")
+![Temporal curves with small ν.]({static}/uploads/2020/power-law-in-exp-growth-2.png "Temporal curves with small ν.")
 
 With moderate \\\( \nu \\\) significant number of \\\( t\_i \\\) will be within
 the range of small times we want to observe. So the observed dynamics will be a
 sum of linear growths, which are reasonably well spread out. Integral of a
 linear function is a squared function. Therefore we observe squared growth.
 
-![Temporal curves with moderate ν.](/uploads/2020/power-law-in-exp-growth.png "Temporal curves with moderate ν.")
+![Temporal curves with moderate ν.]({static}/uploads/2020/power-law-in-exp-growth.png "Temporal curves with moderate ν.")
 
 With large \\\( \nu \\\) many of \\\( t\_i \\\) will be very small and
 practically indistinguishable from our perspective. Thus the sum would be well
 described by an exponential function, which for \\\( t \ll 1 \\\) is well
 approximated by linear function.
 
-![Temporal curves with large ν.](/uploads/2020/power-law-in-exp-growth-3.png "Temporal curves with large ν.")
+![Temporal curves with large ν.]({static}/uploads/2020/power-law-in-exp-growth-3.png "Temporal curves with large ν.")
 
 ## Interactive app
 

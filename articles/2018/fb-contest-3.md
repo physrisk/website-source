@@ -23,12 +23,12 @@ expected growth of the number of comments, but we have also observed a couple
 saturation plateaus. In this post we are interested in reproducing the blue
 curves from [Fig. 1](#fig1) and [Fig. 2](#fig2).
 
-![Total number of comments](/uploads/2018/fb-comm-numbers.png "The
+![Total number of comments]({static}/uploads/2018/fb-comm-numbers.png "The
 growth of the number of comments. Blue line gives the total number of comments,
 red line indicates the total number of comments which have guessed 5, while the
 green line summarizes the total number of all other comments."){#fig1}
 
-![New comments per time window of 15 minutes](/uploads/2018/fb-comm-new.png
+![New comments per time window of 15 minutes]({static}/uploads/2018/fb-comm-new.png
 "Number of new comments \(all\) per time window of 15 minutes."){#fig2}
 
 [In the previous post]({filename}/articles/2018/fb-contest.md) I have speculated
