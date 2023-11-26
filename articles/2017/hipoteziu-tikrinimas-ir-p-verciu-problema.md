@@ -46,4 +46,4 @@ I invite you to see.
 
 For the ones who are more interested in technical detail I would like
 suggest reading a draft by Nicholas Nassim Taleb (see on Fooled by Randomness website:
-<http://fooledbyrandomness.com/pvalues.pdf>).
+<https://fooledbyrandomness.com/pvalues.pdf>).

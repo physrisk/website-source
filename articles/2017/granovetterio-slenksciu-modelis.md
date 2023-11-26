@@ -10,8 +10,8 @@ we once again present you a model of collective action. Last time we
 have considered [Standing Ovation
 Model]({filename}/articles/2017/plojimu-atsistojus-modelis.md) by
 Miller and Page, in earlier years we have written a lot about
-[Kirman](/tag/kirman-model) and
-[Bass](/tag/bass-model) models, as well as
+[Kirman](/tag/kirman-model/) and
+[Bass](/tag/bass-model/) models, as well as
 [correspondence between
 them]({filename}/articles/2011/unidirectional-kirman-model.md). There
 is another classic model, which will be covered in this post, which

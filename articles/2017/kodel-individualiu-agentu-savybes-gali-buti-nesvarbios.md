@@ -18,18 +18,18 @@ mechanisms of human decision making - homophily (selecting your peers)
 and peer pressure (adopting your peers behavior). Mathematically there
 usually will be no difference between them, both mechanisms can be be
 described using the same [Kirman's
-model](/tag/kirman-model).
+model](/tag/kirman-model/).
 
 In this text we will consider [Bass diffusion
-model](/tag/bass-model) with heterogeneous
+model](/tag/bass-model/) with heterogeneous
 agents (each of them having his own independent parameters). We will
 show that the heterogeneous model produces similar macroscopic dynamics
 as homogeneous model. To simplify matter even further we will use
 [unidirectional Kirman's
-model](/unidirectional-kirman-model).<!--more-->
+model]({filename}/articles/2011/unidirectional-kirman-model.md).<!--more-->
 
 Let me remind you that [Bass diffusion
-model](/tag/bass-model) describes diffusion
+model](/tag/bass-model/) describes diffusion
 of new durable products (or new technologies) in the market. Namely,
 agents in this model make a choice to adopt the product (technology) or
 not to. After becoming adopter the agent can no longer go back. The
@@ -44,11 +44,9 @@ and upper bound of the value distribution are model parameters).
 In this case agent identified by index \\\(  i \\\) will adopt the
 product (technology) with probability:
 
-
 \begin{equation}
  p\_i = \left( \sigma\_i + h\_i \frac{X}{N} \right) \Delta t, 
 \end{equation}
-
 
 here \\\(  X \\\) is a current number of adopters, while \\\(  N \\\) -
 total number of agents, \\\(  \Delta t \\\) - short intrinsic model time
@@ -56,11 +54,9 @@ step. If agent has already adopted, then his transition probability is
 zero, \\\(  p\_i = 0 \\\). The one step transition probability for a
 system as whole:
 
-
 \begin{equation}
  p(X \rightarrow X+1) = \frac{1}{N} \sum\_i p\_i =\frac{1}{N} \sum\_i (1-S\_i) \left( \sigma\_i + h\_i \frac{X}{N}\right) \Delta t = (N-X) \left({\bar \sigma} + {\bar h}\frac{X}{N} \right) \Delta t, 
 \end{equation}
-
 
 here we have introduced variable \\\(  S\_i \\\), which describes the
 current state of agent identified by index \\\(  i \\\) (\\\(  S\_i=1 \\\)
@@ -75,7 +71,7 @@ effective number of agents acting in the system, \\\(  N \\\).
 
 According to the discussion above the heterogeneous should be well
 approximated by the [Bass diffusion
-equation](/unidirectional-kirman-model) with
+equation]({filename}/articles/2011/unidirectional-kirman-model.md) with
 parameter values equal to the averages of agents' intrinsic values.
 
 In the app below we have implemented the heterogeneous model as well as
@@ -94,6 +90,6 @@ width="470" height="500" mode="iframe"]
 We invite our readers to think critically about this topic. Not all
 models remain unaffected by the introduction of heterogeneity in agents'
 parameters. In some models, e.g., [kinetic models of wealth
-distribution](/modelling-wealth-distribution-using-kinetic-exchange-models),
+distribution]({filename}/articles/2013/modelling-wealth-distribution-using-kinetic-exchange-models.md),
 parameter heterogeneity plays a crucial role in producing the main
 result.

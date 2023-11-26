@@ -27,7 +27,7 @@ product is the least demanded, while the cheapest is the most demanded.
 In general the demand curve could be any non-increasing function, e.g.,
 \\\(  P \propto 1/Q \\\).
 
-![Law of demand. Here P stands for price and Q for quantity.](/uploads/2017/supply-demand-demand-law.png "Law of demand. Here P stands for price and Q for quantity.")
+![Law of demand. Here P stands for price and Q for quantity.]({static}/uploads/2017/supply-demand-demand-law.png "Law of demand. Here P stands for price and Q for quantity.")
 
 Evidently **the law of supply** is of the opposite form. This law of
 economics states that the more people are willing to pay for the
@@ -38,7 +38,7 @@ larger the price paid for the product, the more of it will be produced.
 In general the supply curve could by any non-decreasing curve, e.g,
 \\\(  Q \propto \sqrt{P} \\\).
 
-![Law of supply.](/uploads/2017/supply-demand-supply-law.png "Law of supply. Here P stands for price and Q for quantity.")
+![Law of supply.]({static}/uploads/2017/supply-demand-supply-law.png "Law of supply. Here P stands for price and Q for quantity.")
 
 Note that in both figures pairs of \\\(  Q \\\) and \\\(  P \\\) represent
 points on the respective curves. If point \\\(  (P\_i,Q\_i) \\\) is not
@@ -58,7 +58,7 @@ obvious reveal - the optimal point is where both supply and demand
 curves intersect. As this point is the only point at which both sides
 are satisfied.
 
-![equilibrium](/uploads/2017/supply-demand-equilibrium.png "Optimal point is at the intersection of the supply and demand curves.  Here P stands for price and Q for quantity.")
+![equilibrium]({static}/uploads/2017/supply-demand-equilibrium.png "Optimal point is at the intersection of the supply and demand curves.  Here P stands for price and Q for quantity.")
 
 **Note (written on 2017-12-19):** After revisiting the topic I have noticed a rather obvious
 thing - why the laws are stated as curves? They should be stated as

@@ -7,14 +7,12 @@ Status: published
 
 Last time when we
 wrote about [Lotka-Volterra
-equations](/lotka-volterra-equations), we
+equations]({filename}/articles/2012/lotka-volterra-equations.md), we
 have mentioned Verhulst's model of population dynamics, given by
-
 
 \begin{equation}
  \mathrm{d} x = r x ( 1 – x ) \mathrm{d} t, 
 \end{equation}
-
 
 which describes temporal evolution of ecological systems with limited
 supply of food. The model has parameter \\\(  r \\\) which controls the
