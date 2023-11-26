@@ -14,7 +14,7 @@ if ubiquitous racial segregation is caused by rising racial tensions or
 the same result might be present in a rather tolerant
 society.<!--more-->
 
-![Racial segregation map.](/uploads/2015/boston-segregation.jpg "
+![Racial segregation map.]({static}/uploads/2015/boston-segregation.jpg "
 Racial segregation in Boston and around it. Data can be found on
 http://demographics.coopercenter.org/DotMap/index.html."){#attachment_2865} 
 

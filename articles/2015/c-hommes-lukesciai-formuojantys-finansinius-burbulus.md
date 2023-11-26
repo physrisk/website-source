@@ -15,7 +15,7 @@ experiments - he studies general features of irrational and
 heterogeneous economical behavior in safe environment.
 
 We invite you to listen to his interview given to the Institute for New
-Economic Thinking (you may find INET on youtube by clicking [this
+Economic Thinking (you may find INET on YouTube by clicking [this
 link](https://www.youtube.com/channel/UCp5hG8rt1z2MJ9aNVxY2Xdg)).
 
 [youtube v="dhLYuPKA8Ac"]

@@ -7,6 +7,6 @@ Status: published
 
 We invite you to
 listen to insights about the economic "machine" provided by an American
-businessman [Ray Dalio](http://en.wikipedia.org/wiki/Ray_Dalio).
+businessman [Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio).
 
 [youtube v="PHe0bXAIuk0"]

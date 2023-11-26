@@ -24,20 +24,16 @@ processes - one stochastic noise (most frequently Gaussian noise, though
 other noises are also used depending on the application), \\\( \omega\_t \\\), while the other is deterministic standard deviation,
 \\\(  \sigma\_t \\\):
 
-
 \begin{equation}
  z\_t = \sigma\_t \omega\_t . 
 \end{equation}
 
-
 Standard deviation at time \\\(  t \\\) depends on the past history of
 standard deviations as well as observables:
-
 
 \begin{equation}
  \sigma^2\_t = a + \sum\_{i=1}^p b\_i \sigma^2\_{t-i}\omega^2\_{t-i} + \sum\_{i=1}^q c\_i \sigma^2\_{t-i} .\label{garch11}
 \end{equation}
-
 
 If \\\(  p &gt; 1 \\\) or \\\(  q &gt; 1 \\\), then the system state is
 influenced not only by the current state, but also by its prior
@@ -49,23 +45,20 @@ Note that in case of \\\(  p=q=1 \\\), equation for standard deviation
 looks very much alike difference equation. Thus \eqref{garch11}
 may be rewritten as a continuous process of \\\(  y =\sigma\_t^2 \\\):
 
-
 \begin{equation}
  \mathrm{d} y = B^2 \left( 1 - \frac{\lambda}{2} +\frac{1}{2} \cdot \frac{y\_{min}}{y} \right) y \mathrm{d} t + | B |y \mathrm{d} W , 
 \end{equation}
-
 
 here \\\(  \lambda = 2 + \frac{1-b\_1-c\_1}{b\_1^2} \\\), \\\( y\_{min}=\frac{a\_1}{b\_1^2} \\\), \\\(  B^2 \propto b\_1^2  \\\). This
 stochastic differential equation is very similar to geometric Brownian
 motion, thus its spectral density should be Browninan-like, \\\(  S(f)\sim 1/f^2 \\\).
 
-![Fig.
-1: Stationary probability density function of y (a) and spectral density
-of its time series
-(b).](/uploads/2015/garch11.png "
-Stationary probability density function of y (a) and spectral
-density of its time series (b). The following parameters were used:
-\\\( a\_1=0.015 \\\), \\\( b\_1=0.1 \\\), \\\( c\_1=0.89 \\\) (red squares), \\\( 0.88 \\\) (blue circles), \\\( 0.87 \\\) (magenta triangles)."){#attachment_2766} 
+![Fig.  1: Stationary probability density function of y (a) and spectral
+density of its time series (b).]({static}/uploads/2015/garch11.png "
+Stationary probability density function of y (a) and spectral density of its
+time series (b). The following parameters were used: \\\( a\_1=0.015 \\\),
+\\\( b\_1=0.1 \\\), \\\( c\_1=0.89 \\\) (red squares), \\\( 0.88 \\\) (blue
+circles), \\\( 0.87 \\\) (magenta triangles)."){#attachment_2766} 
 
 This is confirmed by our numerous papers \[cite
 id="Kaulakys2004PhysRevE,Kaulakys2006PhysA,Kaulakys2009JStatMech"\], in
