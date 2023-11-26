@@ -10,4 +10,4 @@ different problems here on Physics of Risk. Thus we can offer few
 different topics for students looking for supervisors and interesting
 topics for their term papers.
 
-[List of topics »](/students)
+[List of topics »]({filename}/pages/students.md)

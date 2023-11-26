@@ -13,7 +13,7 @@ figures below the second dimension, ordinate (vertical) axis, is time)
 with cells either on or off. Another important simplification is that
 the actual state of the cell at given time, \\\(  x\_{i,t}  \\\),
 depends only on the previous state of the same cell and the previous
-states of its immediate neighbors, i.e. on \\\( \\\{x\_{i-1,t-1},x\_{i,t-1},x\_{i+1,t-1}\\\} \\\). Due to these restrictions
+states of its immediate neighbors, i.e., on \\\( \\\{x\_{i-1,t-1},x\_{i,t-1},x\_{i+1,t-1}\\\} \\\). Due to these restrictions
 and simplifications, generally speaking cellular automatons might evolve
 in the infinite dimensions, have infinite neighborhoods and have
 limitless number of possible cell states, these cellular automatons
@@ -46,7 +46,7 @@ describing global behavior, \\\(  2^8=256  \\\) (total number of all
 possible neighborhood rule configurations). One of the possible global
 rules is shown below in [Fig. 1](#attachment_2264).
 
-![image](/uploads/2012/elementary-ca-rule110.png "Rule 110 of elementary cellular automaton. In the first
+![image]({static}/uploads/2012/elementary-ca-rule110.png "Rule 110 of elementary cellular automaton. In the first
 line you can see eight distinct sets of the initial conditions, i.e. all
 possible configurations of three neighborhood cells. On the second line
 you can see the set of eight possible results, each related to the
@@ -79,14 +79,14 @@ in [Fig. 3](#attachment_2266) to show the agreement with rule 110, but
 feel free to study other neighborhoods to reassure yourself that shown
 cellular automaton indeed is governed by the rule 110.
 
-![image](/uploads/2012/elementary-ca.png "Evolution of elementary cellular automaton governed by
+![image]({static}/uploads/2012/elementary-ca.png "Evolution of elementary cellular automaton governed by
 the rule 110. Initial condition is random set of cells. While evolution
 occurs in the cylinder space (the left and right edges are
 interconnected). Ordinate (vertical) axis is time axis - older
 generations are shown higher while younger ones are in the
 bottom."){#attachment_2263} 
 
-![image](/uploads/2012/elementary-ca-closeup.png "The close up on the two generations shown in 
+![image]({static}/uploads/2012/elementary-ca-closeup.png "The close up on the two generations shown in 
 Note that the highlighted neighborhoods (red squares) follow the rule
 110. The red arrows point from the cells that influence the state to
 cell which is influenced by the

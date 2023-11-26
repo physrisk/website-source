@@ -11,7 +11,7 @@ networks themselves are graphs! Thus further we briefly introduce some
 of the terms related to the mathematical graph
 theory.<!--more-->
 
-In mathetmatics a **graph** is a collection of **vertices (or nodes)**
+In mathematics a **graph** is a collection of **vertices (or nodes)**
 that are interconnected by **edges (or links, or arcs)**. Edges might be
 either undirected or directed and they also might have weights assigned.
 
@@ -50,5 +50,5 @@ connected by the path.
 Acyclic graph is called **forest**. Connected forest is called a
 **tree**.
 
-![image](/uploads/2012/grafai.png "Various examples of
+![image]({static}/uploads/2012/grafai.png "Various examples of
 graphs."){#attachment_2314} 

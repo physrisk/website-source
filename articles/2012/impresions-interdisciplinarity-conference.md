@@ -7,7 +7,7 @@ Status: published
 
 Last week,
 on 26th and 27th of January, [Lithuanian Society of Young
-Researchers](http://ljms.lt) held a conference "Interdisciplinarity: How
+Researchers](https://ljms.lt) held a conference "Interdisciplinarity: How
 to Make it Work". During the conference presenters, which included both
 scientists and officers of varying institutions, from all over the world
 and Lithuania have shared with the attendees their success stories and
@@ -17,7 +17,7 @@ interdisciplinarity.
 For me the most important part was the aforementioned ideological
 background. Working in the context of Physics of Risk it is important
 for us to see where do we actually stand. Are we still in physics or
-maybe we have moved to the other domains (ex. economics, financial
+maybe we have moved to the other domains (e.g., economics, financial
 mathematics or maybe even into the brand new independent field
 econophysics?). So in this text I will attempt to share and develop some
 interesting thoughts heard during the conference.<!--more--> I have
@@ -59,7 +59,7 @@ transdisciplinary field \[cite id="Jovanovic2013"\]. In the recent years
 there were some papers by physicists which use the results and ideas
 from non-physical fields to yield interesting results (for example see
 our \[cite id="Daniunas2011ICCGI, Reimann2011PhysA, Gontis2012ACS"\]
-works.). While [FuturICT](http://www.futurict.eu) flagship project has
+works.). While FuturICT flagship project has
 the full potential to organize and administrate European (though not
 only European) scientists from the different fields in order to create
 single large and very general ideological product.

@@ -7,7 +7,7 @@ Status: published
 
 In the last year we have
 [already
-written](/agent-based-versus-macroscopic-modeling-competition-business-processes-economics "Agent-based versus macroscopic modeling of competition and business processes in economics ")
+written]({filename}/articles/2011/agent-based-versus-macroscopic-modeling-competition-business-processes-economics.md)
 that work in the context of Physics of Risk provides varying insights
 into very different complex systems. The previous article \[cite
 id="Daniunas2011ICCGI"\] contained brief review of Physics of Risk
@@ -20,4 +20,4 @@ the context of Physics of Risk. Thus we have gathered \[cite
 id="Kononovicius2012IntSys"\] all of our latest research and created a
 very broad review of stochastic and agent-based modeling in the topics
 of financial markets and marketing. The draft is available on
-[arXiv](http://arxiv.org/abs/1202.3533 "[1202.3533] Agent-based Versus Macroscopic Modeling of Competition and Business Processes in Economics and Finance").
+[arXiv](https://arxiv.org/abs/1202.3533).

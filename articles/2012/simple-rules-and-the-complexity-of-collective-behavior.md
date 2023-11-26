@@ -13,8 +13,8 @@ is that they are able to reproduce complex, non-trivial behavioral
 patterns.<!--more-->
 
 There numerous examples for this. One of the most simple, yet very
-persuasive, is made available on the Icosystems website (see
-<http://www.icosystem.com/demos/thegame.htm>). This model by Icosystems
+persuasive, is made available on the Icosystem website (see
+<del>http://www.icosystem.com/demos/thegame.htm</del>). This model by Icosystem
 discribes a very simple game, which can be played with living people.
 The main point of the game is to stay in certain position relative to
 two other randomly selected agents (or people). In one case, in the
@@ -28,5 +28,5 @@ conditions. As you can see in the [figure](#attachment_2330) below the small
 difference in the game rules causes essential changes in the externally
 observed behavior.
 
-![The simplest change in the ruleset might cause
-unpredictable difference in behavior!](/uploads/2012/simple-rules-interaction-graph.png){#attachment_2330} 
+![The simplest change in the ruleset might cause unpredictable difference in
+behavior!]({static}/uploads/2012/simple-rules-interaction-graph.png){#attachment_2330} 

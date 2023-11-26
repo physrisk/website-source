@@ -8,12 +8,12 @@ Status: published
 **Topic:**
 "Agent-based Versus Macroscopic Modeling of Competition and Business
 Processes in Economics and Finance"  
-**Speaker:** [dr. Vygintas Gontis](http://gontis.eu/en/)  
+**Speaker:** [dr. Vygintas Gontis](https://gontis.eu/)  
 **Briefly:** The talk will be focused on the agent-based and stochastic
 modelling done by the Department of the Theory of Processes and
 Structures of the VU ITPA.  
 **When?** 6th of November, 17:00.  
 **Where?** VU [Faculty of Mathematics and Informatics (Naugarduko g. 24,
-Vilnius)](http://www.mif.vu.lt), 400 auditorium.  
+Vilnius)](https://www.mif.vu.lt), 400 auditorium.
 **Organized by:** [Department of the Mathematical
-Analysis](http://www.mif.vu.lt/katedros/mak/) of the VU MIF.
+Analysis](https://www.mif.vu.lt/katedros/mak/) of the VU MIF.

@@ -19,18 +19,18 @@ receipt?<!--more-->
 
 The thoughts above are taken from, or at least inspired by, [the article
 on The
-Spectator](http://www.spectator.co.uk/features/8744071/should-alice-marry-bob/).
+Spectator](https://www.spectator.co.uk/features/8744071/should-alice-marry-bob/).
 Further in this text I will take up one interesting, in terms of the
 Physics of Risk, problem given in the aforementioned article, Also I
 will consider another similar problem, which was on my mind for a quite
-some time... So I'll start by giving Alice advice on BoB and I'll follow
+some time... So I'll start by giving Alice advice on Bob and I'll follow
 up by considering the so-called "Monty Hall" problem.
 
 So, should Alice marry Bob?
 ---------------------------
 
 So the problem stated in the [article in The
-Spectator](http://www.spectator.co.uk/features/8744071/should-alice-marry-bob/)
+Spectator](https://www.spectator.co.uk/features/8744071/should-alice-marry-bob/)
 is as follows. Alice is dating Bob, whom she feels to be the best match
 for her so far (previously she was in two relationships). One day Bob
 asks Alice to marry him, but she isn't so sure about her answer. Since
@@ -59,11 +59,9 @@ heavy math, above you can follow a more complex mathematical path. Let
 us assume that the fitness of single males is distributed as \\\( p(x) \\\). If so then the fitness of the best male of N males will be
 distributed as:
 
-
 \begin{equation}
  p\_N^{max}(x) = C\_N p(x) \Pi\_{i=1}^{N-1}\int\limits\_{0}^x p(x\_i) \mathrm{d} x\_i . 
 \end{equation}
-
 
 Here \\\(  C\_N \\\) is a normalization constant, which is kept to allow
 more options. Namely we can allow \\\(  p(x) \\\) to have non-zero values
@@ -77,21 +75,17 @@ the fitness of other N-1 candidates should be worst than \\\(  x \\\)
 Therefore the probability that best-of-3 mate will be better than the
 best-of-5 mate is given by:
 
-
 \begin{equation}
  p\_{3&gt;5} = \int\limits\_0^1 p\_3^{max}(x\_3)\int\limits\_0^{x\_3} p\_5^{max}(x\_5) \mathrm{d} x\_5 \mathrm{d}x\_3 . 
 \end{equation}
-
 
 Interestingly enough we obtain we same result for different \\\( p(x) \\\) - 3/8. Though this is not so unexpected (recall the "simple"
 solution above). The result might be generalized for different values of
 \\\(  N\_1 \\\) and \\\(  N\_2 \\\):
 
-
 \begin{equation}
  p\_{N\_1&gt;N\_2} = \frac{N\_1}{N\_1+N\_2} . 
 \end{equation}
-
 
 Thus every decent mathematician would suggest Alice to marry the next
 best boyfriend after Bob.
@@ -112,7 +106,7 @@ is known as "Monty Hall" problem in honor of Monty Hall, long term host
 of "Let's make deal" (very popular show in the US, back in the 20th
 century).
 
-![monty hall problem](/uploads/2012/monty-hall.png)
+![Monty Hall problem]({static}/uploads/2012/monty-hall.png)
 
 The
 game is played as follows. At first the player choose one of the three
@@ -126,12 +120,12 @@ is behind the non-selected closed door! So what should the player do?
 
 At the time there were a lot of arguments concerning the optimal player
 strategy. Some people claimed that there were no optimal strategy,
-because the options are equiprobable, namely 50-50. This ought to be so,
+because the options are equally probable, namely 50-50. This ought to be so,
 because the prize can be behind one door or another. Namely the choice
 is one of two. While the others made a correct notion that while the
-choice is one of the two, but the two options are not equiprobable!
+choice is one of the two, but the two options are not equally probable!
 
-Why the options are not equiprobable? Note that the only important
+Why the options are not equally probable? Note that the only important
 choice is the first one! During the first choice you have a probability
 of 1/3 to select the right door and 2/3 to select the wrong door. The
 second choice can be simplified to the choice of whatever you believe
@@ -139,17 +133,17 @@ you were right or wrong in your first choice. As the probability that
 you were wrong is twice as large as being right, you should opt to
 switch the door.
 
-![monty hall tries](/uploads/2012/monty-hall-tries.png "
-Evolution of the percentage of wins in the Monty Hall problem:
-switching strategy (blue circles) and staying strategy (red squares).
-Note that the percentage of wins converges to the expected results while
-the number of games grows to infinity."){#attachment_2386}
+![Monty Hall tries]({static}/uploads/2012/monty-hall-tries.png "Evolution
+of the percentage of wins in the Monty Hall problem: switching strategy
+(blue circles) and staying strategy (red squares).  Note that the percentage
+of wins converges to the expected results while the number of games grows to
+infinity."){#attachment_2386}
 
 Unfortunately this problem is so simple that the only explanation can be
 done is already outlined. If you still lack confidence in what was said,
-you can optionally try to do some numerical modelling or study our
+you can optionally try to do some numerical modeling or study our
 results (see [Fig 1.](#attachment_2386)). Note that you must do the
-"full" modelling - first let an agent choose a door, then open any door
+"full" modeling - first let an agent choose a door, then open any door
 with a goat behind it and only then apply the selected strategy - to
 obtain correct results.
 
@@ -165,7 +159,7 @@ situations.
 
 May be in this way it would be possible to avoid something in the spirit
 of the image below (taken from
-[science.memebase.com](http://cheezburger.com/6690922752); author:
+[science.memebase.com](https://cheezburger.com/6690922752); author:
 YUNOtele).
 
-![math real life](/uploads/2012/math-real-life.jpg "Real life math?")
+![math real life]({static}/uploads/2012/math-real-life.jpg "Real life math?")

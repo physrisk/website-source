@@ -11,7 +11,7 @@ Operational Research, is huge scientific event popular both among
 scientists and businessmen. Operational research tackles very
 challenging, and thus scientifically interesting, and highly applicable
 topics. Some of these topics overlap with the ones we discuss here on
-Physics of Risk - financial market modelling, risk management and
+Physics of Risk - financial market modeling, risk management and
 analysis, decision making. Many reports will also consider logistics,
 optimization and network analysis.
 
@@ -20,6 +20,3 @@ abroad giving talks in the conference. On Monday, the 9th of July, he
 will give a talk on "Herding behavior of agents as a background of
 financial fluctuations", Our works on the applications of Kirman model
 will be the key point of the talk.
-
-Read more on the conference website:
-[euro-2012.lt](http://www.euro-2012.lt "euro-2012.lt").
