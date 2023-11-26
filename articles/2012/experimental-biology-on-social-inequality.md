@@ -16,4 +16,4 @@ from a speech by Frans de Waal.
 http://unifr.ch/econophysics/blogs/?p=156</del>.
 
 Blog post on Lars Syl's blog:
-<http://larspsyll.wordpress.com/2012/08/24/inequality/>.
+<https://larspsyll.wordpress.com/2012/08/24/inequality/>.

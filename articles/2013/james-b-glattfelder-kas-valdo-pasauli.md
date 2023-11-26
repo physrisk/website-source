@@ -19,11 +19,11 @@ the related researchers speaking about this discovery and hear him
 explain that does this actually mean.<!--more-->
 
 [iframe
-src="http://embed.ted.com/talks/lang/en/james\_b\_glattfelder\_who\_controls\_the\_world.html"
+src="https://embed.ted.com/talks/lang/en/james\_b\_glattfelder\_who\_controls\_the\_world.html"
 height="315" width="560"]
 
 Video taken from
-[ted.com](http://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html)
+[ted.com](https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html)
 website.
 
 The research was published in an open-access journal PLoS One, so anyone

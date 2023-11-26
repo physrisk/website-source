@@ -23,7 +23,7 @@ who talks about these kind of events, their impact and possibilities to
 predict.<!--more-->
 
 [iframe
-src="http://embed.ted.com/talks/didier\_sornette\_how\_we\_can\_predict\_the\_next\_financial\_crisis.html"
+src="https://embed.ted.com/talks/didier\_sornette\_how\_we\_can\_predict\_the\_next\_financial\_crisis.html"
 height="315" width="560"]
 
 Interestingly enough, Lithuanian media has already written about Didier

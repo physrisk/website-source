@@ -59,7 +59,7 @@ conveniently and reliably collect and store high-resolution real-world
 data. So the social scientists had to adapt their way of "doing" science
 - they had to rely more on the general ideas than on the data. In this
 context an image of rational, with only [notably rare
-exceptions](http://crookedtimber.org/2011/03/30/with-notably-rare-exceptions/),
+exceptions](https://crookedtimber.org/2011/03/30/with-notably-rare-exceptions/),
 society (economy, market, etc.) was developed. Interestingly enough
 despite intense critique by the social scientists themselves this image
 is still alive and kicking today.

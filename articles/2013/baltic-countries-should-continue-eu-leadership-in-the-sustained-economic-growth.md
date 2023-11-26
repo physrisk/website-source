@@ -29,10 +29,10 @@ labor earning is a key parameter in all models.
 
 Seeking to improve presentation of statistical data, we use the
 graphical software package
-[StatPlanet](http://www.statsilk.com/software/statplanet) built for the
+[StatPlanet](https://www.statsilk.com/software/statplanet) built for the
 data mapping and visualization. Our analyses of labor earnings in
 connection with GDP growth is based on [Eurostat
-data](http://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home).
+data](https://epp.eurostat.ec.europa.eu/portal/page/portal/eurostat/home).
 We choose the time interval from 1995 to 2012 as long as available data
 from Eurostat for the Baltic countries given in purchasing power
 standards (PPS). These countries and their convergence to the EU

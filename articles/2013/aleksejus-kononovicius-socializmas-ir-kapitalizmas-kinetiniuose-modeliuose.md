@@ -61,7 +61,7 @@ appropriately modify the expression for \\\(  \Delta w\_{ij} \\\).
 ![Internet folklore: socialism vs
 capitalism.]({static}/uploads/2013/socialism-vs-capitalism.jpg "
 Internet folklore on the economic ideologies (taken form
-[politifake.org](http://politifake.org))."){#attachment_2584} 
+politifake.org)."){#attachment_2584} 
 
 Socialism
 ---------

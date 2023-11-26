@@ -47,9 +47,9 @@ also directed some of you to this website.
 model]({filename}/articles/2010/ising-model.md)
 was the most well received model on our website. Some of its graphs were
 reused on Cocktail Party Physics blog (available
-[here](http://blogs.scientificamerican.com/cocktail-party-physics/2011/08/02/teetering-on-the-edge-of-chaos/ "Cocktail Party Physics on Scientific American Blog Network")
+[here](https://blogs.scientificamerican.com/cocktail-party-physics/2011/08/02/teetering-on-the-edge-of-chaos/ "Cocktail Party Physics on Scientific American Blog Network")
 and bei
-[here](http://twistedphysics.typepad.com/cocktail_party_physics/2011/08/teetering-on-the-edge-of-chaos.html "Cocktail Party Physics")).
+[here](https://twistedphysics.typepad.com/cocktail_party_physics/2011/08/teetering-on-the-edge-of-chaos.html "Cocktail Party Physics")).
 While [Long-range memory stochastic model of
 return]({filename}/articles/2010/long-range-memory-stochastic-model-return.md)
 came in close second. The most read news was written on [the

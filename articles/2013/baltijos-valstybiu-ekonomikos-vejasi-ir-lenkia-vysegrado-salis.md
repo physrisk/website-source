@@ -8,7 +8,7 @@ Status: published
 Following our previous papers about economic
 convergence of Baltic and Visegrad countries and long-term development
 forecasting, we want to review the latest [Eurostat
-data](http://epp.eurostat.ec.europa.eu/portal/page/portal/purchasing_power_parities/data/database)
+data](https://epp.eurostat.ec.europa.eu/portal/page/portal/purchasing_power_parities/data/database)
 about Europe and OECD economies in purchasing power standards (PPS).
 There are at least three reasons for that. First of all, we look for the
 best way to compare GDPs between countries. Secondly, we seek
