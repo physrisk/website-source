@@ -37,11 +37,9 @@ two or more iterative equations and the exponent of non-linearity might
 have very different values. In this text we will limit ourselves to the
 case of the two equations with quadratic non-linearity. Namely:
 
-
 \begin{equation}
  \left\\\{ \begin{aligned} x\_{n+1} =& a\_0 x\_n^2 + a\_1 x\_ny\_n + a\_2 x\_n + a\_3 y\_n^2 + a\_4 y\_n + a\_5 , \\\\ y\_{n+1} =&b\_0 x\_n^2 + b\_1 x\_n y\_n + b\_2 x\_n + b\_3 y\_n^2 + b\_4 y\_n +b\_5 , \end{aligned} \right. 
 \end{equation}
-
 
 here \\\(  a\_i \\\) and \\\(  b\_i \\\) are random coefficients. Each of
 these coefficients is given a random value in \\\(  \[-2, 2\]  \\\). This
@@ -59,25 +57,25 @@ trajectories.
 Gallery of the random attractors
 --------------------------------
 
-![stone](/uploads/2013/random-attractor-akmuo2.png "Stone")
+![stone]({static}/uploads/2013/random-attractor-akmuo2.png "Stone")
 
-![spaceship](/uploads/2013/random-attractor-erdvelaivis.png "Spaceship")
+![spaceship]({static}/uploads/2013/random-attractor-erdvelaivis.png "Spaceship")
 
-![swan](/uploads/2013/random-attractor-gulbe.png "Swan")
+![swan]({static}/uploads/2013/random-attractor-gulbe.png "Swan")
 
-![mountain](/uploads/2013/random-attractor-kalnas.png "Mountain")
+![mountain]({static}/uploads/2013/random-attractor-kalnas.png "Mountain")
 
-![bird](/uploads/2013/random-attractor-krekzdute.png "Bird")
+![bird]({static}/uploads/2013/random-attractor-krekzdute.png "Bird")
 
-![crocodile](/uploads/2013/random-attractor-krokodilas.png "Crocodile")
+![crocodile]({static}/uploads/2013/random-attractor-krokodilas.png "Crocodile")
 
-![cylinder](/uploads/2013/random-attractor-rite.png "Cylinder")
+![cylinder]({static}/uploads/2013/random-attractor-rite.png "Cylinder")
 
-![hourglass](/uploads/2013/random-attractor-smelio-laikrodis.png "Hourglass")
+![hourglass]({static}/uploads/2013/random-attractor-smelio-laikrodis.png "Hourglass")
 
-![triangle](/uploads/2013/random-attractor-trikampis2.png "Triangle")
+![triangle]({static}/uploads/2013/random-attractor-trikampis2.png "Triangle")
 
-![ufo](/uploads/2013/random-attractor-ufo.png "UFO")
+![ufo]({static}/uploads/2013/random-attractor-ufo.png "UFO")
 
 Interactive model
 -----------------
@@ -102,4 +100,4 @@ mode="iframe" height="615" width="500"]
 
 Previously the interactive model was powered by Wolfram CDF technology.
 The old app can still be downloaded from
-[here](/uploads/2013/random-attractor-en.cdf).
+[here]({static}/uploads/2013/random-attractor-en.cdf).

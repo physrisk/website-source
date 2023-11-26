@@ -1,13 +1,13 @@
-Title: Modelling wealth distribution using kinetic exchange models
+Title: Modeling wealth distribution using kinetic exchange models
 Date: 2013-12-16 07:08
 Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, kinetic models, statistical physics, wealth
-Slug: modelling-wealth-distribution-using-kinetic-exchange-models
+Slug: modeling-wealth-distribution-using-kinetic-exchange-models
 Status: published
 
 We have previously wrote about the
 [elementary kinetic
-models](/elementary-kinetic-exchange-models "Elementary kinetic models").
+models]({filename}/articles/2013/elementary-kinetic-exchange-models.md).
 Now we would like to put them to a certain use - namely we would like to
 model wealth distributions. The problem is that the stationary
 distribution of the elementary kinetic models, as we have shown before,
@@ -16,12 +16,12 @@ wealth has a power law tail (see [Fig. 1](#attachment_2581)). Therefore
 we will need some essential modifications to replicate the empirical
 distribution.<!--more-->
 
-![Inverse CDF of wealth. Data are of the United Kingdom
-from 1996. Figure taken from an article by Patriarca and Chakraborti
-(2013).](/uploads/2013/wealth-distribution-uk-1996-Patriarca.jpg "Inverse
-cumulative distribution function of wealth. Data are of
-the United Kingdom from 1996. Figure taken from an article by Patriarca
-and Chakraborti (2013)."){#attachment_2581} 
+![Inverse CDF of wealth. Data are of the United Kingdom from 1996. Figure
+taken from an article by Patriarca and Chakraborti
+(2013).]({static}/uploads/2013/wealth-distribution-uk-1996-Patriarca.jpg
+"Inverse cumulative distribution function of wealth. Data are of the United
+Kingdom from 1996. Figure taken from an article by Patriarca and Chakraborti
+(2013)."){#attachment_2581} 
 
 One of the keys to success in this case is the introduction of the more
 realistic saving mechanism. Previously we have assumed that the saving
@@ -33,21 +33,17 @@ sake of simplicity let us start by assuming that this saving propensity
 is the same for all particles and equals \\\(  \kappa \\\). Now one can
 introduce it into the reshuffling model:
 
-
 \begin{equation}
  \Delta w\_{ij} = (1-\kappa) \[ (1-\varepsilon) w\_i(t) -\varepsilon w\_j(t) \] . 
 \end{equation}
-
 
 One can convince himself that the stationary probability density
 function (abbr. PDF) of this model is given by the Gamma distribution
 \[cite id="Patriarca2013AJP"\]:
 
-
 \begin{equation}
  p(w) \sim w^{n-1} \exp(- n w), 
 \end{equation}
-
 
 here \\\(  n = 1 +\frac{3 \kappa}{1-\kappa} \\\). In physics similar
 shape of distribution is seen for the ideal gas particle energies in the
@@ -68,11 +64,9 @@ power-law behavior! Though it is note hard to modify this model to have
 this kind of asymptotic behavior. One just needs to assume that agents
 may have heterogeneous saving propensity! In such case \\\(  \Delta w\_{ij} \\\) is given by
 
-
 \begin{equation}
  \Delta w\_{ij} = (1-\kappa\_i) (1-\varepsilon) w\_i(t) -(1-\kappa\_j) \varepsilon w\_j(t) , 
 \end{equation}
-
 
 here \\\(  \kappa\_n \\\) are the saving propensities of different
 particles, which are uniformly distributed in the interval \\\( \[0,1\] \\\) (this randomization is done during model initialization). This
@@ -92,11 +86,9 @@ distribution. Yet the sum over each different particles energy
 distribution yields a power-law PDF. Mathematically, if \\\( \kappa\_i \\\) are evenly distributed in \\\(  \[0,1\] \\\) and the number
 of particles, \\\(  N \\\), is sufficiently large, one can obtain that
 
-
 \begin{equation}
  p(w) = \frac{1}{N} \sum\_{i=1}^N C\_i w^{\frac{3\kappa\_i}{1-\kappa\_i}} \exp\left\[-\left(1+\frac{3\kappa\_i}{1-\kappa\_i}\right) w \right\] \propto w^{-2} . 
 \end{equation}
-
 
 One can understand this visually by looking into the [Fig.
 2](#attachment_2582). Here all particles were grouped into the groups,
@@ -110,18 +102,16 @@ distribution of energies similar to the Gamma distribution (subfigure
 (b)). Yet the sum over all particles has a power-law tail and is given
 by blue dashed curve.
 
-![Sum
-over Gamma distributions (red curves) becomes power-law distribution
-(blue
-curve).](/uploads/2013/exp-to-powerlaw.jpg "Sum over
-Gamma distributions (red curves) becomes power-law
-distribution (blue curve). In the subfigure (a) we can see the energy
-distributions of particles in certain intervals of κ values, which is
-approximately Gamma distributions except for the last one. While in the
-subfigure (b) we see that if last interval of κ values is broken up into
-smaller intervals, then the particles in those smaller intervals once
-again have Gamma-like distrubtions of their energy. Figure taken from an
-article by Patriarca and Chakraborti (2013)."){#attachment_2582} 
+![Sum over Gamma distributions (red curves) becomes power-law distribution
+(blue curve).]({static}/uploads/2013/exp-to-powerlaw.jpg "Sum over Gamma
+distributions (red curves) becomes power-law distribution (blue curve). In
+the subfigure (a) we can see the energy distributions of particles in
+certain intervals of κ values, which is approximately Gamma distributions
+except for the last one. While in the subfigure (b) we see that if last
+interval of κ values is broken up into smaller intervals, then the particles
+in those smaller intervals once again have Gamma-like distrubtions of their
+energy. Figure taken from an article by Patriarca and Chakraborti
+(2013)."){#attachment_2582} 
 
 Only small detail is left to be reproduced - [empirical
 distribution](#attachment_2581) has a "bump". This may be introduced

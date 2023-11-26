@@ -9,5 +9,6 @@ The
 Bank of Spain Chair in Computational Economics at the Economics
 Department of the University Jaume I of Castellon (Spain), headed by
 Professor Thomas Lux, is seeking to fill two positions for Doctoral
-Students. More information
-»
+Students.
+
+<del>More information »</del>

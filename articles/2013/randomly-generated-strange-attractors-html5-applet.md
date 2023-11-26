@@ -7,7 +7,7 @@ Status: published
 
 Previously
 we wrote about [randomly generated
-attractors](/randomly-generated-strange-attractors "Randomly generated strange attractors").
+attractors]({filename}/articles/2013/randomly-generated-strange-attractors.md).
 That time we have used Wolfram CDF technology to power the interactive
 applet. This technology has a serious drawback that you have to have
 installed specific additional software to be able to use it. As of now
@@ -15,7 +15,5 @@ we have replaced the old app with HTML5-based interactive applet. This
 applet can be run on almost any modern web browser without a need to
 have any additional software preinstalled.
 
-The new applet can be found in the old
-[post](/randomly-generated-strange-attractors#html5-app "Randomly generated strange attractors")
-and
-[here](/uploads/models/random-attractor/index.html).
+The new applet can be found in the [previous
+post]({filename}/articles/2013/randomly-generated-strange-attractors.md).

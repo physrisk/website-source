@@ -20,11 +20,9 @@ unnecessary losses by the host.<!--more-->
 There is no direct answer for this problem, because the expected
 winnings are infinite,
 
-
 \begin{equation}
  \mathbf{E} = 2 \cdot \frac{1}{2} + 4 \cdot \frac{1}{4} +\ldots + 2^n \cdot 2^{-n} + \ldots = \sum\_{i=1}^\infty 2^i\cdot 2^{-i} = \infty , 
 \end{equation}
-
 
 while the player does not believe that he would be able to win that
 much.
@@ -55,15 +53,13 @@ infinite amount of money required by this "fool-proof" strategy. So in
 the end some streak of losses will be a final streak as the player will
 be unable to further increase his bets.
 
-![One
-of the tipical realizations while using the discussed strategy. As
-everything goes well it appears that there is no risk - income is
-steady, but even shortest streak of losses might result in a
-bankruptcy.](/uploads/2013/st-petersburg-graph-en.jpg "
-One of the tipical realizations while using the discussed strategy. As
-everything goes well it appears that there is no risk - income is
-steady, but even shortest streak of losses might result in a
-bankruptcy."){#attachment_2441} 
+![One of the tipical realizations while using the discussed strategy. As
+everything goes well it appears that there is no risk - income is steady,
+but even shortest streak of losses might result in a
+bankruptcy.]({static}/uploads/2013/st-petersburg-graph-en.jpg "One of the
+tipical realizations while using the discussed strategy. As everything goes
+well it appears that there is no risk - income is steady, but even shortest
+streak of losses might result in a bankruptcy."){#attachment_2441} 
 
 Browser applet
 --------------

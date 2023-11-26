@@ -29,7 +29,7 @@ be useful to forecast long-term economic development in the manner of
 natural sciences. This could be done in much larger extent, than, for
 example, in the weather long term forecasting. In a previous article
 ["The phenomenon of economic growth of Baltic
-countries"](/the-phenomenon-of-economic-growth-of-baltic-states)we
+countries"]({filename}/articles/2013/the-phenomenon-of-economic-growth-of-baltic-states.md) we
 used World Bank data to point on a particular universality of economic
 growth in different regions. There we partly revise the data by adding
 Scandinavian countries to already reviewed Baltic and Visegrad regions.
@@ -38,13 +38,11 @@ members’ and Norway from 1995 to 2012. The same data is show in three
 different ways to stress various growth
 trends.<!--more-->
 
-![Fig.
-1: GDP in USD, current prices, of Baltic, Visegrad and Scandinavian
+![Fig.  1: GDP in USD, current prices, of Baltic, Visegrad and Scandinavian
 countries is shown in three different ways from 1995 to
-2012.](/uploads/2013/baltic-visegrad-scandinavia-gdp-usd-1995-2012-en.jpg "
-GDP in USD, current prices, of Baltic, Visegrad and Scandinavian
-countries is shown in three different ways from 1995 to
-2012."){#attachment_2511} 
+2012.]({static}/uploads/2013/baltic-visegrad-scandinavia-gdp-usd-1995-2012-en.jpg
+"GDP in USD, current prices, of Baltic, Visegrad and Scandinavian countries
+is shown in three different ways from 1995 to 2012."){#attachment_2511} 
 
 In graph (a), where GDP values are nominal, it is hard to distinguish
 any different growth trends and group countries according to them. While
@@ -86,13 +84,13 @@ Eurostat data.
 In the second figure GDP growth curves are shown in the same period,
 just calculated in Euros with use of Eurostat data.
 
-![Fig.
-2: GDP in Euros, current prices, of Baltic, Visegrad and Scandinavian
+![Fig.  2: GDP in Euros, current prices, of Baltic, Visegrad and
+Scandinavian countries is shown in three different ways form 1995 to 2012
+(Eurostat
+data).]({static}/uploads/2013/baltic-visegrad-scandinavia-gdp-eur-1995-2012-en.jpg
+"GDP in Euros, current prices, of Baltic, Visegrad and Scandinavian
 countries is shown in three different ways form 1995 to 2012 (Eurostat
-data).](/uploads/2013/baltic-visegrad-scandinavia-gdp-eur-1995-2012-en.jpg "
-GDP in Euros, current prices, of Baltic, Visegrad and
-Scandinavian countries is shown in three different ways form 1995 to
-2012 (Eurostat data)."){#attachment_2512} 
+data)."){#attachment_2512} 
 
 As was expected, switching to Euro brings some changes to countries GDP
 long-term trends, as a result of significant EUR/USD exchange rate
@@ -105,7 +103,7 @@ Europe GDP series during the period of fast social and economic
 transition until 1995-96. The correction was needed to link data from
 different socioeconomic periods. Transitions of Central and Eastern
 Europe countries, due to the social and political peculiarities, were
-quite different. Because of that, the correction of GDP data in1995
+quite different. Because of that, the correction of GDP data in 1995
 differs for every country, this results in the different normalizing
 values used in graphs (c). The largest corrections were made to Slovakia
 - 29%, Lithuania - 19% and Latvia - 7%. This causes the significant
@@ -158,12 +156,11 @@ make lower absolute differences between developed and developing
 countries. It is easy to explain the change, having in mind that price
 levels are higher in more developed countries (Penn effect).
 
-![Fig.
-3: GDP per capita in PPS of Baltics, Visegrad and Scandinavian countries
-from 1995 to 2012 is shown in three different ways (Eurostat
-data).](/uploads/2013/baltic-visegrad-scandinavia-gdp-pps-1995-2012-en.jpg "
-GDP per capita in PPS of Baltics, Visegrad and Scandinavian
+![Fig.  3: GDP per capita in PPS of Baltics, Visegrad and Scandinavian
 countries from 1995 to 2012 is shown in three different ways (Eurostat
+data).]({static}/uploads/2013/baltic-visegrad-scandinavia-gdp-pps-1995-2012-en.jpg
+" GDP per capita in PPS of Baltics, Visegrad and Scandinavian countries from
+1995 to 2012 is shown in three different ways (Eurostat
 data)."){#attachment_2513} 
 
 It is important to notice, that when we take in to account the price
@@ -184,7 +181,7 @@ not change, obviously, thanks to Penn effect. Ranking of countries
 according GDP growth rates remains very similar, even with the same
 exceptions, Norway strongly steps in between Visegrad Group. Interesting
 observation is that growth rates in PPS of Baltic countries are much
-more uniform, than the growth rates calculated in Euros, Fig. 2. graph
+more uniform, than the growth rates calculated in Euros, Fig. 2 graph
 (c). Notice that Latvia becomes slightly ahead comparing the growth
 rates between Baltic countries. Such coincidence of economic growth
 rates of Baltic countries observed almost in the period of 20 years,
@@ -215,12 +212,11 @@ indicator is a part of real GDP, when it calculated in expenditure
 approach. Eurostat offers data for shorter - 2003-2012 period. We draw
 AIC curves of Baltic and Visegrad countries in Fig. 4.
 
-![Fig.
-4: Actual individual consumption of Baltic and Visegrad countries
+![Fig.  4: Actual individual consumption of Baltic and Visegrad countries
 calculated by expenditure approach in
-PPP.](/uploads/2013/baltic-visegrad-scandinavia-gdp-ppp-2003-2012-en.jpg "
-Actual individual consumption of Baltic and Visegrad countries
-calculated by expenditure approach in PPP."){#attachment_2514} 
+PPP.]({static}/uploads/2013/baltic-visegrad-scandinavia-gdp-ppp-2003-2012-en.jpg
+"Actual individual consumption of Baltic and Visegrad countries calculated
+by expenditure approach in PPP."){#attachment_2514} 
 
 AIC data shows significant differences in GDP structure of countries,
 influenced by the internal economic policy. Baltic and Visegrad

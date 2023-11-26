@@ -16,9 +16,5 @@ previously published on this website:
 -   Economic convergence as thermodynamic appreciation of real currency exchange rate
 -   Agents-leaders influence on the Kirman’s herding model dynamics
 
-More information is available from the Research Council of Lithuania
-website (see the call
-[here](http://www.lmt.lt/en/news/call-for-applications-mm5j.html "Call for applications for Students Research Practice in Lithuania in summer 2013"))
-and from the portal dedicated to the project "Promotion of Students’
-Scientific Activities" (see
-[here](http://studentai.lmt.lt/index_en.php "Project "Promotion of Students Scientific Activities"")).
+More information is available from the [Research Council of Lithuania
+website](https://www.lmt.lt). 

@@ -17,7 +17,7 @@ oscillations. Another prominent example is the previously analyzed
 prey-predator interactions in the ecosystem. Interestingly enough
 despite being of a very different nature both of these example can be
 modeled using [Lotka-Volterra
-equations](/lotka-volterra-equations "Lotka-Volterra equations").
+equations]({filename}/articles/2012/lotka-volterra-equations.md).
 
 In this text we will also consider certai cellular automaton, which
 replicates the spatial oscillations seen in some of the
@@ -29,23 +29,17 @@ Belousov-Zhabotinsky reaction and Lotka-Volterra equations
 In the most simplest and general case Belousov-Zhabotinsky reaction can
 be described by the following chain of chemical reactions:
 
-
 \begin{equation}
  A\_1 + X\_1 \rightarrow 2 X\_1 + A\_2, 
 \end{equation}
-
-
 
 \begin{equation}
  X\_1 + X\_2 \rightarrow 2 X\_2 + A\_3, 
 \end{equation}
 
-
-
 \begin{equation}
  X\_2 \rightarrow A\_4 , 
 \end{equation}
-
 
 here \\\(  X\_i \\\) are the main chemical ingredients, while \\\( A\_i \\\) are secondary chemical ingredients (which are needed for
 reactions to occur, or which are the product of these reactions).
@@ -55,11 +49,9 @@ increases proportionally to \\\(  k\_1 C\_{a1} C\_{x1} \\\) (the first
 reaction in the chain) and decreases proportionally to \\\(  k\_2C\_{x1} C\_{x2} \\\) (the second reaction in the chain). Mathematically
 this can be written as ordinary differential equation:
 
-
 \begin{equation}
  \mathrm{d} C\_{x1} = \left\[ k\_1 C\_{a1} C\_{x1} - k\_2C\_{x1} C\_{x2} \right\] \mathrm{d} t. 
 \end{equation}
-
 
 Here we use \\\(  C\_i \\\) for concentrations, where \\\(  i \\\) is the
 index of ingredient (ex., "x1" stands for \\\(  X\_1 \\\)). The rates of
@@ -71,14 +63,12 @@ proportionally to \\\(  k\_2 C\_{x1} C\_{x2} \\\). The concentration of
 \\\(  X\_2 \\\) decreases due to the third reaction and proportionally to
 \\\(  k\_3 C\_{x2} \\\). Mathematically this can be expressed as:
 
-
 \begin{equation}
  \mathrm{d} C\_{x2} = \left\[ k\_2 C\_{x1} C\_{x2} - k\_3C\_{x2} \right\] \mathrm{d} t. 
 \end{equation}
 
-
 Now compare these two ordinary differential equation and [Lotka-Volterra
-equations](/lotka-volterra-equations "Lotka-Volterra equations")!
+equations]({filename}/articles/2012/lotka-volterra-equations.md)!
 The \\\(  C\_{a1} \\\) can be assumed to be a constant model parameter
 for the sake of comparison.
 
@@ -107,8 +97,8 @@ Browser applet
 --------------
 
 Note that not all parameter sets provide "good" results (the ones
-reminiscent to the those seen in youtube video). Also note that the grid
-is toroid.
+reminiscent to the those seen in YouTube video). Also note that the grid
+is torus.
 
 [html5-interactive
 url="/uploads/models/bz-reaction/index.html"

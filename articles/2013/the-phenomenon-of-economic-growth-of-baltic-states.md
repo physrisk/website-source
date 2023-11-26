@@ -16,7 +16,7 @@ convergence. We choose the estimate of GDP in common currency US dollars
 calculated in current prices and current exchange rates. In order to
 compare different size states we use GDP normalized per capita. Such
 data is available at the [World Bank
-Database](http://blogs.worldbank.org/opendata/the-future-of-the-open-data-catalog "WB open data").<!--more-->
+Database](https://blogs.worldbank.org/opendata/the-future-of-the-open-data-catalog "WB open data").<!--more-->
 
 We do plot the ratios of GDP per capita in US dollars with GDP of the
 same state in the selected reference year. The interactive plot gives
@@ -43,7 +43,7 @@ European economic space.
 ![The
 ratio of GDP in US dollars per capita in 1990-2011 to the GDP in
 reference year 1995 for Baltic and Visegrad
-states.](/uploads/2013/gdp_baltic_visegrad_group_en.png "
+states.]({static}/uploads/2013/gdp_baltic_visegrad_group_en.png "
 The ratio of GDP in US dollars per capita in 1990-2011 to the GDP in
 reference year 1995 for Baltic and Visegrad states."){#attachment_2437} 
 
@@ -55,9 +55,9 @@ economic convergence. From our point of view, the main concepts of such
 consideration could be based on the methods of statistical physics,
 [Levelling of prices through the real appreciation of currencies of
 developing
-states](http://www.imf.org/external/pubs/ft/fandd/basics/realex.htm "Real exchange rate"),
+states](https://www.imf.org/external/pubs/ft/fandd/basics/realex.htm "Real exchange rate"),
 [Balassa-Samuelson
-effect](http://en.wikipedia.org/wiki/Balassa%E2%80%93Samuelson_effect "Balassa-Samuelson effect")
+effect](https://en.wikipedia.org/wiki/Balassa%E2%80%93Samuelson_effect "Balassa-Samuelson effect")
 and other models of international trade and investment.
 
 Interactive program

@@ -26,8 +26,8 @@ Erdos-Renyi model is one of the earliest network formation models. Thus
 it is relatively simple - the edges are put completely at random.
 Namely, we first have to generate \\\(  N \\\) isolated nodes. And
 afterwards, while iterating through all possible pairs of nodes, we have
-to put random edges between the pairs (i.e. make random connections)
-with a certain probability \\\(  p \\\).
+to put random edges between the pairs (i.e., make random connections)
+with a certain probability \\\( p \\\).
 
 Being that simple Erdos-Renyi network does not posses interesting
 features, such as power law degree distribution, high levels of
@@ -48,7 +48,7 @@ It is also worthwhile to note that this network formation model is
 somewhat related to the [percolation theory](/tag/percolation/). Imagine that a fully
 connected graph. Now let us remove a certain number of edges from it.
 How many edges could we randomly remove from a graph (network), for it
-to be still connected (i.e. with no isolated nodes)? The answer is
+to be still connected (i.e., with no isolated nodes)? The answer is
 pretty simple. We could remove edges with probability \\\(  1-p \\\),
 where \\\(  p = \ln(N)/N \\\). Note that here \\\(  p \\\) stands for a
 probability to create an edge in the Erdos-Renyi network! Try different

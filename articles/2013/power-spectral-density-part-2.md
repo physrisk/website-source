@@ -6,7 +6,7 @@ Slug: power-spectral-density-part-2
 Status: published
 
 [Last
-time](/power-spectral-density-part-1 "Power spectral density (part 1)")
+time]({filename}/articles/2013/power-spectral-density-part-1.md)
 we have written on the power spectral density and we have "analyzed"
 deterministic periodic time series. This time we will consider spectral
 densities of some stochastic processes.<!--more-->
@@ -101,7 +101,7 @@ mathematically expressed as follows:
 Spectral densities of the aforementioned stochastic processes
 -------------------------------------------------------------
 
-Bellow you should see an interactive program, which enables you to
+Below you should see an interactive program, which enables you to
 analyze spectral densities of the stochastic processes discussed above.
 \\\(  \sigma \\\) slider is important at all times as it controls the
 standard deviation of the underlying (the time series of the other
@@ -115,4 +115,4 @@ src="/uploads/models/psd-example/index-stoch.html"]
 
 Previously the interactive app was powered by Wolfram CDF technology, but it
 is now replaced with HTML5 app. The old app can still be downloaded from
-[here](/uploads/2013/random-spectra-en.cdf).
+[here]({static}/uploads/2013/random-spectra-en.cdf).

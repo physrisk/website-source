@@ -45,7 +45,7 @@ book of Nobel prize winner 2013 R. J. Shiller probably will serve for
 the development of new macroeconomic and financial theories.
 
 In the previous essay, [Econophysics as a new view on the social
-sciences](/ekonofizika-pastangos-naujai-pazvelgti-i-socialinius-mokslus/),
+sciences]({filename}/articles/2012/ekonofizika-pastangos-naujai-pazvelgti-i-socialinius-mokslus.md),
 we already discussed the initiatives to use methods of statistical
 physics for the analyses and modeling of social systems, which started
 long before present global financial and economic crises. There we paid
@@ -76,4 +76,4 @@ formalized by A. Kirman is applicable for the modeling of ants’ colony
 as well as for the modeling of financial markets. There is a research
 group working in this direction in Lithuania, more information in
 popular presentation about models in development and research you can
-find on the web site <http://rf.mokslasplius.lt/>.
+find on the web site <https://rf.mokslasplius.lt/>.

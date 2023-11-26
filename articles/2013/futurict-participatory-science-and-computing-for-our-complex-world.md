@@ -14,7 +14,4 @@ Journal Special Topics". Most of the articles are available for free,
 thus we invite you to familiarize yourselves with them.
 
 [Read the special issue of EPJ
-»](http://link.springer.com/journal/11734/214/1/page/1 "The European Physical Journal Special Topics, Volume 214, Issue 1")
-
-[Lithuanian FuturICT Hub
-»](http://futurict.lt/en/ "Lithuanian FuturICT Hub")
+»](https://link.springer.com/journal/11734/214/1/page/1 "The European Physical Journal Special Topics, Volume 214, Issue 1")

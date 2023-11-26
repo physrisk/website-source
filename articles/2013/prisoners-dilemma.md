@@ -8,10 +8,10 @@ Status: published
 Previously we wrote about
 mathematical "puzzle" originating from a TV game (see [the description
 of the Monty Hall
-problem](/teaching-math-in-a-different-way "Teaching math in a different way")).
+problem]({filename}/articles/2012/teaching-math-in-a-different-way.md)).
 This time we shall consider the opposite case - the mathematical "game"
 used as a base for a TV game. Watch a fragment of the "[Golden
-Balls](http://en.wikipedia.org/wiki/Golden_Balls)" final stage called
+Balls](https://en.wikipedia.org/wiki/Golden_Balls)" final stage called
 "Split or steal".
 
 [youtube v="p3Uos2fzIJ0"]

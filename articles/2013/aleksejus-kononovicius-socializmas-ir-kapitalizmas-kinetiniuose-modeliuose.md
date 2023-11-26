@@ -14,7 +14,7 @@ who is wrong. It would rather interesting to see if and how these
 general ideas work. In my opinion these generalized ideas might be
 easily introduced into some simple agent-based models. Previously
 considered [kinetic exchange
-models](/elementary-kinetic-exchange-models)
+models]({filename}/articles/2013/elementary-kinetic-exchange-models.md)
 appear to be one of the best candidates for the job. Thus in this text I
 will discuss the implementation of the simplistic sketches of these
 economic ideologies into the kinetic exchange
@@ -30,22 +30,18 @@ as a simple buy-sell transaction, while the energy in such case is
 analogous to the money or wealth. It is assumed that energy and money
 are conserved. Thus one particle will increase its energy by \\\( \Delta w\_{ij} \\\), while the other will lose \\\(  \Delta w\_{ij} \\\):
 
-
 \begin{equation}
  w\_i(t+1) = w\_i(t) - \Delta w\_{ij} , \quad w\_i(t+1) =w\_i(t) + \Delta w\_{ij} , 
 \end{equation}
-
 
 here time is measured in discrete time steps (\\\(  t=0,1,2,\ldots \\\)). One of the simplest and most well known kinetic exchange
 models is the reshuffling model. In this model the total energy of both
 particles after the interaction is randomly redistributed between these
 particles:
 
-
 \begin{equation}
  \Delta w\_{ij} = (1-\varepsilon) w\_i(t) - \varepsilon w\_j(t) , 
 \end{equation}
-
 
 here \\\(  \varepsilon \\\) is random variable uniformly distributed in
 \\\(  \[0,1\] \\\). In this fair, physical laws as we all know have
@@ -63,7 +59,7 @@ details we aim to capture the essence of these ideologies and attempt to
 appropriately modify the expression for \\\(  \Delta w\_{ij} \\\).
 
 ![Internet folklore: socialism vs
-capitalism.](/uploads/2013/socialism-vs-capitalism.jpg "
+capitalism.]({static}/uploads/2013/socialism-vs-capitalism.jpg "
 Internet folklore on the economic ideologies (taken form
 [politifake.org](http://politifake.org))."){#attachment_2584} 
 
@@ -74,11 +70,9 @@ As we can see socialists are seen as people who take away money from
 people who have money. In the kinetic exchange models we could introduce
 this as a fixed tax to particles, which interact:
 
-
 \begin{equation}
  \Delta w\_{ij} = (1-\varepsilon) \[w\_i(t)-w\_0\] -\varepsilon \[w\_j(t)-w\_0\] . 
 \end{equation}
-
 
 In the above \\\(  w\_0 \\\) is a fixed "solidarity" tax. In order for a
 model to work correctly we must require that particles should have
@@ -87,11 +81,9 @@ smaller energies, then their energy does not change after the
 interaction (and they are not taxed). If the tax was collected, then it
 is evenly redistributed among all particles:
 
-
 \begin{equation}
  w\_n(t+1) = w\_n(t) + \frac{2 w\_0}{N} , \quad \forall n .
 \end{equation}
-
 
 Bellow you can find HTML5 applet, which illustrates that socialism, as
 defined, does not have any noticeable impact on the stationary
@@ -111,33 +103,27 @@ Capitalism
 
 Capitalism on the other hand might be related to investments and
 borrowing.
-[Previously](/elementary-kinetic-exchange-models "Elementary kinetic models")
+[Previously]({filename}/articles/2013/elementary-kinetic-exchange-models.md)
 we have already allowed particles to "borrow" energy. The problem is
 that one has to repay loans. Thus in case of capitalism, we will allow
 particles to borrow certain amount of energy, \\\(  w\_{max} \\\):
 
-
 \begin{equation}
  \Delta w\_{ij} = (1-\varepsilon) \[w\_i(t)+w\_{max}\] -\varepsilon \[w\_j(t)+w\_{max}\] . 
 \end{equation}
-
 
 Note that now after interaction it is possible to reach negative energy
 state, which we would like to avoid. Thus if energy of any interacting
 particle goes below zero (\\\(  w\_i(t)&lt;0 \\\) or \\\( w\_j(t)&lt;0 \\\)), then all particles will have to repay its debt
 collectively (lets say it equals \\\(  w\_{neg} \\\)):
 
-
 \begin{equation}
  w\_m(t+1) = 0 , 
 \end{equation}
 
-
-
 \begin{equation}
  w\_n(t+1) = w\_n(t) - \frac{w\_{neg}}{N-N\_{bankr}} , \quad\forall n , \label{capitalismkitos}
 \end{equation}
-
 
 here \\\(  N\_{bankr} \\\) is a number of bankrupt particles (the energy
 smaller than \\\(  -w\_{max} \\\)). Why is it possible to go bankrupt in
@@ -157,11 +143,9 @@ avoid bankruptcy we could require that the debt would be repaid by
 particles with positive energy. In such case we can rewrite
 \eqref{capitalismkitos} as:
 
-
 \begin{equation}
  w\_n(t+1) = w\_n(t) - \frac{w\_{neg}}{N\_{w&gt;0}} , \quad\forall n: w\_n(t)&gt;0 , 
 \end{equation}
-
 
 here \\\(  N\_{w&gt;0} \\\) is a number of particles with positive
 energy. It appears that the problem of bankrupt particles is solved,
@@ -184,11 +168,9 @@ width="420" height="440" mode="iframe"]
 We could invent a better taxation mechanism by solving the following
 condition:
 
-
 \begin{equation}
  w\_{min} \geq \frac{w\_{neg}}{N\_{w&gt;w\_{min}}} , 
 \end{equation}
-
 
 but the direct numerical solution of this problem is somewhat
 complicated and thus hardly we could see this mechanism working in
@@ -204,7 +186,7 @@ Instead of conclusions
 
 In this text we have review two possible modifications of [elementary
 kinetic exchange
-models](/elementary-kinetic-exchange-models "Elementary kinetic exchange models").
+models]({filename}/articles/2013/elementary-kinetic-exchange-models.md).
 We have seen how the simplistic sketches of the main economic
 ideologies affect the energy distribution in these models. It appears
 that the model for "socialism" works well, though it somewhat encourages

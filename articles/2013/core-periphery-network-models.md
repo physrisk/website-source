@@ -7,20 +7,20 @@ Status: published
 
 Do you remember a talk
 ["Who controls the world?
-"](/james-b-glattfelder-kas-valdo-pasauli "James B. Glattfelder: Who controls the world?")
+"]({filename}/articles/2013/james-b-glattfelder-kas-valdo-pasauli.md)
 given by J. B. Glatterfelder on the
-[ted.com](http://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html)
+[ted.com](https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html)
 website? If not, you could go ant watch now or rely on us. As far as we
 remember the key point behind the talk is a scientific discovery of a
 fact that few hundred of large financial institutions control majority
 of the smaller financial institutions all around the world.
 Interestingly enough these large financial institutions also control
 each other! In this text we will give some examples which will show that
-similar network topologies may form not only due to the conspiracy of
+similar network topology may form not only due to the conspiracy of
 these institutions, but also due to the other reasons.
 
 Thus in this text we continue our topic on the [network formation
-models](/tag/network-formation-models). This
+models](/tag/network-models/). This
 time we will be interested in the so-called core-periphery network
 formation models, which will grow networks with well pronounced core and
 periphery.<!--more-->
@@ -29,9 +29,9 @@ Core and periphery in the networks
 ----------------------------------
 
 From time to time, even then using
-[Erdos-Renyi](/erdos-renyi-model "Erdos-Renyi model")
+[Erdos-Renyi]({filename}/articles/2013/erdos-renyi-model.md)
 or
-[Barabasi-Albert](/barabasi-albert-model "Barabasi-Albert model")
+[Barabasi-Albert]({filename}/articles/2013/barabasi-albert-model.md)
 network formation models, we may obtain networks with two differently
 wired groups of nodes. Lets say that the first group of nodes is tightly
 interconnected, while the other is very sparsely interconnected or not
@@ -41,12 +41,11 @@ group would be called a core, while the second would be referred to as a
 periphery. The concepts of the network core and periphery are visually
 explained in [Fig. 1](#attachment_2507).
 
-![Fig.
-1: Core-periphery network generated using the modified Erdos-Renyi
-model.](/uploads/2013/core-periphery-network1.png "Core-periphery
-network generated using the modified Erdos-Renyi
-model. Nodes in the red area belong to core, while the nodes in the blue
-area are in periphery."){#attachment_2507} 
+![Fig. 1: Core-periphery network generated using the modified Erdos-Renyi
+model.]({static}/uploads/2013/core-periphery-network1.png "Core-periphery
+network generated using the modified Erdos-Renyi model. Nodes in the red
+area belong to core, while the nodes in the blue area are in
+periphery."){#attachment_2507} 
 
 What is so special about the core-periphery networks? They are very
 resilient in a sense that ideal core-periphery network does not suffer
@@ -75,9 +74,8 @@ nodes to all nodes!). Then add a chosen number of periphery nodes.
 Connect them to all of the core nodes. In this manner you will obtain an
 ideal core-periphery network.
 
-![Fig.
-2: Ideal core-periphery
-network.](/uploads/2013/ideal-core-periphery.png "Ideal
+![Fig. 2: Ideal core-periphery
+network.]({static}/uploads/2013/ideal-core-periphery.png "Ideal
 core-periphery network."){#attachment_2508} 
 
 Yet this network topology is pretty boring - it is deterministic (only
@@ -105,7 +103,7 @@ Modifying Erdos-Renyi model to recover core-periphery network model
 -------------------------------------------------------------------
 
 We could randomly "grow" a core-periphery network by using [Erdos-Renyi
-model](/erdos-renyi-model "Erdos-Renyi model").
+model]({filename}/articles/2013/erdos-renyi-model.md).
 To make task easier let us modify the Erdos-Renyi model. First let us
 assume that our nodes are of two types and thus the connection
 probabilities become inhomogeneous. Namely we now will have not one, but
@@ -147,7 +145,7 @@ core and periphery. This time the modification of the underlying model
 is rather minimal - we just have to assume that the "growth" of the
 scale-free network starts from \\\(  N\_{0} \\\) fully interconnected
 nodes and further the [original
-algorithm](/barabasi-albert-model "Barabasi-Albert model")
+algorithm]({filename}/articles/2013/barabasi-albert-model.md)
 is used. Note that in this case we will observe newly formed hubs (the
 nodes with large degrees) in the periphery, though the core nodes should
 still have larger degrees.

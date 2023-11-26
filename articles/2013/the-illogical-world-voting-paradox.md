@@ -35,17 +35,15 @@ apples (A) are liked more than bananas (B), while bananas are liked more
 than cherries (C), but the cherries are more liked than apples. The
 priority ordering becomes non-transitive:
 
-
 \begin{equation}
  A &gt; B &gt; C &gt;A . 
 \end{equation}
-
 
 Thus we have seen that people on the individual level had clear
 understanding of what the like the most, yet on the global level the
 community has no understanding of its preference. This situation is
 known as the voting paradox.
 
-![Voting table. A - apples, B - bananas, C-
-cherries.](/uploads/2013/voting-table.png "
-Voting table. A - apples, B - bananas, C- cherries."){#attachment_2488} 
+![Voting table. A - apples, B - bananas, C -
+cherries.]({static}/uploads/2013/voting-table.png "Voting table. A -
+apples, B - bananas, C - cherries."){#attachment_2488} 
