@@ -7,7 +7,7 @@ Status: published
 
 In
 2014 Australian programmer started "social experiment" - he allowed
-thousands of viewers on [Twitch](http://www.twitch.tv) to play computer
+thousands of viewers on [Twitch](https://www.twitch.tv) to play computer
 game. Thousands of people could write into common chat to decide what
 the player controlled character in [Pokemon
 Red](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red) will do - will he

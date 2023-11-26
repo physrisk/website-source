@@ -8,7 +8,7 @@ Status: published
 It has been a long time
 since last interactive model on Physics of Risk. This time we return to
 a problem [we have already previously
-considered](/statistical-physics-a-key-to-understanding-of-the-social-and-economic-complexity),
+considered]({filename}/articles/2014/statistical-physics-a-key-to-understanding-of-the-social-and-economic-complexity.md),
 but which we did not model.
 
 From time to time almost everyone of us has an opportunity to go see a
@@ -22,7 +22,7 @@ to it.<!--more-->
 The model
 ---------
 
-Imagine we have a square auditorium of certain size (it is choosable in
+Imagine we have a square auditorium of certain size (it is adjustable in
 the app below). All of the chair in the auditorium are taken by agents,
 who have to decide to join standing ovation (green) or not to (red). Of
 course in real world people would eventually leave the auditorium (and
@@ -47,11 +47,11 @@ neighbors are sitting silently, then he will also sit. The model has an
 important catch - one agent can see only limited amount of other agents.
 His field of view is limited (see figure below).
 
-![vision cone](/uploads/2017/som-vision-cone.png "Agent's field of view is a cone. Vision radius is a choosable model parameter (cases up until r=3 are shown)."){#attachement_3014}
+![vision cone]({static}/uploads/2017/som-vision-cone.png "Agent's field of view is a cone. Vision radius is a choosable model parameter (cases up until r=3 are shown)."){#attachement_3014}
 
 Here we would like to draw your attention to one slightly unrealistic
 assumption we have made. Our auditorium uses periodic boundary
-conditions (alternatively, it is a toroid). Namely agents sitting in
+conditions (alternatively, it is a torus). Namely agents sitting in
 front see the agents sitting in the back. Ones sitting leftmost see the
 agents sitting rightmost. While it is impossible in reality, this
 assumption is common in physics to avoid "boundary effects".
@@ -62,19 +62,19 @@ their behavior synchronously.
 The dynamics
 ------------
 
-Using the same parameter set \\\(  T=0.5 \\\) ir \\\(  r=1 \\\) we have
+Using the same parameter set \\\(  T=0.5 \\\) and \\\(  r=1 \\\) we have
 reproduced all possible outcomes of the model - whole auditorium
 ovation, periodic ovation and silent auditorium.
 
-![total applause](/uploads/2017/som-total-ovation.png "After some time all
+![total applause]({static}/uploads/2017/som-total-ovation.png "After some time all
 agents have joined standing ovation (green curve is at 1). No agents feel
 uncomfortable (black curve is at 0).")
 
-![periodic patches 1](/uploads/2017/som-wave.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable.")
+![periodic patches 1]({static}/uploads/2017/som-wave.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable.")
 
-![periodic patches 2](/uploads/2017/som-diagonal.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable. The main difference from the previous example is a shape of the 'front.'")
+![periodic patches 2]({static}/uploads/2017/som-diagonal.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable. The main difference from the previous example is a shape of the 'front.'")
 
-![applause dies down](/uploads/2017/som-dies-down.png "After some time applause dies down (green curve is at 0). No agents feel uncomfortable (black curve is at 0).")
+![applause dies down]({static}/uploads/2017/som-dies-down.png "After some time applause dies down (green curve is at 0). No agents feel uncomfortable (black curve is at 0).")
  
 Interactive HTML5 applet
 ------------------------

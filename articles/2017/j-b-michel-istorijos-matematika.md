@@ -10,6 +10,6 @@ his experience in applying mathematical methods to history. According to
 him, mathematics combined with digitized historical data helps to reveal
 some interesting patterns. See for yourself!
 
-\[iframe
+[iframe
 src="https://embed.ted.com/talks/jean\_baptiste\_michel\_the\_mathematics\_of\_history"
-width="560" height="315"\]
+width="560" height="315"]
