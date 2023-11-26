@@ -17,13 +17,13 @@ the formation of the organized human societies. The first people faced a
 tough challenge - if they were not organized, they were simple wiped
 off.
 
-![freeciv](/uploads/2014/comp-history-freeciv.jpg)
+![freeciv]({static}/uploads/2014/comp-history-freeciv.jpg)
 
 In order to familiarize yourself more with the research done by Peter
 Turchin please visit the
-[newscientist.com](http://www.newscientist.com/) portal - see the
+[newscientist.com](https://www.newscientist.com/) portal - see the
 "[Real-world Civilisation game shows impact of
-war](http://www.newscientist.com/article/dn24262-realworld-civilisation-game-shows-impact-of-war.html)"
+war](https://www.newscientist.com/article/dn24262-realworld-civilisation-game-shows-impact-of-war.html)"
 article (by Hal Hodson).
 
 

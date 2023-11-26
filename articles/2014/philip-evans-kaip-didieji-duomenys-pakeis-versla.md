@@ -6,11 +6,11 @@ Slug: p-evans-how-data-will-transform-business
 Status: published
 
 In this talk, published on
-[ted.com](http://www.ted.com/talks/philip_evans_how_data_will_transform_business)
+[ted.com](https://www.ted.com/talks/philip_evans_how_data_will_transform_business)
 website, Philip Evans discusses the current developments of contemporary
 business models and gives some insights into how the Big data will
 influence the future business.
 
 \[iframe
-src="http://embed.ted.com/talks/philip\_evans\_how\_data\_will\_transform\_business.html"
+src="https://embed.ted.com/talks/philip\_evans\_how\_data\_will\_transform\_business.html"
 width="500" height="282"\]

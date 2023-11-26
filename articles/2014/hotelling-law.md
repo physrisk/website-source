@@ -25,7 +25,7 @@ the average shortest path to any pharmacy as small as possible we would
 have to position pharmacies at 1/4 and 3/4 of main streets length. Both
 pharmacies in this case would have an equal share of customers.
 
-![optimal placement](/uploads/2014/hotelling-optimal.png)
+![optimal placement]({static}/uploads/2014/hotelling-optimal.png)
 
 The problem is that business would like to have as large share of
 customers as possible. Note that any pharmacy may increase its share
@@ -64,9 +64,8 @@ the same - no matter the "morals", politicians tend to approach
 "centristic" political views during debates to appear to be the better
 option for the most voters.
 
-A great explanation of the Hotelling law is given in the following
-[youtube video](http://www.youtube.com/watch?v=cFt0k6n_HKc). It
-discusses both basic premise of Hotelling law and also generalizes it to
-the political debates.
+A great explanation of the Hotelling law is given in the following YouTube
+video. It discusses both basic premise of Hotelling law and also generalizes
+it to the political debates.
 
 [youtube v="cFt0k6n_HKc"]

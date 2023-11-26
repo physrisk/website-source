@@ -30,31 +30,31 @@ Articles with old Java applets
 ------------------------------
 
 -   <del>[Unidirectional Kirman
-    model](/unidirectional-kirman-model "Unidirectional Kirman model")</del>,
+    model]({filename}/articles/2011/unidirectional-kirman-model.md)</del>,
 -   <del>[Wolfram's elementary
-    automatons](/wolframs-elementary-automatons "Wolframs elementary automatons")</del>,
+    automatons]({filename}/articles/2012/wolframs-elementary-automatons.md)</del>,
 -   <del>[Agent-based prey-predator
-    model](/agent-based-prey-predator-model "Agent-based prey-predator model")</del>,
+    model]({filename}/articles/2012/agent-based-prey-predator-model.md)</del>,
 -   <del>[Bornholdt’s heterogeneous agent-based spin model for financial
-    markets](/bornholdt-model "Bornholdt’s heterogeneous agent-based spin model for financial markets")</del>,
+    markets]({filename}/articles/2011/bornholdt-model.md)</del>,
 -   <del>[Stochastic ant colony
-    model](/stochastic-ant-colony-model "Stochastic ant colony model")</del>,
+    model]({filename}/articles/2010/stochastic-ant-colony-model.md)</del>,
 -   <del>[Kirman’s ant colony
-    model](/kirman-ants "Kirmans ant colony model")</del>,
+    model]({filename}/articles/2010/kirman-ants.md)</del>,
 -   <del>[Agent-based herding model of financial
-    markets](/agent-based-herding-model-financial-markets "Agent-based herding model of financial markets")</del>,
+    markets]({filename}/articles/2011/agent-based-herding-model-financial-markets.md)</del>,
 -   <del>[Long-range memory stochastic model of
-    return](/long-range-memory-stochastic-model-return "Long-range memory stochastic model of return"),</del>
+    return]({filename}/articles/2010/long-range-memory-stochastic-model-return.md),</del>
 -   <del>[Three group Kirman’s agent-based model for financial
-    markets](/three-group-kirman-agent-based-model-for-financial-markets "Three group Kirmans agent-based model for financial markets"),</del>
+    markets]({filename}/articles/2011/three-group-kirman-agent-based-model-for-financial-markets.md),</del>
 -   <del>[Burst statistics in non-linear stochastic
-    models](/burst-statistics-non-linear-stochastic-models "Burst statistics in non-linear stochastic models"),</del>
--   [Multifractality of time series](/multifractality-time-series "Multifractality of time series"),
--   [Newton-Raphson method](/newton-raphson "Newton-Raphson method").
+    models]({filename}/articles/2011/burst-statistics-non-linear-stochastic-models.md),</del>
+-   [Multifractality of time series]({filename}/articles/2011/multifractality-time-series.md),
+-   [Newton-Raphson method]({filename}/articles/2011/newton-raphson.md).
 
 The updated applets will be checked off the list (similarly to the
 [Unidirectional Kirman
-model](/unidirectional-kirman-model "Unidirectional Kirman model"),
+model]({filename}/articles/2011/unidirectional-kirman-model.md),
 which was checked off at publication). The applets most probably will be
 updated in the same order as in this list.
 
@@ -63,42 +63,42 @@ How to launch Java applets?
 
 Open Windows Control Panel and find Java control panel in it.
 
-![java-control-panel](/uploads/2014/java-control-panel.jpg)
+![java-control-panel]({static}/uploads/2014/java-control-panel.jpg)
 
 Let's open Security tab and append Site List.
 
-![java-control-panel-2](/uploads/2014/java-control-panel-2.jpg)
+![java-control-panel-2]({static}/uploads/2014/java-control-panel-2.jpg)
 
 You should add http://mokslasplius.lt.
 
-![java-control-panel-3](/uploads/2014/java-control-panel-3.jpg)
+![java-control-panel-3]({static}/uploads/2014/java-control-panel-3.jpg)
 
-![java-control-panel-4](/uploads/2014/java-control-panel-4.jpg)
+![java-control-panel-4]({static}/uploads/2014/java-control-panel-4.jpg)
 
 A warning about "security risk" should appear. Simply press "Continue".
 
-![java-control-panel-5](/uploads/2014/java-control-panel-5.jpg)
+![java-control-panel-5]({static}/uploads/2014/java-control-panel-5.jpg)
 
 Leave Java control panel by pressing "OK" several times.
 
 Now you should open your browser and an article on "Physics of Risk"
 with Java applet in it. E.g., [Wolfram's elementary
-automatons](/wolframs-elementary-automatons "Wolframs elementary automatons").
+automatons]({filename}/articles/2012/wolframs-elementary-automatons.md).
 
 Press "Activate Java Platform" button.
 
-![java-browser](/uploads/2014/java-browser.jpg)
+![java-browser]({static}/uploads/2014/java-browser.jpg)
 
 Choose between temporary ("Allow Now") and permanent exception ("Allow
 and Remember").
 
-![java-browser-2](/uploads/2014/java-browser-2.jpg)
+![java-browser-2]({static}/uploads/2014/java-browser-2.jpg)
 
 Just press "Run" and use the applet.
 
-![java-browser-3](/uploads/2014/java-browser-3.jpg)
+![java-browser-3]({static}/uploads/2014/java-browser-3.jpg)
 
-![java-browser-4](/uploads/2014/java-browser-4.jpg)
+![java-browser-4]({static}/uploads/2014/java-browser-4.jpg)
 
 This step-by-step instruction was prepared using Windows 7, Firefox 29
 and Java SE Runtime Environment 7u55. On other versions of Windows or

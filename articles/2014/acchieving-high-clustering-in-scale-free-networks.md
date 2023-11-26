@@ -11,7 +11,7 @@ clustering are the three main network characteristics. Path lengths tend
 to be small in random network models (average shortest path and network
 diameter grows as \\\(  \ln N \\\) or slower). Power-law degree
 distribution can be obtained from the
-[Barabasi-Albert](/barabasi-albert-model "Barabasi-Albert model")
+[Barabasi-Albert]({filename}/articles/2013/barabasi-albert-model.md)
 and some other models. But clustering appears to be trickier to
 reproduce together with the previous two. In this text we will discuss
 what clustering actually is and how to obtain it in random network
@@ -24,25 +24,25 @@ Bellow you should see a contents of the slide featured in the
 presentation by A. L. Barabasi (full slides may be found here:
 <http://barabasilab.neu.edu/courses/phys5116/>). On this slide the three
 main network formation models
-([Erdos-Renyi](/erdos-renyi-model "Erdos-Renyi model"),
-[Watts-Strogatz](/watts-strogatz-model "Watts-Strogatz model")
+([Erdos-Renyi]({filename}/articles/2013/erdos-renyi-model.md),
+[Watts-Strogatz]({filename}/articles/2013/watts-strogatz-model.md)
 and
-[Barabasi-Albert](/barabasi-albert-model "Barabasi-Albert model"))
+[Barabasi-Albert]({filename}/articles/2013/barabasi-albert-model.md))
 as well as regular network structure are being compared against the main
 statistical properties discussed in the previous paragraph.
 
-![networks-slide](/uploads/2014/constant-clustering-networks-slide.jpg)
+![networks-slide]({static}/uploads/2014/constant-clustering-networks-slide.jpg)
 
 As it was already told the shortest paths are OK in all three random
 network models. Indeed as Watts-Strogatz model has shown - smallest
 amount of randomness helps to significantly decrease path lengths in
 networks. Degree distribution, also as it was already mentioned, seems
 to be OK only in case of
-[Barabasi-Albert](/barabasi-albert-model "Barabasi-Albert model")
+[Barabasi-Albert]({filename}/articles/2013/barabasi-albert-model.md)
 model (assuming that we are interested in complex networks exhibiting
 power-laws). While clustering is good only when regular network
 structures are more (purely regular network) or less
-([Watts-Strogatz](/watts-strogatz-model "Watts-Strogatz model"))
+([Watts-Strogatz]({filename}/articles/2013/watts-strogatz-model.md))
 featured. We will use this insight later, and now let us continue with a
 discussion about clustering itself.
 
@@ -64,11 +64,9 @@ If on the other hand \\\(  C\_i =0 \\\), then there should be no edges
 between any pair of \\\(  m \\\) and \\\(  j \\\). Mathematically this can
 be expressed as:
 
-
 \begin{equation}
  C\_i = \frac{2 L\_i}{d\_i (d\_i - 1)} , 
 \end{equation}
-
 
 where \\\(  L\_i \\\) is a number of edges between the neighbors of
 \\\(  i \\\). Evidently \\\(  \frac{1}{2} d\_i (d\_i -1) \\\) is a total
@@ -87,40 +85,36 @@ will use a simpler notation - \\\(  C \\\).
 Why regular structures possess high clustering?
 -----------------------------------------------
 
-![Regular network - nodes are connected as a ring, where
-each node has 4 edges directed to its nearest neighbors. Red color is
-used for the considered node and its edges. Blue circles are its
-neighbors and green lines are the edges between
-them.](/uploads/2014/constant-clustering-circle.png "
-Regular network - nodes are connected as a ring, where each node has 4
+![Regular network - nodes are connected as a ring, where each node has 4
 edges directed to its nearest neighbors. Red color is used for the
 considered node and its edges. Blue circles are its neighbors and green
-lines are the edges between them."){#attachment_2684} 
+lines are the edges between
+them.]({static}/uploads/2014/constant-clustering-circle.png "Regular
+network - nodes are connected as a ring, where each node has 4 edges
+directed to its nearest neighbors. Red color is used for the considered node
+and its edges.  Blue circles are its neighbors and green lines are the edges
+between them."){#attachment_2684} 
 
 The red node in the figure above has clustering coefficient of \\\( 0.5 \\\). As there is 3 edges (green lines) between its neighbors (blue
 circles) out of six possible pairings (\\\(  d\_i = 4 \enspace\Rightarrow \enspace \frac{4 \cdot 3}{2} = 6 \\\)). The number appears
 to be not that large, but let us consider a completely random network
 ([Erdos-Renyi
-model](/erdos-renyi-model "Erdos-Renyi model"))
+model]({filename}/articles/2013/erdos-renyi-model.md))
 with the same average degree and number of nodes. It is known that
 clustering coefficient of the [Erdos-Renyi
-model](/erdos-renyi-model "Erdos-Renyi model")
+model]({filename}/articles/2013/erdos-renyi-model.md)
 is equal to the edge formation probability:
-
 
 \begin{equation}
  C\_{ER} =p . 
 \end{equation}
 
-
 This probability is easily obtained from the total number of nodes and
 average network degree:
-
 
 \begin{equation}
  \langle d \rangle = p N \quad \Rightarrow \quad p =\frac{\langle d \rangle}{N} . 
 \end{equation}
-
 
 In our regular network structure all nodes are the same, thus \\\( \langle d \rangle = 4  \\\). When number of nodes goes to infinity,
 \\\(  N \rightarrow \infty \\\), the clustering coefficient of the
@@ -146,13 +140,13 @@ in \[cite id="Klemm2002PhysRevE"\]:
 -   Repeat second-forth steps until you reach desired network size.
 
 ![Scale-free network with constant
-clustering.](/uploads/2014/constant-clustering.jpg "
-Scale-free network with constant clustering."){#attachment_2662} 
+clustering.]({static}/uploads/2014/constant-clustering.jpg " Scale-free
+network with constant clustering."){#attachment_2662} 
 
 As you can see in the figure above the generated network is
-[scale-free](/tag/scale-free-network) (the
+[scale-free](/tag/scale-free-network/) (the
 degree distribution is power-law). Yet unlike in
-[Barabasi-Albert](/barabasi-albert-model "Barabasi-Albert model")
+[Barabasi-Albert]({filename}/articles/2013/barabasi-albert-model.md)
 model the clustering coefficient remains almost constant with increasing
 number of nodes \\\(  N \\\). Try the interactive HTML5 applet below.
 

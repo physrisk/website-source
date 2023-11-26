@@ -12,8 +12,8 @@ as a serious problem. But until recently it was a problem interesting
 only to a few scientists and couple enlightened people. Nick Hanauer was
 one of the more well-known people who talked about this problem "before
 it was cool". We invite you to listen to his talk recorded for [TED
-website](http://www.ted.com/talks/nick_hanauer_beware_fellow_plutocrats_the_pitchforks_are_coming).
+website](https://www.ted.com/talks/nick_hanauer_beware_fellow_plutocrats_the_pitchforks_are_coming).
 
 \[iframe
-src="http://embed.ted.com/talks/nick\_hanauer\_beware\_fellow\_plutocrats\_the\_pitchforks\_are\_coming.html"
+src="https://embed.ted.com/talks/nick\_hanauer\_beware\_fellow\_plutocrats\_the\_pitchforks\_are\_coming.html"
 width="560" height="315"\]

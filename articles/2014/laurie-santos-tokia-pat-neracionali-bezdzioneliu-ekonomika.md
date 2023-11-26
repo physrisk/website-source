@@ -16,8 +16,8 @@ and have seen how the irrationality is also present in the monkey
 economics or "monkeynomics" for short. We invite you to listen her
 talk.
 
-\[iframe src="http://embed.ted.com/talks/laurie\_santos.html"
+\[iframe src="https://embed.ted.com/talks/laurie\_santos.html"
 width="560" height="315"\]
 
 This talk was given at TED event and is available on
-[ted.com](http://www.ted.com/talks/laurie_santos.html).<!--more-->
+[ted.com](https://www.ted.com/talks/laurie_santos.html).<!--more-->

@@ -7,7 +7,7 @@ Status: published
 
 Another idea, which may be used to improve
 [kinetic exchange
-models](/tag/kinetic-models), might be the
+models](/tag/kinetic-models/), might be the
 introduction of the many particle interactions. In the ideal gasses
 these interactions do not occur, but in the social systems they might
 have interesting consequences. Namely they might be used to explain why
@@ -18,15 +18,13 @@ Impact of many particle interactions on the wealth (energy) distribution
 ------------------------------------------------------------------------
 
 Let us start with a modification of [elementary kinetic exchange
-model](/elementary-kinetic-exchange-models "Elementary kinetic exchange models").
+model]({filename}/articles/2013/elementary-kinetic-exchange-models.md).
 In this case let us assume that only \\\(  N \\\)-particle interactions
 occur and the total wealth (energy) is uniformly distributed among them:
-
 
 \begin{equation}
  w\_i(t+1) = \frac{\varepsilon\_i}{E(I)} W(t, I) , \quad\forall i \in I , 
 \end{equation}
-
 
 here \\\(  I \\\) is a set of particles selected for this interaction,
 \\\(  E(I) = \sum\_{i \in I} \varepsilon\_i  \\\) is a random number
@@ -47,7 +45,7 @@ Referendum model
 How do people make their decisions? Evidently not all of us are skilled
 and informed enough to make decisions on our own in all possible
 everyday scenarios, thus in such case we have to rely on our social
-contacts (acquittances, co-workers, family members and etc.) to help us
+contacts (acquaintances, co-workers, family members and etc.) to help us
 reach a decision. To keep things simple we can assume that after
 discussion the people will follow the opinion of the majority of their
 discussion group. Everything remains simple if the question (or task) is
@@ -65,11 +63,9 @@ We would like to draw your attention to a fact that \\\(  \xi \\\) here
 represents the mean opinion. If you prefer a raw fraction of individuals
 choosing "yes" option, then you may obtain it this way:
 
-
 \begin{equation}
  x\_{+} = \frac{1 + \xi }{2} . 
 \end{equation}
-
 
 In the applet below you can tune \\\(  p\[N\] \\\) parameters, which
 define the probability that \\\(  N \\\) individuals will meet.

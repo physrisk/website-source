@@ -19,4 +19,4 @@ field, which now takes up a lot of interest in other socio-economic
 systems as well as in social behavior observed in biological systems.
 
 [Read more on gontis.eu (this article is written in Lithuanian)
-»](http://gontis.eu/2014/11/arciau-ekonofizikos-istaku/)
+»](https://gontis.eu/2014/11/arciau-ekonofizikos-istaku/)
