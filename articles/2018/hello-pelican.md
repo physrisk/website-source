@@ -7,14 +7,15 @@ Status: published
 
 Exactly seven years ago we have launched second iteration of the Physics of Risk
 website under the flag of the EU structural fund project *Science of business and society*
-(lt. *Mokslas verslui ir visuomenei*; see the [article](/hello-world)).
+(lt. *Mokslas verslui ir visuomenei*; see the
+[article]({filename}/articles/2010/hello-world.md)).
 The second iteration was different from the first one as it was powered by
 WordPress (instead of Drupal) and was multilingual (instead of being available
 only in Lithuanian).
 
 Today I (Aleksejus) launch a third iteration of the Physics of Risk. There will
 be some changes as we will replace WordPress with a static site generator
-[Pelican](http://docs.getpelican.com/).<!--more-->
+[Pelican](https://docs.getpelican.com/).<!--more-->
 
 ## Why Pelican?
 
@@ -33,7 +34,7 @@ replacements for the old and no longer maintained plugins.
 Another big change might come with WordPress 5, which is now available as
 separate plugin - Gutenberg. As the rumor goes this new feature might break
 plugins related to the content editor. In case of Physics of Risk this would
-break multilangual functionality as well as some less visible functionalities
+break multilingual functionality as well as some less visible functionalities
 dependent on the meta fields. Some of the plugins are no longer maintained and
 most likely will not be updated to be compatible with Gutenberg.
 
