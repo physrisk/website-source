@@ -43,8 +43,8 @@ state.
 The simplest spin glass model may be obtained by assuming that \\\( J \\\) of the original [Ising
 model](/ising-model) are normally
 distributed random variables. Note that set of \\\(  J \\\) should be
-pregenerated prior to the modelling it self and should not be changed
-during the modelling.
+pregenerated prior to the modeling it self and should not be changed
+during the modeling.
 
 HTML5 applet
 ------------

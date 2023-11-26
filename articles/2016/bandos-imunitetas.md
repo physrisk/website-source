@@ -104,7 +104,7 @@ setting their values it is important to satisfy the following condition:
 \end{equation}
 
 
-The modelling might be further complicated by introducing the impact of
+The modeling might be further complicated by introducing the impact of
 immunity and vaccination (or drugs) to the probability to get healthy or
 die. But this complication is not necessary in our case.
 
