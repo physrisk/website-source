@@ -3,7 +3,7 @@ Date: 2023-11-28 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Ali Hajimiri, statistics, shot noise, 1/f noise, spectral density
 Slug: ali-hajimiri-shot-noise-and-other-noises
-Status: draft
+Status: published
 
 The following video by prof. Ali Hajimiri discusses various types of noises
 often seen in physical systems. I have found it and watched it in
