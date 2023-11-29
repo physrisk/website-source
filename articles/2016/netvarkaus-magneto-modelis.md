@@ -9,7 +9,7 @@ Previously on Physics of Risk we
 have already discussed the [Ising
 model]({filename}/articles/2010/ising-model.md), which is one of the most
 fundamental models in statistical physics. We are especially interested
-in [Isingo model]({filename}/articles/2010/ising-model.md) as it is
+in [Ising model]({filename}/articles/2010/ising-model.md) as it is
 frequently applied to model social systems. One of such examples is the
 [Bornholdt model]({filename}/articles/2011/bornholdt-model.md) of the
 financial markets.
