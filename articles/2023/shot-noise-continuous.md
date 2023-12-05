@@ -3,7 +3,7 @@ Date: 2023-12-05 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, Fourier transform, spectral density, shot noise
 Slug: shot-noise-continuous-time
-Status: draft
+Status: published
 Image_url: uploads/2023/shot-noise-continuous.png
 
 [Last time]({filename}/articles/2023/shot-noise.md) we have moved away from
