@@ -44,7 +44,7 @@ Derivation of the [spectral density](/tag/spectral-density/) is a bit more
 involved than for the [Poisson point
 process]({filename}/articles/2023/poisson-process-psd.md), but follows
 exactly the same trail of complex algebra. The general result (e.g.,
-obtained in [cite id="Kononovicius2023rtn"] is
+obtained in [cite id="Kononovicius2023rtn"]) is
 
 \begin{equation}
 S\left(f\right)=\frac{a^{2}\bar{\nu}}{\pi^{2}f^{2}}\mathrm{Re}\left[\frac{\left(1-\chi\_{\theta}\left(f\right)\right)\left(1-\chi\_{\tau}\left(f\right)\right)}{1-\chi\_{\theta}\left(f\right)\chi\_{\tau}\left(f\right)}\right],
@@ -66,7 +66,7 @@ S\left(f\right)=\frac{4a^{2}\bar{\nu}}{\left(\lambda\_{\theta}+\lambda\_{\tau}\r
 \end{equation}
 
 Namely, for low frequencies (lower than \\\( \left(\frac{\lambda\_\theta +
-\lambda\_\tau}{2 \pi}\right)^2 \\\) the [spectral
+\lambda\_\tau}{2 \pi}\right)^2 \\\)) the [spectral
 density](/tag/spectral-density/) will be flat, while for higher frequencies
 \\\( S(f) \\\) will decay as \\\( 1/f^2 \\\). There will be a very narrow
 region of frequencies where the switch between the [white
