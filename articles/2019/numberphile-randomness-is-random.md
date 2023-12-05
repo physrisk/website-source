@@ -14,9 +14,8 @@ randomness.
 
 [youtube v="tP-Ipsat90c"]
 
-Recall our discussion on the "hot hand phenomenon" earlier
-(see [here]({filename}/articles/2019/hot-hand-fallacy.md) and
-[here]({filename}/articles/2019/hot-hand-science.md))? We believe that this
+Recall our discussion on the "[hot hand phenomenon](/tag/hot-hand/)" earlier?
+We believe that this
 might be at least tangently related. Both of these observation could be
 explained a simple fact that we as humans want to see patterns everywhere.
 We think that the world has to make sense, it simply can't be random. If we see

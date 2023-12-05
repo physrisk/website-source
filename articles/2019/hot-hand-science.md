@@ -1,13 +1,13 @@
 Title: Hot hand in science and acting
 Date: 2019-03-26 08:00
 Author: Aleksejus Kononovicius
-Tags: statistics, burst statistics
+Tags: statistics, burst statistics, hot hand
 Slug: hot-hand-science-acting
 Status: published
 Image_url: uploads/2019/dreamstime_xxl_114021426.jpg
 
 As we have seen [few weeks ago]({filename}/articles/2019/hot-hand-fallacy.md) there is no
-evidence for hot hands in sports. While there is skill in sports, but short
+evidence for [hot hands](/tag/hot-hand/) in [sports](/tag/sports/). While there is skill in [sports](/tag/sports/), but short
 term streaks do not exist. Their simply an illusion caused by the randomness
 involved.
 
