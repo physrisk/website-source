@@ -26,9 +26,9 @@ findings were identical to the ones reported in official statistics, so we
 can assume that everything works fine to this point.
 
 **Is there evidence for a home advantage?** This rather interesting question
-as beliefs about home advantage are as common as beliefs about "hot hands" we
+as beliefs about home advantage are as common as beliefs about "[hot hands](/tag/hot-hand/)" we
 have written about [earlier]({filename}/articles/2019/hot-hand-fallacy.md).
-Interestingly unlike for the "hot hands" we clearly see that home teams gain
+Interestingly unlike for the "[hot hands](/tag/hot-hand/)" we clearly see that home teams gain
 noticeable advantage against their opponents.
 
 ![Home advantage all teams]({static}/uploads/2019/football-home-wins.png "Proprotions
