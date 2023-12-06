@@ -8,7 +8,7 @@ Image_url: uploads/2019/s4sm2.png
 
 [Last time]({filename}/articles/2019/misread-four-state-sznajd-model.md) I have
 admitted that I have misread one well-known generalization of the
-[Sznajd model]({filename}/articles/2019/sznajd-model.md). This time I would like
+[Sznajd model]({filename}/articles/2019/sznajd-united-we-stand-divided-we-fall-model.md). This time I would like
 to present you the original interpretation proposed by Stauffer in
 [cite id="Stauffer2002ACS"]. Though I would like to note that I was still
 unable to reproduce Stauffer's original result.<!--more-->
@@ -16,17 +16,17 @@ unable to reproduce Stauffer's original result.<!--more-->
 ## The model
 
 As we have already written [last time]({filename}/articles/2019/misread-four-state-sznajd-model.md)
-this generalization of the [Sznajd model]({filename}/articles/2019/sznajd-model.md)
+this generalization of the [Sznajd model]({filename}/articles/2019/sznajd-united-we-stand-divided-we-fall-model.md)
 introduces two intermediate opinions into the model. Namely, in order to switch
 opinion between the extremes agent must first go through the intermediate opinions. 
-In this sense this model is similar to the [AB model]({filename}/articles/2017/ab-modelis.md).
+In this sense this model is similar to the [AB model]({filename}/articles/2017/ab-model.md).
 Yet these two models produce different results: in AB model extreme opinions
 "win", while here one of the intermediate opinions should prevail [cite id="Stauffer2002ACS"].
 
 What I have misread/misinterpreted [last time]({filename}/articles/2019/misread-four-state-sznajd-model.md)
 was that in fact empty cells are usefull as this generalization also introduces
 movement of the agents. This adds additional "diffusion" step into the original
-algorithm of the [Sznajd model]({filename}/articles/2019/sznajd-model.md).
+algorithm of the [Sznajd model]({filename}/articles/2019/sznajd-united-we-stand-divided-we-fall-model.md).
 
 So we have implemented the following algorithm. First select a random agent and
 move it to a random neighboring empty cell (if it is possible). Next select a

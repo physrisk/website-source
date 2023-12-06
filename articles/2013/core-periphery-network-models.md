@@ -7,7 +7,7 @@ Status: published
 
 Do you remember a talk
 ["Who controls the world?
-"]({filename}/articles/2013/james-b-glattfelder-kas-valdo-pasauli.md)
+"]({filename}/articles/2013/j-b-glattfelder-who-controls-world.md)
 given by J. B. Glatterfelder on the
 [ted.com](https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html)
 website? If not, you could go ant watch now or rely on us. As far as we

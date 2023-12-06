@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: video, statistics, burst statistics, sports, Numberphile, fractals, hot hand
 Slug: hot-hand-fallacy
 Status: published
-Image_url: uploads/2019/dreamstime_xxl_114021426.jpg
+Image_url: uploads/2019/hot-hand-science-acting.jpg
 
 A player sinks his fourth shot in a row and the crowd goes wild, while
 commentators say what the crowd is thinking the magic phrase "he is on fire!"

@@ -6,7 +6,7 @@ Slug: maslovs-order-book-model
 Status: published
 Image_url: uploads/2018/maslovs-order-book-model.png
 
-Previously we have discussed what [order book]({filename}/articles/2018/what-the-order-book-is.md) is. We have also discussed simplified model inspired by physics ([here]({filename}/articles/2018/bak-order-book-model.md). Let us now consider another simple model [cite id="Maslov2000PhysA"], which appears to be a bit more realistic model of the order book.<!--more-->
+Previously we have discussed what [order book]({filename}/articles/2018/what-the-order-book-is.md) is. We have also discussed simplified model inspired by physics ([here]({filename}/articles/2018/noise-traders-only-order-book-model-bak.md). Let us now consider another simple model [cite id="Maslov2000PhysA"], which appears to be a bit more realistic model of the order book.<!--more-->
 
 ## The model
 

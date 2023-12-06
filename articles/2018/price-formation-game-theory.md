@@ -8,11 +8,11 @@ Image_url: uploads/2018/shift-in-supply.png
 
 Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work.
 
-In the [first part]({filename}/articles/2017/paklausos-ir-pasiulos-desniai.md) of the series we have discussed economic laws of supply and demand. We have learned that the cheaper the product is the more people will be willing to buy it. Also that the more people are willing to pay for the product, the more of the product will be produced.
+In the [first part]({filename}/articles/2017/laws-of-supply-and-demand.md) of the series we have discussed economic laws of supply and demand. We have learned that the cheaper the product is the more people will be willing to buy it. Also that the more people are willing to pay for the product, the more of the product will be produced.
 
-In the [second part]({filename}/articles/2018/price-formation-printing-press.md) we have discussed a simple example in which printing press failed to predict the demand for the book. We have discussed how non-optimal prices emerge as a result of this miscalculation.
+In the [second part]({filename}/articles/2018/price-formation-printing-press-example.md) we have discussed a simple example in which printing press failed to predict the demand for the book. We have discussed how non-optimal prices emerge as a result of this miscalculation.
 
-In the [third part]({filename}/articles/2018/cobweb-model.md) of the series we have discussed the implications of the cobweb model, which attempts to explain how the prices and produced quantity converge to equilibrium. We have noted that this convergence is not immediate and may take some time.
+In the [third part]({filename}/articles/2018/price-formation-cobweb-model.md) of the series we have discussed the implications of the cobweb model, which attempts to explain how the prices and produced quantity converge to equilibrium. We have noted that this convergence is not immediate and may take some time.
 
 Previously we have mentioned that supply and demand laws should be reformulated as areas. As anything above the supply curve is good for the supplier and anything below the demand curve is good for the customer. What we have not yet talked about is why the curves are where they are.<!--more-->
 

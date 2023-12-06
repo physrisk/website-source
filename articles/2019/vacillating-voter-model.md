@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2019/vvoter-model.png
 
 Vacillating voter model is a generalization of the
-[voter model]({filename}/articles/2016/rinkejo-modelis.md), which shows that
+[voter model]({filename}/articles/2016/voter-model.md), which shows that
 contrarian behavior can emerge from imitative interactions
 [cite id="Lambiotte2007JStatMech"]. This result is kind of interesting and
 counter-intuitive as usually, in other models of [opinion dynamics](/tag/opinion-dynamics/),
@@ -15,13 +15,13 @@ contrarian behavior is being explicitly built in.<!--more-->
 
 ## The model
 
-The model is strongly reminiscent of the [voter model]({filename}/articles/2016/rinkejo-modelis.md),
+The model is strongly reminiscent of the [voter model]({filename}/articles/2016/voter-model.md),
 yet with a small caveat. If a randomly selected voter has the same opinion as
 its (first) randomly picked neighbor, he picks another (second) neighbor and
 adopts its opinion.
 
 This simple change has a profound effect. In case of the original
-[voter model]({filename}/articles/2016/rinkejo-modelis.md) on a square lattice
+[voter model]({filename}/articles/2016/voter-model.md) on a square lattice
 the flip probability is \\\( \frac{k}{4} \\\) (where \\\( k \\\) is a number of
 disagreeing neighbors). In this model on a square lattice flip probability is
 larger: \\\( 0 \\\) (for \\\( k=0 \\\)), \\\( \frac{1}{2} \\\) (for \\\( k=1 \\\)),

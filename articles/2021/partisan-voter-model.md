@@ -22,7 +22,7 @@ implements the model on a fully connected network.
 Let us assume that voters have two opinions: internal and external. Internal
 opinion is defined at the start of simulation, while external opinion changes
 according to the usual rules of the [voter
-model]({filename}/articles/2016/rinkejo-modelis.md). Only the transition
+model]({filename}/articles/2016/voter-model.md). Only the transition
 rates are heterogeneous based on whether the considered opinion matches the
 internal opinion.
 
@@ -104,7 +104,7 @@ a finite system only the consensus states are stable.
 Hence [cite id="Masuda2010PRE"] had considered the consensus times of this
 model for various \\\( N \\\). The researchers have found that this model
 reaches consensus slower than the classical [voter
-model]({filename}/articles/2016/rinkejo-modelis.md).
+model]({filename}/articles/2016/voter-model.md).
 
 ## Interactive app
 

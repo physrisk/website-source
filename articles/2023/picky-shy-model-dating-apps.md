@@ -19,7 +19,7 @@ predominantly to less attractive users). Who is more successful?
 The model follows the premise of the [dropout
 model]({filename}/articles/2022/dropout-model-dating-apps.md) with a
 difference that matched users are replaced (as in the [replacement
-model]({filename}/articles/2023/replace-model-dating-apps.md)). Also their
+model]({filename}/articles/2023/replacement-model-dating-apps.md)). Also their
 decisions are based on a modified rule biased decision rule.
 
 In this model biased decisions of the users depend on their type. But all
@@ -83,7 +83,7 @@ values. For example, try setting \\\( \beta\_{max} = 100 \\\) or \\\(
 ## Interactive app
 
 This interactive app is essentially the same as in the [previous
-post]({filename}/articles/2023/replace-model-dating-apps.md). Yet this one
+post]({filename}/articles/2023/replacement-model-dating-apps.md). Yet this one
 is focused on observing success of picky and shy agents. The top right plot
 shows the fraction of shy-shy pairings (labeled "shy") and picky-picky
 pairings (labeled "picky"), as well as mixed pairings. The bottom right plot

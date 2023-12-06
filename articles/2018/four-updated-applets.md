@@ -14,7 +14,7 @@ with their HTML5 counterparts. The following articles were updated:<!--more-->
 * [Burst statistics in non-linear stochastic models]({filename}/articles/2011/burst-statistics-non-linear-stochastic-models.md),
 
 Two more applets are still
-[to be replaced]({filename}/articles/2014/java-programeliu-ateitis-ir-kaip-jas-paleisti.md).
+[to be replaced]({filename}/articles/2014/future-of-java-applets-and-how-to-launch-java-applets.md).
 It is likely that multifractality applet will also be soon upgraded,
 but reimplementing Newton-Raphson applet is extremely chalenging task...
 

@@ -6,7 +6,7 @@ Slug: misread-four-state-sznajd-model
 Status: published
 Image_url: uploads/2019/s4sm.png
 
-Last time we have introduced you to the [Sznajd model]({filename}/articles/2019/sznajd-model.md).
+Last time we have introduced you to the [Sznajd model]({filename}/articles/2019/sznajd-united-we-stand-divided-we-fall-model.md).
 We have also mentioned that this model was rather popular in Sociophysics around
 the beginning of the XXI century. This time I wanted to introduce you to one the
 modified Sznajd models, but I have misread the article [cite id="Stauffer2002ACS"].
@@ -19,8 +19,8 @@ still present it. Next time I'll introduce you to the original version of this
 ## The model
 
 Here we will introduce "intermediate" opinions into the
-[Sznajd model]({filename}/articles/2019/sznajd-model.md). These "intermediate"
-opinions work in a similar manner as in the [AB model]({filename}/articles/2017/ab-modelis.md).
+[Sznajd model]({filename}/articles/2019/sznajd-united-we-stand-divided-we-fall-model.md). These "intermediate"
+opinions work in a similar manner as in the [AB model]({filename}/articles/2017/ab-model.md).
 Namely, in order to transit between the extreme opinions, an agent must first
 transition trough intermediate opinions: he must complete the cycle
 \\\( 1 \rightarrow 2 \rightarrow 3 \rightarrow 4 \\\) (or in the opposite direction).
@@ -38,7 +38,7 @@ If neighbors opinion is \\\( 4 \\\), he will retain his opinion.
 The original paper [cite id="Stauffer2002ACS"] suggests to leave half of the cells
 empty. Why? I have misread. And from what I read, I was convinced that this was
 some kind of strange initialization rule, which could make sense in the context
-of the [Sznajd model]({filename}/articles/2019/sznajd-model.md). So, in my
+of the [Sznajd model]({filename}/articles/2019/sznajd-united-we-stand-divided-we-fall-model.md). So, in my
 interpretation cells are left empty only during initialization: they are
 randomly "grown" into by agents with opinions. After this initialization we have
 semi-random clusters of opinion with no empty cells and later the model runs as
