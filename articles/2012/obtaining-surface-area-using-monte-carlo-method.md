@@ -57,7 +57,7 @@ line)."){#attachment_2310}
 Euclidean egg
 -------------
 
-![image]({static}/uploads/2012/obtaining-surface-area-using-monte-carlo-method.png "Full scheme
+![image]({static}/uploads/2012/mc-euklido-kiausinis.png "Full scheme
 for the definition of the Euclidean egg (the egg itself is inside the pink
 rectangle). The main part of the egg consists of the circle in the
 middle of the graph (its radius is equals 2). This egg is inside two
@@ -79,7 +79,7 @@ answer very close to the precise one. See [Fig. 6](#attachment_2306) and
 [Fig. 7](#attachment_2308) on the application of the Monte Carlo method
 in this case.
 
-![image]({static}/uploads/2012/mc-euklido-kiausinis.png "Random Monte
+![image]({static}/uploads/2012/obtaining-surface-area-using-monte-carlo-method.png "Random Monte
 Carlo"){#attachment_2306} 
 
 ![image]({static}/uploads/2012/mc-euklido-kiausinis-graph.png "The evolution
