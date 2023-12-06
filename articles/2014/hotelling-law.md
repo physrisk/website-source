@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Economics, Interactive models, competition, video, median voter theorem
 Slug: hotelling-law
 Status: published
+Image_url: uploads/2014/hotelling-law.png
 
 In the begging of XXth
 century economist Harold Hotelling noted that competitors tend to make
@@ -25,7 +26,7 @@ the average shortest path to any pharmacy as small as possible we would
 have to position pharmacies at 1/4 and 3/4 of main streets length. Both
 pharmacies in this case would have an equal share of customers.
 
-![optimal placement]({static}/uploads/2014/hotelling-optimal.png)
+![optimal placement]({static}/uploads/2014/hotelling-law.png)
 
 The problem is that business would like to have as large share of
 customers as possible. Note that any pharmacy may increase its share

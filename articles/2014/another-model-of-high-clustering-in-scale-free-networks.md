@@ -4,8 +4,9 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Network models, Barabasi-Albert model, scale free network
 Slug: another-model-of-high-clustering-in-scale-free-networks
 Status: published
+Image_url: uploads/2014/another-model-of-high-clustering-in-scale-free-networks.png
 
-[Previously]({filename}/articles/2014/acchieving-high-clustering-in-scale-free-networks.md)
+[Previously]({filename}/articles/2014/achieving-high-clustering-in-scale-free-networks.md)
 we have already mentioned that there are three main statistical features
 of networks. The most problematic of them appears to be clustering as
 random networks do not naturally form local, tightly interconnected,
@@ -31,7 +32,7 @@ Formulation of model
         probability \\\(  1-p \\\).
 
 ![Two network formation mechanisms in the discussed
-model.]({static}/uploads/2014/triad-formation.png "Two network formation
+model.]({static}/uploads/2014/another-model-of-high-clustering-in-scale-free-networks.png "Two network formation
 mechanisms in the discussed model. In subfigure (a) we see a node 'u' was
 selected via preferential attachment mechanism, next using triad formation
 mechanism node 'w' was chosen (subfigure (b)). Note that crossed out nodes

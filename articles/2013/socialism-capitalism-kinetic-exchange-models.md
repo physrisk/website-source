@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, kinetic models, statistical physics, wealth, Economics, free market
 Slug: socialism-capitalism-kinetic-exchange-models
 Status: published
+Image_url: uploads/2013/socialism-capitalism-kinetic-exchange-models.jpg
 
 Worldwide and in Lithuania, due to historical
 context, there is one very popular topic for the economic-based
@@ -59,8 +60,8 @@ details we aim to capture the essence of these ideologies and attempt to
 appropriately modify the expression for \\\(  \Delta w\_{ij} \\\).
 
 ![Internet folklore: socialism vs
-capitalism.]({static}/uploads/2013/socialism-vs-capitalism.jpg "
-Internet folklore on the economic ideologies (taken form
+capitalism.]({static}/uploads/2013/socialism-capitalism-kinetic-exchange-models.jpg
+"Internet folklore on the economic ideologies (taken form
 politifake.org)."){#attachment_2584} 
 
 Socialism

@@ -4,13 +4,14 @@ Author: Aleksejus Kononovicius
 Tags: politics, sociology, opinion dynamics
 Slug: kicking-off-opinion-dynamics-topic
 Status: published
+Image_url: uploads/2018/kicking-off-opinion-dynamics-topic.jpg
 
 Soon we will kick off with a new topic entirely. The topic will not be outside the
 scope of Physics of Risk, but to a completely different subject still within our
 research interests. Namely, we will move on to cover some of the most well known
 or otherwise interesting models of the [opinion dynamics](/tag/opinion-dynamics/).
 
-![elections (photo by Arnaud Jaegers on Unsplash)]({static}/uploads/2018/arnaud-jaegers-253360-unsplash.jpg)
+![elections (photo by Arnaud Jaegers on Unsplash)]({static}/uploads/2018/kicking-off-opinion-dynamics-topic.jpg)
 
 Note that we have already covered a few [opinion dynamics](/tag/opinion-dynamics/)
 models. Such as

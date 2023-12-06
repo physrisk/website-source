@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, sociology, psychology, opinion dynamics
 Slug: standing-ovation-model
 Status: published
+Image_url: upload/2017/standing-ovation-model.png
 
 It has been a long time
 since last interactive model on Physics of Risk. This time we return to
@@ -47,7 +48,7 @@ neighbors are sitting silently, then he will also sit. The model has an
 important catch - one agent can see only limited amount of other agents.
 His field of view is limited (see figure below).
 
-![vision cone]({static}/uploads/2017/som-vision-cone.png "Agent's field of view is a cone. Vision radius is a choosable model parameter (cases up until r=3 are shown)."){#attachement_3014}
+![vision cone]({static}/uploads/2017/standing-ovation-model-vision-cone.png "Agent's field of view is a cone. Vision radius is a choosable model parameter (cases up until r=3 are shown)."){#attachement_3014}
 
 Here we would like to draw your attention to one slightly unrealistic
 assumption we have made. Our auditorium uses periodic boundary
@@ -66,15 +67,15 @@ Using the same parameter set \\\(  T=0.5 \\\) and \\\(  r=1 \\\) we have
 reproduced all possible outcomes of the model - whole auditorium
 ovation, periodic ovation and silent auditorium.
 
-![total applause]({static}/uploads/2017/som-total-ovation.png "After some time all
+![total applause]({static}/uploads/2017/standing-ovation-model-total-ovation.png "After some time all
 agents have joined standing ovation (green curve is at 1). No agents feel
 uncomfortable (black curve is at 0).")
 
-![periodic patches 1]({static}/uploads/2017/som-wave.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable.")
+![periodic patches 1]({static}/uploads/2017/standing-ovation-model.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable.")
 
-![periodic patches 2]({static}/uploads/2017/som-diagonal.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable. The main difference from the previous example is a shape of the 'front.'")
+![periodic patches 2]({static}/uploads/2017/standing-ovation-model-diagonal.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable. The main difference from the previous example is a shape of the 'front.'")
 
-![applause dies down]({static}/uploads/2017/som-dies-down.png "After some time applause dies down (green curve is at 0). No agents feel uncomfortable (black curve is at 0).")
+![applause dies down]({static}/uploads/2017/standing-ovation-model-dies-down.png "After some time applause dies down (green curve is at 0). No agents feel uncomfortable (black curve is at 0).")
  
 Interactive HTML5 applet
 ------------------------

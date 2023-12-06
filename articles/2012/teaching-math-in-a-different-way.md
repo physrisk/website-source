@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: General information, paradox, popular culture, science.memebase.com
 Slug: teaching-math-in-a-different-way
 Status: published
+Image_url: uploads/2012/teaching-math-in-a-different-way.jpg
 
 Recently on my
 Facebook news feed I found one article, which was rather interesting.
@@ -162,4 +163,4 @@ of the image below (taken from
 [science.memebase.com](https://cheezburger.com/6690922752); author:
 YUNOtele).
 
-![math real life]({static}/uploads/2012/math-real-life.jpg "Real life math?")
+![math real life]({static}/uploads/2012/teaching-math-in-a-different-way.jpg "Real life math?")

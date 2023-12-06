@@ -46,7 +46,7 @@ of the example burst, start of the next to the example burst. These
 three events will be further referenced then introducing variables
 schematically introduced in [Fig. 1](#attachment_1854).
 
-![image]({static}/uploads/2011/bursts_time_series.png "Variables related to the burst statistics: h -
+![image]({static}/uploads/2011/burst-statistics-non-linear-stochastic-models.png "Variables related to the burst statistics: h -
 threshold value; τ - waiting time; T - burst duration; S - burst size; θ
 - inter-burst
 time."){#attachment_1854} 

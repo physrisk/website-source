@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, sociology, Schelling model
 Slug: schellings-segregation-model
 Status: published
+Image_url: uploads/2015/schellings-segregation-model.png
 
 Around 1970 American economist Tom
 Schelling published couple well cited articles in which he tried to

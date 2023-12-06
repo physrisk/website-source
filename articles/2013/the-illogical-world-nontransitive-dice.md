@@ -1,9 +1,10 @@
-Title: The illogical world - nontranstive dice
+Title: The illogical world - nontransitive dice
 Date: 2013-11-18 07:48
 Author: Aleksejus Kononovicius
 Tags: Interactive models, nontransitivity, paradox
-Slug: the-illogical-world-nontranstive-dice
+Slug: the-illogical-world-nontransitive-dice
 Status: published
+Image_url: uploads/2013/the-illogical-world-nontransitive-dice.png
 
 [Previously]({filename}/articles/2013/the-illogical-world-voting-paradox.md)
 we wrote about the "illogical" world, which is full of paradoxes and
@@ -31,8 +32,9 @@ empirically by making the dice as they are show in the
 mirror values shown on the walls, which are seen). Which of the dice is
 a better one? Which one will roll higher values than the other two?
 
-![Nontransitive dice]({static}/uploads/2013/non-transitive-dice.png "
-Nontransitive dice. Image taken from Wikipedia"){#attachment_2490} 
+![Nontransitive
+dice]({static}/uploads/2013/the-illogical-world-nontransitive-dice.png
+"Nontransitive dice. Image taken from Wikipedia"){#attachment_2490} 
 
 The answer should be evident - the red one will beat the green one with
 the probability of 5/9, the green one will be better than blue one with

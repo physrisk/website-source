@@ -63,12 +63,12 @@ everyone being unhappy with the regime, only 20% (all agents in group 1)
 will join the protest. It is so because the members of group 2 have a
 large threshold of 25%.
 
-![Failed protest]({static}/uploads/2017/granovetter-fail.png)
+![Failed protest]({static}/uploads/2017/granovetters-threshold-model.png)
 
 If the threshold is set to a lower value, lets say 15%, then the protest
 will eventually involve everybody.
 
-![Successful protest]({static}/uploads/2017/granovetter-success.png)
+![Successful protest]({static}/uploads/2017/granovetters-threshold-model-success.png)
 
 By changing number of group, their respective sizes and thresholds we
 could produce protests of different sizes. We could also neglect

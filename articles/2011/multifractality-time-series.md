@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Fractals, Interactive models, Stochastic models, voter model, Kirman model, methods, multifractality
 Slug: multifractality-time-series
 Status: published
+Image_url: uploads/2011/multifractality-time-series.png
 
 One of the conclusions of fractal
 geometry is a fact that fractals unlike traditional Euclidean shapes
@@ -207,7 +208,7 @@ very same MF-DFA \[cite id="Kononovicius2011LNFK"\]. Also note the
 difference in scaling of \\\(  F\_q(s) \\\) ([Fig. 5](#attachment_1993)
 (a) and [Fig. 4](#attachment_1976) (a)).
 
-![image]({static}/uploads/2011/multifrac-hurst-spectra-multi.png "Multifractal features of Agent-based herding model of
+![image]({static}/uploads/2011/multifractality-time-series.png "Multifractal features of Agent-based herding model of
 financial markets: deviations from trends estimated for different
 segment sizes (a) and generalized exponent spectrum (b). Model
 parameters: \\\( \varepsilon\_1=\varepsilon\_2=1 \\\), \\\( \Delta t=0.001 \\\),

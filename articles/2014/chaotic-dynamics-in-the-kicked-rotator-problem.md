@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Dynamical chaos, Interactive models, classical mechanics, quantum mechanics
 Slug: chaotic-dynamics-in-the-kicked-rotator-problem
 Status: published
+Image_url: uploads/2014/chaotic-dynamics-in-the-kicked-rotator-problem.png
 
 Kicker rotator (or rotor) problem is one of
 the classical examples of dynamical chaos in physics. The focus of this
@@ -16,7 +17,8 @@ field is on, it creates a force, acting on the particle, of strength
 force may be approximated by the Dirac delta
 function.<!--more-->
 
-![General schema of kicked rotator]({static}/uploads/2014/kicked-rotor.png
+![General schema of kicked
+rotator]({static}/uploads/2014/chaotic-dynamics-in-the-kicked-rotator-problem.png
 "General schema of kicked rotator."){#attachment_2731} 
 
 The following Hamiltonian may be written for this system:

@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Economics, Interactive models, Stochastic models, 1/f noise, A. Kononovicius, J. Ruseckas, arch, financial markets
 Slug: long-range-memory-in-nonlinear-garch-model
 Status: published
+Image_url: uploads/2015/long-range-memory-in-nonlinear-garch-model.png
 
 Recently journal Physica A accepted
 our, A. Kononovicius and J. Ruseckas, manuscript titled "Nonlinear GARCH
@@ -63,8 +64,9 @@ As you can see [in a figure below](#attachment_2771), it does work
 rather well.
 
 ![Fig. 1: reproducing 1/f spectra using nonlinear GARCH(1,1)
-model.]({static}/uploads/2015/ngarch11.png "Reproducing 1/f spectra using
-nonlinear GARCH(1,1) model."){#attachment_2771} 
+model.]({static}/uploads/2015/long-range-memory-in-nonlinear-garch-model.png
+"Reproducing 1/f spectra using nonlinear GARCH(1,1)
+model."){#attachment_2771} 
 
 The comparison does not explain the roles of \\\(  A \\\) (and thus
 \\\(  a\_1 \\\)) and \\\(  C \\\) (and thus \\\(  c\_1 \\\)). Both these

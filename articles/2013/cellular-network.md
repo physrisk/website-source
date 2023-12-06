@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Network models, Erdos-Renyi model, small world
 Slug: cellular-network
 Status: published
+Image_url: uploads/2013/cellular-network.png
 
 The
 term "cellular network" might confuse some readers as it also bears a

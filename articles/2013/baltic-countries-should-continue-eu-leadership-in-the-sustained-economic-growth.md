@@ -4,6 +4,7 @@ Authors: Vygintas Gontis, Aleksejus Kononovicius, Kęstutis Acus
 Tags: Economics, A. Kononovicius, Eurostat, K. Acus, StatPlanet, V. Gontis, gross domestic product, economic convergence, macroeconomics, purchasing power parity, purchasing power standard, politics, actual individual consumption
 Slug: baltic-countries-should-continue-eu-leadership-in-the-sustained-economic-growth
 Status: published
+Image_url: uploads/2013/baltic-countries-should-continue-eu-leadership-in-the-sustained-economic-growth.jpg
 
 In the
 previous
@@ -76,9 +77,9 @@ financial crisis has been conditioned by the collapse of credit flow
 more than by seeming endogenous macroeconomic disproportions in Baltics.
 
 ![Fig.
-1. Relative GDP growth of EU contries in the period 1995-2012, map of
-GDP(2011)/GDP(1995).]({static}/uploads/2013/relative-gdp-growth.jpg "
-Relative GDP growth of EU contries in the period 1995-2012, map
+1. Relative GDP growth of EU countries in the period 1995-2012, map of
+GDP(2011)/GDP(1995).]({static}/uploads/2013/baltic-countries-should-continue-eu-leadership-in-the-sustained-economic-growth.jpg "Relative
+GDP growth of EU contries in the period 1995-2012, map
 of GDP(2011)/GDP(1995)."){#attachment_2541} 
 
 Having in mind that labor cost is indispensable part of macroeconomic
@@ -105,14 +106,14 @@ growth rates and lower relative gross earnings.
 
 ![Fig.
 2. Map of average GDP growth per year of EU countries in the period
-1995-2012.]({static}/uploads/2013/eu-gdp-growth.jpg "
-Map of average GDP growth per year of EU countries in the period
+1995-2012.]({static}/uploads/2013/eu-gdp-growth.jpg "Map
+of average GDP growth per year of EU countries in the period
 1995-2012."){#attachment_2542} 
 
 ![Fig.
-3. Map of average relative gross earning in EU contries,
-1995-2012.]({static}/uploads/2013/mean-relative-wage.jpg "
-Map of average relative gross earning in EU contries,
+3. Map of average relative gross earning in EU countries,
+1995-2012.]({static}/uploads/2013/mean-relative-wage.jpg "Map
+of average relative gross earning in EU contries,
 1995-2012."){#attachment_2543} 
 
 It is worth to switch from the averaged view to the more detailed time

@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics, sports, Matlab, github
 Slug: football-data-analysis-and-modeling-showcase
 Status: published
+Image_url: uploads/2019/football-data-analysis-and-modeling-showcase.png
 
 This year I got to teach a numerical methods course to first year students in
 Faculty of Physics (Vilnius University). As theory is somewhat boring and
@@ -31,13 +32,15 @@ have written about [earlier]({filename}/articles/2019/hot-hand-fallacy.md).
 Interestingly unlike for the "[hot hands](/tag/hot-hand/)" we clearly see that home teams gain
 noticeable advantage against their opponents.
 
-![Home advantage all teams]({static}/uploads/2019/football-home-wins.png "Proprotions
-of the games won, drawn and lost by the home teams during the English Premier
-League 2000/2001 season.")
+![Home advantage all
+teams]({static}/uploads/2019/football-data-analysis-and-modeling-showcase.png
+"Proprotions of the games won, drawn and lost by the home teams during the
+English Premier League 2000/2001 season.")
 
-![Home advantage top 5 teams]({static}/uploads/2019/football-home-wins-top.png "Proprotions
-of the games won, drawn and lost by the top 5 teams of the English Premier
-League 2000/2001 season playing home and away.")
+![Home advantage top 5
+teams]({static}/uploads/2019/football-data-analysis-and-modeling-showcase-home-wins-top.png
+"Proprotions of the games won, drawn and lost by the top 5 teams of the
+English Premier League 2000/2001 season playing home and away.")
 
 **Is there a difference between number of goals scored home and away?** This
 question is mostly related to the previous one. Here we see that usually teams

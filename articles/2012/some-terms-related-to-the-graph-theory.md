@@ -4,6 +4,7 @@ Author: Julius Ruseckas
 Tags: Network models
 Slug: some-terms-related-to-the-graph-theory
 Status: published
+Image_url: upload/2012/some-terms-related-to-the-graph-theory.png
 
 Network models are intimately related to a
 certain branch of mathematics known as the graph theory. Actually
@@ -50,5 +51,5 @@ connected by the path.
 Acyclic graph is called **forest**. Connected forest is called a
 **tree**.
 
-![image]({static}/uploads/2012/grafai.png "Various examples of
+![image]({static}/uploads/2012/some-terms-related-to-the-graph-theory.png "Various examples of
 graphs."){#attachment_2314} 

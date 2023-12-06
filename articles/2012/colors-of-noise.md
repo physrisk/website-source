@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Stochastic models, 1/f noise, Brownian motion, white noise, spectral density, Fourier transform
 Slug: colors-of-noise
 Status: published
+Image_url: uploads/2012/colors-of-noise.png
 
 What is [white](/tag/white-noise/), [pink](/tag/1f-noise/),
 ["brown"](/tag/brownian-motion/) and even

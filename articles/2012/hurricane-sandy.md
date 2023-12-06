@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Fractals, popular culture
 Slug: hurricane-sandy
 Status: published
+Image_url: uploads/2012/hurricane-sandy.jpg
 
 Recent
 hurricane, which struck east coast of the USA, has very interesting
@@ -15,4 +16,4 @@ have not yet discussed this fractal on Physics of Risk, thus we'd like
 to recommend reading [an article on the
 Wikipedia](https://en.wikipedia.org/wiki/Penrose_tiling)).
 
-![sandy symmetry]({static}/uploads/2012/sandy-simetry.jpg)
+![sandy symmetry]({static}/uploads/2012/hurricane-sandy.jpg)
