@@ -108,7 +108,7 @@ The index of such squared Bessel process is \\\(  \nu = - \lambda \\\).
 Note that for the full analogy between the processes one should also
 transform time.
 
-More complex [CEV](/tag/cev/) and [CIR](/tag/cir/)
+More complex [CEV](/tag/cev-process/) and [CIR](/tag/cir-process/)
 processes might be obtained by introducing exponential diffusion
 restrictions into \eqref{sde}:
 
@@ -117,7 +117,7 @@ restrictions into \eqref{sde}:
 \end{equation}
 
 Thus, if \\\(  \eta=1/2 \\\), \\\(  m=1 \\\), \\\(  x\_{min}=0 \\\) and
-\\\(  x\_{max} = 1 \\\), one can obtain CIR process:
+\\\(  x\_{max} = 1 \\\), one can obtain [CIR process](/tag/cir-process/):
 
 \begin{equation}
  \mathrm{d} x = k (\theta -x) \mathrm{d} t + \sqrt{x}\mathrm{d} W , 
@@ -127,12 +127,12 @@ where \\\(  k = 1/2 \\\) and \\\(  \theta = 1 - \lambda \\\).
 
 While if \\\(  \eta = \lambda /2 \\\), \\\(  m = 2 \eta -2 \\\),
 \\\(  x\_{min} = 1 \\\) and \\\(  x\_{max} \rightarrow \infty \\\), one
-can obtain CEV process:
+can obtain [CEV process](/tag/cev-process/):
 
 \begin{equation}
  \mathrm{d} x = \mu x \mathrm{d} t + x^\eta \mathrm{d} W ,
 \end{equation}
 
 where \\\(  \mu = \eta -1  \\\). The relation of our stochastic models
-to the CEV process is more broadly discussed in \[cite
+to the [CEV process](/tag/cev-process/) is more broadly discussed in \[cite
 id="Reimann2011PhysA,Kononovicius2012PhysA"\].

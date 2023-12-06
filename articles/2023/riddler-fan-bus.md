@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2023/riddler-fan-bus.png
 
 This week we will take a look at another [Riddler's Classic
-puzzle](/tag/FiveThirtyEight/). The problem for [December 2th,
+puzzle](/tag/fivethirtyeight/). The problem for [December 2th,
 2022](https://fivethirtyeight.com/features/can-you-separate-the-world-cup-fans/)
 invites us to transport football fans to the stadium. Obviously, we can't
 transport supporters of different teams in the same bus! What do we do?

@@ -94,7 +94,7 @@ We invite you to explore the interactive app below. Feel free to check our
 intuition as well as develop your own.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/emm-ob-model/cobweb.html" width="520" height="560"]
+src="/uploads/models/order-book-models/efficient-market-maker/cobweb.html" width="520" height="560"]
 
 ## Disclaimer
 
