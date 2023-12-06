@@ -2,7 +2,7 @@ Title: A. Kononovicius, I. Kazakevicius: Impact of the controlled agents on the 
 Date: 2013-09-09 07:03
 Authors: Aleksejus Kononovicius, Ignas Kazakevičius
 Tags: Agent-based models, A. Kononovicius, I. Kazakevicius, voter model, Kirman model, control
-Slug: impact-controlled-agents-dynamics-Kirman-model 
+Slug: impact-controlled-agents-dynamics-Kirman-model
 Status: published
 
 Collective behavior of the
