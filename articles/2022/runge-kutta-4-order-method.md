@@ -8,7 +8,7 @@ Image_url: uploads/2022/rk4.png
 
 Apps in the last two posts
 (see [here]({filename}/articles/2022/end-of-the-world-2026.md) and
-[here]({filename}/articles/2022/Verhulst-correction-to-Doomsday-model.md))
+[here]({filename}/articles/2022/verhulst-correction-to-doomsday-model.md))
 differ in another important regard: the first app plots analytical solution
 of one ODE, while the second plots numerical solution of another ODE.
 Numerical solution is chosen, because it is impossible to obtain analytical

@@ -24,4 +24,4 @@ We have listened to dr. Jens Krause live at one of the Spring meetings
 of German physicists' society (DPG). Namely this research has inspired
 us to analyze [the impact of the controlled agents on the dynamics of
 the Kirman
-model]({filename}/articles/2013/a-kononovicius-i-kazakevicius-valdomu-agentu-itaka-kirmano-modelio-dinamikai.md).
+model]({filename}/articles/2013/impact-controlled-agents-dynamics-Kirman-model.md).

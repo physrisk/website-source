@@ -29,7 +29,7 @@ good I will remain within [SIR]({filename}/articles/2020/sir-model.md)
 framework. Namely I will try to recover \\\( I(t) \\\) series from
 \\\( R(t) \\\) series by assuming that the recovery time distribution is
 Weibull with parameters we have found in an
-[earlier post]({filename}/articles/2020/covid-19-convolution-recovery.md).
+[earlier post]({filename}/articles/2020/covid-19-recovery-model-convolution.md).
 
 ## Obvious (and wrong) approach
 
@@ -60,7 +60,7 @@ series (shown in the app) than between \\\( I(t) \\\) and shifted
 ## Possible correct approaches
 
 A correct approach would be to use **deconvolution**. In the
-[earlier post]({filename}/articles/2020/covid-19-convolution-recovery.md) we
+[earlier post]({filename}/articles/2020/covid-19-recovery-model-convolution.md) we
 have used time domain convolution formula, but we could have also done
 convolution via frequency domain:
 
@@ -100,7 +100,7 @@ points, \\\( R(t) \\\).
 
 What I ended up doing is similar to the back-projection, but instead of Poisson
 regression I have used
-[the most metal algorithm in computer science]({filename}/articles/2020/scishow-the-most-metal-algorithm.md) -
+[the most metal algorithm in computer science]({filename}/articles/2020/scishow-the-most-metal-algorithm-in-computer-science.md) -
 **simulated annealing**. The idea behind the method is pretty simple:
 1. Initially make a reasonable guess (shifted \\\( R(t) \\\) is the initial
 guess in the app below).

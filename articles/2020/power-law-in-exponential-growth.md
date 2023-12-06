@@ -9,7 +9,7 @@ Image_url: uploads/2020/power-law-in-exp-growth.png
 In the last few posts we have considered
 [Reed-Hughes mechanism](/tag/reed-hughes-mechanism/), first from the
 [empirical]({filename}/articles/2020/covid-19-spatial-growth.md) and then
-from the [theoretical]({filename}/articles/2020/reed-hughes.md)
+from the [theoretical]({filename}/articles/2020/reed-hughes-mechanism.md)
 perspectives. In all these posts we considered data at fixed point in time,
 but how does the temporal evolution look like when the system evolves as
 described in our prior posts?<!--more-->

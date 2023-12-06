@@ -6,7 +6,7 @@ Slug: scishow-why-is-it-so-hard-to-fix-traffic
 Status: published
 
 Long ago we have implemented a simple traffic model, Nagel-Schreckenberg
-model (see [this post]({filename}/articles/2014/stok-vaziuok-bangos.md)).
+model (see [this post]({filename}/articles/2014/stop-and-go-waves.md)).
 This model demonstrates how small errors or perturbations to traffic flow
 could amplify and cause traffic jams.
 

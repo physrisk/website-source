@@ -15,9 +15,9 @@ or otherwise interesting models of the [opinion dynamics](/tag/opinion-dynamics/
 Note that we have already covered a few [opinion dynamics](/tag/opinion-dynamics/)
 models. Such as
 [Galam's referendum model]({filename}/articles/2014/many-particle-interaction-in-the-kinetic-exchange-models.md),
-[Voter model]({filename}/articles/2016/rinkejo-modelis.md),
-[AB model]({filename}/articles/2017/ab-modelis.md) and
-[Axelrod's culture dissemination model]({filename}/articles/2018/axelrod-model.md).
+[Voter model]({filename}/articles/2016/voter-model.md),
+[AB model]({filename}/articles/2017/ab-model.md) and
+[Axelrod's culture dissemination model]({filename}/articles/2018/axelrod-culture-dissemination-model.md).
 Though we haven't discussed it in detail
 [Bass diffusion model]({filename}/articles/2011/unidirectional-kirman-model.md)
 as well as [Kirman's model](/tag/kirman-model/) could be also seen as opinion

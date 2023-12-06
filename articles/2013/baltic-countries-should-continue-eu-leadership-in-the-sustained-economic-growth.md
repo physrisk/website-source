@@ -7,7 +7,7 @@ Status: published
 
 In the
 previous
-[text]({filename}/articles/2013/baltijos-valstybiu-ekonomikos-vejasi-ir-lenkia-vysegrado-salis.md)
+[text]({filename}/articles/2013/economies-baltic-countries-catching-overcoming-visegrad-group.md)
 we considered statistical information from various sources, exhibiting
 sustained economic growth of Baltic countries. Now with some confidence
 we can conclude that even world financial crises has made only

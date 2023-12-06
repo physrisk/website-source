@@ -21,7 +21,7 @@ Another issue is that often in [opinion dynamics](/tag/opinion-dynamics/) the
 data is not temporal, but is spatial instead. One way to avoid this problem is
 to assume that electoral districts (our spatial dimension) are independent of
 each other (we have implicitly made this assumption
-[here]({filename}/articles/2019/many-state-herd-model.md)). Though obviously,
+[here]({filename}/articles/2019/many-state-herd-model-and-its-application-to-lithuanian-parliamentary-elections.md)). Though obviously,
 this assumption is not true. If you recall another
 [recent post]({filename}/articles/2020/kawasaki-ising-model.md), then you likely
 already know what we will do here. We will discuss an extension of the voter
@@ -45,7 +45,7 @@ compartments are not overcrowded (they are assume to have inherent capacity
 
 Let us assume that the movements between compartments are based on homophily.
 With the actual rule inspired by the
-[original voter model]({filename}/articles/2016/rinkejo-modelis.md). Given
+[original voter model]({filename}/articles/2016/voter-model.md). Given
 different source and destination compartments, \\\( i \neq j \\\), and that
 the destination compartment is not over its capacity, \\\( N\_j < C \\\), the
 transition rate is assumed to be:
@@ -63,7 +63,7 @@ district \\\( j \\\).
 ![Schema of the compartmental voter model.]({static}/uploads/2020/cvm-schema.png "Schema of the compartmental voter model. Arrows show directions of possible transitions along with respective transition rates. Note that zero rate means that this transitions will not happen unless something changes. Parameters: N = 20, T=2, M=5, C=5, ε=2.")
 
 Note that the compartmental voter model is conceptually similar to the
-[original Schelling's model]({filename}/articles/2015/selingo-segregacijos-modelis.md)
+[original Schelling's model]({filename}/articles/2015/schellings-segregation-model.md)
 as well. Yet we implement a continuous transition rule instead of discrete one.
 This allows us to implement the compartmental voter model in continuous time.
 
@@ -74,7 +74,7 @@ infinite, \\\( C = N \\\). If so, then we can write total entry and exit rates
 for the compartments. Otherwise, if \\\( C < N \\\), the total entry and exit
 rates do not have closed forms. Furthermore the analytical results apply only to
 the stationary probability density functions and not to the compartmental
-[rank-size distributions]({filename}/articles/2020/rank-size-distribution-and-uk-census-2011-data.md)
+[rank-size distributions]({filename}/articles/2020/rank-size-distribution-and-uk-census-2011-data-set.md)
 in which we are interested in.
 
 For the infinite capacity case it can be easily shown that the stationary
