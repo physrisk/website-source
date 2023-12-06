@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, 1/f noise, A. Kononovicius, CEV process, J. Ruseckas, V. Gontis, financial markets
 Slug: long-range-memory-stochastic-model-return
 Status: published
-Image_url: long-range-memory-stochastic-model-return.png
+Image_url: uploads/2010/long-range-memory-stochastic-model-return.png
 
 From the practical point of view price is the most
 interesting observable of the financial markets. Though modeling and

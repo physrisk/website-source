@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Economics, free market, supply and demand, market price, price formation series
 Slug: laws-of-supply-and-demand
 Status: published
-Image_url: uploads/2017/laws-of-supply-and-demand.jpg
+Image_url: uploads/2017/laws-of-supply-and-demand.png
 
 At the heart of economics
 lies two fundamental concepts, to which most of the other concepts are

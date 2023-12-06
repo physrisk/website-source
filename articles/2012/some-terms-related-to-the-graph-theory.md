@@ -4,7 +4,7 @@ Author: Julius Ruseckas
 Tags: Network models
 Slug: some-terms-related-to-the-graph-theory
 Status: published
-Image_url: upload/2012/some-terms-related-to-the-graph-theory.png
+Image_url: uploads/2012/some-terms-related-to-the-graph-theory.png
 
 Network models are intimately related to a
 certain branch of mathematics known as the graph theory. Actually

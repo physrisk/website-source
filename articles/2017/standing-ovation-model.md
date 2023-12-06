@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, sociology, psychology, opinion dynamics
 Slug: standing-ovation-model
 Status: published
-Image_url: upload/2017/standing-ovation-model.png
+Image_url: uploads/2017/standing-ovation-model.png
 
 It has been a long time
 since last interactive model on Physics of Risk. This time we return to
