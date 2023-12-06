@@ -4,6 +4,7 @@ Authors: Vygintas Gontis, Kęstutis Acus
 Tags: Economics, Baltic countries, Eurostat, K. Acus, V. Gontis, gross domestic product, economic convergence, macroeconomics, purchasing power parity, purchasing power standard, politics, actual individual consumption
 Slug: economies-baltic-countries-catching-overcoming-visegrad-group
 Status: published
+Image_url: uploads/2013/economies-baltic-countries-catching-overcoming-visegrad-group.jpg
 
 Following our previous papers about economic
 convergence of Baltic and Visegrad countries and long-term development
@@ -38,7 +39,7 @@ members’ and Norway from 1995 to 2012. The same data is show in three
 different ways to stress various growth
 trends.<!--more-->
 
-![Fig.  1: GDP in USD, current prices, of Baltic, Visegrad and Scandinavian
+![Fig. 1: GDP in USD, current prices, of Baltic, Visegrad and Scandinavian
 countries is shown in three different ways from 1995 to
 2012.]({static}/uploads/2013/baltic-visegrad-scandinavia-gdp-usd-1995-2012-en.jpg
 "GDP in USD, current prices, of Baltic, Visegrad and Scandinavian countries
@@ -84,7 +85,7 @@ Eurostat data.
 In the second figure GDP growth curves are shown in the same period,
 just calculated in Euros with use of Eurostat data.
 
-![Fig.  2: GDP in Euros, current prices, of Baltic, Visegrad and
+![Fig. 2: GDP in Euros, current prices, of Baltic, Visegrad and
 Scandinavian countries is shown in three different ways form 1995 to 2012
 (Eurostat
 data).]({static}/uploads/2013/baltic-visegrad-scandinavia-gdp-eur-1995-2012-en.jpg
@@ -156,7 +157,7 @@ make lower absolute differences between developed and developing
 countries. It is easy to explain the change, having in mind that price
 levels are higher in more developed countries (Penn effect).
 
-![Fig.  3: GDP per capita in PPS of Baltics, Visegrad and Scandinavian
+![Fig. 3: GDP per capita in PPS of Baltics, Visegrad and Scandinavian
 countries from 1995 to 2012 is shown in three different ways (Eurostat
 data).]({static}/uploads/2013/baltic-visegrad-scandinavia-gdp-pps-1995-2012-en.jpg
 " GDP per capita in PPS of Baltics, Visegrad and Scandinavian countries from
@@ -212,9 +213,9 @@ indicator is a part of real GDP, when it calculated in expenditure
 approach. Eurostat offers data for shorter - 2003-2012 period. We draw
 AIC curves of Baltic and Visegrad countries in Fig. 4.
 
-![Fig.  4: Actual individual consumption of Baltic and Visegrad countries
+![Fig. 4: Actual individual consumption of Baltic and Visegrad countries
 calculated by expenditure approach in
-PPP.]({static}/uploads/2013/baltic-visegrad-scandinavia-gdp-ppp-2003-2012-en.jpg
+PPP.]({static}/uploads/2013/economies-baltic-countries-catching-overcoming-visegrad-group.jpg
 "Actual individual consumption of Baltic and Visegrad countries calculated
 by expenditure approach in PPP."){#attachment_2514} 
 

@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, statistical physics
 Slug: elementary-model-reproducing-q-gaussian-distribution
 Status: published
+Image_url: uploads/2014/elementary-model-reproducing-q-gaussian-distribution.png
 
 q-Gaussian distribution is rather
 interesting generalization of the well-known Gaussian distribution. This
@@ -28,8 +29,9 @@ starts to approach Gaussian:
 \end{equation}
 
 ![Illustration of the correlated spin model taken from the
-article.]({static}/uploads/2014/spins-ruseckas.png "Illustration of the
-correlated spin model taken from the article."){#attachment_2720} 
+article.]({static}/uploads/2014/elementary-model-reproducing-q-gaussian-distribution.png
+"Illustration of the correlated spin model taken from the
+article."){#attachment_2720} 
 
 Now let us assume that our spins are **strongly correlated**. This means
 that there is only a few cases when spins change orientation. Let us

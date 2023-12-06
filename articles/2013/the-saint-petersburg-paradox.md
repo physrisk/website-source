@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, paradox
 Slug: the-saint-petersburg-paradox
 Status: published
+Image_url: uploads/2013/the-saint-petersburg-paradox.jpg
 
 In the
 1738, Daniel Bernoulli, the very same known for his contribution to
@@ -53,10 +54,10 @@ infinite amount of money required by this "fool-proof" strategy. So in
 the end some streak of losses will be a final streak as the player will
 be unable to further increase his bets.
 
-![One of the tipical realizations while using the discussed strategy. As
+![One of the typical realizations while using the discussed strategy. As
 everything goes well it appears that there is no risk - income is steady,
 but even shortest streak of losses might result in a
-bankruptcy.]({static}/uploads/2013/st-petersburg-graph-en.jpg "One of the
+bankruptcy.]({static}/uploads/2013/the-saint-petersburg-paradox.jpg "One of the
 tipical realizations while using the discussed strategy. As everything goes
 well it appears that there is no risk - income is steady, but even shortest
 streak of losses might result in a bankruptcy."){#attachment_2441} 

@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Fractals, Interactive models, methods
 Slug: newton-raphson
 Status: published
+Image_url: uploads/2011/newton-raphson.png
 
 Newton-Raphson, sometimes just Newton or
 Newton-Fourier, method is an approximate method in mathematical analysis
@@ -55,7 +56,7 @@ fractals.
 In the image below you see solution of \\\(  z^2+2 \imath z+1=0 \\\) one the complex plane (real and imaginary parts are constrained
 in \[-5;5\]).
 
-![solution]({static}/uploads/2011/newton-sprendimas.png)
+![solution]({static}/uploads/2011/newton-raphson.png)
 
 While this image is not breathtaking, it is perfect for understanding of
 the method - in it you can clearly see how different guesses converge

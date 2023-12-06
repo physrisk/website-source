@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: A. Kononovicius, Bass model, marketing
 Slug: what-can-the-bass-diffusion-model-tell-us-about-piracy
 Status: published
+Image_url: uploads/2012/what-can-the-bass-diffusion-model-tell-us-about-piracy.png
 
 Recently
 in Lithuanian and world's different or global social spaces there was a
@@ -132,7 +133,7 @@ with large discounts. The model stays the same as in case with "shadow"
 diffusion, but the "shadow" diffusion term remains constant, \\\( Y(t) = Y\_0 \\\). As you can see in [Fig. 3](#attachment_2290) profit loss
 once again stays minimal, yet the diffusion is even faster.
 
-![image]({static}/uploads/2012/BassPiracy3.png "Bass diffusion without
+![image]({static}/uploads/2012/what-can-the-bass-diffusion-model-tell-us-about-piracy.png "Bass diffusion without
 piracy (green curve), with pirates (blue curve) and in 'charity' scenario
 (magenta curve). Model parameters are otherwise identical."){#attachment_2290} 
 

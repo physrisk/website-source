@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Stochastic models, methods, Java
 Slug: numerical-methods-for-the-stochastic-differential-equations
 Status: published
+Image_url: uploads/2012/numerical-methods-for-the-stochastic-differential-equations.png
 
 Reviewers of one of our most recent papers
 have asked some very interesting questions. One of them was about the
@@ -170,7 +171,7 @@ The idea of the variable time steps can be easily and somewhat
 efficiently applied towards solution of the ordinary differential
 equations - see [Fig. 2](#attachment_2324).
 
-![image]({static}/uploads/2012/num-methods-eulerVarStep.png "Introducing variable time steps into the original Euler
+![image]({static}/uploads/2012/numerical-methods-for-the-stochastic-differential-equations.png "Introducing variable time steps into the original Euler
 method. Note that under similar conditions the agreement between
 analytical and numerical solution is
 improved."){#attachment_2324} 

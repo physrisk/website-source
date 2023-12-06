@@ -4,6 +4,7 @@ Authors: Vygintas Gontis, Aleksejus Kononovicius
 Tags: Economics, Interactive models, A. Kononovicius, Baltic countries, World Bank, V. Gontis, gross domestic product, economic convergence, macroeconomics, politics
 Slug: the-phenomenon-of-economic-growth-of-baltic-states
 Status: published
+Image_url: uploads/2013/the-phenomenon-of-economic-growth-of-baltic-states.png
 
 The
 quantitative comparison of economic growth of various states is still an
@@ -40,11 +41,10 @@ considerably higher than growth of Visegrad Group in the period 1995 -
 2011. This exhibits a more rapid convergence of Baltic states into
 European economic space.
 
-![The
-ratio of GDP in US dollars per capita in 1990-2011 to the GDP in
+![The ratio of GDP in US dollars per capita in 1990-2011 to the GDP in
 reference year 1995 for Baltic and Visegrad
-states.]({static}/uploads/2013/gdp_baltic_visegrad_group_en.png "
-The ratio of GDP in US dollars per capita in 1990-2011 to the GDP in
+states.]({static}/uploads/2013/the-phenomenon-of-economic-growth-of-baltic-states.png
+"The ratio of GDP in US dollars per capita in 1990-2011 to the GDP in
 reference year 1995 for Baltic and Visegrad states."){#attachment_2437} 
 
 We do consider the universal behavior of new EU economies as a

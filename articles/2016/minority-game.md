@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, competition, game theory
 Slug: minority-game
 Status: published
+Image_url: uploads/2016/minority-game.png
 
 Homo
 economicus (lat. economic man) is a very convenient concept, which is
@@ -47,7 +48,7 @@ strategies and chooses the best one."){#attachment_2915}
 
 ![Fig 3: Agent looks up recent history (three evenings in this figure) and
 checks it against his strategy (here represented as
-vector).]({static}/uploads/2016/minority-game-3.png "Agent looks up recent
+vector).]({static}/uploads/2016/minority-game.png "Agent looks up recent
 history (three evenings in this figure) and checks it against his strategy
 (here represented as vector)."){#attachment_2916} 
 

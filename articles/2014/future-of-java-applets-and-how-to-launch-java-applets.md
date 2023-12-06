@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: General information, Interactive models, java
 Slug: future-of-java-applets-and-how-to-launch-java-applets
 Status: published
+Image_url: uploads/2014/future-of-java-applets-and-how-to-launch-java-applets.jpg
 
 When we started to work on "Physics of Risk" Java
 platform was extremely popular way to show interactive material to
@@ -92,7 +93,7 @@ Press "Activate Java Platform" button.
 Choose between temporary ("Allow Now") and permanent exception ("Allow
 and Remember").
 
-![java-browser-2]({static}/uploads/2014/java-browser-2.jpg)
+![java-browser-2]({static}/uploads/2014/future-of-java-applets-and-how-to-launch-java-applets.jpg)
 
 Just press "Run" and use the applet.
 

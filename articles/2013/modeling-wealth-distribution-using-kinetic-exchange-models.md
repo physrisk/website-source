@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, kinetic models, statistical physics, wealth
 Slug: modeling-wealth-distribution-using-kinetic-exchange-models
 Status: published
+Image_url: uploads/2013/modeling-wealth-distribution-using-kinetic-exchange-models.jpg
 
 We have previously wrote about the
 [elementary kinetic
@@ -18,7 +19,7 @@ distribution.<!--more-->
 
 ![Inverse CDF of wealth. Data are of the United Kingdom from 1996. Figure
 taken from an article by Patriarca and Chakraborti
-(2013).]({static}/uploads/2013/wealth-distribution-uk-1996-Patriarca.jpg
+(2013).]({static}/uploads/2013/modeling-wealth-distribution-using-kinetic-exchange-models.jpg
 "Inverse cumulative distribution function of wealth. Data are of the United
 Kingdom from 1996. Figure taken from an article by Patriarca and Chakraborti
 (2013)."){#attachment_2581} 

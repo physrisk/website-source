@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, financial markets, Ising model
 Slug: bornholdt-model
 Status: published
+Image_url: uploads/2011/bornholdt-model.png
 
 Previously we have discussed ant colony model \[cite
 id="Kirman1993QJE, Alfarano2005CompEco"\] (see Kirman's [agent
@@ -197,8 +198,8 @@ id="Kaizoji2002PhysA"\],
 Model results
 -------------
 
-![image]({static}/uploads/2011/bornholdt_phase.png "Phases observed in Bornholdt model: calmness (left
-figure), chaotic frustration (right figure). Note that Bornholdt doesn&#x27;t
+![image]({static}/uploads/2011/bornholdt-model.png "Phases observed in Bornholdt model: calmness (left
+figure), chaotic frustration (right figure). Note that Bornholdt model doesn't
 reach stable state - shown phases interchange during whole model
 evolution."){#attachment_1342} 
 

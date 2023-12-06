@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, biology
 Slug: herd-immunity
 Status: published
+Image_url: uploads/2016/herd-immunity.png
 
 Recently a new movement made its way
 to Lithuania - anti-vaccine movement. Some parents after reading few
@@ -41,7 +42,7 @@ below)), infected agent might become healthy again, \\\(  p\_{ih} \\\),
 or die, \\\(  p\_{id} \\\).
 
 ![Simplified scheme of the
-model]({static}/uploads/2016/herd-im-model-scheme.png "Simplified scheme of
+model]({static}/uploads/2016/herd-immunity.png "Simplified scheme of
 the model"){#attachment_2899} 
 
 During each time tick (we assume that it is fixed and equal to 1) each
@@ -155,14 +156,14 @@ rates are low!
 
 ![If vaccination rates are high, then you may obtain cases were majority of
 victims will be among vaccinated
-agents.]({static}/uploads/2016/herd-im-case-1.png "If vaccination rates are
+agents.]({static}/uploads/2016/herd-immunity-case-1.png "If vaccination rates are
 high, then you may obtain cases were majority of victims will be among
 vaccinated agents. If vaccination rates are low, everybody
 dies."){#attachment_2896} 
 
 ![If vaccination rates are high, then you may also obtain cases were
 majority of victims will be among unvaccinated
-agents.]({static}/uploads/2016/herd-im-case-2.png "If vaccination rates are
+agents.]({static}/uploads/2016/herd-immunity-case-2.png "If vaccination rates are
 high, then you may also obtain cases were majority of victims will be among
 unvaccinated agents. If vaccination rates are low, everybody
 dies."){#attachment_2897} 

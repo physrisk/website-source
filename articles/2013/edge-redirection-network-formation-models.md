@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Network models, Barabasi-Albert model, Erdos-Renyi model, scale free network
 Slug: edge-redirection-network-formation-models
 Status: published
+Image_url: uploads/2013/edge-redirection-network-formation-models.jpg
 
 Previously we wrote about few of the most well
 known and used network formation models \[cite id="Airoldi2011DSS"\]:
@@ -71,7 +72,8 @@ airline routes.
 ![Fig.  1: Highly dispersed networks shown in the article "Highly Dispersed
 Networks" by Gabel et al. (the enhanced redirection was used). The green
 nodes have a total degree of 1, blue nodes - have 2-20, while red ones -
-larger than 20.]({static}/uploads/2013/highly-dispersed-networks.jpg "Highly
+larger than
+20.]({static}/uploads/2013/edge-redirection-network-formation-models.jpg "Highly
 dispersed networks shown in the article &quot;Highly Dispersed
 Networks&quot; by Gabel et al.  (the enhanced redirection was used). The
 green nodes have a total degree of 1, blue nodes - have 2-20, while red ones

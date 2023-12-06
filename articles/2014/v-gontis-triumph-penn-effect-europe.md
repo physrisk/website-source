@@ -79,10 +79,10 @@ data, experiment yourself clicking on the [Fig.
 1](#attachment_2624), and then
 you can get acquainted with our observations.
 
-![Fig.  1: Penn effect. Scatter plot of World countries in the plane
+![Fig. 1: Penn effect. Scatter plot of World countries in the plane
 (LOGGDPpercapitaPPP\_USD,
-LOGPriceLevel).]({static}/uploads/2014/penn-effect-world-en.jpg "Penn
-effect. Scatter plot of World countries in the plane
+LOGPriceLevel).]({static}/uploads/2014/v-gontis-triumph-penn-effect-europe.jpg
+"Penn effect. Scatter plot of World countries in the plane
 (LOGGDPpercapitaPPP\_USD, LOGPriceLevel)."){#attachment_2624}
 
 Looking at the world scatter plot for the pair of variables (LogGDPper
@@ -102,7 +102,7 @@ of economic development for European countries is the most suitable to
 check theories of international macroeconomics seeking to explain Penn
 effect.
 
-![Fig.  2: Penn effect. Scatter plot of Europian countries in the plane
+![Fig. 2: Penn effect. Scatter plot of European countries in the plane
 (LOGGDPpercapitaPPS,
 LOGPriceLevel).]({static}/uploads/2014/penn-effect-europe-en.jpg "Penn
 effect. Scatter plot of Europian countries in the plane (LOGGDPpercapitaPPS,
@@ -114,7 +114,7 @@ visualization is really the same as in the previous consideration of
 World Bank data. Countries of Europe can be distributed into some
 regional groups as well; nevertheless, these groups are too small to
 determine specific trends of their scatter plots. Let us to exclude
-Luxemburg (center of international finance with very specific GDP
+Luxembourg (center of international finance with very specific GDP
 structure), Bosnia and Herzegovina as well as Macedonia (very new
 countries in economic area of Europe) and Albania (the most closed
 economy) from the consideration. In such set of countries we do consider

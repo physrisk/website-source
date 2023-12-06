@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: conflicts, history, newscientist.com
 Slug: computational-history-is-something-like-playing-civilization
 Status: published
+Image_url: uploads/2014/computational-history-is-something-like-playing-civilization.jpg
 
 It appears that computational history can be very
 realistic and scientifically plausible field of research. It somewhat
@@ -17,7 +18,7 @@ the formation of the organized human societies. The first people faced a
 tough challenge - if they were not organized, they were simple wiped
 off.
 
-![freeciv]({static}/uploads/2014/comp-history-freeciv.jpg)
+![freeciv]({static}/uploads/2014/computational-history-is-something-like-playing-civilization.jpg)
 
 In order to familiarize yourself more with the research done by Peter
 Turchin please visit the

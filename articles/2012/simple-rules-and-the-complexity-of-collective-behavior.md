@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models
 Slug: simple-rules-and-the-complexity-of-collective-behavior
 Status: published
+Image_url: uploads/2012/simple-rules-and-the-complexity-of-collective-behavior.png
 
 It
 should be pretty straightforward why the agent-based models appear to be
@@ -29,4 +30,4 @@ difference in the game rules causes essential changes in the externally
 observed behavior.
 
 ![The simplest change in the ruleset might cause unpredictable difference in
-behavior!]({static}/uploads/2012/simple-rules-interaction-graph.png){#attachment_2330} 
+behavior!]({static}/uploads/2012/simple-rules-and-the-complexity-of-collective-behavior.png){#attachment_2330} 

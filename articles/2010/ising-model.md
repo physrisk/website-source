@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Ising model, magnetism, statistical physics
 Slug: ising-model
 Status: published
+Image_url: uploads/2010/ising-model.png
 
 *Ising model* is a generalized mathematical model of
 feromagnetism in statistical physics. In this model particles having
@@ -90,7 +91,7 @@ balanced and forming orderly domains are continuously being destroyed by
 random spin flips. Below in [Fig. 1](#attachment_994) we present
 typical lattice snapshots at different temperatures.
 
-![image]({static}/uploads/2010/phases.png "Three different phases of Ising model: paramagnetic,
+![image]({static}/uploads/2010/ising-model.png "Three different phases of Ising model: paramagnetic,
 critical,
 feromagnetic."){#attachment_994} 
 

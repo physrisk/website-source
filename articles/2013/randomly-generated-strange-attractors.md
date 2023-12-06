@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Dynamical chaos, Fractals, Interactive models, Wolfram CDF
 Slug: randomly-generated-strange-attractors
 Status: published
+Image_url: uploads/2013/randomly-generated-strange-attractors.png
 
 In classical physics
 differential equations is the main tool to mathematically describe
@@ -57,23 +58,23 @@ trajectories.
 Gallery of the random attractors
 --------------------------------
 
-![stone]({static}/uploads/2013/random-attractor-akmuo2.png "Stone")
+![stone]({static}/uploads/2013/random-attractor-stone.png "Stone")
 
-![spaceship]({static}/uploads/2013/random-attractor-erdvelaivis.png "Spaceship")
+![spaceship]({static}/uploads/2013/random-attractor-spaceship.png "Spaceship")
 
-![swan]({static}/uploads/2013/random-attractor-gulbe.png "Swan")
+![swan]({static}/uploads/2013/random-attractor-swan.png "Swan")
 
-![mountain]({static}/uploads/2013/random-attractor-kalnas.png "Mountain")
+![mountain]({static}/uploads/2013/random-attractor-mountain.png "Mountain")
 
-![bird]({static}/uploads/2013/random-attractor-krekzdute.png "Bird")
+![bird]({static}/uploads/2013/random-attractor-bird.png "Bird")
 
-![crocodile]({static}/uploads/2013/random-attractor-krokodilas.png "Crocodile")
+![crocodile]({static}/uploads/2013/randomly-generated-strange-attractors.png "Crocodile")
 
-![cylinder]({static}/uploads/2013/random-attractor-rite.png "Cylinder")
+![cylinder]({static}/uploads/2013/random-attractor-cylinder.png "Cylinder")
 
-![hourglass]({static}/uploads/2013/random-attractor-smelio-laikrodis.png "Hourglass")
+![hourglass]({static}/uploads/2013/random-attractor-hourglass.png "Hourglass")
 
-![triangle]({static}/uploads/2013/random-attractor-trikampis2.png "Triangle")
+![triangle]({static}/uploads/2013/random-attractor-triangle.png "Triangle")
 
 ![ufo]({static}/uploads/2013/random-attractor-ufo.png "UFO")
 

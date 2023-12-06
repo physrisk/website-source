@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Fractals, biology, popular culture, science.memebase.com
 Slug: what-is-inside-my-head
 Status: published
+Image_url: uploads/2012/what-is-inside-my-head.jpg
 
 "What's inside my head?" asks
 internet meme on the
@@ -14,4 +15,4 @@ By the way did you know that surface of the human brain has a fractal,
 Hausdorff, dimension of 2.79? This actually means that human brain is
 neither 3D, nor 2D object.
 
-![what is in side my head]({static}/uploads/2012/kas_galvoje.jpg)
+![what is in side my head]({static}/uploads/2012/what-is-inside-my-head.jpg)

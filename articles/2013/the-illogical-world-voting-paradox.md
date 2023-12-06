@@ -45,5 +45,5 @@ community has no understanding of its preference. This situation is
 known as the voting paradox.
 
 ![Voting table. A - apples, B - bananas, C -
-cherries.]({static}/uploads/2013/voting-table.png "Voting table. A -
+cherries.]({static}/uploads/2013/the-illogical-world-voting-paradox.png "Voting table. A -
 apples, B - bananas, C - cherries."){#attachment_2488} 

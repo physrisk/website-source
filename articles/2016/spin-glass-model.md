@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Ising model, magnetism, statistical physics
 Slug: spin-glass-model
 Status: published
+Image_url: uploads/2016/spin-glass-model.png
 
 Previously on Physics of Risk we
 have already discussed the [Ising
@@ -31,7 +32,7 @@ disordered magnet we may have different types and strengths of
 interactions at the same time.
 
 ![Spin orientation in ferromagnetic and anti-ferromagnetic
-materials.]({static}/uploads/2016/spin-glass-fero-anti-fero.png " Spin
+materials.]({static}/uploads/2016/spin-glass-model.png " Spin
 orientation in ferromagnetic and anti-ferromagnetic
 materials."){#attachment_2877} 
 

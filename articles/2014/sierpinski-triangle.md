@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Fractals, Cellular automata, L-system
 Slug: sierpinski-triangle
 Status: published
+Image_url: uploads/2014/sierpinski-triangle.png
 
 Sierpinski triangle is a fractal named
 after Polish mathematician Waclaw Sierpinski, who was the first one to

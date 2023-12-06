@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, Lotka-Volterra, Wolfram CDF, biology
 Slug: lotka-volterra-equations
 Status: published
+Image_url: uploads/2012/lotka-volterra-equations.png
 
 The simplest ecological system can be
 constructed from the two interacting species, e.g., prey and predator.
@@ -75,7 +76,7 @@ while index 2 marks the relation to the predator population. All
 parameters in these equations are positive numbers - the nature of
 interaction is already accounted for.
 
-![Solution of Lotka-Volterra eqs.]({static}/uploads/2012/lv-graph.png "Solution of the Lotka-Volterra equations. Red line marks the
+![Solution of Lotka-Volterra eqs.]({static}/uploads/2012/lotka-volterra-equations.png "Solution of the Lotka-Volterra equations. Red line marks the
 predator evolution, while blue - prey's. Dashed lines mark the model's
 fixed points. Parameters: \\\( X\_1(0)=8 \\\), \\\( X\_2(0)=12 \\\), \\\( a\_1=20 \\\), \\\( a\_2 =30\\\),
 \\\( c\_\{12\}=c\_\{21\}=1 \\\)."){#attachment_2359}

@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Economics, Interactive models, Stochastic models, 1/f noise, A. Kononovicius, J. Ruseckas, arch, financial markets
 Slug: nonlinear-feedback-and-long-range-memory-in-garch-model
 Status: published
+Image_url: uploads/2015/nonlinear-feedback-and-long-range-memory-in-garch-model.png
 
 Recently journal Physica A accepted
 our, A. Kononovicius and J. Ruseckas, manuscript titled "Nonlinear GARCH
@@ -75,8 +76,8 @@ time scale); \\\(  \bar{\omega}\_\mu = \langle | \omega |^\mu\rangle \\\), \\\( 
 \\\(  1/f \\\) noise.
 
 ![Fig. 1: Reproducing 1/f noise using nonlinear GARCH(1,1)
-model.]({static}/uploads/2015/ngarch11-feedback.png "Reproducing 1/f noise
-using nonlinear GARCH(1,1) model."){#attachment_2774} 
+model.]({static}/uploads/2015/nonlinear-feedback-and-long-range-memory-in-garch-model.png
+"Reproducing 1/f noise using nonlinear GARCH(1,1) model."){#attachment_2774} 
 
 \\\(  A \\\) and \\\(  C \\\) once again affect the exponential cut-offs -
 \\\(  A \\\) influences the placement of cut-off, while \\\(  C \\\)

@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, voter model, Kirman model, biology
 Slug: kirman-ants
 Status: published
+Image_url: uploads/2010/kirman-ants.png
 
 There is an interesting phenomenon concerning behavior
 of ant colony. It appears that if there are two identical food sources
@@ -123,7 +124,7 @@ entropy of the system is at its or near its maximum as probabilities
 of observing each system state are very similar (see [Fig
 3](#attachment_548).).
 
-![image]({static}/uploads/2010/01.00.en_.png "Balanced behavior case (\\\( h=1 \\\),
+![image]({static}/uploads/2010/kirman-ants.png "Balanced behavior case (\\\( h=1 \\\),
 \\\( \sigma\_1 = \sigma\_2 =1\\\))."){#attachment_548} 
 
 In all previous examples behavior of the system is symmetrical - neither

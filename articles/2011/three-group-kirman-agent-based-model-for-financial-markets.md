@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Agent-based models, Interactive models, A. Kononovicius, voter model, Kirman model, P. Purlys, financial markets
 Slug: three-group-kirman-agent-based-model-for-financial-markets
 Status: published
+Image_url: uploads/2011/three-group-kirman-agent-based-model-for-financial-markets.png
 
 As we have seen previously [application of the
 original Kirman's
@@ -43,7 +44,7 @@ devide into additional groups (or subgroups) - pessimists and optimists.
 Therefore now all three groups (see [Fig. 1](#attachment_1910)) may
 interact among themselves.
 
-![image]({static}/uploads/2011/three-type.png "Three groups interactions: f - fundamentalists, c+ -
+![image]({static}/uploads/2011/three-group-kirman-agent-based-model-for-financial-markets.png "Three groups interactions: f - fundamentalists, c+ -
 chartists optimists, c- - chartists pessimists. Symbols written near
 the bubbles correspond to the parameters related to individual decision,
 while symbols written on the inter-connections are related to

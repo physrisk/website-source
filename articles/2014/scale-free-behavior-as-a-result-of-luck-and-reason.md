@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Network models, Barabasi-Albert model, scale free network
 Slug: scale-free-behavior-as-a-result-of-luck-and-reason
 Status: published
+Image_url: uploads/2014/scale-free-behavior-as-a-result-of-luck-and-reason.png
 
 Previously we have already
 discussed how
@@ -92,8 +93,9 @@ model]({filename}/articles/2013/barabasi-albert-model.md)
 and think of the router network as scale-free network.
 
 ![Fig.  3: Intermediate value of δ (δ=5). Geometric and network distances
-are equally important.]({static}/uploads/2014/router-d-5.jpg "Intermediate
-value of δ (δ=5). Geometric and network distances are equally
+are equally
+important.]({static}/uploads/2014/scale-free-behavior-as-a-result-of-luck-and-reason.jpg
+"Intermediate value of δ (δ=5). Geometric and network distances are equally
 important."){#attachment_2661} 
 
 We invite readers to test this model using HTML5 applet below.

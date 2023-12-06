@@ -1,9 +1,10 @@
-Title: Acchieving high clustering in scale-free networks
+Title: Achieving high clustering in scale-free networks
 Date: 2014-05-26 07:59
 Author: Aleksejus Kononovicius
 Tags: Interactive models, Network models, Barabasi-Albert model, Erdos-Renyi model, scale free network, small world
-Slug: acchieving-high-clustering-in-scale-free-networks
+Slug: achieving-high-clustering-in-scale-free-networks
 Status: published
+Image_url: uploads/2014/achieving-high-clustering-in-scale-free-networks.jpg
 
 Average
 shortest path (sometimes network diameter), degree distribution and
@@ -140,8 +141,8 @@ in \[cite id="Klemm2002PhysRevE"\]:
 -   Repeat second-forth steps until you reach desired network size.
 
 ![Scale-free network with constant
-clustering.]({static}/uploads/2014/constant-clustering.jpg " Scale-free
-network with constant clustering."){#attachment_2662} 
+clustering.]({static}/uploads/2014/achieving-high-clustering-in-scale-free-networks.jpg
+"Scale-free network with constant clustering."){#attachment_2662} 
 
 As you can see in the figure above the generated network is
 [scale-free](/tag/scale-free-network/) (the

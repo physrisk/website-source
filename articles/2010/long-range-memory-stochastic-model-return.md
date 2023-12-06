@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Stochastic models, 1/f noise, A. Kononovicius, CEV process, J. Ruseckas, V. Gontis, financial markets
 Slug: long-range-memory-stochastic-model-return
 Status: published
+Image_url: long-range-memory-stochastic-model-return.png
 
 From the practical point of view price is the most
 interesting observable of the financial markets. Though modeling and
@@ -194,7 +195,7 @@ integrate its solutions in some intervals and then modulate those
 solutions with q-Gaussian noise. Results obtained in this way is in
 great agreement with empirical data (see [Fig. 3](#attachment_910)).
 
-![image]({static}/uploads/2010/return-model-vs-nyse-vvpb-comparison.png "Comparison of return model (black curve) and empirical
+![image]({static}/uploads/2010/long-range-memory-stochastic-model-return.png "Comparison of return model (black curve) and empirical
 (New York Stock Exchange - red curve, Vilnius - blue) statistical
 properties, non-zero value probability density function ((a) ir (c)) and
 power spectral density ((b) ir (d)), in different time scales (1 min -

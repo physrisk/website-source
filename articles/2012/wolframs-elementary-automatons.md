@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Cellular automata
 Slug: wolframs-elementary-automatons
 Status: published
+Image_url: uploads/2012/wolframs-elementary-automatons.png
 
 In
 mathematics and computation theory there are a class of cellular
@@ -79,7 +80,7 @@ in [Fig. 3](#attachment_2266) to show the agreement with rule 110, but
 feel free to study other neighborhoods to reassure yourself that shown
 cellular automaton indeed is governed by the rule 110.
 
-![image]({static}/uploads/2012/elementary-ca.png "Evolution of elementary cellular automaton governed by
+![image]({static}/uploads/2012/wolframs-elementary-automatons.png "Evolution of elementary cellular automaton governed by
 the rule 110. Initial condition is random set of cells. While evolution
 occurs in the cylinder space (the left and right edges are
 interconnected). Ordinate (vertical) axis is time axis - older

@@ -264,7 +264,7 @@ Using these predictions we have reproduced \\\(  1/f \\\) noise in three
 distinct cases (see [Fig 1.](#attachment_1776), this figure is featured
 in \[cite id="Kononovicius2012PhysA"\]).
 
-![image]({static}/uploads/2011/kirmanour.png "Numerically calculated PDF (a) and power spectral
+![image]({static}/uploads/2011/agent-based-herding-model-financial-markets.png "Numerically calculated PDF (a) and power spectral
 density (b) in three distinct cases, \\\( \alpha =0 \\\) (red squares), \\\( \alpha=1 \\\) (blue
 circles) and \\\( \alpha=2 \\\) (magenta triangles), of considered stochastic model,
 Eq. (6). Other model parameters were set as follows: \\\( \varepsilon\_1=0 \\\), \\\( \varepsilon\_2 =2-\alpha \\\).
