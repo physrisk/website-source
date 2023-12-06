@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2023/riddler-football-playoff.png
 
 This week we will take a look at another [Riddler's Classic
-puzzle](/tag/FiveThirtyEight/). The problem for [December 9th,
+puzzle](/tag/fivethirtyeight/). The problem for [December 9th,
 2022](https://fivethirtyeight.com/features/can-you-win-the-riddler-football-playoff/)
 invites us to take a look at a particular stochastic [football](/tag/sports/)
 tournament.
