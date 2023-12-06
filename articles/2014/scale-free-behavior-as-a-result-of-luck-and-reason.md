@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, Network models, Barabasi-Albert model, scale free network
 Slug: scale-free-behavior-as-a-result-of-luck-and-reason
 Status: published
-Image_url: uploads/2014/scale-free-behavior-as-a-result-of-luck-and-reason.png
+Image_url: uploads/2014/scale-free-behavior-as-a-result-of-luck-and-reason.jpg
 
 Previously we have already
 discussed how
