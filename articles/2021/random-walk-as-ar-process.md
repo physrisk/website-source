@@ -10,7 +10,7 @@ In the [previous post]({filename}/articles/2021/big-review.md) I have
 mentioned that in our review we have also presented a novel result, which we
 have analyzed ARFIMA process. Understanding ARFIMA process requires some
 specialized knowledge, which we will cover in this and [the next few
-posts](/tag/arfimas-series/).
+posts](/tag/arfima-series/).
 
 In this post we will take a well-known physical model, [random
 walk](/tag/brownian-motion/), and try
