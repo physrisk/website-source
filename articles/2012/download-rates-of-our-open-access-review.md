@@ -7,7 +7,7 @@ Status: published
 
 Previously, approximately 2 years
 ago, we have
-[written]({filename}/articles/2010/non-linear-stochastic-model-return.md)
+[written]({filename}/articles/2010/a-non-linear-double-stochastic-model-of-return.md)
 that we published a review of our works \[cite id="Gontis2010Intech"\]
 in a book by open-access publisher. Recently we discovered that during
 the recent two and a half years this books was downloaded almost 7000
