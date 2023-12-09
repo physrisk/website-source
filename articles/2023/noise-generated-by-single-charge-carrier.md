@@ -21,7 +21,7 @@ shown in the figure below). Note that such signal is reminiscent of a
 telegraph signal.
 
 ![Fragment of a signal with non-overlapping rectangular
-pulses.]({static}/uploads/2023/noise-generated-by-single-charge-carrier.png
+pulses.]({static}/uploads/2023/noise-generated-by-single-charge-carrier-sample-rtn.png
 "Fragment of a signal with non-overlapping rectangular pulses.")
 
 The term trapping time is used for the time the charge carrier spends free
