@@ -3,7 +3,7 @@ Date: 2023-12-19 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, spectral density, shot noise, Lorentzian, random telegraph noise
 Slug: noise-generated-by-single-charge-carrier
-Status: draft
+Status: published
 Image_url: uploads/2023/noise-generated-by-single-charge-carrier.png
 
 [Shot noise](/tag/shot-noise/) can be observed in variety of materials,
