@@ -36,11 +36,11 @@ portal.
 ## Members of our Complex Physical and Social Systems group
 
 * [dr. Vygintas Gontis](https://gontis.eu) (head of the group)
-* [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/)
 * dr. Rytis Kazakevičius
 * [dr. Aleksejus Kononovicius](https://kononovicius.lt)
-* dr. Dalia Šatkovskienė (affiliated member)
 * [dr. Viktor Novičenko](http://www.itpa.lt/%7Enovicenko/) (associated member)
+* [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/) (affiliated member)
+* dr. Dalia Šatkovskienė (affiliated member)
 
 ### Former members
 
