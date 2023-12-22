@@ -35,6 +35,13 @@ portal.
 
 ## Members of our Complex Physical and Social Systems group
 
+![]({static}/uploads/special/group-photo.jpg "The four main group members
+together with our colleague Julius Ruseckas (December, 2023). Left to right:
+prof. B.  Kaulakys, R. Kazakevičius, J. Ruseckas, V. Gontis, A.
+Kononovicius.")
+
+### Current members
+
 * [dr. Vygintas Gontis](https://gontis.eu) (head of the group)
 * dr. Rytis Kazakevičius
 * [dr. Aleksejus Kononovicius](https://kononovicius.lt)
