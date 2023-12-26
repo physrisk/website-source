@@ -3,7 +3,7 @@ Date: 2023-12-26 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, Dynamical chaos, sports, Lotka-Volterra, complex systems
 Slug: D-Sumpter-four-ways-of-thinking
-Status: draft
+Status: published
 
 On the second day of Christmas we invite to watch a seminar given by prof.
 [David Sumpter](https://www.david-sumpter.com/),
