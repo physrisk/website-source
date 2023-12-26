@@ -7,7 +7,7 @@ Status: draft
 Image_url: uploads/2024/overview-of-2023.png
 
 Over the last few years we have been keeping a steady pace of 33 posts a
-year. Though in the 2023 we have managed to produce one more post containing
+year. Though in 2023 we have managed to produce one more post containing
 an [interactive app](/tag/interactive-models/).
 
 ![Number of posts written in English and still available on this site as of
