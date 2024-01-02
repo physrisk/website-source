@@ -3,7 +3,7 @@ Date: 2024-01-02 08:00
 Author: Aleksejus Kononovicius
 Tags: General information
 Slug: overview-of-2023
-Status: draft
+Status: published
 Image_url: uploads/2024/overview-of-2023.png
 
 Over the last few years we have been keeping a steady pace of 33 posts a
