@@ -5,10 +5,10 @@
     <title>Cristelli order book model</title>
     <link rel="stylesheet" type="text/css" href="../../shared-libs/normalize.css">
     <link rel="stylesheet" type="text/css" href="../../shared-libs/universal-style.css">
-	<script language="javascript" type="text/javascript" src="../../shared-libs/jquery-183.min.js"></script>
-    <script language="javascript" type="text/javascript" src="../../shared-libs/plotly-131.min.js"></script>
-    <script language="javascript" type="text/javascript" src="../../shared-libs/plotlyPlot.js"></script>
-	<script language="javascript" type="text/javascript" src="../../shared-libs/commonFunctions.js"></script>
+	<script src="../../shared-libs/jquery-183.min.js"></script>
+    <script src="../../shared-libs/plotly-131.min.js"></script>
+    <script src="../../shared-libs/plotlyPlot.js"></script>
+	<script src="../../shared-libs/commonFunctions.js"></script>
 </head>
 <body>
 <div id="wrapper">
@@ -40,9 +40,9 @@
     <span class="controlBlock"><button name="stop" id="stop">Stop</button></span>
 </div><!-- #controlWrapper -->
 </div><!-- #wrapper -->
-<script language="javascript" type="text/javascript" src="./cristelliModel.js"></script>
-<script language="javascript" type="text/javascript" src="./cobm-main.js"></script>
-<script language="javascript" type="text/javascript">
+<script src="./cristelliModel.js"></script>
+<script src="./cobm-main.js"></script>
+<script>
 /* bind events and set initial states */
 $("#stop").attr("disabled","disabled");
 $("#restart").click(function () {

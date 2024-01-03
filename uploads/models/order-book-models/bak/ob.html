@@ -5,9 +5,9 @@
     <title>Order book visualization | Bak et al. order book model</title>
     <link rel="stylesheet" type="text/css" href="../../shared-libs/normalize.css">
     <link rel="stylesheet" type="text/css" href="../../shared-libs/universal-style.css">
-	<script language="javascript" type="text/javascript" src="../../shared-libs/jquery-183.min.js"></script>
-    <script language="javascript" type="text/javascript" src="../../shared-libs/plotly-131.min.js"></script>
-    <script language="javascript" type="text/javascript" src="../../shared-libs/plotlyPlot.js"></script>
+	<script src="../../shared-libs/jquery-183.min.js"></script>
+    <script src="../../shared-libs/plotly-131.min.js"></script>
+    <script src="../../shared-libs/plotlyPlot.js"></script>
     <style type="text/css">
         #figWrap,#obFig{width:100%;text-align:center}
         #obFig{height:300px}
@@ -61,9 +61,9 @@
     <span class="controlBlock"><button name="stop" id="stop">Stop</button></span>
 </div><!-- #controlWrapper -->
 </div><!-- #wrapper -->
-<script language="javascript" type="text/javascript" src="./bakOBModel.js"></script>
-<script language="javascript" type="text/javascript" src="./bobmm-viz.js"></script>
-<script language="javascript" type="text/javascript">
+<script src="./bakOBModel.js"></script>
+<script src="./bobmm-viz.js"></script>
+<script>
 /* bind events and set initial states */
 $("#stop").attr("disabled","disabled");
 $("#restart").click(function () {

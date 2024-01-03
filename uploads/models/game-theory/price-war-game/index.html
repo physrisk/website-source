@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title>Price war game</title>
     <link rel="stylesheet" type="text/css" href="../../shared-libs/normalize.css">
-	<script language="javascript" type="text/javascript" src="../../shared-libs/jquery-183.min.js"></script>
+	<script src="../../shared-libs/jquery-183.min.js"></script>
     <style type="text/css">
         *{box-sizing:border-box}
         html,body{margin:0;padding:0;font-size:13px}
@@ -75,7 +75,7 @@
         <span class="controlBlock">N=<input id="Nprod" name="Nprod" type="number" value="100" min="50" max="100" step="2"></span>
     </div><!-- #controls -->
 </div><!-- #wrapper -->
-<script language="javascript" type="text/javascript">
+<script>
 function myParseFloat(val) {return parseFloat((""+val).replace(",","."));}
 
 function calculateProfits(p0,p1,p2,Nprod) {
