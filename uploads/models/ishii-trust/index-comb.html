@@ -5,10 +5,10 @@
     <title>Ishii Trust and Suspicion model (combined two types)</title>
     <link rel="stylesheet" type="text/css" href="../shared-libs/normalize.css">
     <link rel="stylesheet" type="text/css" href="../shared-libs/universal-style.css">
-	<script language="javascript" type="text/javascript" src="../shared-libs/jquery-183.min.js"></script>
-    <script language="javascript" type="text/javascript" src="../shared-libs/plotly-131.min.js"></script>
-    <script language="javascript" type="text/javascript" src="../shared-libs/plotlyPlot.js"></script>
-    <script language="javascript" type="text/javascript" src="../shared-libs/random-026.min.js"></script>
+	<script src="../shared-libs/jquery-183.min.js"></script>
+    <script src="../shared-libs/plotly-131.min.js"></script>
+    <script src="../shared-libs/plotlyPlot.js"></script>
+    <script src="../shared-libs/random-026.min.js"></script>
     <style>
         #controlGrid {
             display:table-row;
@@ -71,10 +71,10 @@
     <span class="controlBlock"><button name="stop" id="stop">Stop</button></span>
 </div><!-- #controlWrapper -->
 </div><!-- #wrapper -->
-<script language="javascript" type="text/javascript" src="./ishiiTrustModel.js"></script>
-<script language="javascript" type="text/javascript">let nAgents=2;</script>
-<script language="javascript" type="text/javascript" src="./main-comb.js"></script>
-<script language="javascript" type="text/javascript">
+<script src="./ishiiTrustModel.js"></script>
+<script>let nAgents=2;</script>
+<script src="./main-comb.js"></script>
+<script>
 /* bind events and set initial states */
 $("#stop").attr("disabled","disabled");
 $("#restart").click(function () {

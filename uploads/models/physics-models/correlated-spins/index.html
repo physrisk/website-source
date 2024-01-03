@@ -4,9 +4,9 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<title>Correlated spin model</title>
     <link rel="stylesheet" type="text/css" href="../../shared-libs/normalize.css">
-	<script language="javascript" type="text/javascript" src="../../shared-libs/jquery-183.min.js"></script>
-	<script language="javascript" type="text/javascript" src="../../shared-libs/jquery.flot-08.min.js"></script>
-	<script language="javascript" type="text/javascript" src="../../shared-libs/jquery.flot-07.axislabels.js"></script>
+	<script src="../../shared-libs/jquery-183.min.js"></script>
+	<script src="../../shared-libs/jquery.flot-08.min.js"></script>
+	<script src="../../shared-libs/jquery.flot-07.axislabels.js"></script>
 	<style type="text/css">
 		input,select,button{box-sizing:border-box;height:20px;line-height:20px;padding:0 6px;border:1px solid #999;}
 		html,body{padding:0;margin:0;font-size:13px}
@@ -25,13 +25,13 @@
 	<span id="stopBlock" class="controlBlock"><button id="stop">Continue</button></span>
 	<span id="restartBlock" class="controlBlock"><button id="restart">Restart</button></span>
 </div>
-<script language="javascript" type="text/javascript">
+<script>
 var labels=["q-Gaussian","Gaussian","model"];
 $('#stop').toggle(
 	function() {$('#restartBlock, #restart').hide();start();$('#stop').text('Stop');},
 	function() {stop();$('#restartBlock, #restart').show();$('#stop').text('Continue');}
 );
 </script>
-<script language="javascript" type="text/javascript" src="./corr-spins-static.js"></script>
+<script src="./corr-spins-static.js"></script>
 </body>
 </html>
