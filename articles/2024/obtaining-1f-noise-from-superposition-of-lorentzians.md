@@ -13,9 +13,9 @@ We have seen that it generates a signal composed of pulses and gaps. If the
 pulse and gap duration is distributed according to the exponential
 distribution (i.e., [Poisson process](/tag/poisson-process/) model applies),
 then the [power spectral density](/tag/spectral-density/) of the signal has
-a characteristic Lorentzian shape. Which is nothing alike [1/f
-noise](/tag/1f-noise/), which we are looking for. But maybe we can still
-obtain it?
+a characteristic [Lorentzian](/tag/lorentzian/) shape. Which is nothing
+alike [1/f noise](/tag/1f-noise/), which we are looking for. But maybe we
+can still obtain it?
 <!--more-->
 
 ## Superposition of Lorentzians
@@ -39,10 +39,10 @@ density](/tag/spectral-density/) in our further derivations, i.e.,
 S\left(f\right)=\frac{a^{2}\bar{\nu}}{\lambda^{2}+\pi^{2}f^{2}}.
 \end{equation}
 
-Our model will rely on superposition of these Lorentzian shape with
-different characteristic rates \\\( \lambda \\\). As is well known, the
-Fourier transform of a sum of two signals (functions) is the same as the sum
-of their transforms:
+Our model will rely on superposition of these [Lorentzian](/tag/lorentzian/)
+shape with different characteristic rates \\\( \lambda \\\). As is well
+known, the Fourier transform of a sum of two signals (functions) is the same
+as the sum of their transforms:
 
 \begin{equation}
 \mathcal{F}\left\{f(t)+g(t)\right\} =\mathcal{F}\left\{f(t)\right\}+\mathcal{F}\left\{g(t)\right\}.
@@ -79,12 +79,13 @@ Then we simply have that \\\( a^2 \bar{\nu} = 1 \\\) for any \\\( \lambda
 ## Interactive app
 
 To effectively show the key point of this post (i.e., that you can get \\\(
-1/f \\\) noise out of superposition of Lorentzian shapes) here we do not
-generate the signals themselves. Unlike in the [earlier
-posts](/tag/shot-noise/) here instead we just add the Lorentzian shapes,
-which should emerge as a result of long duration detailed simulations.
-Simulating individual signals would likely just take unreasonably long until
-properly looking result would emerge.
+1/f \\\) noise out of superposition of [Lorentzian](/tag/lorentzian/)
+shapes) here we do not generate the signals themselves. Unlike in the
+[earlier posts](/tag/shot-noise/) here instead we just add the
+[Lorentzian](/tag/lorentzian/) shapes, which should emerge as a result of
+long duration detailed simulations.  Simulating individual signals would
+likely just take unreasonably long until properly looking result would
+emerge.
 
 So, in the app below you can adjust the bounds of the \\\( \lambda \\\)
 distribution. In the plot the simulation results are shown as red dots, and
