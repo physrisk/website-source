@@ -23,6 +23,10 @@ id="Frantz2005CASOS"\]). One should probably start to familiarize
 himself with cellular networks from that paper, but we will share some
 brief and less formal information on the same topic.
 
+**Comment added in 2024:** It has recently come to my attention that this
+network formation model is also known under the name of "stochastic block
+model". It was introduced back in [cited id="Holland1983SciNet"].
+
 Cellular network - what is it?
 ------------------------------
 
