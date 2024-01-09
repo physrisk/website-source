@@ -3,7 +3,7 @@ Date: 2024-01-09 08:00
 Author: Aleksejus Kononovicius
 Tags: Last Theory, video, philosophy
 Slug: last-theory-prediction-who-cares
-Status: draft
+Status: published
 
 We invite you to watch and think about the role of prediction in science.
 While the media and funding bodies tend to prefer when the research projects
