@@ -40,7 +40,7 @@ from the bounded Pareto distribution, the [power spectral
 density](/tag/spectral-density/) of superposition:
 
 \begin{equation}
-S\left(f\right)=\frac{1}{\ln\left(\frac{\lambda\_{\text{max}}}{\lambda\_{\text{min}}}\right)} \int\_{\lambda\_{\text{min}}}^{\lambda\_{\text{max}}}\frac{1}{\lambda}\cdot\frac{\bar{\nu}}{\lambda^{2}+\pi^{2}f^{2}} d \lambda = \frac{1}{\ln\left(\frac{\lambda\_{\text{max}}}{\lambda\_{\text{min}}}\right)}\cdot\frac{\arccot\left(\frac{\pi f}{\lambda\_{\text{max}}}\right)-\arccot\left(\frac{\pi f}{\lambda\_{\text{min}}}\right)}{2 \pi f}.
+S\left(f\right)=\frac{1}{\ln\left(\frac{\lambda\_{\text{max}}}{\lambda\_{\text{min}}}\right)} \int\_{\lambda\_{\text{min}}}^{\lambda\_{\text{max}}}\frac{1}{\lambda}\cdot\frac{\bar{\nu}}{\lambda^{2}+\pi^{2}f^{2}} d \lambda = \frac{1}{\ln\left(\frac{\lambda\_{\text{max}}}{\lambda\_{\text{min}}}\right)}\cdot\frac{\operatorname{arccot}\left(\frac{\pi f}{\lambda\_{\text{max}}}\right)-\operatorname{arccot}\left(\frac{\pi f}{\lambda\_{\text{min}}}\right)}{2 \pi f}.
 \end{equation}
 
 In the above we have used the fact that for every individual
