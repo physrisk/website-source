@@ -45,7 +45,7 @@ known, the Fourier transform of a sum of two signals (functions) is the same
 as the sum of their transforms:
 
 \begin{equation}
-\mathcal{F}\left\{f(t)+g(t)\right\} =\mathcal{F}\left\{f(t)\right\}+\mathcal{F}\left\{g(t)\right\}.
+\mathcal{F}\left\\\{f(t)+g(t)\right\\\} =\mathcal{F}\left\\\{f(t)\right\\\}+\mathcal{F}\left\\\{g(t)\right\\\}.
 \end{equation}
 
 [Power spectral density](/tag/spectral-density/) of the sum of two signals
@@ -60,7 +60,7 @@ continuous uniform distribution (with certain \\\( \lambda\_{\text{min}}
 \\\) and \\\( \lambda\_{\text{max}} \\\) bounds). Then:
 
 \begin{equation}
-S\left(f\right)=\frac{1}{\lambda\_{\text{max}}-\lambda\_{\text{min}}}\int\_{\lambda\_{\text{min}}}^{\lambda\_{\text{max}}} \frac{a^{2}\bar{\nu}}{\lambda^{2}+\pi^{2}f^{2}} d \lambda = \frac{a^2 \bar{\nu}\left[\arccot\left(\frac{\pi f}{\lambda\_{\text{max}}}\right)-\arccot\left(\frac{\pi f}{\lambda\_{\text{min}}}\right)\right]}{(\lambda\_{\text{max}}-\lambda\_{\text{min}}) \pi f}.
+S\left(f\right)=\frac{1}{\lambda\_{\text{max}}-\lambda\_{\text{min}}}\int\_{\lambda\_{\text{min}}}^{\lambda\_{\text{max}}} \frac{a^{2}\bar{\nu}}{\lambda^{2}+\pi^{2}f^{2}} d \lambda = \frac{a^2 \bar{\nu}\left[\operatorname{arccot}\left(\frac{\pi f}{\lambda\_{\text{max}}}\right)-\operatorname{arccot}\left(\frac{\pi f}{\lambda\_{\text{min}}}\right)\right]}{(\lambda\_{\text{max}}-\lambda\_{\text{min}}) \pi f}.
 \end{equation}
 
 At first there doesn't seem to be any problem with this, but recall that
@@ -70,7 +70,7 @@ gap duration distributions match) we have that \\\( \bar{\nu} = \lambda / 2
 \\\). To quickly fix this let us dynamically scale the pulse height
 
 \begin{equation}
-a = \sqrt{\frac{1}{\bar{\nu}} = \sqrt{\frac{2}{\lambda}}.
+a = \sqrt{\frac{1}{\bar{\nu}}} = \sqrt{\frac{2}{\lambda}}.
 \end{equation}
 
 Then we simply have that \\\( a^2 \bar{\nu} = 1 \\\) for any \\\( \lambda
