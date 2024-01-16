@@ -3,7 +3,7 @@ Date: 2024-01-16 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, spectral density, Lorentzian, 1/f noise
 Slug: obtaining-1f-noise-from-superposition-of-lorentzians
-Status: draft
+Status: published
 Image_url: uploads/2024/obtaining-1f-noise-from-superposition-of-lorentzians.png
 
 Earlier we have taken a look at a [power spectral
