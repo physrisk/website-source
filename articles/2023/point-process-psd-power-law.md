@@ -76,7 +76,8 @@ Thus, for the particular case of \\\( \alpha = 1 \\\), we obtain:
 As long as \\\( \pi^2 \gg 4 [1 - C\_\gamma - \ln(2\pi f
 \tau\_{\mathrm{min}})]^2 \\\) it seems we can celebrate obtaining the illusive
 [1/f noise](/tag/1f-noise/)? But recall that we have assumed that both \\\(
-f \\\) is small. Thus the natural logarithm of it is a large negative
+f \\\) and \\\( \tau\_{\mathrm{min}} \\\) are small. Thus the natural
+logarithm in the expression above is a large negative
 number, at least certainly larger than \\\( \pi \\\). Thus the condition is
 not satisfied and we don't have straight \\\( 1/f \\\) dependence in the
 [spectral density](/tag/spectral-density/).
