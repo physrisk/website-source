@@ -3,7 +3,7 @@ Date: 2024-01-30 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, spectral density, Lorentzian, 1/f noise
 Slug: superposition-of-lorentzians-with-fixed-height
-Status: draft
+Status: published
 Image_url: uploads/2024/superposition-of-lorentzians-with-fixed-height.png
 
 In the [last
