@@ -170,6 +170,24 @@ Measuring [power spectral density](/tag/spectral-density/) up to such
 frequency is nearly impossible. This effectively offers an alternative
 resolution to the low-frequency cutoff paradox [cite id="Niemann2013PRL"].
 
+What does this model has to do with either \\\( f \rightarrow 0 \\\) limit
+or the low-frequency cutoff paradox? Well, you can always take the \\\(
+\tau\_{max} \rightarrow \infty \\\) limit. In simulation you would set \\\(
+\tau\_{max} \\\) value much larger than the observation time (experiment
+duration). This makes the model weakly non-ergodic and induces aging
+effects. Namely, the total power of a signal (obtained by integrating the
+[spectral density](/tag/spectral-density/) over observed frequencies) decays
+as the observation time increases. For \\\( \alpha = 1 \\\) case, which
+leads to \\\( 1/f \\\) noise, this decay is extremely slow, approximately
+
+\begin{equation}
+\int\_{1/T}^\infty S(f) \mathrm{d}f \propto \frac{1}{\ln(T)} .
+\end{equation}
+
+You won't be able to observe it unless you are actively looking for the
+signs of the decrease. More details on the weakly non-ergodic case and the
+exhibited aging effects are presented in [cite id="Kononovicius2023rtn"].
+
 ## Interactive app
 
 This interactive app is somewhat similar to the app generating
