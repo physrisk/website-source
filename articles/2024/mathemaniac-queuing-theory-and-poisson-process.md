@@ -3,7 +3,7 @@ Date: 2024-02-06 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, queuing theory, Poisson process, Mathemaniac
 Slug: mathemaniac-queuing-theory-and-poisson-process
-Status: draft
+Status: published
 
 Recently we have been looking a lot into [Poisson
 process](/tag/poisson-process) and other related more physical topics. But
