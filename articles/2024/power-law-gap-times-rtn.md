@@ -59,7 +59,7 @@ distribution, whose probability density function would be given by:
 \begin{equation}
 p\left(\tau\right)=
     \begin{cases}
-        \frac{\alpha\tau\_{\text{min}}^{\alpha}}{1-\left(\frac{\tau\_{\text{min}}}{\tau\_{\text{max}}}\right)^{\alpha}}\cdot\frac{1}{\tau^{\alpha+1}} & \text{for }\tau\_{\text{min}}\leq\tau\leq\tau\_{\text{max}},\\
+        \frac{\alpha\tau\_{\text{min}}^{\alpha}}{1-\left(\frac{\tau\_{\text{min}}}{\tau\_{\text{max}}}\right)^{\alpha}}\cdot\frac{1}{\tau^{\alpha+1}} & \text{for }\tau\_{\text{min}}\leq\tau\leq\tau\_{\text{max}},\\\\
         0 & \text{otherwise}.
     \end{cases}
 \end{equation}
