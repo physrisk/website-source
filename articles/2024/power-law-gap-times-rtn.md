@@ -3,7 +3,7 @@ Date: 2024-02-13 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, spectral density, 1/f noise, random telegraph noise
 Slug: power-law-gap-times-rtn
-Status: draft
+Status: published
 Image_url: uploads/2024/power-law-gap-times-rtn.png
 
 In the [last
