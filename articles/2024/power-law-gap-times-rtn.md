@@ -11,7 +11,7 @@ post]({filename}/articles/2024/superposition-of-lorentzians-with-fixed-height.md
 we have assumed that the event rate of the individual processes making up
 the superposition needs to be distributed according the bounded Pareto
 distribution. And we have seen that in \\\( \alpha = 0 \\\) case,
-\\\( 1/f \\\) noise will be obtained. But superposition of such processes
+[1/f noise](/tag/1f-noise/) will be obtained. But superposition of such processes
 seems to be very demanding assumption, maybe we can choose another
 assumption? Here we will see what happens if we assume that gap times are
 assumed to follow bounded Pareto distribution, while the pulse times will
@@ -120,11 +120,11 @@ case we have that:
 S(f) \sim \frac{1}{f^{2-\alpha}} .
 \end{equation}
 
-These results suggest that for \\\( \alpha = 1 \\\) we should observe \\\(
-1/f \\\) noise, and in the existing literature it was so assumed. But as we
+These results suggest that for \\\( \alpha = 1 \\\) we should observe
+[1/f noise](/tag/1f-noise/), and in the existing literature it was so assumed. But as we
 have seen in an [earlier
 post]({filename}/articles/2023/point-process-psd-power-law.md)), for the
-extremely short pulses no \\\( 1/f \\\) noise is observed - the dependence
+extremely short pulses no [1/f noise](/tag/1f-noise/) is observed - the dependence
 is perverted by the presence \\\( \ln f \\\) term.
 
 ## The special case of \\\( \alpha = 1 \\\)
@@ -149,14 +149,14 @@ S\left(f\right)=\frac{a^{2}\bar{\nu}\tau\_{\text{min}}}{\left(\frac{\pi\tau\_{\t
 It should be evident that, if the pulses are short, then \\\( \ln f \\\)
 term is significant. On the other hand, if the pulses are long, then for the
 most parameters sets and realistically measurable frequencies pure
-\\\( 1/f \\\) noise is obtained
+[1/f noise](/tag/1f-noise/) is obtained
 
 \begin{equation}
 S\left(f\right) \approx a^{2}\bar{\nu}\tau\_{\text{min}}\cdot\frac{1}{f}.
 \end{equation}
 
 Still, if we consider all frequencies (or the formal mathematical \\\( f
-\rightarrow 0 \\\) limit), then the obtained \\\( 1/f \\\) noise would be
+\rightarrow 0 \\\) limit), then the obtained [1/f noise](/tag/1f-noise/) would be
 still perverted by the \\\( \ln f \\\) term. Though the cutoff frequency
 would most often be unrealistically low:
 
@@ -178,7 +178,7 @@ duration). This makes the model weakly non-ergodic and induces aging
 effects. Namely, the total power of a signal (obtained by integrating the
 [spectral density](/tag/spectral-density/) over observed frequencies) decays
 as the observation time increases. For \\\( \alpha = 1 \\\) case, which
-leads to \\\( 1/f \\\) noise, this decay is extremely slow, approximately
+leads to [1/f noise](/tag/1f-noise/), this decay is extremely slow, approximately
 
 \begin{equation}
 \int\_{1/T}^\infty S(f) \mathrm{d}f \propto \frac{1}{\ln(T)} .
@@ -202,7 +202,7 @@ pressed. When "Generate" button is pressed again, the parameters are reset
 and the generation of new time series is started.
 
 What to observe? You might want to try changing \\\( \theta\_c \\\) and
-observe how the apparently pure \\\( 1/f \\\) noise disappears. Also you
+observe how the apparently pure [1/f noise](/tag/1f-noise/) disappears. Also you
 might want to change \\\( \alpha \\\) to observe the different slopes that
 can emerge from this model.
 

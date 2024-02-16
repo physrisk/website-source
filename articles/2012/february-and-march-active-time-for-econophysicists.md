@@ -24,8 +24,8 @@ works concerning extreme event, i.e., burst, statistics - ["Modeling by
 the nonlinear stochastic differential equation of the power-law
 distribution of extreme events in the financial
 systems"]({static}/uploads/2012/Kaulakys_UPoN2012_Events.pdf).
-The other one was related to the application of Kirman model towards 1/f
-noise modeling - ["1/f Fluctuations from the Microscopic Herding
+The other one was related to the application of Kirman model towards [1/f
+noise](/tag/1f-noise/) modeling - ["1/f Fluctuations from the Microscopic Herding
 Model"]({static}/uploads/2012/Kaulakys_UPoN2012_Herding.pdf).
 
 Our approaches towards financial markets using Kirman model were

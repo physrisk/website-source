@@ -10,7 +10,8 @@ by the great classical composers - statistical properties of their time
 series appear to be as complex as social phenomena considered here on
 Physics of Risk. Their music may seem to be both - at certain times
 easily anticipated and predictable, while at the other times have large
-unexpected deviations. Their music behaves as a pink or 1/f noise \[cite
+unexpected deviations. Their music behaves as a pink or [1/f
+noise](/tag/1f-noise/) \[cite
 id="Voss1975Nature, Levitin2012PNAS"\]! In \[cite id="Voss1975Nature"\]
 it was shown that the intensity time series of the music by the
 classical composers and human speech time series have 1/f region in
@@ -18,7 +19,7 @@ their spectral densities. While in \[cite id="Levitin2012PNAS"\] these
 ideas are applied towards musical rhythm. To us \[cite
 id="Levitin2012PNAS"\] is especially interesting as this paper considers
 our own model, \[cite id="Gontis2002MC, Kaulakys2005PhysRevE"\], as a
-proper model for the 1/f noise in the spectral density of musical
+proper model for the [1/f noise](/tag/1f-noise/) in the spectral density of musical
 rhythm.<!--more-->
 
 Musical rhythm is an excellent example of the point process. Namely we
@@ -71,5 +72,5 @@ signal, if the inter-event times will change according the Brownian
 motion. Namely if \\\(  \gamma = \mu = 0 \\\), the observed power law
 will be approximately equal to 1, while our difference equation will be
 the same as for the Brownian motion. While it is not the only case we
-can obtain 1/f noise with the point process model, but this case is
+can obtain [1/f noise](/tag/1f-noise/) with the point process model, but this case is
 almost surely the most interesting one.

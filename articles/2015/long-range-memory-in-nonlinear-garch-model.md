@@ -32,7 +32,7 @@ id="Kaulakys2004PhysRevE,Kaulakys2006PhysA,Kaulakys2009JStatMech"\],
 
 shows that equations themselves are rather similar, but the similarity
 is restricted to \\\(  \eta=1 \\\) case. Yet in order to reproduce
-long-range memory (\\\(  1/f \\\) spectra) we need to have \\\(  \eta\neq 1 \\\). This can be done by making some terms nonlinear. Let us write
+long-range memory ([1/f noise](/tag/1f-noise/) we need to have \\\(  \eta\neq 1 \\\). This can be done by making some terms nonlinear. Let us write
 the following nonlinear process:
 
 \begin{equation}

@@ -78,8 +78,8 @@ Then we simply have that \\\( a^2 \bar{\nu} = 1 \\\) for any \\\( \lambda
 
 ## Interactive app
 
-To effectively show the key point of this post (i.e., that you can get \\\(
-1/f \\\) noise out of superposition of [Lorentzian](/tag/lorentzian/)
+To effectively show the key point of this post (i.e., that you can get
+[1/f noise](/tag/1f-noise/) out of superposition of [Lorentzian](/tag/lorentzian/)
 shapes) here we do not generate the signals themselves. Unlike in the
 [earlier posts](/tag/shot-noise/) here instead we just add the
 [Lorentzian](/tag/lorentzian/) shapes, which should emerge as a result of
@@ -91,7 +91,7 @@ So, in the app below you can adjust the bounds of the \\\( \lambda \\\)
 distribution. In the plot the simulation results are shown as red dots, and
 they quickly converge towards analytically derived formula (shown as black
 curve). As you change the bound of the \\\( \lambda \\\) distribution
-observe how the range of frequencies over which \\\( 1/f \\\) noise is
+observe how the range of frequencies over which [1/f noise](/tag/1f-noise/) is
 observed changes. Note that for the lowest frequencies white noise
 dominates, while for the highest frequencies \\\( S(f) \sim 1/f^2 \\\)
 dependence emerges.
