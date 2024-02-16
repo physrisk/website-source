@@ -1,7 +1,7 @@
 Title: PSD of a point process with non-exponential inter-event times
 Date: 2023-10-03 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, Poisson process, point process, Fourier transform, spectral density, ageing effects
+Tags: Interactive models, Poisson process, point process, Fourier transform, spectral density, ageing effects
 Slug: point-process-psd-weibull
 Status: published
 Image_url: uploads/2023/point-process-psd-weibull.png

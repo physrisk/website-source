@@ -1,7 +1,7 @@
 Title: Iain Explains: What is power spectral density?
 Date: 2023-10-10 08:00
 Author: Aleksejus Kononovicius
-Tags: Iain Explains, video, statistics, spectral density
+Tags: Iain Explains, video, spectral density
 Slug: iain-explains-power-spectral-density
 Status: published
 
