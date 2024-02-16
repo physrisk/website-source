@@ -28,8 +28,8 @@ While description of another model, related to the multifractality of
 time series, will be published on Physics of Risk in the near time.
 
 Poster presentation *Study of Gaussianity of 1/f fluctuations* (authors:
-R. Kazakevičius, B. Kaulakys) has considered a problem of obtaining pink
-noise, \\\(  S(f) \sim 1/f \\\), from Gaussian signal. Usually it is
+R. Kazakevičius, B. Kaulakys) has considered a problem of obtaining [pink
+noise](/tag/1f-noise/), \\\(  S(f) \sim 1/f \\\), from Gaussian signal. Usually it is
 thought that pink noise is related to the power law distributions, but
 apprantely it is possible to obtain pink noise from Gaussian signal.
 This is shown by numerically solving set of Langevin equations:

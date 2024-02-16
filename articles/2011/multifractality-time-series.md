@@ -232,7 +232,8 @@ id="Buldyrev1995PhysRevE"\]:
 -   uncorrelated (be related to white noise), if \\\( h(2) \simeq 0.5 \\\).
 -   positively correlated, if \\\( h(2) < 1 \\\).
 -   strongly positively correlated, if \\\( h(2) \simeq 1 \\\). Or in
-    other words exhibit so-called pink, or \\\( 1/f \\\), noise. Such
+    other words exhibit so-called pink, or \\\( 1/f \\\),
+    [noise](/tag/1f-noise/). Such
     time series should exhibit other long range memory related
     properties. Note that we have obtained such results with time series
     from Agent-based herding model of financial markets (see [Fig.

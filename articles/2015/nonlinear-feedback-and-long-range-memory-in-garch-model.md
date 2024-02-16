@@ -73,7 +73,7 @@ time scale); \\\(  \bar{\omega}\_\mu = \langle | \omega |^\mu\rangle \\\), \\\( 
 \end{equation}
 
 [Fig. 1](#attachment_2774) confirms this as we are able to reproduce
-\\\(  1/f \\\) noise.
+[1/f noise](/tag/1f-noise/).
 
 ![Fig. 1: Reproducing 1/f noise using nonlinear GARCH(1,1)
 model.]({static}/uploads/2015/nonlinear-feedback-and-long-range-memory-in-garch-model.png

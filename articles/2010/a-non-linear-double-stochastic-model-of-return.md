@@ -53,13 +53,13 @@ of trends and ideas would be hard and virtually impossible task.
 
 Our research was started by the efforts of group lead by prof. Bronius
 Kaulakys. This group decided to tackle a very common problem in many
-research fields – 1/f noise problem. Usually this type of noise is
+research fields – [1/f noise](/tag/1f-noise/) problem. Usually this type of noise is
 associated with systems exhibiting long-range memory, as
 auto-correlation function of such time series decays slowly as a power
 law function. During the research it was noticed that it is possible to
 define stochastic point processes, which would recreate time series with
-Brownian event clustering and exhibiting 1/f noise. This is was
-proposed as very general explanation of 1/f noise.
+Brownian event clustering and exhibiting [1/f noise](/tag/1f-noise/). This is was
+proposed as very general explanation of [1/f noise](/tag/1f-noise/).
 
 Achieved success facilitated birth of another idea – sequence of trades
 in financial markets might have similar nature as aforementioned general
@@ -67,7 +67,7 @@ point process models! It is so as trade sequence times series have
 periods of high and low event clustering, inter-trade times also
 fluctuate in very wide ranges. There is also widely established fact
 that total number of trades per time window exhibit characteristics
-similar to 1/f noise. With this research our attempts to describe
+similar to [1/f noise](/tag/1f-noise/). With this research our attempts to describe
 trading activity as stochastic point process begun. Further we present
 brief and simplified review of our work, thus we will not refer to any
 specific scientific papers, as you can find all of the references, to
@@ -79,8 +79,9 @@ Processes, whose dynamics are heavily dependent on the stochastic
 influence of different kinds (ex., internal or external noise),
 mathematically are described using stochastic differential equations.
 Further evolution of the proposed interpretation, based on point
-processes, of 1/f noise showed that it is only one of the many possible
-assumptions to obtain stochastic differential equations. While 1/f noise
+processes, of [1/f noise](/tag/1f-noise/) showed that it is only one of the many possible
+assumptions to obtain stochastic differential equations. While [1/f
+noise](/tag/1f-noise/)
 itself can more generally relate directly to the non-linear stochastic
 differential equations, which are the part of Stochastic Calculus, well
 developed sub-field of Mathematics. In the recent years Stochastic

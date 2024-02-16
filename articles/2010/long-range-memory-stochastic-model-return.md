@@ -125,7 +125,7 @@ by power law function with power \\\(  \beta = 1 - \frac{3 -\lambda}{2 (\eta-1)}
 id="Kaulakys2009JStatMech"\]). By manipulating with model parameter
 \\\(  \lambda  \\\) and \\\(  \eta  \\\) values one can obtain almost
 any spectra with \\\(  \beta \in \[0.5,2\] \\\). As an example we
-provide 1/f spectral density (see [Fig. 2b](#attachment_908)).
+provide [1/f spectral density](/tag/1f-noise/) (see [Fig. 2b](#attachment_908)).
 
 ![image]({static}/uploads/2010/simple-sde.png "1/f noise obtained from the above SDE. Red curves
 correspond to model statical properties (probability density function

@@ -8,7 +8,7 @@ Image_url: uploads/2024/superposition-of-lorentzians-with-fixed-height.png
 
 In the [last
 post]({filename}/articles/2024/obtaining-1f-noise-from-superposition-of-lorentzians.md)
-we have seen that \\\( 1/f \\\) noise can be obtained from superposition of
+we have seen that [1/f noise](/tag/1f-noise/) can be obtained from superposition of
 [Lorentzian](/tag/lorentzian/) [power spectral
 densities](/tag/spectral-density/). Though we have imposed an odd
 requirement of scaling pulse height for different characteristic rates \\\(
@@ -20,7 +20,8 @@ fixed height pulses.
 
 Let us now assume that \\\( a = 1 \\\) for all possible \\\( \lambda \\\).
 Under this assumption, because \\\( \bar{\nu} = \lambda / 2 \\\), uniform
-distribution of \\\( \lambda \\\) will not result in \\\( 1/f \\\) noise
+distribution of \\\( \lambda \\\) will not result in [1/f
+noise](/tag/1f-noise/)
 (instead we will have \\\( S(f) \sim \ln(f) \\\)). What other distribution
 should we pick?
 
