@@ -1,7 +1,7 @@
 Title: Shot noise in continuous time
 Date: 2023-12-05 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, Fourier transform, spectral density, shot noise
+Tags: Interactive models, Fourier transform, spectral density, shot noise
 Slug: shot-noise-continuous-time
 Status: published
 Image_url: uploads/2023/shot-noise-continuous-time.png
