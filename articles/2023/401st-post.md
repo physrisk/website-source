@@ -1,7 +1,7 @@
 Title: 401st post!
 Date: 2023-09-05 08:00
 Author: Aleksejus Kononovicius
-Tags: General information, statistics, language statistics, Zipf's law
+Tags: General information, statistics, language, Zipf's law
 Slug: 401st-post
 Status: published
 Image_url: uploads/2023/401st-tags.png
@@ -9,7 +9,7 @@ Image_url: uploads/2023/401st-tags.png
 The [post]({filename}/articles/2023/waiting-time-paradox.md) we have posted
 before the summer vacation was our 400th post! We haven't noticed this
 milestone at the time, but let us then celebrate 401st post by looking at
-the [language statistics](/tag/language-statistics/) of our posts.
+the [language](/tag/language/) statistics of our posts.
 Particularly, we can ask a question whether [Zipf's law](/tag/zipfs-law/)
 applies for our posts.
 
