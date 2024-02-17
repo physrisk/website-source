@@ -15,7 +15,7 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 ## Completed thesis, term papers and internships
 
-**Term papers:** 21 (7 BSc + 14 MSc)
+**Term papers:** 22 (7 BSc + 15 MSc)
 
 **Theses:** 17 (10 BSc + 4 MSc + 3 PhD)
 
@@ -25,8 +25,8 @@ We will try to schedule a meeting to find a problem you could tackle.
   Vilnius University Faculty of Physics, wrote a term paper on the
   estimation of Hurst exponent from fractional Brownian motion and voter
   model time series. The student was supervised by Rytis Kazakevičius.
-* During **2022-2023** Justas Kvedaravičius, fifth year student at
-  Vilnius University Faculty of Physics, wrote two term papers related to
+* During **2022-2024** Justas Kvedaravičius, sixth year student at
+  Vilnius University Faculty of Physics, wrote three term papers related to
   research on spatial heterogeneity. The student was
   supervised by Aleksejus Kononovicius.
 * During **the spring of 2023** Gediminas Jonikas, fourth year student at
