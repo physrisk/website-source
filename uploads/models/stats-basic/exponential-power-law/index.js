@@ -154,7 +154,7 @@ function generate_single_sample(alpha_power, low, high) {
 function generate_proper_bounded_pareto(alpha_power, low, high) {
     let uniform = rng.random();
     if (alpha_power == 0) {
-        return Math.pow(high / low, uniform);
+        return low * Math.pow(high / low, uniform);
     }
     let scale = Math.pow(high / low, alpha_power);
     let result = Math.pow(1 - uniform + uniform / scale, -1 / alpha_power);
