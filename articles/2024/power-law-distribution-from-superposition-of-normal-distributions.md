@@ -44,7 +44,7 @@ we still assume that parameter values are sampled from a bounded power-law
 distribution:
 
 \begin{equation}
-p(\theta\_i) \propto \frac{1}{\theta\_i^\alpha\_i} .
+p(\theta\_i) \propto \frac{1}{\theta\_i^{\alpha\_i}} .
 \end{equation}
 
 In the above the index \\\( i \\\) helps us differentiate between the
