@@ -91,7 +91,7 @@ power-law scaling will be observed.
 
 ![Sample case for when the mean is fixed and large (larger than maximum
 bound for standard
-deviation).]({static}/uploads/2024/power-law-distribution-from-superposition-of-normal-distributions-2.png
+deviation).]({static}/uploads/2024/power-law-distribution-from-superposition-of-normal-distributions-3.png
 "Sample case for when the mean is fixed and large (larger than maximum bound
 for standard deviation). Red curve shows p(x), green curve - p(μ), blue
 curve - p(σ).")
