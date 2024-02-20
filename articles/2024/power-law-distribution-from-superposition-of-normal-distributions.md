@@ -69,7 +69,8 @@ parameter.
 
 ![Sample case for when the standard deviation is
 fixed.]({static}/uploads/2024/power-law-distribution-from-superposition-of-normal-distributions-2.png
-"Sample case for when the standard deviation is fixed.")
+"Sample case for when the standard deviation is fixed. Red curve shows p(x),
+green curve - p(μ), blue curve - p(σ).")
 
 If both parameters are randomized and the corresponding exponents are
 different, then \\\( x \\\) distribution will often exhibit double power-law
@@ -79,7 +80,8 @@ x^{-\alpha\_\sigma} \\\).
 
 ![Sample case for when the exponents are
 different.]({static}/uploads/2024/power-law-distribution-from-superposition-of-normal-distributions.png
-"Sample case for when the exponent are different.")
+"Sample case for when the exponent are different. Red curve shows p(x),
+green curve - p(μ), blue curve - p(σ).")
 
 These insights are mostly for reasonable parameter values. There are some
 edge cases, which will have a different behavior. For example, if \\\(
@@ -91,7 +93,8 @@ power-law scaling will be observed.
 bound for standard
 deviation).]({static}/uploads/2024/power-law-distribution-from-superposition-of-normal-distributions-2.png
 "Sample case for when the mean is fixed and large (larger than maximum bound
-for standard deviation).")
+for standard deviation). Red curve shows p(x), green curve - p(μ), blue
+curve - p(σ).")
 
 ## Interactive app
 
