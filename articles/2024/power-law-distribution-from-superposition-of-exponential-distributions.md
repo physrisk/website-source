@@ -3,7 +3,7 @@ Date: 2024-02-27 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics
 Slug: power-law-distribution-from-superposition-of-exponential-distributions
-Status: draft
+Status: published
 Image_url: uploads/2024/power-law-distribution-from-superposition-of-exponential-distributions.png
 
 In the [previous post]({filename}/articles/2024/power-law-gap-times-rtn.md)
