@@ -3,7 +3,7 @@ Date: 2024-03-05 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Cellular automata, Coding Train
 Slug: coding-train-elementary-cellular-automata
-Status: draft
+Status: published
 
 Would you like to code your own [cellular automata](/tag/cellular-automata/)
 program? Similar to our [Wolfram's elementary
