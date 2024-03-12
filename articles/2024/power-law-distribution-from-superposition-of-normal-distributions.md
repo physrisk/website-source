@@ -3,7 +3,7 @@ Date: 2024-03-12 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics
 Slug: power-law-distribution-from-superposition-of-normal-distributions
-Status: draft
+Status: published
 Image_url: uploads/2024/power-law-distribution-from-superposition-of-normal-distributions.png
 
 [Last
