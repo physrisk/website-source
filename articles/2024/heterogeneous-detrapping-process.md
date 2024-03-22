@@ -64,7 +64,7 @@ then \\\( f\_c < 2/T \\\). Although, \\\( f\_c > 1/T \\\) will be true for
 any duration \\\( T \\\).
 
 ![Sample simulation results showcasing spurious low-frequency
-cutoff]({static}/uploads/2024/heterogeneous-detrapping-processes.png "Sample
+cutoff]({static}/uploads/2024/heterogeneous-detrapping-process.png "Sample
 simulation results showcasing spurious low-frequency cutoff. The arrow
 indicates that the low-frequency cutoff is related to the smallest
 detrapping rate actually observed during the experiment.")
