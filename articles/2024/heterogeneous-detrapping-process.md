@@ -6,15 +6,13 @@ Slug: heterogeneous-detrapping-process
 Status: draft
 Image_url: uploads/2024/heterogeneous-detrapping-process.png
 
-Earlier, we explore how [power-law distributed detrapping
+Earlier, we have explored how [power-law distributed detrapping
 times]({filename}/articles/2024/power-law-gap-times-rtn.md) lead to [1/f
 noise](/tag/1f-noise). Moreover, we have also established that power-law
 distribution can be obtained from the superposition of exponential
 distributions (see [this
 post]({filename}/articles/2024/power-law-distribution-from-superposition-of-exponential-distributions.md)).
 Now, what implications does the synthesis of these findings hold?
-Constructing detrapping processes based on these insights yields interesting
-consequences worth exploring.
 <!--more-->
 
 ## Hooge's parameter
