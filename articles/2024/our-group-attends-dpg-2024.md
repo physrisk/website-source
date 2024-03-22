@@ -6,10 +6,10 @@ Slug: our-group-attends-dpg-2024
 Status: draft
 Image_url: uploads/2024/our-group-attends-dpg-2024.jpg
 
-This we have finally managed to attend [DPG Spring Meeting of the Condensed
-Matter Section 2024](https://berlin24.dpg-tagungen.de/). We have listened to
-quite a few interesting contribution and received valuable feedback on our
-own research.
+This year we have finally managed to attend [DPG Spring Meeting of the
+Condensed Matter Section 2024](https://berlin24.dpg-tagungen.de/). We have
+listened to quite a few interesting contributions and received valuable
+feedback on our own research.
 
 ![Justas (left) and myself (right) giving our
 presentations.]({static}/uploads/2024/our-group-attends-dpg-2024.jpg
