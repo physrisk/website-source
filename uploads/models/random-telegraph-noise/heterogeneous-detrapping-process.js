@@ -383,6 +383,11 @@ generate_btn.addEventListener("click", () => {
         10,
         my_parse_float(document.getElementById("max_rate").value)
     );
+    if (sim_min_rate > sim_max_rate) {
+        sim_min_rate = sim_max_rate;
+        document.getElementById("min_rate").value =
+            Math.log10(sim_min_rate).toFixed(1);
+    }
     sim_recombination_rate = Math.pow(
         10,
         -my_parse_float(document.getElementById("recombination_time").value)
