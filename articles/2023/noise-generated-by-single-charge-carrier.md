@@ -88,6 +88,6 @@ change).
 url="/uploads/models/random-telegraph-noise/poiss.html"]
 
 Note: The app was recently updated with an additional parameter \\\(
-N_{success} \\\). It will be discussed in a forthcoming post (the link will
+N\_{success} \\\). It will be discussed in a forthcoming post (the link will
 be added after that post is published). When exploring the app in the
-context of this post simply keep the default \\\( N_{success} = 1 \\\).
+context of this post simply keep the default \\\( N\_{success} = 1 \\\).
