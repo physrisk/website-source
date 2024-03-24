@@ -85,3 +85,8 @@ figure) a continuous gradual decrease of the smallest \\\( \gamma \\\)
 observed, but the experimental smallest \\\( \gamma \\\) observed decreases
 in steps. This is because theoretical curve predicts expected value of
 smallest \\\( \gamma \\\) observed.
+
+Note: The app was includes an additional parameter \\\( N\_{success} \\\).
+It will be discussed in a forthcoming post (the link will be added after
+that post is published). When exploring the app in the context of this post
+simply keep the default \\\( N\_{success} = 1 \\\).

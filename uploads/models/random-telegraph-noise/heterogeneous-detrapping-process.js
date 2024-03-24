@@ -212,9 +212,15 @@ function get_rectangular_contribution(start, end) {
     };
 }
 
-function generate_tau(power, low, high) {
+function generate_tau(power, low, high, n_success) {
     let rate = generate_proper_bounded_pareto(power - 1, low, high);
-    return [rate, rng.exponential(rate)];
+    let tau = 0;
+    let n = 0;
+    while (n < n_success) {
+        tau += rng.exponential(rate);
+        n += 1;
+    }
+    return [rate, tau];
 }
 
 function generate_proper_bounded_pareto(alpha_power, low, high) {
@@ -232,10 +238,11 @@ function get_gap_pulse(
     power_gap,
     min_rate,
     max_rate,
+    n_success,
     recombination_rate
 ) {
     let rate, tau;
-    [rate, tau] = generate_tau(power_gap, min_rate, max_rate);
+    [rate, tau] = generate_tau(power_gap, min_rate, max_rate, n_success);
     let theta = rng.exponential(recombination_rate);
     return [rate, tau, theta];
 }
@@ -243,6 +250,7 @@ function get_gap_pulse(
 let sim_power_gap = 1.0;
 let sim_min_rate = 1e-4;
 let sim_max_rate = 1;
+let sim_n_success = 1;
 let sim_recombination_rate = 1e-3;
 let clock = 0;
 let n_events = 0;
@@ -257,6 +265,7 @@ function generate_pulse(
     power_gap = 1,
     min_rate = 0.01,
     max_rate = 1,
+    n_success = 1,
     recombination_rate = 1
 ) {
     let rate, tau, theta, pulse_start, pulse_end, pulse_contrib, gap_contrib;
@@ -265,6 +274,7 @@ function generate_pulse(
         power_gap,
         min_rate,
         max_rate,
+        n_success,
         recombination_rate
     );
     total_pulse_duration = total_pulse_duration + theta;
@@ -352,6 +362,7 @@ function frame() {
             sim_power_gap,
             sim_min_rate,
             sim_max_rate,
+            sim_n_success,
             sim_recombination_rate
         );
         sample_rates[i] = rate;
@@ -385,9 +396,9 @@ generate_btn.addEventListener("click", () => {
     );
     if (sim_min_rate > sim_max_rate) {
         sim_min_rate = sim_max_rate;
-        document.getElementById("min_rate").value =
-            Math.log10(sim_min_rate).toFixed(1);
+        document.getElementById("min_rate").value = Math.log10(sim_min_rate).toFixed(1);
     }
+    sim_n_success = parseInt(document.getElementById("n_success").value);
     sim_recombination_rate = Math.pow(
         10,
         -my_parse_float(document.getElementById("recombination_time").value)
