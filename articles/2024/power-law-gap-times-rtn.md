@@ -47,7 +47,7 @@ distribution) is given by
 
 \begin{equation}
 \chi\_{\theta}(f) = \frac{\lambda\_{\theta}}{\lambda\_{\theta} - 2 \pi \mathrm{i} f}
-    = \frac{1}{1-2 \pi \mathrm{f} \theta\_c}
+    = \frac{1}{1-2 \pi \mathrm{f} \mathrm{i} \theta\_c}
 \end{equation}
 
 Where in the above \\\( \theta\_c \\\) is the average pulse duration (i.e.,
