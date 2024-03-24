@@ -38,11 +38,16 @@ function get_rectangular_contribution(start, end) {
     };
 }
 
-function get_gap_pulse(clock, generation_rate, recombination_rate) {
-    let tau = rng.exponential(generation_rate);
-    if (clock + tau > OBSERVATION_TIME) {
-        tau = OBSERVATION_TIME - clock;
-        return [tau, 0];
+function get_gap_pulse(clock, generation_rate, n_success, recombination_rate) {
+    let tau = 0;
+    let n = 0;
+    while (n < n_success) {
+        tau += rng.exponential(generation_rate);
+        if (clock + tau > OBSERVATION_TIME) {
+            tau = OBSERVATION_TIME - clock;
+            return [tau, 0];
+        }
+        n += 1;
     }
     let theta = rng.exponential(recombination_rate);
     if (clock + tau + theta > OBSERVATION_TIME) {
@@ -60,7 +65,11 @@ function append_pulse(series, start_time, end_time) {
     return series;
 }
 
-function generate_series(generation_rate = 1, recombination_rate = 1) {
+function generate_series(
+    generation_rate = 1,
+    n_success = 1,
+    recombination_rate = 1
+) {
     let tau, theta, pulse_contrib, gap_contrib, pulse_start, pulse_end;
     let fourier_pulse_real = Array(PSD_FREQS.length).fill(0);
     let fourier_pulse_imag = Array(PSD_FREQS.length).fill(0);
@@ -74,6 +83,7 @@ function generate_series(generation_rate = 1, recombination_rate = 1) {
         [tau, theta] = get_gap_pulse(
             clock,
             generation_rate,
+            n_success,
             recombination_rate
         );
 
@@ -139,8 +149,12 @@ function get_theory(freqs, n_events, generation_rate, recombination_rate) {
     });
 }
 
-function run(generation_rate = 1, recombination_rate = 1) {
-    let series = generate_series(generation_rate, recombination_rate);
+function run(generation_rate = 1, n_success = 1, recombination_rate = 1) {
+    let series = generate_series(
+        generation_rate,
+        n_success,
+        recombination_rate
+    );
 
     series_plot.update(
         [
@@ -179,9 +193,10 @@ document.getElementById("generate").addEventListener("click", () => {
         10,
         my_parse_float(document.getElementById("generation_rate").value)
     );
+    let n_success = parseInt(document.getElementById("n_success").value);
     let recombination_rate = Math.pow(
         10,
         my_parse_float(document.getElementById("recombination_rate").value)
     );
-    run(generation_rate, recombination_rate);
+    run(generation_rate, n_success, recombination_rate);
 });
