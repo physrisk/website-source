@@ -3,7 +3,7 @@ Date: 2024-03-26 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, conference, DPG, voter model, opinion dynamics, compartmental voter model, 1/f noise, J. Kvedaravičius, A. Kononovicius
 Slug: our-group-attends-dpg-2024
-Status: draft
+Status: published
 Image_url: uploads/2024/our-group-attends-dpg-2024.jpg
 
 This year we have finally managed to attend [DPG Spring Meeting of the
