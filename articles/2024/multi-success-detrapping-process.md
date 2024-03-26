@@ -37,6 +37,10 @@ density](/tag/spectral-density/) should remain almost the same as predicted
 in the earlier
 [post]({filename}/articles/2023/noise-generated-by-single-charge-carrier.md).
 
+![Comparison between one-success and multi-success signals and
+PSDs]({static}/uploads/2024/multi-success-detrapping-process.png "Comparison
+between one-success and multi-success signals and PSDs.")
+
 When running the simulations on the interactive app below we see that larger
 \\\( N\_{success} \\\) decreases the number of pulses in the observed
 signal. This leads to slightly smaller signal [power spectral
