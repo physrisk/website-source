@@ -3,7 +3,7 @@ Date: 2023-04-16 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, Agent-based models, opinion dynamics, game theory, Network models, kinetic models
 Slug: abm-tutorial-in-english-2024
-Status: draft
+Status: published
 Image_url: uploads/2024/abm-tutorial-in-english-2024.jpg
 
 Like in the [previous
