@@ -1,5 +1,5 @@
 Title: Agent-based modeling tutorial (in English)
-Date: 2023-04-16 08:00
+Date: 2024-04-16 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, Agent-based models, opinion dynamics, game theory, Network models, kinetic models
 Slug: abm-tutorial-in-english-2024
