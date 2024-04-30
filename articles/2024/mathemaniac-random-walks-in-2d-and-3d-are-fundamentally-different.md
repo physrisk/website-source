@@ -3,7 +3,7 @@ Date: 2024-04-30 08:00
 Author: Aleksejus Kononovicius
 Tags: mathemaniac, video, statistics, Brownian motion
 Slug: mathemaniac-random-walks-in-2d-and-3d-are-fundamentally-different
-Status: draft
+Status: published
 
 We previously delved into the [statistical
 physics](/tag/statistical-physics/) of [birds on a
