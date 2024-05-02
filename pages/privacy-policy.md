@@ -26,15 +26,11 @@ fonts. They are privacy respecting EU-based company. If you have any
 concerns regarding them feel free to block their respective domain in your
 browser settings.
 
-Our theme uses [JSDelivr](https://www.jsdelivr.com/) CDN to serve
-[MathJax](https://www.mathjax.org/), which is responsible for showing
-formatted mathematical formulas in our posts. You may block this CDN, but
-then you'll be seeing raw LaTeX code in place of the equations.
-
 Our theme uses [Cloudflare](https://www.cloudflare.com/) CDN to serve
-[Bootstrap framework](https://getbootstrap.com/docs/3.3/). It is the
-backbone of our theme. Blocking this resource will break the look of our
-site.
+[Bootstrap framework](https://getbootstrap.com/docs/3.3/) and
+[MathJax](https://www.mathjax.org/). It is the backbone of our theme.
+Blocking this resource will break the look of our site as well as any LaTeX
+equations.
 
 ## Third party content shared on our website
 
