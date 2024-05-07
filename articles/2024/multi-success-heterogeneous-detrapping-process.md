@@ -9,11 +9,11 @@ Image_url: uploads/2024/multi-success-heterogeneous-detrapping-process.png
 When presenting [heterogeneous detrapping
 process]({filename}/articles/2024/heterogeneous-detrapping-process.md) at
 the [DPG conference]({filename}/articles/2024/our-group-attends-dpg-2024.md)
-I got a question (or suggestion to check) what would happen if instead of
+I got a question (or a suggestion to check) what would happen if instead of
 heterogeneous traps we would require multiple successes for the charge
 carrier to escape? In the [previous
 post]({filename}/articles/2024/multi-success-detrapping-process.md) we have
-seen that it change almost nothing when the detrapping times are
+seen that this change makes relatively little difference when the detrapping times are
 exponential. But what if they are power-law? What if we require \\\(
 N\_{success} \\\) successes within the [heterogeneous detrapping
 process]({filename}/articles/2024/heterogeneous-detrapping-process.md)?

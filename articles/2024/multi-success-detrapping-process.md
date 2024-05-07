@@ -9,7 +9,7 @@ Image_url: uploads/2024/multi-success-detrapping-process.png
 When presenting [heterogeneous detrapping
 process]({filename}/articles/2024/heterogeneous-detrapping-process.md) at
 the [DPG conference]({filename}/articles/2024/our-group-attends-dpg-2024.md)
-I got a question (or suggestion to check) what would happen if instead of
+I got a question (or a suggestion to check) what would happen if instead of
 heterogeneous traps we would require multiple successes for the charge
 carrier to escape?
 <!--more-->
