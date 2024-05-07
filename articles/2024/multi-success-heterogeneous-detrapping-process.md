@@ -3,7 +3,7 @@ Date: 2024-05-07 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, spectral density, 1/f noise, random telegraph noise
 Slug: multi-success-heterogeneous-detrapping-process
-Status: draft
+Status: published
 Image_url: uploads/2024/multi-success-heterogeneous-detrapping-process.png
 
 When presenting [heterogeneous detrapping
