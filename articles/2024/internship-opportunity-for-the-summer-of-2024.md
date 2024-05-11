@@ -21,6 +21,8 @@ familiar with sociophysics or [opinion dynamics](/tag/opinion-dynamics/),
 though I would expect the project to have a significant numerical aspect to
 it (some programming skills will be required).
 
+Intern application deadline is 29th of May.
+
 Interns will get 1000 Eur monthly stipend. Plus, for students coming from
 other countries or cities to Vilnius there is possibility to get support for
 accommodation. Based on this call's rules I will have to give priority to
