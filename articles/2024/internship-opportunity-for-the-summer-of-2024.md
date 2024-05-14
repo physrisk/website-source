@@ -3,7 +3,7 @@ Date: 2024-05-14 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, students, opinion dynamics, voter model
 Slug: internship-opportunity-for-the-summer-of-2024
-Status: draft
+Status: published
 
 [Research Council of Lithuania](https://lmt.lrv.lt/en/) currently accepts
 student applications to do internship projects this summer at various
