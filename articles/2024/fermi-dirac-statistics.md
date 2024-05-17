@@ -11,6 +11,7 @@ wondered during my bachelor degree studies, but now I only remember
 derivation done by the means of combinatorics. In this post let us allow
 Fermi-Dirac distribution to emerge from simulation of a simple particle
 system.
+<!--more-->
 
 ## Model
 
