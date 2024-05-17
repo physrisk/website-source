@@ -18,7 +18,7 @@ system.
 1. Let the system be composed of \\\( 100 \\\) energy levels.
 1. Each energy level has energy equal to its index. In other words \\\( E\_i
    = i \\\) with \\\( i = 1, 2, \ldots, 100 \\\).
-1. Let there be \\\( N \\\) particles jumping from one energy level to
+1. Let there be \\\( 50 \\\) particles jumping from one energy level to
    another.
 1. Particle may jump to an energy level if it is empty. Namely, single
    particle can occupy single energy level.
@@ -36,7 +36,7 @@ for the [Ising model]({filename}/articles/2010/ising-model.md).
 
 ## Interactive app
 
-All this is fine and is interesting, but we would like to have average
+All is fine and interesting, but we would like to have average
 occupation of the energy levels to follow Fermi-Dirac distribution function:
 
 \begin{equation}
