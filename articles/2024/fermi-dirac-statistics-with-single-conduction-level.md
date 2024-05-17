@@ -31,7 +31,7 @@ Let us examine this particular case in this post.
    referred to as the conduction level.
 1. Each energy level has energy equal to its index. In other words \\\( E\_i
    = i \\\) with \\\( i = 1, 2, \ldots, 100 \\\).
-1. Let there be \\\( N \\\) particles.
+1. Let there be \\\( 50 \\\) particles.
 1. Particle may jump to an energy level if it is empty. Namely, single
    particle can occupy single energy level.
 1. Particle occupying the highest (conduction) level may jump to any trap
@@ -52,7 +52,7 @@ small.
 
 ## Interactive app
 
-All this is fine and is interesting, but we would like to have average
+All is fine and interesting, but we would like to have average
 occupation of the energy levels to follow Fermi-Dirac distribution function:
 
 \begin{equation}
@@ -69,6 +69,7 @@ curve represents \\\( F\left(E\right) \\\) from the above).
 url="/uploads/models/physics-models/fermi-dirac-statistics/single-conduction-level.html"]
 
 Please note, that it takes much more time for the numerical results to
-converge towards the theoretical curve. This is because detrapping to the
-conduction level is quite problematic and this hampers overall particle
-mobility over the energy levels.
+converge towards the theoretical curve (at least in comparison with the
+[previous post]({filename}/articles/2024/fermi-dirac-statistics.md)). This
+is because detrapping to the conduction level is quite problematic and this
+hampers overall particle mobility over the energy levels.
