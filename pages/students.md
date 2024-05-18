@@ -3,6 +3,14 @@ Date: 2017-10-13
 Slug: students
 Order: 5
 
+<div style="padding:10px;border-radius:5px;background:#b22;color:#fff">
+<strong>Currently</strong> we are offering internship position for the
+summer of 2024. It is supported by the Research Council of Lithuania. Find
+more details in <a
+href="https://rf.mokslasplius.lt/internship-opportunity-for-the-summer-of-2024/"
+style="color:#fff;text-decoration:underline">this post</a>. <strong>Join us
+for the upcoming summer!<strong></div>
+
 We are always happy to accept students from different backgrounds
 (physics, mathematics, social sciences) who would be interested in complex
 socio-economic systems. Having good skills in programming or mathematics
