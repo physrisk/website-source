@@ -46,9 +46,9 @@ Boltzmann factor is given by:
 \end{equation}
 
 Because conduction level is the highest energy level, probability to jump
-"down" from it is always \\\( 1 \\\). Escaping the trap on the other hand
-takes significant amount of time as jump "up" probability will be relatively
-small.
+"down" (i.e., \\\( C \rightarrow j \\\)) from it is always \\\( 1 \\\).
+Escaping the trap on the other hand takes significant amount of time as jump
+"up" (i.e., \\\(j \rightarrow C \\\)) probability will be relatively small.
 
 ## Interactive app
 
