@@ -33,7 +33,7 @@ We will try to schedule a meeting to find a problem you could tackle.
   Vilnius University Faculty of Physics, has completed internship
   "Rank dynamics of compartmental voter model". Internship was supervised by
   Aleksejus Kononovicius. Internship was supported by the [Research Council
-  of Lithuania](https://www.lmt.lt) (S-ST-23-122).
+  of Lithuania](https://lmt.lrv.lt) (S-ST-23-122).
 * During **the autumn of 2023** Danielius Kundrotas, fourth year student at
   Vilnius University Faculty of Physics, wrote a term paper on the
   estimation of Hurst exponent from fractional Brownian motion and voter
@@ -96,13 +96,13 @@ We will try to schedule a meeting to find a problem you could tackle.
   Vilnius University Faculty of Physics, has completed internship
   "Controlling complex stochastic systems". Internship was supervised by
   Aleksejus Kononovicius. Internship was supported by the [Research Council
-  of Lithuania](https://www.lmt.lt) (under the project "Promotion of Student
+  of Lithuania](https://lmt.lrv.lt) (under the project "Promotion of Student
   Scientific Activities" (VP1-3.1-ŠMM-01-V-02-003)).
 * During **the summer of 2013** Kęstutis Acus, third year student at ISM
   University of Management and Economics, has completed internship "Economic
   convergence as thermodynamic appreciation of real currency exchange rate".
   Internship was supervised by Vygintas Gontis. Internship was supported by
-  the [Research Council of Lithuania](https://www.lmt.lt) (under the project
+  the [Research Council of Lithuania](https://lmt.lrv.lt) (under the project
   "Promotion of Student Scientific Activities" (VP1-3.1-ŠMM-01-V-02-003)).
 * During **the spring of 2013** Rytis Kazakevičius, sixth year student at
   Vilnius University Faculty of Physics, wrote a master thesis "Statistical
@@ -141,4 +141,4 @@ We will try to schedule a meeting to find a problem you could tackle.
   "Modeling of word statistics in literature as well as modeling of trading
   activity in financial markets". Internship was supervised by Vygintas
   Gontis. Internship was supported by [Research Council of
-  Lithuania](https://www.lmt.lt).
+  Lithuania](https://lmt.lrv.lt).
