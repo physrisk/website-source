@@ -26,6 +26,7 @@ Intern application deadline is 29th of May.
 Interns will get 1000 Eur monthly stipend. Plus, for students coming from
 other countries or cities to Vilnius there is possibility to get support for
 accommodation. Based on this call's rules I will have to give priority to
-students outside Vilnius University. More details about this call is
-available on RCL's website:
+students outside Vilnius University.
+
+**More details about this call is available on RCL's website:**
 <https://lmt.lrv.lt/en/research-funding/career-development-mobility-and-networking-opportunities/funding-for-students-research-projects-summer-schollarships/>.
