@@ -27,8 +27,13 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 **Theses:** 17 (10 BSc + 4 MSc + 3 PhD)
 
-**Internships:** 7
+**Internships:** 8
 
+* During **2023-2024** Justas Kvedaravičius, sixth year student at
+  Vilnius University Faculty of Physics, has completed internship
+  "Rank dynamics of compartmental voter model". Internship was supervised by
+  Aleksejus Kononovicius. Internship was supported by the [Research Council
+  of Lithuania](https://www.lmt.lt) (S-ST-23-122).
 * During **the autumn of 2023** Danielius Kundrotas, fourth year student at
   Vilnius University Faculty of Physics, wrote a term paper on the
   estimation of Hurst exponent from fractional Brownian motion and voter
