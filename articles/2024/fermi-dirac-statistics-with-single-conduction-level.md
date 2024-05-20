@@ -39,6 +39,12 @@ Let us examine this particular case in this post.
 1. Particle occupying any lower (trap) level may jump only to the conduction
    level with the probability given by the Boltzmann factor.
 
+![Schematic depiction of a series of consecutive jumps in the considered model.]({static}/uploads/2024/fermi-dirac-statistics-with-single-conduction-level.png
+"Schematic depiction of a series of consecutive jump in the considered
+model. Main thing to notice is that jumps from deep (trap) levels are
+allowed only to the conduction level. From the conduction level any other
+deeper layer can be reached.")
+
 Boltzmann factor is given by:
 
 \begin{equation}
