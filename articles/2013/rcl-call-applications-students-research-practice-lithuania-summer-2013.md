@@ -17,4 +17,4 @@ previously published on this website:
 -   Agents-leaders influence on the Kirman’s herding model dynamics
 
 More information is available from the [Research Council of Lithuania
-website](https://www.lmt.lt). 
+website](https://lmt.lrv.lt/). 
