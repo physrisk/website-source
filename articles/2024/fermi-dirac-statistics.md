@@ -3,7 +3,7 @@ Date: 2024-05-21 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, statistical physics
 Slug: fermi-dirac-statistics
-Status: draft
+Status: published
 Image_url: uploads/2024/fermi-dirac-statistics.png
 
 Have you ever wondered how Fermi-Dirac statistics arises? I may have
