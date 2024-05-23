@@ -1,12 +1,13 @@
 Title: Fermi-Dirac statistics with single conduction level
 Date: 2024-06-04 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, statistical physics
+Tags: Interactive models, statistics, statistical physics, Fermi-Dirac statistics
 Slug: fermi-dirac-statistics-with-single-conduction-level
 Status: draft
 Image_url: uploads/2024/fermi-dirac-statistics-with-single-conduction-level.png
 
-Have you ever wondered how Fermi-Dirac statistics arises? I may have
+Have you ever wondered how [Fermi-Dirac
+statistics](/tag/fermi-dirac-statistics) arises? I may have
 wondered during my bachelor degree studies, but now I only remember
 derivation done by the means of combinatorics. In this post I continue my
 wandering from a perspective of numerical simulation of a highly simplified
