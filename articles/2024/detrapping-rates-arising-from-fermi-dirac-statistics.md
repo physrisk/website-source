@@ -1,12 +1,13 @@
 Title: Detrapping rates arising from Fermi-Dirac statistics
 Date: 2024-06-18 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, statistical physics
+Tags: Interactive models, statistics, statistical physics, Fermi-Dirac statistics
 Slug: detrapping-rates-arising-from-fermi-dirac-statistics
 Status: draft
 Image_url: uploads/2024/detrapping-rates-arising-from-fermi-dirac-statistics.png
 
-Have you ever wondered how Fermi-Dirac statistics arises? I already have in
+Have you ever wondered how [Fermi-Dirac
+statistics](/tag/fermi-dirac-statistics) arises? I already have in
 the previous couple of posts, but the more important question is why I
 suddenly started to care about Fermi-Dirac statistics. It is still all
 related to [cite id="Kononovicius2024upoiss"]. Reviewers raised doubts about
