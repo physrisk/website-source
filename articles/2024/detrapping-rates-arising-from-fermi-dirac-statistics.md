@@ -4,16 +4,16 @@ Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, statistical physics
 Slug: detrapping-rates-arising-from-fermi-dirac-statistics
 Status: draft
-Image_url: uploads/2024/detrapping-rates-arising-fermi-dirac-statistics.png
+Image_url: uploads/2024/detrapping-rates-arising-from-fermi-dirac-statistics.png
 
 Have you ever wondered how Fermi-Dirac statistics arises? I already have in
 the previous couple of posts, but the more important question is why I
 suddenly started to care about Fermi-Dirac statistics. It is still all
 related to [cite id="Kononovicius2024upoiss"]. Reviewers raised doubts about
 our assumption about uniform detrapping rates, asking us to provide
-experimental evidence for our claim. As far as I able to read experimental
-works it doesn't seem possible to provide direct evidence. Still as a
-theoretician I can provide theoretical justification, which is indirectly
+experimental evidence for our claim. As far as I am able to read the experimental
+works, it doesn't seem possible to provide any direct evidence. Still as a
+theoretician I can provide theoretical justification which is indirectly
 supported by experimental works.
 
 This is why in this post we'll talk about detrapping rates arising from a
