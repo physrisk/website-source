@@ -1,7 +1,7 @@
 Title: Cellular network
 Date: 2013-09-23 07:12
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, Erdos-Renyi model, small world
+Tags: Interactive models, Network models, Erdos-Renyi model, small world, stochastic block model
 Slug: cellular-network
 Status: published
 Image_url: uploads/2013/cellular-network.png
@@ -14,7 +14,13 @@ lot about them from a point of view of the network theory and the most
 recent research. This time we will consider a new, at least on Physics
 of Risk website, network topology and at the same time [network
 formation
-model](/tag/network-models/).<!--more-->
+model](/tag/network-models/).
+
+**Note 2024:** The model we are referring here as "cellular network" in the
+modern literature is more commonly referred to as the "stochastic block
+model". "Cellular network" term was borrowed from course I have been
+watching at the time of writing this post.
+<!--more-->
 
 Interestingly enough this network topology is very intuitive, yet formal
 definition it was given only recently. One of the first works to
