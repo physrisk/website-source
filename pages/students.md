@@ -17,23 +17,26 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 **Term papers:** 22 (7 BSc + 15 MSc)
 
-**Theses:** 17 (10 BSc + 4 MSc + 3 PhD)
+**Theses:** 19 (11 BSc + 5 MSc + 3 PhD)
 
 **Internships:** 8
 
+* During **the spring of 2024** Danielius Kundrotas, fourth year student at
+  Vilnius University Faculty of Physics, wrote a bachelor thesis "Influence
+  of Boundary Conditions on Self-similar Processes". A related term paper
+  was prepared during the autumn of 2023. The student was supervised by
+  Rytis Kazakevičius.
+* During **the spring of 2024** Justas Kvedaravičius, sixth year student at
+  Vilnius University Faculty of Physics, wrote a master thesis
+  "Approximation of the competing dynamics compartmental voter model using a
+  one-dimensional Fokker-Planck equation". Term papers leading to the thesis
+  were prepared during previous semesters. The student was supervised by
+  Aleksejus Kononovicius.
 * During **2023-2024** Justas Kvedaravičius, sixth year student at
   Vilnius University Faculty of Physics, has completed internship
   "Rank dynamics of compartmental voter model". Internship was supervised by
   Aleksejus Kononovicius. Internship was supported by the [Research Council
   of Lithuania](https://lmt.lrv.lt) (S-ST-23-122).
-* During **the autumn of 2023** Danielius Kundrotas, fourth year student at
-  Vilnius University Faculty of Physics, wrote a term paper on the
-  estimation of Hurst exponent from fractional Brownian motion and voter
-  model time series. The student was supervised by Rytis Kazakevičius.
-* During **2022-2024** Justas Kvedaravičius, sixth year student at
-  Vilnius University Faculty of Physics, wrote three term papers related to
-  research on spatial heterogeneity. The student was
-  supervised by Aleksejus Kononovicius.
 * During **the spring of 2023** Gediminas Jonikas, fourth year student at
   Vilnius University Faculty of Physics, wrote a bachelor thesis "Processes
   described by q-exponential waiting time distributions". The student was
