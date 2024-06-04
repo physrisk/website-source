@@ -3,7 +3,7 @@ Date: 2024-06-04 08:00
 Author: Aleksejus Kononovicius
 Tags: Interactive models, statistics, statistical physics, Fermi-Dirac statistics
 Slug: fermi-dirac-statistics-with-single-conduction-level
-Status: draft
+Status: published
 Image_url: uploads/2024/fermi-dirac-statistics-with-single-conduction-level.png
 
 Have you ever wondered how [Fermi-Dirac
