@@ -13,11 +13,11 @@ proper determination and with enough effort anything can be learnt.
 If you are interested, feel free to [contact us]({filename}/pages/about.md).
 We will try to schedule a meeting to find a problem you could tackle.
 
-## Theses and internships
+## Completed theses and internships
 
 **Theses:** 19 (11 BSc + 5 MSc + 3 PhD)
 
-**Internships:** 6
+**Internships:** 5
 
 * **"Influence of boundary conditions on self-similar processes"** (2024).
   Bachelor thesis by Danielius Kundrotas. Supervisor Rytis Kazakevičius.
@@ -49,7 +49,7 @@ We will try to schedule a meeting to find a problem you could tackle.
 * **"Diffusion model of Sąjūdis growth"** (2017). Bachelor thesis by Jonas
   Tupčiauskas. Supervisor Aleksejus Kononovicius.
 * **"Modeling of the Sąjūdis growth by using interacting agent-based model"**
-  (2016). **"Mokslo Pieva"** internship project (organized by
+  (2016). "Mokslo Pieva" internship project (organized by
   [BPTI](https://bpti.eu), financial support by [ESO](https://www.eso.lt)).
   Interns: Brigita Čelkytė, Goda Damaševičiūtė, Milda Venckutė and Ugnė
   Šiurienė (various faculties at Vilnius University). Supervisors: Tomas
