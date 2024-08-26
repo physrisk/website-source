@@ -39,8 +39,13 @@ Following topics are offered officially via Faculty of Physics during the
 
 **Theses:** 19 (11 BSc + 5 MSc + 3 PhD)
 
-**Internships:** 5
+**Internships:** 6
 
+* **"Influence of the state interaction network on the statistical
+  properties of the voter model"** (2024). Internship was supported by
+  [Research Council of Lithuania](https://lmt.lrv.lt) (P-SV-24-28). Intern
+  Lukas Turčinskas (Vilnius University, Faculty of Mathematics and
+  Informatics). Supervisor Aleksejus Kononovicius.
 * **"Influence of boundary conditions on self-similar processes"** (2024).
   Bachelor thesis by Danielius Kundrotas. Supervisor Rytis Kazakevičius.
 * **"Approximation of the competing dynamics compartmental voter model using a
