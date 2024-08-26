@@ -27,7 +27,7 @@ yet landed in the official repositories. It is not a good idea to update
 from outside the official repositories, so I felt somewhat annoyed due to
 being prodded and lectured for no real reason.
 
-Summer experience aside, what is coming for Physics of Risk? At the time of
+Summer experiences aside, what is coming for Physics of Risk? At the time of
 writing I do not know. I do have material for a rant about my summer
 experiences with [open access](/tag/open-access/) publishing, but really not
 much else. I expect that the first-party content might become much rarer in
