@@ -1,5 +1,5 @@
 Title: Open access is ruined by perverse incentives
-Date: 2024-09-16 08:00
+Date: 2024-09-17 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, open access
 Slug: open-access-is-ruined-by-perverse-incentives
