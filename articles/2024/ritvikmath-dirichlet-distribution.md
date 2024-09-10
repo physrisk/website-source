@@ -3,7 +3,7 @@ Date: 2024-09-10 08:00
 Author: Aleksejus Kononovicius
 Tags: video, ritvikmath, statistics
 Slug: ritvikmath-dirichlet-distribution
-Status: draft
+Status: published
 
 [ritvikmath](https://www.youtube.com/@ritvikmath) has already [explained to
 us what the Beta distribution
