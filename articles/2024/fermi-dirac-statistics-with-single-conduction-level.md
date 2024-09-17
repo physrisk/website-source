@@ -7,7 +7,7 @@ Status: published
 Image_url: uploads/2024/fermi-dirac-statistics-with-single-conduction-level.png
 
 Have you ever wondered how [Fermi-Dirac
-statistics](/tag/fermi-dirac-statistics) arises? I may have
+statistics](/tag/fermi-dirac-statistics/) arises? I may have
 wondered during my bachelor degree studies, but now I only remember
 derivation done by the means of combinatorics. In this post I continue my
 wandering from a perspective of numerical simulation of a highly simplified

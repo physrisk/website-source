@@ -28,7 +28,7 @@ titled "Analysis of the compartmental voter model in terms of rank dynamics"
 (Grant No. S-ST-23-122).
 
 I myself have presented my recent endeavors (in collaboration with a member
-of our group prof. B. Kaulakys) on modeling [1/f noise](/tag/1f-noise)
+of our group prof. B. Kaulakys) on modeling [1/f noise](/tag/1f-noise/)
 using model with non-overlapping rectangular pulses (although I have broken
 this assumption in my presentation), and exploration of the poll-induced
 delays in the [voter model](/tag/voter-model/) (in collaboration with R.
@@ -37,7 +37,7 @@ Informatics). Notably, my trip was supported by Vilnius universties Science
 Promotion Fund.
 
 I have presented my collaborative research efforts, conducted with prof.  B.
-Kaulakys from our group, focusing on modeling [1/f noise](/tag/1f-noise).
+Kaulakys from our group, focusing on modeling [1/f noise](/tag/1f-noise/).
 Our approach involved utilizing a model with non-overlapping rectangular
 pulses (things we have been writing about recently, for example, see [this
 post]({filename}/articles/2023/noise-generated-by-single-charge-carrier.md),
