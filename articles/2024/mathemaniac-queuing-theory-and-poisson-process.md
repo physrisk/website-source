@@ -6,7 +6,7 @@ Slug: mathemaniac-queuing-theory-and-poisson-process
 Status: published
 
 Recently we have been looking a lot into [Poisson
-process](/tag/poisson-process) and other related more physical topics. But
+process](/tag/poisson-process/) and other related more physical topics. But
 the things we have been talking about also applies to our earlier more
 social science related works. This video by
 [Mathemaniac](https://www.youtube.com/c/Mathemaniac) discusses how the

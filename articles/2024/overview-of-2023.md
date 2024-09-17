@@ -19,7 +19,7 @@ posts containing an interactive app.")
 
 This year we have mostly focused on the various properties of [Poisson
 processes](/tag/poisson-process/) and related topics (such as [point
-processes](/tag/point-process/) and [shot noise](/tag/shot-noise)).
+processes](/tag/point-process/) and [shot noise](/tag/shot-noise/)).
 Otherwise we have finished a series of posts from the 2022 on the
 statistical modeling of [dating apps](/tag/dating-apps-series/).
 

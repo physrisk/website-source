@@ -8,7 +8,7 @@ Image_url: uploads/2024/heterogeneous-detrapping-process.png
 
 Earlier, we have explored how [power-law distributed detrapping
 times]({filename}/articles/2024/power-law-gap-times-rtn.md) lead to [1/f
-noise](/tag/1f-noise). Moreover, we have also established that power-law
+noise](/tag/1f-noise/). Moreover, we have also established that power-law
 distribution can be obtained from the superposition of exponential
 distributions (see [this
 post]({filename}/articles/2024/power-law-distribution-from-superposition-of-exponential-distributions.md)).

@@ -74,7 +74,7 @@ and its vicinity.
 
 **How this is related to the [random telegraph
 noise](/tag/random-telegraph-noise/)?** Well, it allows us to avoid assuming
-power-law distributions to obtain [1/f noise](/tag/1f-noise). All we need is
+power-law distributions to obtain [1/f noise](/tag/1f-noise/). All we need is
 just uniformity of detachment rates [cite id="Kononovicius2024upoiss"].
 Replacing the power-law distribution in this way has few mathematical
 consequences (the results from [cite id="Kononovicius2023rtn"] still hold),
