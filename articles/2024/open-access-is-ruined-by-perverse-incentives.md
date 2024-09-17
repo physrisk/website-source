@@ -3,7 +3,7 @@ Date: 2024-09-17 08:00
 Author: Aleksejus Kononovicius
 Tags: General information, open access
 Slug: open-access-is-ruined-by-perverse-incentives
-Status: draft
+Status: published
 
 This summer I had couple of experiences which ruined my opinion of [open
 access](/tag/open-access/). More than ten years ago I have felt that
