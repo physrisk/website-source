@@ -1,7 +1,7 @@
 Title: Agent-based prey-predator model
 Date: 2012-10-15 07:37
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, Lotka-Volterra, biology
+Tags: agent-based models, interactive models, Lotka-Volterra, biology
 Slug: agent-based-prey-predator-model
 Status: published
 

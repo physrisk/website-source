@@ -1,7 +1,7 @@
 Title: Hurricane Sandy
 Date: 2012-11-05 08:05
 Author: Aleksejus Kononovicius
-Tags: Fractals, popular culture
+Tags: fractals, popular culture
 Slug: hurricane-sandy
 Status: published
 Image_url: uploads/2012/hurricane-sandy.jpg

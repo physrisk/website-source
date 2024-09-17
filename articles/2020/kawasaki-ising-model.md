@@ -1,7 +1,7 @@
 Title: Kawasaki Ising model
 Date: 2020-03-10 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Ising model, magnetism, statistical physics
+Tags: interactive models, Ising model, magnetism, statistical physics
 Slug: kawasaki-ising-model
 Status: published
 

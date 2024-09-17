@@ -1,7 +1,7 @@
 Title: Numberphile: The Four Color Map Theorem
 Date: 2017-05-02 07:28
 Author: Aleksejus Kononovicius
-Tags: Network models, Numberphile, video
+Tags: network models, Numberphile, video
 Slug: numberphile-keturiu-spalvu-zemelapio-teorema
 Status: published
 

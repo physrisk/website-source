@@ -1,7 +1,7 @@
 Title: Facebook contest data set explanation
 Date: 2018-09-18 08:00
 Author: Aleksejus Kononovicius
-Tags: facebook, data science, marketing, opinion dynamics, Agent-based models
+Tags: facebook, data science, marketing, opinion dynamics, agent-based models
 Slug: facebook-contest-data-set-explanation
 Status: published
 Image_url: uploads/2018/facebook-contest-data-set-explanation.png

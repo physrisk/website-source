@@ -1,7 +1,7 @@
 Title: Numberphile: Chaotic Balls
 Date: 2021-12-21 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Numberphile, Dynamical chaos, classical mechanics
+Tags: video, Numberphile, dynamical chaos, classical mechanics
 Slug: numberphile-chaotic-balls
 Status: published
 

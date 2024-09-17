@@ -1,7 +1,7 @@
 Title: Aleksejus Kononovicius: Fractale - anime on fractals
 Date: 2012-02-13 09:00
 Author: Aleksejus Kononovicius
-Tags: Fractals, A. Kononovicius, popular culture, video
+Tags: fractals, A. Kononovicius, popular culture, video
 Slug: fractale-anime-on-fractals
 Status: published
 

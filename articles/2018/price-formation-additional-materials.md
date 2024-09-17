@@ -1,7 +1,7 @@
 Title: Additional materials on price formation
 Date: 2018-03-27 08:00
 Author: Aleksejus Kononovicius
-Tags: Economics, market price, free market, competition, Lithuania, video, Crash Course, supply and demand, price formation series
+Tags: economics, market price, free market, competition, Lithuania, video, Crash Course, supply and demand, price formation series
 Slug: price-formation-additional-materials
 Status: published
 

@@ -1,7 +1,7 @@
 Title: This Place: The Iterated Prisoner's Dilemma and The Evolution of Cooperation
 Date: 2018-02-06 08:00
 Author: Aleksejus Kononovicius
-Tags: This Place, game theory, video, market price, Economics, free market, prisoner's dilemma, competition, conflicts
+Tags: This Place, game theory, video, market price, economics, free market, prisoner's dilemma, competition, conflicts
 Slug: this-place-iterated-prisoners-dilemma-evolution-cooperation
 Status: published
 

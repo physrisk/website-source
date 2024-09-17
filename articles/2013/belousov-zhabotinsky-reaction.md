@@ -1,7 +1,7 @@
 Title: Belousov-Zhabotinsky reaction
 Date: 2013-05-13 07:06
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Cellular automata, chemistry, video
+Tags: interactive models, cellular automata, chemistry, video
 Slug: belousov-zhabotinsky-reaction
 Status: published
 

@@ -1,7 +1,7 @@
 Title: V. Gontis: "Animal Spirits" - the old term of economics forcing us to reevaluate contemporary theories
 Date: 2013-12-02 07:05
 Author: Vygintas Gontis
-Tags: Agent-based models, Economics, Gontis, financial markets, statistical physics
+Tags: agent-based models, economics, Gontis, financial markets, statistical physics
 Slug: animal-spirits-the-old-term-of-economics-forcing-us-to-reevaluate-contemporary-theories
 Status: published
 

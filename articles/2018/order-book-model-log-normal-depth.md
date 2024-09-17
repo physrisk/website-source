@@ -1,7 +1,7 @@
 Title: Order book model with log-normal depth
 Date: 2018-06-19 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, financial markets, order book, postdoctoral project
+Tags: interactive models, agent-based models, financial markets, order book, postdoctoral project
 Slug: order-book-model-log-normal-depth
 Status: published
 Image_url: uploads/2018/order-book-model-log-normal-depth.png

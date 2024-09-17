@@ -1,7 +1,7 @@
 Title: Our recent articles on agent-based reasoning and the burst statistics
 Date: 2012-01-17 10:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Stochastic models, 1/f noise, A. Kononovicius, S. Reimann, V. Gontis, financial markets, multifractality, burst statistics
+Tags: agent-based models, general information, stochastic models, 1/f noise, A. Kononovicius, S. Reimann, V. Gontis, financial markets, multifractality, burst statistics
 Slug: recent-articles-agent-based-modeling-burst-statistics
 Status: published
 

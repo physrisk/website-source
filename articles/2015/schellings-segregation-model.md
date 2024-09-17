@@ -1,7 +1,7 @@
 Title: Schelling's segregation model
 Date: 2015-12-22 07:14
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, sociology, Schelling model
+Tags: agent-based models, interactive models, sociology, Schelling model
 Slug: schellings-segregation-model
 Status: published
 Image_url: uploads/2015/schellings-segregation-model.png

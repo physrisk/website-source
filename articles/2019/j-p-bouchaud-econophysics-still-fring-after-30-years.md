@@ -1,7 +1,7 @@
 Title: J. P. Bouchaud: Econophysics - still fringe after 30 years?
 Date: 2019-02-12 08:00
 Author: Aleksejus Kononovicius
-Tags: Economics, Agent-based models, financial markets, opinion dynamics, macroeconomics, J. P. Bouchaud
+Tags: economics, agent-based models, financial markets, opinion dynamics, macroeconomics, J. P. Bouchaud
 Slug: j-p-bouchaud-econophysics-still-fring-after-30-years
 Status: published
 

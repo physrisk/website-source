@@ -1,7 +1,7 @@
 Title: Smithsonian.com: Any Two Pages on the Web Are Connected By 19 Clicks or Less
 Date: 2013-10-14 07:23
 Author: Aleksejus Kononovicius
-Tags: Network models, A. L. Barabasi, Barabasi-Albert model, scale free network, internet, small world, smithsonian.com
+Tags: network models, A. L. Barabasi, Barabasi-Albert model, scale free network, internet, small world, smithsonian.com
 Slug: smithsonian-com-any-two-pages-on-the-web-are-connected-by-19-clicks-or-less
 Status: published
 

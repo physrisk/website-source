@@ -1,7 +1,7 @@
 Title: Ant-based modeling (agent-based city simulation with ants)
 Date: 2019-06-18 08:00
 Author: Aleksejus Kononovicius
-Tags: biology, sociology, video, Kirman model, Agent-based models
+Tags: biology, sociology, video, Kirman model, agent-based models
 Slug: ant-based-modeling-agent-based-city-simulation-with-ants
 Status: published
 

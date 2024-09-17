@@ -1,7 +1,7 @@
 Title: S. Anholt: Which country does the most good for the world?
 Date: 2016-05-24 07:28
 Author: Aleksejus Kononovicius
-Tags: Economics, S. Anholt, politics, ted.com, video
+Tags: economics, S. Anholt, politics, ted.com, video
 Slug: s-anholt-which-country-does-the-most-good-for-the-world
 Status: published
 

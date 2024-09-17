@@ -1,7 +1,7 @@
 Title: Ising model
 Date: 2010-12-09 09:36
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Ising model, magnetism, statistical physics
+Tags: interactive models, Ising model, magnetism, statistical physics
 Slug: ising-model
 Status: published
 Image_url: uploads/2010/ising-model.png

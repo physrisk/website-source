@@ -1,7 +1,7 @@
 Title: Numerical fractional derivative
 Date: 2021-11-30 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, fractals, ARFIMA series, 1/f noise, methods, Python
+Tags: interactive models, fractals, ARFIMA series, 1/f noise, methods, Python
 Slug: numerical-fractional-derivative
 Image_url: uploads/2021/numerical-fractional-derivative.png
 Status: published

@@ -1,7 +1,7 @@
 Title: IFISC: Complexity in social systems
 Date: 2022-06-14 08:00
 Author: Aleksejus Kononovicius
-Tags: video, IFISC, complex systems, opinion dynamics, voter model, Axelrod model, Granovetter model, statistical physics, Network models, Agent-based models, competition, epidemiology, students
+Tags: video, IFISC, complex systems, opinion dynamics, voter model, Axelrod model, Granovetter model, statistical physics, network models, agent-based models, competition, epidemiology, students
 Slug: ifisc-complexity-in-social-systems
 Status: published
 

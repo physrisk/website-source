@@ -1,7 +1,7 @@
 Title: It's Okay To Be Smart: El Nino and Why We Can't Predict the Weather
 Date: 2015-10-13 07:47
 Author: Aleksejus Kononovicius
-Tags: Dynamical chaos, video
+Tags: dynamical chaos, video
 Slug: its-okay-to-be-smart-el-nino-why-we-cant-predict-weather
 Status: published
 

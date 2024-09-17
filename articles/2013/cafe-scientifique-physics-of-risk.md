@@ -1,7 +1,7 @@
 Title: Cafe Scientifique: Physics of Risk
 Date: 2013-10-30 16:55
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Economics, Stochastic models, Network models, 1/f noise, A. Kononovicius, Kirman model, VU FF, biology, traffic, financial markets, announcement, statistical physics
+Tags: agent-based models, general information, economics, stochastic models, network models, 1/f noise, A. Kononovicius, Kirman model, VU FF, biology, traffic, financial markets, announcement, statistical physics
 Slug: cafe-scientifique-physics-of-risk
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Scatter plots of UK census 2011 data set
 Date: 2020-04-07 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, methods, data science, sociology
+Tags: interactive models, methods, data science, sociology
 Slug: scatter-plot-of-uk-census-2011-data-set
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Long-range memory in nonlinear GARCH model
 Date: 2015-03-31 07:29
 Author: Aleksejus Kononovicius
-Tags: Economics, Interactive models, Stochastic models, 1/f noise, A. Kononovicius, J. Ruseckas, arch, financial markets
+Tags: economics, interactive models, stochastic models, 1/f noise, A. Kononovicius, J. Ruseckas, ARCH process, financial markets
 Slug: long-range-memory-in-nonlinear-garch-model
 Status: published
 Image_url: uploads/2015/long-range-memory-in-nonlinear-garch-model.png

@@ -1,7 +1,7 @@
 Title: Fermi-Dirac statistics with single conduction level
 Date: 2024-06-04 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, statistical physics, Fermi-Dirac statistics
+Tags: interactive models, statistics, statistical physics, Fermi-Dirac statistics
 Slug: fermi-dirac-statistics-with-single-conduction-level
 Status: published
 Image_url: uploads/2024/fermi-dirac-statistics-with-single-conduction-level.png

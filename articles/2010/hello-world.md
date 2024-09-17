@@ -1,7 +1,7 @@
 Title: Hello world!
 Date: 2010-11-07 17:27
 Author: Aleksejus Kononovicius
-Tags: General information, Science for business and society
+Tags: general information, Science for business and society
 Slug: hello-world
 Status: published
 

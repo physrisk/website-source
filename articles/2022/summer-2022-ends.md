@@ -1,7 +1,7 @@
 Title: Summer 2022 ends
 Date: 2022-09-06 08:00
 Author: Aleksejus Kononovicius
-Tags: General information
+Tags: general information
 Slug: summer-2022-ends
 Status: published
 Image_url: uploads/2022/summer-2022-ends.jpg

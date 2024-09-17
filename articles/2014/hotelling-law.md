@@ -1,7 +1,7 @@
 Title: Hotelling law
 Date: 2014-12-23 08:07
 Author: Aleksejus Kononovicius
-Tags: Economics, Interactive models, competition, video, median voter theorem
+Tags: economics, interactive models, competition, video, median voter theorem
 Slug: hotelling-law
 Status: published
 Image_url: uploads/2014/hotelling-law.png

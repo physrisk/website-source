@@ -1,7 +1,7 @@
 Title: Poisson process: Interarrival times
 Date: 2023-05-16 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, statistical physics, Poisson process
+Tags: interactive models, statistics, statistical physics, Poisson process
 Slug: poisson-process-interarrival-times
 Status: published
 Image_url: uploads/2023/poisson-process-interarrival-times.png

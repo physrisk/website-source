@@ -1,7 +1,7 @@
 Title: N. Hanauer: Beware fellow plutocrats the pitchforks are coming
 Date: 2014-09-15 07:11
 Author: Aleksejus Kononovicius
-Tags: Economics, N. Hanauer, T. Piketty, inequality, politics, ted.com, video
+Tags: economics, N. Hanauer, T. Piketty, inequality, politics, ted.com, video
 Slug: n-hanauer-beware-fellow-plutocrats-the-pitchforks-are-coming
 Status: published
 

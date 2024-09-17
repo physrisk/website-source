@@ -1,7 +1,7 @@
 Title: Numerical methods for the stochastic differential equations
 Date: 2012-05-28 07:37
 Author: Aleksejus Kononovicius
-Tags: Stochastic models, methods, Java
+Tags: stochastic models, methods, Java
 Slug: numerical-methods-for-the-stochastic-differential-equations
 Status: published
 Image_url: uploads/2012/numerical-methods-for-the-stochastic-differential-equations.png

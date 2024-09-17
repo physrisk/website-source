@@ -1,7 +1,7 @@
 Title: Cellular network
 Date: 2013-09-23 07:12
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, Erdos-Renyi model, small world, stochastic block model
+Tags: interactive models, network models, Erdos-Renyi model, small world, stochastic block model
 Slug: cellular-network
 Status: published
 Image_url: uploads/2013/cellular-network.png

@@ -1,7 +1,7 @@
 Title: Herd immunity
 Date: 2016-09-06 07:01
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, biology
+Tags: agent-based models, interactive models, biology
 Slug: herd-immunity
 Status: published
 Image_url: uploads/2016/herd-immunity.png

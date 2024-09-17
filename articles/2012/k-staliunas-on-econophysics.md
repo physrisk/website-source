@@ -1,7 +1,7 @@
 Title: K. Staliunas on econophysics
 Date: 2012-06-11 08:02
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Stochastic models, K. Staliunas
+Tags: agent-based models, stochastic models, K. Staliunas
 Slug: k-staliunas-on-econophysics
 Status: published
 

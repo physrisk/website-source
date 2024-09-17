@@ -1,7 +1,7 @@
 Title: Experimental biology on social inequality
 Date: 2012-09-17 07:41
 Author: Aleksejus Kononovicius
-Tags: Economics, EconoPhysics Forum, F. de Waal, biology, inequality, video
+Tags: economics, EconoPhysics Forum, F. de Waal, biology, inequality, video
 Slug: experimental-biology-on-social-inequality
 Status: published
 

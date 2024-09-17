@@ -1,7 +1,7 @@
 Title: Special cases of the stochastic differential equation reproducing 1/f noise
 Date: 2012-07-09 07:44
 Author: Aleksejus Kononovicius
-Tags: Stochastic models, 1/f noise, Bessel process, CEV process, CIR process
+Tags: stochastic models, 1/f noise, Bessel process, CEV process, CIR process
 Slug: special-cases-of-the-stochastic-differential-equation-reproducing-1f-noise
 Status: published
 

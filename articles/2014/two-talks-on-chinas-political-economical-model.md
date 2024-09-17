@@ -1,7 +1,7 @@
 Title: Two talks on China's political and economical model
 Date: 2014-02-17 07:07
 Author: Aleksejus Kononovicius
-Tags: Economics, D. Moyo, E. X. Li, China, gross domestic product, macroeconomics, politics, ted.com, video
+Tags: economics, D. Moyo, E. X. Li, China, gross domestic product, macroeconomics, politics, ted.com, video
 Slug: two-talks-on-chinas-political-economical-model
 Status: published
 

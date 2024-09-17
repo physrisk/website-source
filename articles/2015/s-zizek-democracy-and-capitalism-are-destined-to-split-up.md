@@ -1,7 +1,7 @@
 Title: S. Žižek: Democracy and Capitalism Are Destined to Split Up
 Date: 2015-04-21 07:27
 Author: Aleksejus Kononovicius
-Tags: Economics, S. Žižek, politics, video
+Tags: economics, S. Žižek, politics, video
 Slug: s-zizek-democracy-and-capitalism-are-destined-to-split-up
 Status: published
 

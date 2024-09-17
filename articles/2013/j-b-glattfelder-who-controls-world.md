@@ -1,7 +1,7 @@
 Title: J. B. Glattfelder: Who controls the world?
 Date: 2013-06-17 07:30
 Author: Aleksejus Kononovicius
-Tags: Network models, Economics, ted.com, video, J. B. Glattfelder
+Tags: network models, economics, ted.com, video, J. B. Glattfelder
 Slug: j-b-glattfelder-who-controls-world
 Status: published
 

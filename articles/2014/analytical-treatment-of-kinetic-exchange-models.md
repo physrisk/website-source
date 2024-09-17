@@ -1,7 +1,7 @@
 Title: Analytical treatment of kinetic exchange models
 Date: 2014-01-20 07:09
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, kinetic models, statistical physics, wealth, methods
+Tags: agent-based models, kinetic models, statistical physics, wealth, methods
 Slug: analytical-treatment-of-kinetic-exchange-models
 Status: published
 

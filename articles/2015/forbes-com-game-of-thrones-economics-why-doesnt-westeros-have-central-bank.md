@@ -1,7 +1,7 @@
 Title: Forbes.com: Game of Thrones Economics - Why Doesn't Westeros Have A Central Bank?
 Date: 2015-05-05 07:19
 Author: Aleksejus Kononovicius
-Tags: Economics, forbes.com, macroeconomics, politics
+Tags: economics, forbes.com, macroeconomics, politics
 Slug: forbes-com-game-of-thrones-economics-why-doesnt-westeros-have-central-bank
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Dynamical correlated spin model
 Date: 2016-03-15 07:54
 Author: Aleksejus Kononovicius
-Tags: Interactive models, A. Kononovicius, J. Ruseckas, statistical physics
+Tags: interactive models, A. Kononovicius, J. Ruseckas, statistical physics
 Slug: dynamical-correlated-spin-model
 Status: published
 

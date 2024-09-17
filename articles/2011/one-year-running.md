@@ -1,7 +1,7 @@
 Title: One year running
 Date: 2011-11-07 11:08
 Author: Aleksejus Kononovicius
-Tags: General information
+Tags: general information
 Slug: one-year-running
 Status: published
 

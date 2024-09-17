@@ -1,7 +1,7 @@
 Title: Extra Credits: South sea bubble
 Date: 2015-05-19 07:18
 Author: Aleksejus Kononovicius
-Tags: Economics, Extra Credits, history, politics, video
+Tags: economics, Extra Credits, history, politics, video
 Slug: extra-credits-south-sea-bubble
 Status: published
 

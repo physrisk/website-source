@@ -1,7 +1,7 @@
 Title: C. Hommes: How Expectations Interact to Create Bubbles
 Date: 2015-02-17 07:15
 Author: Aleksejus Kononovicius
-Tags: Dynamical chaos, Economics, C. Hommes, financial markets, burst statistics, video
+Tags: dynamical chaos, economics, C. Hommes, financial markets, burst statistics, video
 Slug: c-hommes-how-expectations-interact-to-create-bubbles
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Fractals in pork!
 Date: 2012-09-03 07:06
 Author: Aleksejus Kononovicius
-Tags: Fractals, 1/f noise, biology, multifractality, popular culture
+Tags: fractals, 1/f noise, biology, multifractality, popular culture
 Slug: fractals-in-pork
 Status: published
 

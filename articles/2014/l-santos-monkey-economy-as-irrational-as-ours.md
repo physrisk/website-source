@@ -1,7 +1,7 @@
 Title: L. Santos: A monkey economy as irrational as ours
 Date: 2014-03-31 07:07
 Author: Aleksejus Kononovicius
-Tags: Economics, biology, ted.com, video
+Tags: economics, biology, ted.com, video
 Slug: l-santos-monkey-economy-as-irrational-as-ours
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Sierpinski triangle
 Date: 2014-09-08 08:28
 Author: Aleksejus Kononovicius
-Tags: Fractals, Cellular automata, L-system
+Tags: fractals, cellular automata, L-system
 Slug: sierpinski-triangle
 Status: published
 Image_url: uploads/2014/sierpinski-triangle.png

@@ -1,7 +1,7 @@
 Title: Order statistics
 Date: 2023-03-07 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics
+Tags: interactive models, statistics
 Slug: order-statistics
 Status: published
 Image_url: uploads/2023/order-statistics.png

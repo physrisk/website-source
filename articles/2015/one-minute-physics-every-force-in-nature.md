@@ -1,7 +1,7 @@
 Title: One Minute Physics: Every force in nature
 Date: 2015-11-24 07:26
 Author: Aleksejus Kononovicius
-Tags: Economics, video, One Minute Physics
+Tags: economics, video, One Minute Physics
 Slug: one-minute-physics-every-force-in-nature
 Status: published
 

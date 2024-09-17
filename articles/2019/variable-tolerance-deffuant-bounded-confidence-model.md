@@ -1,7 +1,7 @@
 Title: Variable tolerance in Deffuant's bounded confidence model
 Date: 2019-06-11 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, opinion dynamics, bounded confidence, postdoctoral project
+Tags: interactive models, agent-based models, opinion dynamics, bounded confidence, postdoctoral project
 Slug: variable-tolerance-deffuant-bounded-confidence-model
 Status: published
 Image_url: uploads/2019/variable-tolerance-deffuant-bounded-confidence-model.png

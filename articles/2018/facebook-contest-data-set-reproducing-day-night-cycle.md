@@ -1,7 +1,7 @@
 Title: Facebook contest data set: Reproducing day-night cycle 
 Date: 2018-10-02 08:00
 Author: Aleksejus Kononovicius
-Tags: facebook, data science, marketing, Bass model, Interactive models, opinion dynamics, Agent-based models
+Tags: facebook, data science, marketing, Bass model, interactive models, opinion dynamics, agent-based models
 Slug: facebook-contest-data-set-reproducing-day-night-cycle
 Status: published
 Image_url: uploads/2018/facebook-contest-data-set-reproducing-day-night-cycle.png

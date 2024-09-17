@@ -1,7 +1,7 @@
 Title: Noisy Deffuant's bounded confidence model
 Date: 2019-11-05 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, opinion dynamics, bounded confidence, postdoctoral project
+Tags: interactive models, agent-based models, opinion dynamics, bounded confidence, postdoctoral project
 Slug: noisy-deffuant-bounded-confidence-model
 Status: published
 Image_url: uploads/2019/noisy-deffuant-bounded-confidence-model.png

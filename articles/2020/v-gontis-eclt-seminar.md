@@ -1,7 +1,7 @@
 Title: V. Gontis in European Centre for Living Technology seminar
 Date: 2020-10-06 08:00
 Authors: Vygintas Gontis
-Tags: Stochastic models, V. Gontis, video, burst statistics, order book, financial markets, ECLT 
+Tags: stochastic models, V. Gontis, video, burst statistics, order book, financial markets, ECLT 
 Slug: v-gontis-eclt-seminar
 Status: published
 

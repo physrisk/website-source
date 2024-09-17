@@ -1,7 +1,7 @@
 Title: It is September again!
 Date: 2023-09-01 08:00
 Author: Aleksejus Kononovicius
-Tags: General information, Matlab, GitHub
+Tags: general information, Matlab, GitHub
 Slug: it-is-september-again-2023
 Status: published
 

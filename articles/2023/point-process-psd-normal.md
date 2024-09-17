@@ -1,7 +1,7 @@
 Title: Point process with normal inter-event times
 Date: 2023-11-07 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, point process, spectral density
+Tags: interactive models, point process, spectral density
 Slug: point-process-psd-normal
 Status: published
 Image_url: uploads/2023/point-process-psd-normal.png

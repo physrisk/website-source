@@ -1,7 +1,7 @@
 Title: Prisoner's dilemma
 Date: 2013-04-29 08:47
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, conflicts, competition, game theory, video, prisoner's dilemma
+Tags: agent-based models, conflicts, competition, game theory, video, prisoner's dilemma
 Slug: prisoners-dilemma
 Status: published
 

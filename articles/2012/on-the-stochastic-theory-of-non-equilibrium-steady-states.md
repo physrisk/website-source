@@ -1,7 +1,7 @@
 Title: On the stochastic theory of nonequilibrium steady states
 Date: 2012-11-19 07:57
 Author: Aleksejus Kononovicius
-Tags: General information, Stochastic models, J. Ruseckas, biology
+Tags: general information, stochastic models, J. Ruseckas, biology
 Slug: on-the-stochastic-theory-of-non-equilibrium-steady-states
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Hegselmann-Krause bounded confidence model
 Date: 2019-05-28 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, opinion dynamics, bounded confidence, postdoctoral project
+Tags: interactive models, agent-based models, opinion dynamics, bounded confidence, postdoctoral project
 Slug: hegselmann-krause-bounded-confidence-model
 Status: published
 Image_url: uploads/2019/hegselmann-krause-bounded-confidence-model.png

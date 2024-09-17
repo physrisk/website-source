@@ -1,7 +1,7 @@
 Title: Multi-success detrapping process
 Date: 2024-04-23 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, spectral density, random telegraph noise
+Tags: interactive models, statistics, spectral density, random telegraph noise
 Slug: multi-success-detrapping-process
 Status: published
 Image_url: uploads/2024/multi-success-detrapping-process.png

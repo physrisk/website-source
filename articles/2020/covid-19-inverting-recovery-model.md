@@ -1,7 +1,7 @@
 Title: COVID-19: Inverting recovery model
 Date: 2020-11-24 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, epidemiology, statistics, convolution, linear algebra, back-projection method, simulated annealing
+Tags: interactive models, epidemiology, statistics, convolution, linear algebra, back-projection method, simulated annealing
 Slug: covid-19-inverting-recovery-model
 Status: published
 Image_url: uploads/2020/covid-19-inverting-recovery-model.png

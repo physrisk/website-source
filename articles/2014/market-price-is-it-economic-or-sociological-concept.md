@@ -1,7 +1,7 @@
 Title: Market price - is it economic or sociological concept?
 Date: 2014-07-28 08:37
 Author: Vygintas Gontis
-Tags: Agent-based models, Economics, Stochastic models, voter model, Kirman model, V. Gontis, financial markets, market price, sociology, statistical physics
+Tags: agent-based models, economics, stochastic models, voter model, Kirman model, V. Gontis, financial markets, market price, sociology, statistical physics
 Slug: market-price-is-it-economic-or-sociological-concept
 Status: published
 

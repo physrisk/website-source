@@ -1,7 +1,7 @@
 Title: Mistake in the "price war" game analysis
 Date: 2023-04-18 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, game theory, price formation series
+Tags: interactive models, game theory, price formation series
 Slug: mistake-in-price-war-game
 Status: published
 Image_url: uploads/2023/price-war-game-prob.png

@@ -1,7 +1,7 @@
 Title: Reed-Hughes mechanism
 Date: 2020-09-15 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, epidemiology, statistics, Reed-Hughes mechanism
+Tags: interactive models, epidemiology, statistics, Reed-Hughes mechanism
 Slug: reed-hughes-mechanism
 Status: published
 Image_url: uploads/2020/reed-hughes-mechanism.png

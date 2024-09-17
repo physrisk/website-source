@@ -1,7 +1,7 @@
 Title: Birds on a field
 Date: 2022-09-27 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, biology
+Tags: interactive models, agent-based models, biology
 Slug: birds-on-field
 Status: published
 Image_url: uploads/2022/birds-two-dim.png

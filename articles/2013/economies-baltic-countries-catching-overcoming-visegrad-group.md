@@ -1,7 +1,7 @@
 Title: V. Gontis, K. Acus: Economies of Baltic countries are catching up and overcoming Visegrad Group
 Date: 2013-07-22 07:40
 Authors: Vygintas Gontis, Kęstutis Acus
-Tags: Economics, Baltic countries, Eurostat, K. Acus, V. Gontis, gross domestic product, economic convergence, macroeconomics, purchasing power parity, purchasing power standard, politics, actual individual consumption
+Tags: economics, Baltic countries, Eurostat, K. Acus, V. Gontis, gross domestic product, economic convergence, macroeconomics, purchasing power parity, purchasing power standard, politics, actual individual consumption
 Slug: economies-baltic-countries-catching-overcoming-visegrad-group
 Status: published
 Image_url: uploads/2013/economies-baltic-countries-catching-overcoming-visegrad-group.jpg

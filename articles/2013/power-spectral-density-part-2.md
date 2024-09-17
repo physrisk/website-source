@@ -1,7 +1,7 @@
 Title: Power spectral density (part 2)
 Date: 2013-03-04 08:17
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Stochastic models, Brownian motion, Wolfram CDF, methods, white noise, statistical physics, Fourier transform, spectral density
+Tags: interactive models, stochastic models, Brownian motion, Wolfram CDF, methods, white noise, statistical physics, Fourier transform, spectral density
 Slug: power-spectral-density-part-2
 Status: published
 

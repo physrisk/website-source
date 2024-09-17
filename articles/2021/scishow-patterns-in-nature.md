@@ -1,7 +1,7 @@
 Title: SciShow: The Link Between Zebra Stripes and Sand Dunes
 Date: 2021-02-09 08:00
 Author: Aleksejus Kononovicius
-Tags: SciShow, Dynamical chaos, video
+Tags: SciShow, dynamical chaos, video
 Slug: scishow-patterns-in-nature
 Status: published
 

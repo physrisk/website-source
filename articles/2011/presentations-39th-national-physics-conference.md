@@ -1,7 +1,7 @@
 Title: Presentations at 39th Lithuanian national physics conference
 Date: 2011-10-10 13:42
 Author: Aleksejus Kononovicius
-Tags: General information, Agent-based models, Stochastic models, 1/f noise, A. Kononovicius, B. Kaulakys, R. Kazakevičius, V. Gontis, conference, statistical physics, LNFK
+Tags: general information, agent-based models, stochastic models, 1/f noise, A. Kononovicius, B. Kaulakys, R. Kazakevičius, V. Gontis, conference, statistical physics, LNFK
 Slug: presentations-39th-national-physics-conference
 Status: published
 

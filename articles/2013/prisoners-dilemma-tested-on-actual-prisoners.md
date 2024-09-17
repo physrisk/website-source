@@ -1,7 +1,7 @@
 Title: Prisoner's dilemma tested on actual prisoners
 Date: 2013-10-28 07:57
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, conflicts, competition, game theory, prisoner's dilemma
+Tags: agent-based models, conflicts, competition, game theory, prisoner's dilemma
 Slug: prisoners-dilemma-tested-on-actual-prisoners
 Status: published
 

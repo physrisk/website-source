@@ -1,7 +1,7 @@
 Title: Extra Credits: The history of paper money
 Date: 2016-12-13 07:58
 Author: Aleksejus Kononovicius
-Tags: Economics, Extra Credits, video
+Tags: economics, Extra Credits, video
 Slug: extra-credits-history-of-paper-money
 Status: published
 

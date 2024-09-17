@@ -1,7 +1,7 @@
 Title: Burst statistics in non-linear stochastic models
 Date: 2011-09-02 08:33
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Stochastic models, B. Kaulakys, M. Alaburda, V. Gontis, financial markets, burst statistics
+Tags: interactive models, stochastic models, B. Kaulakys, M. Alaburda, V. Gontis, financial markets, burst statistics
 Slug: burst-statistics-non-linear-stochastic-models
 Status: published
 

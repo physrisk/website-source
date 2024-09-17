@@ -1,7 +1,7 @@
 Title: Total population dynamics in the compartmental voter model
 Date: 2020-06-02 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, voter model, opinion dynamics, postdoctoral project, compartmental voter model, Zipf's law
+Tags: interactive models, agent-based models, voter model, opinion dynamics, postdoctoral project, compartmental voter model, Zipf's law
 Slug: total-population-dynamics-in-the-compartmental-voter-model
 Status: published
 Image_url: uploads/2020/total-population-dynamics-in-the-compartmental-voter-model.png

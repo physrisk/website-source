@@ -1,7 +1,7 @@
 Title: Colors of Noise
 Date: 2012-08-20 07:16
 Author: Aleksejus Kononovicius
-Tags: Stochastic models, 1/f noise, Brownian motion, white noise, spectral density, Fourier transform
+Tags: stochastic models, 1/f noise, Brownian motion, white noise, spectral density, Fourier transform
 Slug: colors-of-noise
 Status: published
 Image_url: uploads/2012/colors-of-noise.png

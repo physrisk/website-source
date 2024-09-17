@@ -1,7 +1,7 @@
 Title: D. Sumpter: Four ways of thinking
 Date: 2023-12-26 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, Dynamical chaos, sports, Lotka-Volterra, complex systems, D. Sumpter
+Tags: video, statistics, dynamical chaos, sports, Lotka-Volterra, complex systems, D. Sumpter
 Slug: D-Sumpter-four-ways-of-thinking
 Status: published
 

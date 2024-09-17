@@ -1,7 +1,7 @@
 Title: V. Gontis: Annoying real GDP argument against Euro
 Date: 2015-07-31 17:50
 Author: Vygintas Gontis
-Tags: Economics, Eurostat, P. Krugman, World Bank, V. Gontis, gross domestic product, economic growth, euro, macroeconomics, purchasing power parity, purchasing power standard
+Tags: economics, Eurostat, P. Krugman, World Bank, V. Gontis, gross domestic product, economic growth, euro, macroeconomics, purchasing power parity, purchasing power standard
 Slug: v-gontis-annoying-real-gdp-argument-against-euro
 Status: published
 Image_url: uploads/2015/v-gontis-annoying-real-gdp-argument-against-euro.png
