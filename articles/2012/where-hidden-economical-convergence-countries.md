@@ -28,5 +28,5 @@ examples and briefly analyze economic convergence of our region. We hope
 that interactive tools provided in the text will enable You to
 experiment with data and find the answers to your questions.
 
-[Full text is available on V. Gontis home page
+[Full text is (was?) available on V. Gontis home page
 »](https://gontis.eu/2012/01/kur-slepiasi-saliu-ekonomine-konvergencija/)
