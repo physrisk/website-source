@@ -1,7 +1,7 @@
 Title: Price formation from the game theory perspective
 Date: 2018-01-30 08:00
 Author: Aleksejus Kononovicius
-Tags: Economics, market price, free market, supply and demand, competition, game theory, price formation series
+Tags: economics, market price, free market, supply and demand, competition, game theory, price formation series
 Slug: price-formation-game-theory
 Status: published
 Image_url: uploads/2018/shift-in-supply.png

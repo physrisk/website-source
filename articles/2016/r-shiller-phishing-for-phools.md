@@ -1,7 +1,7 @@
 Title: R. Shiller: Phishing for phools
 Date: 2016-10-04 07:18
 Author: Aleksejus Kononovicius
-Tags: Economics, R. Shiller, politics, video
+Tags: economics, R. Shiller, politics, video
 Slug: r-shiller-phishing-for-phools
 Status: published
 

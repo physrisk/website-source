@@ -1,7 +1,7 @@
 Title: ncase.me: Wisdom or madness of the crowds
 Date: 2018-06-26 08:00
 Author: Aleksejus Kononovicius
-Tags: Network models, small world, epidemiology, opinion dynamics, politics, Agent-based models
+Tags: network models, small world, epidemiology, opinion dynamics, politics, agent-based models
 Slug: ncase-me-wisdom-or-madness-of-the-crowds
 Status: published
 Image_url: uploads/2018/ncase-contagion.png

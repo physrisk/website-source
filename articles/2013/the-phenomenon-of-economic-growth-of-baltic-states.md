@@ -1,7 +1,7 @@
 Title: V. Gontis, A. Kononovicius: The phenomenon of economic growth of Baltic states
 Date: 2013-03-18 08:08
 Authors: Vygintas Gontis, Aleksejus Kononovicius
-Tags: Economics, Interactive models, A. Kononovicius, Baltic countries, World Bank, V. Gontis, gross domestic product, economic convergence, macroeconomics, politics
+Tags: economics, interactive models, A. Kononovicius, Baltic countries, World Bank, V. Gontis, gross domestic product, economic convergence, macroeconomics, politics
 Slug: the-phenomenon-of-economic-growth-of-baltic-states
 Status: published
 Image_url: uploads/2013/the-phenomenon-of-economic-growth-of-baltic-states.png

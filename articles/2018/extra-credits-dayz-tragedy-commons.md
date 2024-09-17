@@ -1,7 +1,7 @@
 Title: Extra Credits: DayZ - Tragedy of the Commons
 Date: 2018-04-10 08:00
 Author: Aleksejus Kononovicius
-Tags: Economics, popular culture, video, game theory, Extra Credits
+Tags: economics, popular culture, video, game theory, Extra Credits
 Slug: extra-credits-dayz-tragedy-commons
 Status: published
 

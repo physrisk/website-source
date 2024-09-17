@@ -1,7 +1,7 @@
 Title: T. Piketty on economic inequality
 Date: 2014-10-27 08:21
 Author: Aleksejus Kononovicius
-Tags: Economics, T. Piketty, inequality, politics, ted.com, video
+Tags: economics, T. Piketty, inequality, politics, ted.com, video
 Slug: t-piketty-economic-inequality
 Status: published
 

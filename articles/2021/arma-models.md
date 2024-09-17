@@ -1,7 +1,7 @@
 Title: ARMA(p, q) models
 Date: 2021-10-19 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, time series models, ARFIMA series
+Tags: interactive models, time series models, ARFIMA series
 Slug: arma-models
 Image_url: uploads/2021/arma-models.png
 Status: published

@@ -1,7 +1,7 @@
 Title: 3Blue1Brown: Simulating an epidemic
 Date: 2020-03-31 08:00
 Author: Aleksejus Kononovicius
-Tags: 3Blue1Brown, video, epidemiology, Agent-based models
+Tags: 3Blue1Brown, video, epidemiology, agent-based models
 Slug: 3blue1brown-simulating-an-epidemic
 Status: published
 

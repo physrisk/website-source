@@ -1,7 +1,7 @@
 Title: Partisan voter model on a two dimensional grid
 Date: 2021-05-25 08:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, voter model, postdoctoral project, opinion dynamics
+Tags: agent-based models, interactive models, voter model, postdoctoral project, opinion dynamics
 Slug: partisan-voter-model-two-dimensional-grid
 Status: published
 Image_url: uploads/2021/partisan-voter-model-two-dimensional-grid.png

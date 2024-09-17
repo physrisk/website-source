@@ -1,7 +1,7 @@
 Title: Big review of works by our group
 Date: 2021-09-07 08:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, opinion dynamics, financial markets, Stochastic models, statistical physics, Kirman model, voter model, 1/f noise, burst statistics, anomalous diffusion, Levy processes, ARFIMA series, Brownian motion, fractional calculus, fractals, methods, order book, R. Kazakevicius, A. Kononovicius, B. Kaulakys, V. Gontis
+Tags: agent-based models, opinion dynamics, financial markets, stochastic models, statistical physics, Kirman model, voter model, 1/f noise, burst statistics, anomalous diffusion, Levy processes, ARFIMA series, Brownian motion, fractional calculus, fractals, methods, order book, R. Kazakevicius, A. Kononovicius, B. Kaulakys, V. Gontis
 Slug: big-review
 Image_url: uploads/2021/big-review.png
 Status: published

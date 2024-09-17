@@ -1,7 +1,7 @@
 Title: Concluding remarks on price formation
 Date: 2018-03-13 08:00
 Author: Aleksejus Kononovicius
-Tags: Economics, market price, free market, competition, price formation series
+Tags: economics, market price, free market, competition, price formation series
 Slug: price-formation-concluding-remarks
 Status: published
 

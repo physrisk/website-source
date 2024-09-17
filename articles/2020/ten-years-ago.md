@@ -1,7 +1,7 @@
 Title: Ten years ago
 Date: 2020-11-07 08:00
 Author: Aleksejus Kononovicius
-Tags: General information
+Tags: general information
 Slug: ten-years-ago
 Status: published
 Image_url: uploads/2020/pixabay-fireworks.jpg

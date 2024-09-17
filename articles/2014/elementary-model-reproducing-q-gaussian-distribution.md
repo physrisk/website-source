@@ -1,7 +1,7 @@
 Title: Elementary model reproducing q-Gaussian distribution
 Date: 2014-10-06 08:13
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistical physics
+Tags: interactive models, statistical physics
 Slug: elementary-model-reproducing-q-gaussian-distribution
 Status: published
 Image_url: uploads/2014/elementary-model-reproducing-q-gaussian-distribution.png

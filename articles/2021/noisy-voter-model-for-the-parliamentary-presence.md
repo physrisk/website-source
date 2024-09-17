@@ -1,7 +1,7 @@
 Title: Noisy voter model for the parliamentary presence
 Date: 2021-02-02 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, anomalous diffusion, opinion dynamics, voter model, politics, postdoctoral project
+Tags: interactive models, agent-based models, anomalous diffusion, opinion dynamics, voter model, politics, postdoctoral project
 Slug: noisy-voter-model-for-the-parliamentary-presence
 Status: published
 Image_url: uploads/2021/noisy-voter-model-for-the-parliamentary-presence.png

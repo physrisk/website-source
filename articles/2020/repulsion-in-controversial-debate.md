@@ -1,7 +1,7 @@
 Title: Repulsion in controversial debate
 Date: 2020-02-25 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, voter model, opinion dynamics, postdoctoral project
+Tags: interactive models, agent-based models, voter model, opinion dynamics, postdoctoral project
 Slug: repulsion-in-controversial-debate
 Status: published
 Image_url: uploads/2020/repulsion-in-controversial-debate.png

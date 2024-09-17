@@ -1,7 +1,7 @@
 Title: R. Axtell: Modeling the Economy with 150 Million Agents
 Date: 2020-03-03 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Agent-based models, economics
+Tags: video, agent-based models, economics
 Slug: r-axtell-modeling-the-economy-with-million-agents
 Status: published
 

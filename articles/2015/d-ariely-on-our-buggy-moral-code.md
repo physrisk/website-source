@@ -1,7 +1,7 @@
 Title: D. Ariely: On our buggy moral code
 Date: 2015-01-06 07:32
 Author: Aleksejus Kononovicius
-Tags: Economics, D. Ariely, financial markets, sociology, ted.com, video
+Tags: economics, D. Ariely, financial markets, sociology, ted.com, video
 Slug: d-ariely-on-our-buggy-moral-code
 Status: published
 

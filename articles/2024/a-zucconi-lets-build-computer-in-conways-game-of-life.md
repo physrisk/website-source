@@ -1,7 +1,7 @@
 Title: A. Zucconi: Let's build a computer in Conway's Game of Life
 Date: 2024-06-11 08:00
 Author: Aleksejus Kononovicius
-Tags: A. Zucconi, video, Cellular automata
+Tags: A. Zucconi, video, cellular automata
 Slug: a-zucconi-lets-build-computer-in-conways-game-of-life
 Status: published
 

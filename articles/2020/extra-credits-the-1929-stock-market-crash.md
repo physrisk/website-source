@@ -1,7 +1,7 @@
 Title: Extra Credits: The 1929 Stock Market Crash
 Date: 2020-04-28 08:00
 Author: Aleksejus Kononovicius
-Tags: Economics, video, financial markets, Extra Credits
+Tags: economics, video, financial markets, Extra Credits
 Slug: extra-credits-the-1929-stock-market-crash
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Watts-Strogatz model
 Date: 2013-08-12 07:03
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Network models, coursera, small world
+Tags: interactive models, network models, coursera, small world
 Slug: watts-strogatz-model
 Status: published
 

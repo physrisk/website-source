@@ -1,7 +1,7 @@
 Title: Price formation: printing press example
 Date: 2018-01-02 08:00
 Author: Aleksejus Kononovicius
-Tags: Economics, market price, free market, supply and demand, price formation series
+Tags: economics, market price, free market, supply and demand, price formation series
 Slug: price-formation-printing-press-example
 Status: published
 Image_url: uploads/2018/price-formation-printing-press-example.png

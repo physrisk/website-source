@@ -1,7 +1,7 @@
 Title: Many particle interaction in the kinetic exchange models
 Date: 2014-03-03 07:02
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, kinetic models, sociology, statistical physics, opinion dynamics, wealth
+Tags: agent-based models, interactive models, kinetic models, sociology, statistical physics, opinion dynamics, wealth
 Slug: many-particle-interaction-in-the-kinetic-exchange-models
 Status: published
 

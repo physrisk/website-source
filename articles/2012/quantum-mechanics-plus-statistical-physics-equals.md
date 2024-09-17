@@ -1,7 +1,7 @@
 Title: Quantum mechanics + statistical physics = ?
 Date: 2012-10-29 07:25
 Author: Aleksejus Kononovicius
-Tags: Stochastic models, quantum mechanics, statistical physics
+Tags: stochastic models, quantum mechanics, statistical physics
 Slug: quantum-mechanics-plus-statistical-physics-equals
 Status: published
 

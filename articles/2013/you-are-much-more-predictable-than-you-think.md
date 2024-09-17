@@ -1,7 +1,7 @@
 Title: "You are much more predictable than you think..."
 Date: 2013-12-09 07:25
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Discovery Science, biology, traffic, popular culture, video, vimeo.com
+Tags: agent-based models, Discovery Science, biology, traffic, popular culture, video, vimeo.com
 Slug: you-are-much-more-predictable-than-you-think
 Status: published
 

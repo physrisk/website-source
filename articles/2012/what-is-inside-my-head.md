@@ -1,7 +1,7 @@
 Title: memebase.com: "What is inside my head?"
 Date: 2012-02-20 09:15
 Author: Aleksejus Kononovicius
-Tags: Fractals, biology, popular culture, science.memebase.com
+Tags: fractals, biology, popular culture, science.memebase.com
 Slug: what-is-inside-my-head
 Status: published
 Image_url: uploads/2012/what-is-inside-my-head.jpg

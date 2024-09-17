@@ -1,7 +1,7 @@
 Title: Hypergeometric distribution
 Date: 2024-10-01 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics
+Tags: interactive models, statistics
 Slug: hypergeometric-distribution
 Status: draft
 Image_url: uploads/2024/hypergeometric-distribution.png

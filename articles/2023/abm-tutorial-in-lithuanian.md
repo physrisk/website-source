@@ -1,7 +1,7 @@
 Title: Agent-based modeling tutorial (in Lithuanian)
 Date: 2023-03-14 08:00
 Author: Aleksejus Kononovicius
-Tags: General information, Agent-based models, opinion dynamics, game theory, Network models, kinetic models
+Tags: general information, agent-based models, opinion dynamics, game theory, network models, kinetic models
 Slug: abm-tutorial-in-lithuanian
 Status: published
 Image_url: uploads/2023/abm-tutorial.jpg

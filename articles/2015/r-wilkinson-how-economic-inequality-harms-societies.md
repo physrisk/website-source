@@ -1,7 +1,7 @@
 Title: R. Wilkinson: How economic inequality harms societies
 Date: 2015-01-20 07:36
 Author: Aleksejus Kononovicius
-Tags: Economics, R. Wilkinson, inequality, ted.com, video
+Tags: economics, R. Wilkinson, inequality, ted.com, video
 Slug: r-wilkinson-how-economic-inequality-harms-societies
 Status: published
 

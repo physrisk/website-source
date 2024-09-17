@@ -1,7 +1,7 @@
 Title: Nick Hanauer on who actually creates jobs
 Date: 2013-12-23 07:47
 Author: Aleksejus Kononovicius
-Tags: Economics, N. Hanauer, inequality, politics, ted.com, video, supply and demand
+Tags: economics, N. Hanauer, inequality, politics, ted.com, video, supply and demand
 Slug: nick-hanauer-on-who-actually-creates-jobs
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Numberphile: The Ideal Auction
 Date: 2017-11-07 08:14
 Author: Aleksejus Kononovicius
-Tags: Numberphile, game theory, video, market price, Economics, free market, price formation series
+Tags: Numberphile, game theory, video, market price, economics, free market, price formation series
 Slug: numberphile-ideal-auction
 Status: published
 

@@ -1,7 +1,7 @@
 Title: February and March active time for econophysicists
 Date: 2012-03-31 07:51
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, General information, Stochastic models, 1/f noise, A. Kononovicius, B. Kaulakys, COST MP0801, Kirman model, P. Purlys, R. Kazakevičius, V. Gontis, conference, burst statistics, UPoN, DPG, Open Readings,
+Tags: agent-based models, general information, stochastic models, 1/f noise, A. Kononovicius, B. Kaulakys, COST MP0801, Kirman model, P. Purlys, R. Kazakevičius, V. Gontis, conference, burst statistics, UPoN, DPG, Open Readings,
 Slug: february-and-march-active-time-for-econophysicists
 Status: published
 

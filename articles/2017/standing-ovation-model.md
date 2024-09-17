@@ -1,7 +1,7 @@
 Title: Standing ovation model
 Date: 2017-02-21 07:35
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, sociology, psychology, opinion dynamics
+Tags: agent-based models, interactive models, sociology, psychology, opinion dynamics
 Slug: standing-ovation-model
 Status: published
 Image_url: uploads/2017/standing-ovation-model.png

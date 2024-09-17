@@ -1,7 +1,7 @@
 Title: The Saint Petersburg paradox
 Date: 2013-04-01 08:59
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, paradox
+Tags: interactive models, statistics, paradox
 Slug: the-saint-petersburg-paradox
 Status: published
 Image_url: uploads/2013/the-saint-petersburg-paradox.jpg

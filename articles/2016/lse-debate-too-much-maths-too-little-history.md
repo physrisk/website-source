@@ -1,7 +1,7 @@
 Title: LSE debate: "Too much maths, too little history: The problem of economics"
 Date: 2016-01-05 07:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Economics, Stochastic models, video
+Tags: agent-based models, economics, stochastic models, video
 Slug: lse-debate-too-much-maths-too-little-history
 Status: published
 

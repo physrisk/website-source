@@ -1,7 +1,7 @@
 Title: Teaching math in a different way
 Date: 2012-12-31 08:14
 Author: Aleksejus Kononovicius
-Tags: General information, paradox, popular culture, science.memebase.com
+Tags: general information, paradox, popular culture, science.memebase.com
 Slug: teaching-math-in-a-different-way
 Status: published
 Image_url: uploads/2012/teaching-math-in-a-different-way.jpg

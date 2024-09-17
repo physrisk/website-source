@@ -1,7 +1,7 @@
 Title: Going critical with K. Simler
 Date: 2020-06-23 08:00
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Network models, epidemiology, opinion dynamics
+Tags: agent-based models, network models, epidemiology, opinion dynamics
 Slug: going-critical-with-k-simler
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Lets endorse open economic principles!
 Date: 2013-08-19 07:42
 Author: Aleksejus Kononovicius
-Tags: General information, Economics, open access, announcement
+Tags: general information, economics, open access, announcement
 Slug: lets-endorse-open-economic-principles
 Status: published
 

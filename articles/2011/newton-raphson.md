@@ -1,7 +1,7 @@
 Title: Newton-Raphson method
 Date: 2011-05-16 14:14
 Author: Aleksejus Kononovicius
-Tags: Fractals, Interactive models, methods
+Tags: fractals, interactive models, methods
 Slug: newton-raphson
 Status: published
 Image_url: uploads/2011/newton-raphson.png

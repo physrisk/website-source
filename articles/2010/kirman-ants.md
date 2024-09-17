@@ -1,7 +1,7 @@
 Title: Kirman's ant colony model
 Date: 2010-04-11 17:34
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, voter model, Kirman model, biology
+Tags: agent-based models, interactive models, voter model, Kirman model, biology
 Slug: kirman-ants
 Status: published
 Image_url: uploads/2010/kirman-ants.png

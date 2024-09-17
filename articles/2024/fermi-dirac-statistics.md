@@ -1,7 +1,7 @@
 Title: Fermi-Dirac statistics
 Date: 2024-05-21 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, statistics, statistical physics, Fermi-Dirac statistics
+Tags: interactive models, statistics, statistical physics, Fermi-Dirac statistics
 Slug: fermi-dirac-statistics
 Status: published
 Image_url: uploads/2024/fermi-dirac-statistics.png

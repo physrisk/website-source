@@ -1,7 +1,7 @@
 Title: Kolmogorov-Smirnov test
 Date: 2022-02-15 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Brownian motion, methods, statistics
+Tags: interactive models, Brownian motion, methods, statistics
 Slug: ks-test
 Status: published
 Image_url: uploads/2022/ks-test.png

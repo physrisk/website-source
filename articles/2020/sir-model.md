@@ -1,7 +1,7 @@
 Title: SIR model
 Date: 2020-03-17 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, epidemiology
+Tags: interactive models, agent-based models, epidemiology
 Slug: sir-model
 Status: published
 Image_url: uploads/2020/sir-model.png

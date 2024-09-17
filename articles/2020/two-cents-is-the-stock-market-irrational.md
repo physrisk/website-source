@@ -1,7 +1,7 @@
 Title: Two Cents: Is the Stock Market Irrational? 
 Date: 2020-09-22 08:00
 Author: Aleksejus Kononovicius
-Tags: financial markets, Economics, gross domestic product, paradox, Two Cents, video, popular culture
+Tags: financial markets, economics, gross domestic product, paradox, Two Cents, video, popular culture
 Slug: two-cents-is-the-stock-market-irrational
 Status: published
 

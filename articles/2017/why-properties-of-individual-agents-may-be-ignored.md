@@ -1,7 +1,7 @@
 Title: Why the properties of individual agents may be ignored?
 Date: 2017-04-18 07:55
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, Bass model, voter model, Kirman model, marketing
+Tags: agent-based models, interactive models, Bass model, voter model, Kirman model, marketing
 Slug: why-properties-of-individual-agents-may-be-ignored
 Status: published
 

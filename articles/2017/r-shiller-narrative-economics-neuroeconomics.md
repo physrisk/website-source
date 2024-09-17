@@ -1,7 +1,7 @@
 Title: R. Shiller: "Narrative Economics and Neuroeconomics"
 Date: 2017-12-05 08:14
 Author: Aleksejus Kononovicius
-Tags: video, Economics, politics, R. Shiller, Vilnius University
+Tags: video, economics, politics, R. Shiller, Vilnius University
 Slug: r-shiller-narrative-economics-neuroeconomics
 Status: published
 

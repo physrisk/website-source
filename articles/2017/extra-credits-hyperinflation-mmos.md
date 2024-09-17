@@ -1,7 +1,7 @@
 Title: Extra Credits: Hyperinflation MMOs
 Date: 2017-01-10 07:53
 Author: Aleksejus Kononovicius
-Tags: Economics, Extra Credits, video
+Tags: economics, Extra Credits, video
 Slug: extra-credits-hyperinflation-mmos
 Status: published
 

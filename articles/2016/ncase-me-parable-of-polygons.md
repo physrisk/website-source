@@ -1,7 +1,7 @@
 Title: ncase.me: Parable of the polygons
 Date: 2016-02-02 07:05
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Schelling model
+Tags: agent-based models, Schelling model
 Slug: ncase-me-parable-of-polygons
 Status: published
 

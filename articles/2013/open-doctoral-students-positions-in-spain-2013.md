@@ -1,7 +1,7 @@
 Title: Open doctoral student positions in Spain
 Date: 2013-08-05 07:44
 Author: Aleksejus Kononovicius
-Tags: General information, Economics, announcement, students
+Tags: general information, economics, announcement, students
 Slug: open-doctoral-students-positions-in-spain-2013
 Status: published
 

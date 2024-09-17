@@ -1,7 +1,7 @@
 Title: Laws of Supply and Demand
 Date: 2017-09-05 07:23
 Author: Aleksejus Kononovicius
-Tags: Economics, free market, supply and demand, market price, price formation series
+Tags: economics, free market, supply and demand, market price, price formation series
 Slug: laws-of-supply-and-demand
 Status: published
 Image_url: uploads/2017/laws-of-supply-and-demand.png

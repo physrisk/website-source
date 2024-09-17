@@ -1,7 +1,7 @@
 Title: Compartmental voter model
 Date: 2020-04-21 08:00
 Author: Aleksejus Kononovicius
-Tags: Interactive models, Agent-based models, Ising model, Schelling model, voter model, opinion dynamics, sociology, postdoctoral project, compartmental voter model, Zipf's law
+Tags: interactive models, agent-based models, Ising model, Schelling model, voter model, opinion dynamics, sociology, postdoctoral project, compartmental voter model, Zipf's law
 Slug: compartmental-voter-model
 Status: published
 Image_url: uploads/2020/cvm-schema.png

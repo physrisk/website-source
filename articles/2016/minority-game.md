@@ -1,7 +1,7 @@
 Title: Minority game
 Date: 2016-04-12 07:23
 Author: Aleksejus Kononovicius
-Tags: Agent-based models, Interactive models, competition, game theory
+Tags: agent-based models, interactive models, competition, game theory
 Slug: minority-game
 Status: published
 Image_url: uploads/2016/minority-game.png

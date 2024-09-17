@@ -1,7 +1,7 @@
 Title: Social experiment tabletop game
 Date: 2015-10-27 07:38
 Author: Aleksejus Kononovicius
-Tags: Economics, D. Ariely, kickstarter, sociology
+Tags: economics, D. Ariely, kickstarter, sociology
 Slug: social-experiment-tabletop-game
 Status: published
 
