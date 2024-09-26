@@ -10,7 +10,10 @@ this special occasion [Financial Times](https://ft.com/) has created an
 interactive game, which allows you to become party leader and try to win
 electoral college in 10 swing states. You will compete against other readers
 of the [Financial Times](https://ft.com/). At my best attempt I have beaten
-59% of the other readers. How many will you beat?
+75% of the other readers. How many will you beat?
+
+![Screenshot of the
+game.]({static}/uploads/2024/financial-times-US-presidential-campaign-game.png "Screenshot of the game.")
 
 [Play the US election game &raquo;](https://ig.ft.com/us-election-game/)
 
