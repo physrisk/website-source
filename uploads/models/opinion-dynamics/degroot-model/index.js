@@ -102,3 +102,8 @@ stop_btn.addEventListener("click", () => {
     stop_btn.disabled = true;
     continue_flag = false;
 });
+
+window.onload = () => {
+    initialize();
+    update_plot();
+};
