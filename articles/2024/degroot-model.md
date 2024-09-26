@@ -21,17 +21,17 @@ But let us see what it is actually about!
 
 ## The model
 
-An agent in this model represents a person holding opinion towards some
-political question. The opinion is encoded by a real number between \\\( 0
-\\\) and \\\( 1 \\\). Opinion held by each agent changes due to interactions
-between the agents.
+An agent in this model represents a person holding opinion towards some not
+necessarily political question. The opinion is encoded by a real number
+between \\\( 0 \\\) and \\\( 1 \\\) (actually opinion can be any real
+number, but lets keep it this way for this post). Opinion held by each agent
+changes due to interactions between the agents.
 
 The time in this model is discrete. And during each time step an agent
 interacts with all agents they trust. The trust in another agent is encoded
 by values between \\\( 0 \\\) and \\\( 1 \\\). These values are further
 normalized, so that their sum is exactly \\\( 1 \\\). This normalization is
-meant to conserve the opinion (to keep them in the predetermined range of
-possible values without employing arbitrary restrictions).
+meant to conserve the opinion.
 
 After each time step opinion of agent \\\( i \\\) changes according to:
 
