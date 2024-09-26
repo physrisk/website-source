@@ -62,19 +62,26 @@ Usually this is would be true. For example, with trust matrix
         \end{pmatrix} 
 \end{equation}
 
-the system does converge to a fixed shared opinion (consensus) state. But
-with trust matrix
+the system does converge to a fixed shared opinion (consensus) state. Here
+\\\( T_{ij} \\\) stands for how much trust \\\( i \\\)-th agent puts into
+\\\( j \\\)-th agent. So in this example the zero-th agent splits their
+trust equally between the first and second agent.
+
+The system will no longer converge to a consensus state if we instead
+consider trust matrix
 
 \begin{equation}
     \mathbf{T} = \begin{pmatrix}
             0 & 0.5 & 0.5 \\
             1 & 0 & 0 \\
             1 & 0 & 0
-        \end{pmatrix} 
+        \end{pmatrix} .
 \end{equation}
 
-the system does not converge to a consensus state. Both of these examples are
-featured in [cite id="Jackson2008PUP"].
+This trust matrix differs from the first one in one minor detail. The second
+agent instead of trusting the first agent, puts all of their trust into the
+zero-th agent. Both of these examples were discussed in [cite
+id="Jackson2008PUP"].
 
 To check whether given trust matrix \\\( \mathbf{T} \\\) will lead to
 a consensus state, one needs to observe the behavior of \\\(
@@ -95,3 +102,9 @@ agents themselves (i.e., self-trust). Feel free to experiment.
 
 [html5-interactive width="520" height="420" mode="iframe"
 url="/uploads/models/opinion-dynamics/degroot-model/index.html"]
+
+In the app above three nodes represent three agents. Hue of each node
+represents its opinion. Arrows are directed from the agent sharing their
+opinion to the agent trusting it. The darker the arrow the stronger the
+influence. Some times nodes will have a border - this border indicates
+self-influence.
