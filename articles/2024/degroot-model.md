@@ -1,7 +1,7 @@
 Title: DeGroot model
 Date: 2024-10-29 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, opinion dynamics, agent-based models
+Tags: interactive models, opinion dynamics, agent-based models, DeGroot model
 Slug: degroot-model
 Status: draft
 Image_url: uploads/2024/degroot-model.png
@@ -9,7 +9,7 @@ Image_url: uploads/2024/degroot-model.png
 While looking through the recent [opinion dynamics](/tag/opinion-dynamics/)
 literature I have started noticing papers exploring various extensions of
 the DeGroot model [cite id="DeGroot1974"]. Prior to those papers I haven't
-even heard or paid much attention to it.
+even heard or paid much attention to it. So I felt a bit curious.
 
 At a first glance DeGroot model appears to be similar to the [trust and
 suspicion](/tag/trust-and-suspicion/) models we have discussed few years
