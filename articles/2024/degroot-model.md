@@ -8,7 +8,7 @@ Image_url: uploads/2024/degroot-model.png
 
 While looking through the recent [opinion dynamics](/tag/opinion-dynamics/)
 literature I have started noticing papers exploring various extensions of
-the DeGroot model [cite id="DeGroot1974"]. Prior to those papers I haven't
+the DeGroot model [cite id="DeGroot1974, Noorazar2020"]. Prior to those papers I haven't
 even heard or paid much attention to it. So I felt a bit curious.
 
 At a first glance DeGroot model appears to be similar to the [trust and
