@@ -36,15 +36,19 @@
                         <path transform="scale(0.5)" style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt" d="M 5.77,0 -2.88,5 V -5 Z" />
                     </marker>
                 </defs>
-                <circle style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:2.8;stroke-opacity:1" id="stateCircle0" cx="14.552087" cy="51.59375" r="12.964583" />
-                <circle style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:2.8;stroke-opacity:1" id="stateCircle1" cx="66.145836" cy="14.552083" r="12.964583" />
-                <circle style="fill:#ffffff;stroke:#000000;stroke-width:0.79375;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:2.8;stroke-opacity:1" id="stateCircle2" cx="117.73958" cy="51.59375" r="12.964583" />
-                <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79374998;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle)" d="M 51.585327,22.283533 26.466759,40.158129" id="transitionArrow01" />
-                <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)" d="M 54.231161,25.987702 29.112593,43.862298" id="transitionArrow10" />
-                <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle)" d="M 101.86458,49.344127 H 30.427082" id="transitionArrow02" />
-                <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)" d="M 101.86458,53.697615 H 30.427082" id="transitionArrow20" />
-                <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)" d="M 80.706334,22.283533 105.8249,40.158129" id="transitionArrow12" />
-                <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle)" d="m 78.0605,25.987702 25.11857,17.874596" id="transitionArrow21" />
+                <g fill="#fff" stroke="#000" stroke-dashoffset="2.8" stroke-linecap="round" stroke-width=".79375">
+                    <circle id="stateCircle0" cx="66.146" cy="14.552" r="12.965"/>
+                    <circle id="stateCircle1" cx="14.552" cy="51.594" r="12.965"/>
+                    <circle id="stateCircle2" cx="117.74" cy="51.594" r="12.965"/>
+                </g>
+                <g fill="none" stroke="#000" stroke-width=".79375">
+                    <path id="transitionArrow01" d="m51.585 22.284-25.119 17.875" marker-start="url(#Triangle)"/>
+                    <path id="transitionArrow10" d="m54.231 25.988-25.119 17.875" marker-end="url(#Triangle)"/>
+                    <path id="transitionArrow21" d="m101.86 49.344h-71.437" marker-start="url(#Triangle)"/>
+                    <path id="transitionArrow12" d="m101.86 53.698h-71.437" marker-end="url(#Triangle)"/>
+                    <path id="transitionArrow20" d="m80.706 22.284 25.119 17.875" marker-end="url(#Triangle)"/>
+                    <path id="transitionArrow02" d="m78.06 25.988 25.119 17.875" marker-start="url(#Triangle)"/>
+                </g>
             </svg>
         </div>
     </div><!-- #figureWrapper -->
