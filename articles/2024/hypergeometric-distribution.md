@@ -3,7 +3,7 @@ Date: 2024-10-01 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive models, statistics
 Slug: hypergeometric-distribution
-Status: draft
+Status: published
 Image_url: uploads/2024/hypergeometric-distribution.png
 
 Have you ever heard about the hypergeometric distribution? I haven't up to
