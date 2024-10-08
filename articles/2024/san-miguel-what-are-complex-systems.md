@@ -3,7 +3,7 @@ Date: 2024-10-08 08:00
 Author: Aleksejus Kononovicius
 Tags: video, M. San Miguel, IFISC, traffic, economics, financial markets, biology, sociology, network models, fractals, synchronization, emergence, complex systems
 Slug: san-miguel-what-are-complex-systems
-Status: draft
+Status: published
 
 An excellent introduction to [complex systems](/tag/complex-systems/) by
 professor emeritus at [IFISC](https://ifisc.uib-csic.es/en/) [Maxi San
