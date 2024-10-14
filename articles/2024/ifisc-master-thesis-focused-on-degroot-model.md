@@ -13,8 +13,10 @@ they have resurfaced recently in the [opinion
 dynamics](/tag/opinion-dynamics/) literature.
 
 This recent Master thesis is an example of a study conducted using the
-[DeGroot model]({filename}/articles/2024/degroot-model.md). We invite you to
-watch the recording of the defense presentation shared by
+[DeGroot model]({filename}/articles/2024/degroot-model.md). Its novelty lies
+in an exploration of in-group and out-group biases within the framework of
+the [DeGroot model]({filename}/articles/2024/degroot-model.md). We invite
+you to watch the recording of the defense presentation shared by
 [IFISC](/tag/ifisc/).
 
 [youtube v="DUq-yICSW-0"]
