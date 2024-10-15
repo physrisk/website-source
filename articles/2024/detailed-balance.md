@@ -24,8 +24,8 @@ chain with the following right stochastic transition matrix:
 
 \begin{equation}
     \mathbf{T} = \begin{pmatrix}
-            0.8 & 0.2 & 0 \\
-            0 & 0.8 & 0.2 \\
+            0.8 & 0.2 & 0 \\\\
+            0 & 0.8 & 0.2 \\\\
             0.2 & 0 & 0.8
         \end{pmatrix} .
 \end{equation}
@@ -80,8 +80,8 @@ given by:
 
 \begin{equation}
     \mathbf{T} = \begin{pmatrix}
-            0.8 & 0.2\cdot\frac{1-\varepsilon}{2} & 0.2\cdot\frac{1+\varepsilon}{2} \\
-            0.2\cdot\frac{1+\varepsilon}{2} & 0.8 & 0.2\cdot\frac{1-\varepsilon}{2} \\
+            0.8 & 0.2\cdot\frac{1-\varepsilon}{2} & 0.2\cdot\frac{1+\varepsilon}{2} \\\\
+            0.2\cdot\frac{1+\varepsilon}{2} & 0.8 & 0.2\cdot\frac{1-\varepsilon}{2} \\\\
             0.2\cdot\frac{1-\varepsilon}{2} & 0.2\cdot\frac{1+\varepsilon}{2} & 0.8
         \end{pmatrix} .
 \end{equation}
