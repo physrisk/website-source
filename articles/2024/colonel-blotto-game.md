@@ -54,7 +54,7 @@ colored blue, castles controlled by computer are red, while neutral castles
 are pale gray. Brief summary of the last round (war) is given along with
 your overall record in won-drawn-lost format. What you want is for your
 "won" be greater than your "lost" (my own best strategy gives about 42
-percent win rate).
+percent win rate, against 32 percent win rate by the computer).
 
 To help you in formulating your strategy, last troop assignment used by the
 computer (CPU) is shown. You might want to compare the numbers in the
