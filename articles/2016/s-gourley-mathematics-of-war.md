@@ -1,7 +1,7 @@
 Title: S. Gourley: Mathematics of war
 Date: 2016-06-21 07:06
 Author: Aleksejus Kononovicius
-Tags: S. Gourley, war, politics, ted.com, video
+Tags: S. Gourley, conflicts, politics, ted.com, video
 Slug: s-gourley-mathematics-of-war
 Status: published
 
