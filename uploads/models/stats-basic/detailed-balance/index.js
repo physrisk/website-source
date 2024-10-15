@@ -18,6 +18,9 @@ const STEP_INTERVAL = 100;
 let continue_flag = false;
 
 const COLOR_POWER = 0.75;
+// These min and max should usually be fine as mean state occupation is 1/3
+const COLOR_STATE_MIN = 0.25;
+const COLOR_STATE_MAX = 0.45;
 
 function initialize() {
     current_state = [0, N_PARTICLES, 0];
@@ -85,14 +88,15 @@ function update_plot() {
     const n_states = current_state.length;
     for (let state_idx = 0; state_idx < n_states; state_idx += 1) {
         let state_circle = document.getElementById(`stateCircle${state_idx}`);
+        let state_occupation = Math.min(
+            Math.max(current_state[state_idx] / N_PARTICLES, COLOR_STATE_MIN),
+            COLOR_STATE_MAX
+        );
         let color_intensity = Array(3).fill(
             255 -
                 Math.round(
-                    255 *
-                        Math.pow(
-                            current_state[state_idx] / N_PARTICLES,
-                            COLOR_POWER
-                        )
+                    (255 * (state_occupation - COLOR_STATE_MIN)) /
+                        (COLOR_STATE_MAX - COLOR_STATE_MIN)
                 )
         );
         color_intensity[state_idx] = 255;
