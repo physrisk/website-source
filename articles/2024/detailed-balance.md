@@ -3,7 +3,7 @@ Date: 2024-10-15 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive models, statistics, Markov chains
 Slug: detailed-balance
-Status: draft
+Status: published
 Image_url: uploads/2024/detailed-balance.png
 
 One of the things I wondered about the previous summer was the difference
