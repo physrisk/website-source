@@ -136,6 +136,7 @@ reset_btn.addEventListener("click", () => {
         drawn: 0,
         lost: 0,
     };
+    continuous_btn.innerHTML = "Start attacking";
 });
 let continuous_btn = document.getElementById("continuous");
 continuous_btn.addEventListener("click", () => {
