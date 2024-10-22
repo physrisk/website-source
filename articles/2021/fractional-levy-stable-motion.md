@@ -1,13 +1,13 @@
 Title: Fractional Levy stable motion
 Date: 2021-12-28 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, fractals, ARFIMA series, Brownian motion, Levy processes
+Tags: interactive, fractals, topic: ARFIMA, Brownian motion, Levy processes
 Slug: fractional-levy-stable-motion
 Image_url: uploads/2021/fractional-levy-stable-motion.png
 Status: published
 
 [The last post]({filename}/articles/2021/arfima-model.md) in the [ARFIMA
-series](/tag/arfima-series/) was not the last stop in understanding the model
+series](/tag/topic-arfima/) was not the last stop in understanding the model
 we have studied in [cite id="Kazakevicius2021Entropy"]. In the paper we have
 looked at ARFIMA as a model for fractional Levy stable motion (abbr. FLSM),
 which is a generalization of [Brownian motion](/tag/brownian-motion/) in two

@@ -1,12 +1,12 @@
 Title: PACF and AR(p) models
 Date: 2021-10-05 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistical physics, time series models, ARFIMA series, Brownian motion
+Tags: interactive, statistical physics, time series models, topic: ARFIMA, Brownian motion
 Slug: pacf-ar-models
 Image_url: uploads/2021/pacf-ar-models.png
 Status: published
 
-In [the last few posts](/tag/arfima-series/) we have seen that [random
+In [the last few posts](/tag/topic-arfima/) we have seen that [random
 walk](/tag/brownian-motion/) can be written in [recursive
 form]({filename}/articles/2021/random-walk-as-ar-process.md), which suggests
 that random walk is AR(1) process. We have also became familiar with the

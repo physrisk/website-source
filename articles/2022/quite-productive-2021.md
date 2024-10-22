@@ -14,7 +14,7 @@ project](/tag/postdoctoral-project/). We also went back to the topic of the
 [opinion dynamics](/tag/opinion-dynamics/) and have talked about [supportive
 interactions](/tag/latane-social-impact-theory/) and partisan voting. We
 have finished the year by exploring various time series models leading us up
-to [ARFIMA model](/tag/arfima-series/).
+to [ARFIMA model](/tag/topic-arfima/).
 
 All in all, Physics Risk had 33 posts in 2021 (-8 posts in comparison to
 2021). 17 of the posts were filled under [interactive

@@ -1,12 +1,12 @@
 Title: ARFIMA(p, d, q) model
 Date: 2021-12-14 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, fractals, time series models, ARFIMA series, Brownian motion
+Tags: interactive, fractals, time series models, topic: ARFIMA, Brownian motion
 Slug: arfima-model
 Image_url: uploads/2021/arfima-model.png
 Status: published
 
-[Slowly but surely](/tag/arfima-series/) we have finally reached ARFIMA
+[Slowly but surely](/tag/topic-arfima/) we have finally reached ARFIMA
 model! Taking such small step (adding letter F to the acronym) took a lot of
 effort, but it was worth it. Why? Well, this exercise has allowed me to get
 a glimpse at fractional calculus and develop some intuition with this tool.

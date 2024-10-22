@@ -1,12 +1,12 @@
 Title: ARMA(p, q) models
 Date: 2021-10-19 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, time series models, ARFIMA series
+Tags: interactive, time series models, topic: ARFIMA
 Slug: arma-models
 Image_url: uploads/2021/arma-models.png
 Status: published
 
-In [the last few posts](/tag/arfima-series/) we have talked about how
+In [the last few posts](/tag/topic-arfima/) we have talked about how
 physical models relate to ["economical"](/tag/economics/) AR(p) models. Yet
 our end goal is to about ARFIMA models of which "AR" makes up just about
 1/3rd. In this post we introduce you to MA(q) models and show how they
