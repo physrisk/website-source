@@ -23,7 +23,7 @@ Context of the three main random network models
 
 Below you should see a contents of the slide featured in the
 presentation by A. L. Barabasi (full slides may be found here:
-<http://barabasilab.neu.edu/courses/phys5116/>). On this slide the three
+<del>http://barabasilab.neu.edu/courses/phys5116/</del> (edit: website defunct)). On this slide the three
 main network formation models
 ([Erdos-Renyi]({filename}/articles/2013/erdos-renyi-model.md),
 [Watts-Strogatz]({filename}/articles/2013/watts-strogatz-model.md)

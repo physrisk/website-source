@@ -74,7 +74,7 @@ jump towards a fly in order to catch it. Thus we would have very similar
 sounds and very distinct sounds grouped together.
 
 You can also compare these type of noise by **listening** to them on
-[playnoise.com](https://playnoise.com/) website.
+<del>playnoise.com</del> website (edit: no longer available).
 
 Qualities of different types of noise might be efficiently illustrated
 graphical. This is done in [Fig. 1](#attachment_2346).
