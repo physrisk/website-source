@@ -1,7 +1,7 @@
 Title: A. L. Barabasi about his work and the network theory
 Date: 2013-09-30 07:15
 Author: Aleksejus Kononovicius
-Tags: networks, A. L. Barabasi, Barabasi-Albert model, Erdos-Renyi model, Science for the Public, scale free network, small world, video, vimeo.com
+Tags: networks, A. L. Barabasi, Barabasi-Albert model, Erdos-Renyi model, Science for the Public, scale-free network, small world, video, vimeo.com
 Slug: a-l-barabasi-about-his-work-and-the-network-theory
 Status: published
 

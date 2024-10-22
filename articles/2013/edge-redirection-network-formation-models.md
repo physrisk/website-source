@@ -1,7 +1,7 @@
 Title: Edge redirection network formation models
 Date: 2013-11-04 07:57
 Author: Aleksejus Kononovicius
-Tags: interactive, networks, Barabasi-Albert model, Erdos-Renyi model, scale free network
+Tags: interactive, networks, Barabasi-Albert model, Erdos-Renyi model, scale-free network
 Slug: edge-redirection-network-formation-models
 Status: published
 Image_url: uploads/2013/edge-redirection-network-formation-models.jpg
