@@ -1,11 +1,11 @@
 Title: Concluding remarks on price formation
 Date: 2018-03-13 08:00
 Author: Aleksejus Kononovicius
-Tags: economics, market price, free market, competition, price formation series
+Tags: economics, market price, free market, competition, topic: price formation
 Slug: price-formation-concluding-remarks
 Status: published
 
-Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work.
+Couple of months ago I have started a [series of posts](/tag/topic-price-formation/) on price formation in the free market or how and why the free market does (not) work.
 
 In the [first part]({filename}/articles/2017/laws-of-supply-and-demand.md) of the series we have discussed economic laws of supply and demand. We have learned that the cheaper the product is the more people will be willing to buy it. Also that the more people are willing to pay for the product, the more of the product will be produced.
 

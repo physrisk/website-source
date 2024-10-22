@@ -6,7 +6,7 @@ Slug: quite-productive-2018
 Status: published
 Image_url: uploads/2019/quite-productive-2018.png
 
-We had quite a lot of fun while exploring [price formation topic](/tag/price-formation-series/)
+We had quite a lot of fun while exploring [price formation topic](/tag/topic-price-formation/)
 as well as [order book models](/tag/order-book/) back in 2018. The last year was
 our best year since 2013 as we have published 39 posts and 15
 [interactive models](/tag/interactive/), while in 2013 we had 42 posts and 16
