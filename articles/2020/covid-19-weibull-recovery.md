@@ -1,7 +1,7 @@
 Title: COVID-19: Weibull recovery model
 Date: 2020-10-27 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, epidemiology, statistics, ageing effects
+Tags: interactive models, epidemiology, statistics, ageing
 Slug: covid-19-weibull-recovery
 Status: published
 Image_url: uploads/2020/covid-19-weibull-recovery.png
@@ -18,7 +18,7 @@ not matter how long some one is sick, the time one will continue being sick
 will be exponentially distributed with the same recovery rate.
 
 Weibull distribution takes into account [ageing
-effects](/tag/ageing-effects/). Namely, the recovery rate varies in time:
+effects](/tag/ageing/). Namely, the recovery rate varies in time:
 
 * With \\\( k < 1 \\\) it decreases in time. While larger number of quick
 recoveries is observed. Though note that extremely long recoveries are also
