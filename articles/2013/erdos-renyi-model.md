@@ -1,7 +1,7 @@
 Title: Erdos-Renyi model
 Date: 2013-07-29 07:01
 Author: Aleksejus Kononovicius
-Tags: interactive models, network models, Erdos-Renyi model, coursera, percolation
+Tags: interactive models, networks, Erdos-Renyi model, coursera, percolation
 Slug: erdos-renyi-model
 Status: published
 

@@ -17,7 +17,7 @@ point if the amount of noise is just right.<!--more-->
 
 ## Majority-vote model
 
-Although the model can be run on any [complex network](/tag/network-models/),
+Although the model can be run on any [complex network](/tag/networks/),
 let us implement it on a grid with periodic boundary conditions (basically our
 grid geometry is [torus](https://en.wikipedia.org/wiki/Torus)).
 

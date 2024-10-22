@@ -1,7 +1,7 @@
 Title: Seminar at VU Faculty of Physics: Brief introduction into the Physics of Risk
 Date: 2012-10-16 17:35
 Author: Aleksejus Kononovicius
-Tags: agent-based models, general, stochastic models, network models, 1/f noise, A. Kononovicius, FuturICT, Kirman model, VU FF, biology, traffic, financial markets, internet, burst statistics, statistical physics
+Tags: agent-based models, general, stochastic models, networks, 1/f noise, A. Kononovicius, FuturICT, Kirman model, VU FF, biology, traffic, financial markets, internet, burst statistics, statistical physics
 Slug: seminar-vu-faculty-of-physics-brief-introduction-into-physics-risk
 Status: published
 
