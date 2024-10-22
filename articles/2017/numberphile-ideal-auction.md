@@ -1,11 +1,11 @@
 Title: Numberphile: The Ideal Auction
 Date: 2017-11-07 08:14
 Author: Aleksejus Kononovicius
-Tags: Numberphile, game theory, video, market price, economics, free market, price formation series
+Tags: Numberphile, game theory, video, market price, economics, free market, topic: price formation
 Slug: numberphile-ideal-auction
 Status: published
 
-Two months ago I have started an [interesting topic](/tag/price-formation-series/) related to the price discovery. This topic
+Two months ago I have started an [interesting topic](/tag/topic-price-formation/) related to the price discovery. This topic
 is rather important in the contemporary context as it is often claimed that we should
 "let (the markets) go" (fr. *Laissez-faire*) with out any regulation or influence from
 the government. Supposedly free markets would discover the fairest prices and allocate

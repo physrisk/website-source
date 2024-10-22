@@ -36,7 +36,7 @@ In Lithuania we have a lot of free markets hedgehogs, who often suggest
 problem. While free markets are solutions to some problems, they are definitely
 not a solution for all the problems, as free markets are based on theoretical
 model, which works only when certain assumptions are satisfied (check out our
-[previous series of post on price formation](/tag/price-formation-series/)).
+[previous series of post on price formation](/tag/topic-price-formation/)).
 
 So, without any further side points, we invite you to watch a video on
 Wisecrack. It covers much more than we have written about in the text above.

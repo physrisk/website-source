@@ -1,7 +1,7 @@
 Title: Laws of Supply and Demand
 Date: 2017-09-05 07:23
 Author: Aleksejus Kononovicius
-Tags: economics, free market, supply and demand, market price, price formation series
+Tags: economics, free market, supply and demand, market price, topic: price formation
 Slug: laws-of-supply-and-demand
 Status: published
 Image_url: uploads/2017/laws-of-supply-and-demand.png
@@ -16,7 +16,7 @@ thus in this text we will try to provide a simple academical
 introduction into these concepts and their role in economics.
 
 It is intended that this text will serve as an introduction into a
-[series of posts](/tag/price-formation-series/) on how and why free market does (not) work.<!--more-->
+[series of posts](/tag/topic-price-formation/) on how and why free market does (not) work.<!--more-->
 
 Let us start by discussing **the law of demand**. This law of economics
 states that the pricier the product is (all other things being equal)

@@ -1,12 +1,12 @@
 Title: Phase transition in the "price war" game?
 Date: 2018-02-13 08:00
 Author: Aleksejus Kononovicius
-Tags: economics, market price, free market, supply and demand, competition, game theory, price formation series, interactive
+Tags: economics, market price, free market, supply and demand, competition, game theory, topic: price formation, interactive
 Slug: price-war-game
 Status: published
 Image_url: uploads/2018/price-war-game.png
 
-Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work. This text is a slightly detour from the [part four]({filename}/articles/2018/price-formation-game-theory.md) of the series. In which I would like to delve into interesting properties of the gameI have introduced in the [part four]({filename}/articles/2018/price-formation-game-theory.md).
+Couple of months ago I have started a [series of posts](/tag/topic-price-formation/) on price formation in the free market or how and why the free market does (not) work. This text is a slightly detour from the [part four]({filename}/articles/2018/price-formation-game-theory.md) of the series. In which I would like to delve into interesting properties of the gameI have introduced in the [part four]({filename}/articles/2018/price-formation-game-theory.md).
 
 In the [part four]({filename}/articles/2018/price-formation-game-theory.md) I have asked you to imagine that the market consists of two competing companies, which produce almost identical products. Each of the companies can charge a high price or a low price. If one company wants to charge low price, then all consumers would prefer buying its product and not the competitors. I have assumed that there are 100 consumers and that companies produce products for all consumers (namely they always produce 100 units of the product), high price is 5 monies, low price is 3 monies and production costs are 0.5 monies. In this post I would like to remove some of these simplifying assumptions and discuss how the model works if different numbers are selected.<!--more-->
 

@@ -1,12 +1,12 @@
 Title: Price formation: printing press example
 Date: 2018-01-02 08:00
 Author: Aleksejus Kononovicius
-Tags: economics, market price, free market, supply and demand, price formation series
+Tags: economics, market price, free market, supply and demand, topic: price formation
 Slug: price-formation-printing-press-example
 Status: published
 Image_url: uploads/2018/price-formation-printing-press-example.png
 
-Couple of months ago I have started a [series of posts](/tag/price-formation-series/) on price formation in the free market or how and why the free market does (not) work.
+Couple of months ago I have started a [series of posts](/tag/topic-price-formation/) on price formation in the free market or how and why the free market does (not) work.
 
 In the [first part]({filename}/articles/2017/laws-of-supply-and-demand.md) of the series we have discussed economic laws of supply and demand. We have also mentioned the "sweet spot" of the supply-demand model - equilibrium price. But we did not cover how one would discover the equilibrium price.
 
