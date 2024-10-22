@@ -70,7 +70,7 @@ Namely, for low frequencies (lower than \\\( \left(\frac{\lambda\_\theta +
 density](/tag/spectral-density/) will be flat, while for higher frequencies
 \\\( S(f) \\\) will decay as \\\( 1/f^2 \\\). There will be a very narrow
 region of frequencies where the switch between the [white
-noise](/tag/white-noise/) and [Brownian-like noise](/tag/Brownian-motion/)
+noise](/tag/white-noise/) and [Brownian-like noise](/tag/brownian-motion/)
 occurs.
 
 ## Interactive app
