@@ -12,7 +12,7 @@ posts we have taken a look at three papers I have found interesting. [cite
 id="Krapivsky2020JStat"] inspired few posts on [traffic](/tag/traffic/).
 [cite id="Krapivsky2022Birds"] inspired couple posts on
 [biology](/tag/biology/). Exploration of [cite id="Olmeda2022Dating"]
-continues in series of posts on [dating apps](/tag/dating-apps-series/).
+continues in series of posts on [dating apps](/tag/topic-dating-apps/).
 
 ![Number of posts written in English and still available on this site]({static}/uploads/2023/was-2022-as-good-as-2021.png "The
 number of posts written in English and still available on this iteration of Physics
@@ -21,5 +21,5 @@ while the narrower bars represent a number of posts with 'Interactive models' ta
 
 Once again, at the time of writing this post, I still do not have an idea
 what we will have in store for 2023. Obviously, we will finish
-[dating apps](/tag/dating-apps-series/) series. And then we will have a few
+[dating apps](/tag/topic-dating-apps/) series. And then we will have a few
 more assorted posts?

@@ -1,7 +1,7 @@
 Title: Statistical physics of dating apps?
 Date: 2022-11-22 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, dating apps series, statistical physics
+Tags: interactive, statistics, topic: dating apps, statistical physics
 Slug: statistical-physics-dating-apps
 Status: published
 Image_url: uploads/2022/dating-apps-static.png
@@ -12,7 +12,7 @@ perspective of [statistical physics](/tag/statistical-physics/). I am not
 sure about the "dynamics" part, as to me it appears to be more "static" than
 "dynamic", but nevertheless the manuscript caught my attention and I would
 like to discuss some related questions in the [next few
-posts](/tag/dating-apps-series/).
+posts](/tag/topic-dating-apps/).
 
 In this post we will take a look at static interpretation of the "biased
 decisions" model from the manuscript [cite id="Olmeda2022Dating"].

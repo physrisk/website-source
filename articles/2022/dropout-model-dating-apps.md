@@ -1,13 +1,13 @@
 Title: Dropout model of dating apps
 Date: 2022-12-20 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, dating apps series, statistical physics
+Tags: interactive, statistics, topic: dating apps, statistical physics
 Slug: dropout-model-dating-apps
 Status: published
 Image_url: uploads/2022/dating-apps-dropout.png
 
 In this post I [continue my
-exploration](/tag/dating-apps-series/) of the [cite id="Olmeda2022Dating"].
+exploration](/tag/topic-dating-apps/) of the [cite id="Olmeda2022Dating"].
 In this post I will consider what happens if the users decide to dropout
 from the app as soon as they are matched with somebody.
 <!--more-->
