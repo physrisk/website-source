@@ -1,7 +1,7 @@
 Title: COVID-19: Estimating mean recovery rate
 Date: 2020-10-13 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, epidemiology, statistics
+Tags: interactive, epidemiology, statistics
 Slug: covid-19-recovery-rate
 Status: published
 Image_url: uploads/2020/covid-19-recovery-rate.png

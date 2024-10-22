@@ -1,7 +1,7 @@
 Title: Stauffer's four state Sznajd model
 Date: 2019-02-19 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, opinion dynamics, Sznajd model, postdoctoral project
+Tags: interactive, agent-based models, opinion dynamics, Sznajd model, postdoctoral project
 Slug: stauffers-four-state-sznajd-model
 Status: published
 Image_url: uploads/2019/s4sm2.png

@@ -1,7 +1,7 @@
 Title: End of the world in 2026?
 Date: 2022-03-15 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, politics, biology, Worldometer
+Tags: interactive, politics, biology, Worldometer
 Slug: end-of-the-world-2026
 Status: published
 Image_url: uploads/2022/end-of-the-world-2026.png

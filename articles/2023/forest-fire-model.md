@@ -1,7 +1,7 @@
 Title: Forest fire model
 Date: 2023-04-04 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, cellular automata, percolation, self-organized criticality
+Tags: interactive, agent-based models, cellular automata, percolation, self-organized criticality
 Slug: forest-fire-model
 Status: published
 Image_url: uploads/2023/forest-fire-model.png

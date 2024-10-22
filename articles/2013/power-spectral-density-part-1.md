@@ -1,7 +1,7 @@
 Title: Power spectral density (part 1)
 Date: 2013-02-18 08:54
 Author: Aleksejus Kononovicius
-Tags: interactive models, Wolfram CDF, methods, statistical physics, Fourier transform, spectral density
+Tags: interactive, Wolfram CDF, methods, statistical physics, Fourier transform, spectral density
 Slug: power-spectral-density-part-1
 Status: published
 

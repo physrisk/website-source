@@ -1,7 +1,7 @@
 Title: Spin glass model
 Date: 2016-02-16 07:09
 Author: Aleksejus Kononovicius
-Tags: interactive models, Ising model, magnetism, statistical physics
+Tags: interactive, Ising model, magnetism, statistical physics
 Slug: spin-glass-model
 Status: published
 Image_url: uploads/2016/spin-glass-model.png

@@ -13,7 +13,7 @@ has potential to innovate social and political sciences as well as physics (at
 least in regards of understanding open systems) and computer science.
 
 As can be seen in the figure below, we have published 39 posts (the same number
-as in 2018) and 22 [interactive models](/tag/interactive-models/), which is our
+as in 2018) and 22 [interactive models](/tag/interactive/), which is our
 new best result. I am not completely sure if I can keep this tempo up,
 especially as my postdoctoral project will soon end, but lets hope for the best.
 

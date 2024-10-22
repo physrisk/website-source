@@ -1,7 +1,7 @@
 Title: Shot noise
 Date: 2023-11-21 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, Fourier transform, spectral density, shot noise
+Tags: interactive, Fourier transform, spectral density, shot noise
 Slug: shot-noise
 Status: published
 Image_url: uploads/2023/shot-noise.png

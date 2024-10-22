@@ -1,7 +1,7 @@
 Title: Anomalous diffusion in time transformation of voter model
 Date: 2021-03-16 08:00
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive models, anomalous diffusion, voter model, Kirman model, R. Kazakevicius
+Tags: agent-based models, interactive, anomalous diffusion, voter model, Kirman model, R. Kazakevicius
 Slug: anomalous-diffusion-in-time-transformation-of-voter-model
 Status: published
 Image_url: uploads/2021/anomalous-diffusion-in-time-transformation-of-voter-model.png

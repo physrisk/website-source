@@ -1,7 +1,7 @@
 Title: Deffuant et al. bounded confidence model
 Date: 2019-05-14 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, opinion dynamics, bounded confidence, postdoctoral project
+Tags: interactive, agent-based models, opinion dynamics, bounded confidence, postdoctoral project
 Slug: deffuant-bounded-confidence-model
 Status: published
 Image_url: uploads/2019/deffuant-bounded-confidence-model.png

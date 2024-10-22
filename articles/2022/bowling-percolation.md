@@ -1,7 +1,7 @@
 Title: Bowling percolation puzzle
 Date: 2022-10-11 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, percolation, FiveThirtyEight
+Tags: interactive, statistics, percolation, FiveThirtyEight
 Slug: bowling-percolation
 Status: published
 Image_url: uploads/2022/bowling-percolation.png

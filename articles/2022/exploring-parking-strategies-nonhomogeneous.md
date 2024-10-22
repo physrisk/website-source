@@ -1,7 +1,7 @@
 Title: Exploring parking strategies with nonhomogeneous inflow
 Date: 2022-05-10 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, traffic
+Tags: interactive, agent-based models, traffic
 Slug: exploring-parking-strategies-nonhomogeneous
 Status: published
 Image_url: uploads/2022/parking-random-meek.png

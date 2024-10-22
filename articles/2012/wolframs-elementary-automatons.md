@@ -1,7 +1,7 @@
 Title: Wolfram's elementary automatons
 Date: 2012-02-07 09:09
 Author: Aleksejus Kononovicius
-Tags: interactive models, cellular automata
+Tags: interactive, cellular automata
 Slug: wolframs-elementary-automatons
 Status: published
 Image_url: uploads/2012/wolframs-elementary-automatons.png

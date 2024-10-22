@@ -1,7 +1,7 @@
 Title: Epstein's riot model
 Date: 2017-03-21 07:11
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive models, Epstein model, conflicts, burst statistics, sociology
+Tags: agent-based models, interactive, Epstein model, conflicts, burst statistics, sociology
 Slug: epsteins-riot-model
 Status: published
 

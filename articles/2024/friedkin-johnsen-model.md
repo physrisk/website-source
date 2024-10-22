@@ -1,7 +1,7 @@
 Title: Friedkin-Johnsen model
 Date: 2024-11-26 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, opinion dynamics, agent-based models, DeGroot model
+Tags: interactive, opinion dynamics, agent-based models, DeGroot model
 Slug: friedkin-johnsen-model
 Status: draft
 Image_url: uploads/2024/friedkin-johnsen-model.png

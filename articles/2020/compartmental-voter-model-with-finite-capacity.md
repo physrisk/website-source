@@ -1,7 +1,7 @@
 Title: Compartmental voter model with finite capacity
 Date: 2020-05-05 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, voter model, opinion dynamics, postdoctoral project, compartmental voter model, Zipf's law
+Tags: interactive, agent-based models, voter model, opinion dynamics, postdoctoral project, compartmental voter model, Zipf's law
 Slug: compartmental-voter-model-with-finite-capacity
 Status: published
 Image_url: uploads/2020/compartmental-voter-model-with-finite-capacity.png

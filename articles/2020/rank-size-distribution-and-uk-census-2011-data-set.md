@@ -1,7 +1,7 @@
 Title: Rank-size distribution and UK census 2011 data set
 Date: 2020-03-24 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, methods, data science, sociology, voter model, Ising model, opinion dynamics, Zipf's law
+Tags: interactive, statistics, methods, data science, sociology, voter model, Ising model, opinion dynamics, Zipf's law
 Slug: rank-size-distribution-and-uk-census-2011-data-set
 Status: published
 

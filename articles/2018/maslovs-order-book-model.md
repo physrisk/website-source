@@ -1,7 +1,7 @@
 Title: Maslov's order book model
 Date: 2018-05-22 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, financial markets, order book, postdoctoral project
+Tags: interactive, agent-based models, financial markets, order book, postdoctoral project
 Slug: maslovs-order-book-model
 Status: published
 Image_url: uploads/2018/maslovs-order-book-model.png

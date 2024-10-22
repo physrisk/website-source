@@ -1,7 +1,7 @@
 Title: Exploring parking strategies
 Date: 2022-04-26 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, traffic
+Tags: interactive, agent-based models, traffic
 Slug: exploring-parking-strategies
 Status: published
 Image_url: uploads/2022/parking-optimist.png

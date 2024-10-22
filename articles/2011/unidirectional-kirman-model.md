@@ -1,7 +1,7 @@
 Title: Unidirectional Kirman's model
 Date: 2011-06-10 12:43
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive models, A. Kononovicius, Bass model, voter model, Kirman model, V. Daniunas, V. Gontis, marketing
+Tags: agent-based models, interactive, A. Kononovicius, Bass model, voter model, Kirman model, V. Daniunas, V. Gontis, marketing
 Slug: unidirectional-kirman-model
 Status: published
 Image_url: uploads/2011/unidirectional-kirman-model.png

@@ -1,7 +1,7 @@
 Title: Picky-shy model of dating apps
 Date: 2023-01-24 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, dating apps series, statistical physics
+Tags: interactive, statistics, dating apps series, statistical physics
 Slug: picky-shy-model-dating-apps
 Status: published
 Image_url: uploads/2023/dating-apps-pickyshy.png

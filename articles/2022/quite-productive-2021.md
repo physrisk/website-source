@@ -18,7 +18,7 @@ to [ARFIMA model](/tag/arfima-series/).
 
 All in all, Physics Risk had 33 posts in 2021 (-8 posts in comparison to
 2021). 17 of the posts were filled under [interactive
-models](/tag/interactive-models/) tag.
+models](/tag/interactive/) tag.
 
 ![Number of posts written in English and still available on this site]({static}/uploads/2022/quite-productive-2021.png "The
 number of posts written in English and still available on this iteration of Physics

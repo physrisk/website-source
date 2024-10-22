@@ -1,7 +1,7 @@
 Title: Interpolation of Brownian motion
 Date: 2022-01-18 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, stochastic models, Brownian motion, fractals
+Tags: interactive, stochastic models, Brownian motion, fractals
 Slug: brownian-motion-interpolation
 Status: published
 Image_url: uploads/2022/brownian-motion-interpolation.png

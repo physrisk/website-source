@@ -1,7 +1,7 @@
 Title: Stochastic ant colony model
 Date: 2010-11-28 12:00
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive models, stochastic models, voter model, Kirman model, biology
+Tags: agent-based models, interactive, stochastic models, voter model, Kirman model, biology
 Slug: stochastic-ant-colony-model
 Status: published
 

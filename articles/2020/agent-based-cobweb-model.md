@@ -1,7 +1,7 @@
 Title: Agent-based cobweb model
 Date: 2020-01-28 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, economics, supply and demand, free market, market price, cobweb model
+Tags: interactive, agent-based models, economics, supply and demand, free market, market price, cobweb model
 Slug: agent-based-cobweb-model
 Status: published
 Image_url: uploads/2020/agent-based-cobweb-model.png

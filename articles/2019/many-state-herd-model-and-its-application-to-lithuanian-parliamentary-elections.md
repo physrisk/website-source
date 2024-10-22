@@ -1,7 +1,7 @@
 Title: Many state herding model and its application to Lithuanian parliamentary elections
 Date: 2019-06-25 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, opinion dynamics, A. Kononovicius, Lithuania, voter model, Kirman model
+Tags: interactive, agent-based models, opinion dynamics, A. Kononovicius, Lithuania, voter model, Kirman model
 Slug: many-state-herd-model-and-its-application-to-lithuanian-parliamentary-elections
 Status: published
 Image_url: uploads/2019/many-state-herd-model-and-its-application-to-lithuanian-parliamentary-elections.png

@@ -11,7 +11,7 @@ had another good year on Physics of Risk. At least content-wise. We have
 published 36 posts (+3 in comparison to the [previous
 year]({filename}/articles/2024/overview-2023.md)). Half of the posts, 18 in
 total, were supplemented by [interactive
-materials](/tag/interactive-models/). Overall trend remains more-or-less
+materials](/tag/interactive/). Overall trend remains more-or-less
 stable as can be seen from the plot below. 
 
 ![Number of posts written in English and still available on this site as of

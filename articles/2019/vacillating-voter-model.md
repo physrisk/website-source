@@ -1,7 +1,7 @@
 Title: Vacillating voter model
 Date: 2019-03-19 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, opinion dynamics, voter model, postdoctoral project
+Tags: interactive, agent-based models, opinion dynamics, voter model, postdoctoral project
 Slug: vacillating-voter-model
 Status: published
 Image_url: uploads/2019/vvoter-model.png

@@ -1,7 +1,7 @@
 Title: Elementary kinetic exchange models
 Date: 2013-11-25 07:16
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive models, kinetic models, statistical physics, wealth
+Tags: agent-based models, interactive, kinetic models, statistical physics, wealth
 Slug: elementary-kinetic-exchange-models
 Status: published
 

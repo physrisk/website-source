@@ -1,7 +1,7 @@
 Title: What the order book is?
 Date: 2018-05-01 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, financial markets, order book, Walrasian Market, postdoctoral project
+Tags: interactive, financial markets, order book, Walrasian Market, postdoctoral project
 Slug: what-the-order-book-is
 Status: published
 Image_url: uploads/2018/order-book.svg.png

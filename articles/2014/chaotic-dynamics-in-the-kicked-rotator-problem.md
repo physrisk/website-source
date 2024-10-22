@@ -1,7 +1,7 @@
 Title: Chaotic dynamics in the kicked rotator problem
 Date: 2014-11-10 07:50
 Author: Aleksejus Kononovicius
-Tags: dynamical chaos, interactive models, classical mechanics, quantum mechanics
+Tags: dynamical chaos, interactive, classical mechanics, quantum mechanics
 Slug: chaotic-dynamics-in-the-kicked-rotator-problem
 Status: published
 Image_url: uploads/2014/chaotic-dynamics-in-the-kicked-rotator-problem.png

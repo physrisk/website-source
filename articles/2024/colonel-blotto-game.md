@@ -1,7 +1,7 @@
 Title: Colonel Blotto game
 Date: 2024-12-10 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, game theory, conflicts, Colonel Blotto game
+Tags: interactive, game theory, conflicts, Colonel Blotto game
 Slug: colonel-blotto-game
 Status: draft
 Image_url: uploads/2024/colonel-blotto-game.png

@@ -1,7 +1,7 @@
 Title: Detailed balance
 Date: 2024-10-15 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, Markov chains
+Tags: interactive, statistics, Markov chains
 Slug: detailed-balance
 Status: published
 Image_url: uploads/2024/detailed-balance.png

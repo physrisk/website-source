@@ -1,7 +1,7 @@
 Title: Randomly generated strange attractors
 Date: 2013-01-28 08:28
 Author: Aleksejus Kononovicius
-Tags: dynamical chaos, fractals, interactive models, Wolfram CDF
+Tags: dynamical chaos, fractals, interactive, Wolfram CDF
 Slug: randomly-generated-strange-attractors
 Status: published
 Image_url: uploads/2013/randomly-generated-strange-attractors.png
