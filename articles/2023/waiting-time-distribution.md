@@ -1,7 +1,7 @@
 Title: Waiting time distribution
 Date: 2023-05-30 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, statistical physics, Poisson process, ageing effects
+Tags: interactive models, statistics, statistical physics, Poisson process, ageing
 Slug: waiting-time-distribution
 Status: published
 Image_url: uploads/2023/waiting-time-distribution.png
@@ -102,10 +102,10 @@ P(X > t > T) = \frac{1}{P(X > T)} \cdot P(X > t).
 When we consider survival of \\\( \tau = t - T \\\) we simply shift the
 survival function to the left. For the exponential distribution such shift
 doesn't change anything, because exponential function has translation
-symmetry (it doesn't experience any [ageing effects](/tag/ageing-effects/) -
+symmetry (it doesn't experience any [ageing effects](/tag/ageing/) -
 the mean waiting time is the same as the mean interarrival time). Other
 distributions, such as the normal distribution, do not have this symmetry
-and thus exhibit [ageing effects](/tag/ageing-effects/) - the mean waiting
+and thus exhibit [ageing effects](/tag/ageing/) - the mean waiting
 time is always smaller than the mean interarrival time.
 
 ![Survival functions of the normal

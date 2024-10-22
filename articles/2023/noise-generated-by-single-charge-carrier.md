@@ -35,7 +35,7 @@ used.
 
 As we have seen [before](/tag/point-process/) simplest physical assumption
 would be that the escape probability is uniform in time (namely, that there
-are no [ageing effects](/tag/ageing-effects/). This leads to a mathematical
+are no [ageing effects](/tag/ageing/). This leads to a mathematical
 assumption that trapping and detrapping times follow exponential
 distribution with respective parameters \\\( \lambda\_\theta \\\) (trapping
 rate) and \\\( \lambda\_\tau \\\) (detrapping rate).

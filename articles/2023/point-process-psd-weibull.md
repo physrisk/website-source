@@ -1,7 +1,7 @@
 Title: PSD of a point process with non-exponential inter-event times
 Date: 2023-10-03 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, Poisson process, point process, Fourier transform, spectral density, ageing effects
+Tags: interactive models, Poisson process, point process, Fourier transform, spectral density, ageing
 Slug: point-process-psd-weibull
 Status: published
 Image_url: uploads/2023/point-process-psd-weibull.png
@@ -22,7 +22,7 @@ COVID-19]({filename}/articles/2020/covid-19-weibull-recovery.md) by assuming
 that patient recovery times are distributed according to the Weibull
 distribution. Weibull distribution is a generalization of the exponential
 distribution, which takes into account [ageing
-effects](/tag/ageing-effects/):
+effects](/tag/ageing/):
 
 \begin{equation}
     p(\tau) = k \lambda \left(\lambda \tau \right)^{k-1}
@@ -30,7 +30,7 @@ effects](/tag/ageing-effects/):
 \end{equation}
 
 If its shape parameter \\\( k = 1 \\\) there are no [ageing
-effects](/tag/ageing-effects/) (the event
+effects](/tag/ageing/) (the event
 rate remains constant) and the distribution is equivalent to the exponential
 distribution. For lower \\\( k \\\) the event rate decreases with
 time, which means that extreme (both short and long) event times become more
