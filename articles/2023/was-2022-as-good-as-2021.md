@@ -1,7 +1,7 @@
 Title: Was 2022 as good as 2021?
 Date: 2023-01-03 08:00
 Author: Aleksejus Kononovicius
-Tags: general information
+Tags: general
 Slug: was-2022-as-good-as-2021
 Status: published
 Image_url: uploads/2023/was-2022-as-good-as-2021.png

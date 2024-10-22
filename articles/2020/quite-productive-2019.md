@@ -1,7 +1,7 @@
 Title: Quite productive 2019
 Date: 2020-01-07 08:00
 Author: Aleksejus Kononovicius
-Tags: general information
+Tags: general
 Slug: quite-productive-2019
 Status: published
 Image_url: uploads/2020/quite-productive-2019.png

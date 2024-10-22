@@ -1,7 +1,7 @@
 Title: Overview of 2024
 Date: 2025-01-07 08:00
 Author: Aleksejus Kononovicius
-Tags: general information
+Tags: general
 Slug: overview-of-2024
 Status: draft
 Image_url: uploads/2025/overview-of-2024.png

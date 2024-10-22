@@ -1,7 +1,7 @@
 Title: Hello Pelican!
 Date: 2017-11-07 06:00
 Author: Aleksejus Kononovicius
-Tags: general information, Python
+Tags: general, Python
 Slug: hello-pelican
 Status: published
 

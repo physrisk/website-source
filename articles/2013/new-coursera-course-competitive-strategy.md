@@ -1,7 +1,7 @@
 Title: New Coursera course - Competitive Strategy
 Date: 2013-07-15 07:34
 Author: Aleksejus Kononovicius
-Tags: general information, coursera, conflicts, competition, game theory
+Tags: general, coursera, conflicts, competition, game theory
 Slug: new-coursera-course-competitive-strategy
 Status: published
 

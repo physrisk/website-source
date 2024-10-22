@@ -1,7 +1,7 @@
 Title: Another summer (2024) has gone by
 Date: 2024-09-03 08:00
 Author: Aleksejus Kononovicius
-Tags: general information, students
+Tags: general, students
 Slug: another-summer-2024-has-gone-by
 Status: published
 

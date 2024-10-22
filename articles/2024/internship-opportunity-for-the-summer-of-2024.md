@@ -1,7 +1,7 @@
 Title: Internship opportunity for the summer of 2024
 Date: 2024-05-14 08:00
 Author: Aleksejus Kononovicius
-Tags: general information, students, opinion dynamics, voter model
+Tags: general, students, opinion dynamics, voter model
 Slug: internship-opportunity-for-the-summer-of-2024
 Status: published
 

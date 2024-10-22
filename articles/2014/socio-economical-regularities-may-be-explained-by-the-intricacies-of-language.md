@@ -1,7 +1,7 @@
 Title: Socio-economical regularities may be explained by the... intricacies of language
 Date: 2014-04-21 07:25
 Author: Aleksejus Kononovicius
-Tags: general information, economics, K. Chen, gross domestic product, languages, macroeconomics, ted.com, video
+Tags: general, economics, K. Chen, gross domestic product, languages, macroeconomics, ted.com, video
 Slug: socio-economical-regularities-may-be-explained-by-the-intricacies-of-language
 Status: published
 

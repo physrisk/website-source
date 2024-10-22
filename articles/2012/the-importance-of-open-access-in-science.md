@@ -1,7 +1,7 @@
 Title: The importance of open access in science
 Date: 2012-12-17 08:24
 Author: Aleksejus Kononovicius
-Tags: general information, PhD Comics, open access, video
+Tags: general, PhD Comics, open access, video
 Slug: the-importance-of-open-access-in-science
 Status: published
 

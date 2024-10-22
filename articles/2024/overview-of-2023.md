@@ -1,7 +1,7 @@
 Title: Overview of 2023
 Date: 2024-01-02 08:00
 Author: Aleksejus Kononovicius
-Tags: general information
+Tags: general
 Slug: overview-of-2023
 Status: published
 Image_url: uploads/2024/overview-of-2023.png

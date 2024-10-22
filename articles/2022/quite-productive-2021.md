@@ -1,7 +1,7 @@
 Title: Quite productive 2021?
 Date: 2022-01-04 08:00
 Author: Aleksejus Kononovicius
-Tags: general information
+Tags: general
 Slug: quite-productive-2021
 Status: published
 Image_url: uploads/2022/quite-productive-2021.png

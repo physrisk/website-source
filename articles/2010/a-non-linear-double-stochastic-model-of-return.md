@@ -1,7 +1,7 @@
 Title: A Non-Linear Double Stochastic Model of Return in Financial Markets
 Date: 2010-11-14 21:48
 Authors: Vygintas Gontis, Julius Ruseckas, Aleksejus Kononovicius
-Tags: general information, stochastic models, 1/f noise, A. Kononovicius, J. Ruseckas, V. Gontis, financial markets
+Tags: general, stochastic models, 1/f noise, A. Kononovicius, J. Ruseckas, V. Gontis, financial markets
 Slug: a-non-linear-double-stochastic-model-of-return
 Status: published
 

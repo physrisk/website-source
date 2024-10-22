@@ -1,7 +1,7 @@
 Title: Randomly generated strange attractors HTML5 applet
 Date: 2013-04-15 07:47
 Author: Aleksejus Kononovicius
-Tags: general information, dynamical chaos, fractals, Wolfram CDF
+Tags: general, dynamical chaos, fractals, Wolfram CDF
 Slug: randomly-generated-strange-attractors-html5-applet
 Status: published
 

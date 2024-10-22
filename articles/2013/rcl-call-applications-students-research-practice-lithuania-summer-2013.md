@@ -1,7 +1,7 @@
 Title: RCL: Call for applications for Students' Research Practice in Lithuania in summer 2013
 Date: 2013-04-25 10:17
 Author: Aleksejus Kononovicius
-Tags: agent-based models, general information, economics, A. Kononovicius, Kirman model, V. Gontis, economic convergence, announcement, students
+Tags: agent-based models, general, economics, A. Kononovicius, Kirman model, V. Gontis, economic convergence, announcement, students
 Slug: rcl-call-applications-students-research-practice-lithuania-summer-2013
 Status: published
 

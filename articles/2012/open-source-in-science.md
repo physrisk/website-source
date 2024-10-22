@@ -1,7 +1,7 @@
 Title: Open source in science
 Date: 2012-05-14 07:32
 Author: Aleksejus Kononovicius
-Tags: general information, methods, open access
+Tags: general, methods, open access
 Slug: open-source-in-science
 Status: published
 
