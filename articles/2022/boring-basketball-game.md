@@ -1,7 +1,7 @@
 Title: Boring basketball game
 Date: 2022-10-25 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, sports, FiveThirtyEight
+Tags: interactive, statistics, sports, FiveThirtyEight
 Slug: boring-basketball-game
 Status: published
 Image_url: uploads/2022/boring-basketball-game.png

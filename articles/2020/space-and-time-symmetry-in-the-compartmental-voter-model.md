@@ -1,7 +1,7 @@
 Title: Space and time symmetry in the compartmental voter model
 Date: 2020-05-19 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, voter model, opinion dynamics, postdoctoral project, compartmental voter model, Zipf's law
+Tags: interactive, agent-based models, voter model, opinion dynamics, postdoctoral project, compartmental voter model, Zipf's law
 Slug: space-and-time-symmetry-in-the-compartmental-voter-model
 Status: published
 Image_url: uploads/2020/space-and-time-symmetry-in-the-compartmental-voter-model.png

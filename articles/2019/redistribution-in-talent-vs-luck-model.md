@@ -1,7 +1,7 @@
 Title: Redistribution in Talent vs Luck model
 Date: 2019-10-08 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, wealth, talent vs luck
+Tags: interactive, agent-based models, wealth, talent vs luck
 Slug: redistribution-in-talent-vs-luck-model
 Status: published
 Image_url: uploads/2019/tvl-model-r.png

@@ -1,7 +1,7 @@
 Title: Poisson process
 Date: 2023-05-02 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, statistical physics, Poisson process, Python
+Tags: interactive, statistics, statistical physics, Poisson process, Python
 Slug: poisson-process
 Status: published
 Image_url: uploads/2023/poisson-process.png

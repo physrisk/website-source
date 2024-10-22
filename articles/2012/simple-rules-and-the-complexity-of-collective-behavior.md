@@ -1,7 +1,7 @@
 Title: Simple rules and the complexity of collective behavior
 Date: 2012-06-25 07:50
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive models
+Tags: agent-based models, interactive
 Slug: simple-rules-and-the-complexity-of-collective-behavior
 Status: published
 Image_url: uploads/2012/simple-rules-and-the-complexity-of-collective-behavior.png

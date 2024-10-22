@@ -1,7 +1,7 @@
 Title: COVID-19: Weibull recovery model
 Date: 2020-10-27 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, epidemiology, statistics, ageing
+Tags: interactive, epidemiology, statistics, ageing
 Slug: covid-19-weibull-recovery
 Status: published
 Image_url: uploads/2020/covid-19-weibull-recovery.png

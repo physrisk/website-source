@@ -1,7 +1,7 @@
 Title: Waiting time distribution
 Date: 2023-05-30 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, statistical physics, Poisson process, ageing
+Tags: interactive, statistics, statistical physics, Poisson process, ageing
 Slug: waiting-time-distribution
 Status: published
 Image_url: uploads/2023/waiting-time-distribution.png

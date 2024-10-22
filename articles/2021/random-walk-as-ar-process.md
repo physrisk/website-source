@@ -1,7 +1,7 @@
 Title: Random walk as AR process
 Date: 2021-09-21 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, stochastic models, time series models, statistical physics, ARFIMA series, Brownian motion, white noise
+Tags: interactive, stochastic models, time series models, statistical physics, ARFIMA series, Brownian motion, white noise
 Slug: random-walk-as-ar-process
 Image_url: uploads/2021/random-walk-as-ar-process.png
 Status: published

@@ -1,7 +1,7 @@
 Title: Waiting time paradox
 Date: 2023-06-13 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, statistical physics, Poisson process, paradox
+Tags: interactive, statistics, statistical physics, Poisson process, paradox
 Slug: waiting-time-paradox
 Status: published
 Image_url: uploads/2023/waiting-time-paradox.png

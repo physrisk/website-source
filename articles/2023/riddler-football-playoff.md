@@ -1,7 +1,7 @@
 Title: Riddler's football playoff
 Date: 2023-02-21 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, statistics, sports, FiveThirtyEight
+Tags: interactive, statistics, sports, FiveThirtyEight
 Slug: riddler-football-playoff
 Status: published
 Image_url: uploads/2023/riddler-football-playoff.png

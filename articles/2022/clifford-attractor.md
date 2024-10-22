@@ -1,7 +1,7 @@
 Title: Clifford attractor
 Date: 2022-05-24 08:00
 Author: Aleksejus Kononovicius
-Tags: dynamical chaos, fractals, interactive models
+Tags: dynamical chaos, fractals, interactive
 Slug: clifford-attractor
 Status: published
 Image_url: uploads/2022/clifford-attractor-infinity.png

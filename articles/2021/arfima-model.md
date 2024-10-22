@@ -1,7 +1,7 @@
 Title: ARFIMA(p, d, q) model
 Date: 2021-12-14 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, fractals, time series models, ARFIMA series, Brownian motion
+Tags: interactive, fractals, time series models, ARFIMA series, Brownian motion
 Slug: arfima-model
 Image_url: uploads/2021/arfima-model.png
 Status: published

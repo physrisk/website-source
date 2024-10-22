@@ -1,7 +1,7 @@
 Title: Mark's differentiation model
 Date: 2019-04-30 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, opinion dynamics, postdoctoral project
+Tags: interactive, agent-based models, opinion dynamics, postdoctoral project
 Slug: mark-differentiation-model
 Status: published
 Image_url: uploads/2019/mark-differentiation-model.png

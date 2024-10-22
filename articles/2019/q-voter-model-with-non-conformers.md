@@ -1,7 +1,7 @@
 Title: q-Voter model with non-conformers
 Date: 2019-04-16 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, opinion dynamics, voter model, diamond social response model, postdoctoral project
+Tags: interactive, agent-based models, opinion dynamics, voter model, diamond social response model, postdoctoral project
 Slug: q-voter-model-with-non-conformers
 Status: published
 Image_url: uploads/2019/q-voter-model-with-non-conformers.png

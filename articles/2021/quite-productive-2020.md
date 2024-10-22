@@ -20,7 +20,7 @@ posts in advance. The posts were mostly inspired by email discussions with my
 colleagues.
 
 All in all, Physics Risk had 41 posts in 2020 (+2 posts in comparison to 2019).
-22 of posts were filled under [interactive models](/tag/interactive-models/)
+22 of posts were filled under [interactive models](/tag/interactive/)
 tag. I was not sure if I will be able to keep the tempo up, but I managed this
 year by shrugging of some of the extraneous responsibilities. Once again, I
 start new year with doubts about the future of Physics of Risk, because I still

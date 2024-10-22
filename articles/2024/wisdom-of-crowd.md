@@ -1,7 +1,7 @@
 Title: Wisdom of the crowd
 Date: 2024-11-12 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, opinion dynamics, agent-based models, DeGroot model
+Tags: interactive, opinion dynamics, agent-based models, DeGroot model
 Slug: wisdom-of-crowd
 Status: draft
 Image_url: uploads/2024/wisdom-of-crowd.png

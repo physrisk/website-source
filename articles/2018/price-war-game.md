@@ -1,7 +1,7 @@
 Title: Phase transition in the "price war" game?
 Date: 2018-02-13 08:00
 Author: Aleksejus Kononovicius
-Tags: economics, market price, free market, supply and demand, competition, game theory, price formation series, interactive models
+Tags: economics, market price, free market, supply and demand, competition, game theory, price formation series, interactive
 Slug: price-war-game
 Status: published
 Image_url: uploads/2018/price-war-game.png

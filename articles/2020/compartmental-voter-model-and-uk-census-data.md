@@ -1,7 +1,7 @@
 Title: Compartmental voter model and UK census data
 Date: 2020-06-16 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, voter model, opinion dynamics, postdoctoral project, compartmental voter model, Zipf's law
+Tags: interactive, agent-based models, voter model, opinion dynamics, postdoctoral project, compartmental voter model, Zipf's law
 Slug: compartmental-voter-model-and-uk-census-data
 Status: published
 Image_url: uploads/2020/compartmental-voter-model-and-uk-census-data.png

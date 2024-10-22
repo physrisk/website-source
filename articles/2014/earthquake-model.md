@@ -1,7 +1,7 @@
 Title: Earthquake model
 Date: 2014-10-20 08:25
 Author: Aleksejus Kononovicius
-Tags: dynamical chaos, interactive models, cellular automata, geology, self-organized criticality
+Tags: dynamical chaos, interactive, cellular automata, geology, self-organized criticality
 Slug: earthquake-model
 Status: published
 

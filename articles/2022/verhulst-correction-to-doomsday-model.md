@@ -1,7 +1,7 @@
 Title: Verhulst correction to Doomsday model
 Date: 2022-03-29 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, politics, biology, Worldometer
+Tags: interactive, politics, biology, Worldometer
 Slug: verhulst-correction-to-doomsday-model
 Status: published
 Image_url: uploads/2022/verhulst-correction-to-doomsday-model.png

@@ -1,7 +1,7 @@
 Title: Bornholdt's heterogeneous agent-based spin model for financial markets
 Date: 2011-05-05 09:23
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive models, financial markets, Ising model
+Tags: agent-based models, interactive, financial markets, Ising model
 Slug: bornholdt-model
 Status: published
 Image_url: uploads/2011/bornholdt-model.png

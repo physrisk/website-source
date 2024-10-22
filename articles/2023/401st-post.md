@@ -39,7 +39,7 @@ tags. We have counted how many times each tag was used to tag a post.
 After the counting we have ranked (ordered) tags based on the respective
 popularity. To simplify the analysis, we have divided all counts by the top
 count (162 posts were tagged with [Interactive
-models](/tag/interactive-models/) tag) thus obtaining their relative
+models](/tag/interactive/) tag) thus obtaining their relative
 occurrences. Finally we have plotted the obtained data on log-log axes.
 
 ![Zipf's plot for the relative tag occurances on Physics of Risk

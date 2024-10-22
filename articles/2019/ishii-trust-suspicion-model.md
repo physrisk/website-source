@@ -1,7 +1,7 @@
 Title: A. Ishii trust and suspicion model
 Date: 2019-11-19 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, opinion dynamics, bounded confidence, trust and suspicion, postdoctoral project
+Tags: interactive, agent-based models, opinion dynamics, bounded confidence, trust and suspicion, postdoctoral project
 Slug: ishii-trust-suspicion-model
 Status: published
 Image_url: uploads/2019/ishii-trust.png

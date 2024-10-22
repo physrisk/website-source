@@ -1,7 +1,7 @@
 Title: Core-periphery network models
 Date: 2013-10-07 07:45
 Author: Aleksejus Kononovicius
-Tags: interactive models, networks, Barabasi-Albert model, Erdos-Renyi model
+Tags: interactive, networks, Barabasi-Albert model, Erdos-Renyi model
 Slug: core-periphery-network-models
 Status: published
 Image_url: uploads/2013/core-periphery-network-models.png

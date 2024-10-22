@@ -1,7 +1,7 @@
 Title: Future of Java applets and How to launch Java applets?
 Date: 2014-06-23 07:41
 Author: Aleksejus Kononovicius
-Tags: general, interactive models, Java
+Tags: general, interactive, Java
 Slug: future-of-java-applets-and-how-to-launch-java-applets
 Status: published
 Image_url: uploads/2014/future-of-java-applets-and-how-to-launch-java-applets.jpg

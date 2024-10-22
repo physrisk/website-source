@@ -1,7 +1,7 @@
 Title: COVID-19: Recovery model with convolution
 Date: 2020-11-10 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, epidemiology, statistics, convolution
+Tags: interactive, epidemiology, statistics, convolution
 Slug: covid-19-recovery-model-convolution
 Status: published
 Image_url: uploads/2020/covid-19-recovery-model-convolution.png

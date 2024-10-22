@@ -1,7 +1,7 @@
 Title: Hierarchical voting model
 Date: 2018-12-18 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, opinion dynamics, statistical physics, postdoctoral project
+Tags: interactive, agent-based models, opinion dynamics, statistical physics, postdoctoral project
 Slug: hierarchical-voting-model
 Status: published
 Image_url: uploads/2018/hierarchical-voting-model.png

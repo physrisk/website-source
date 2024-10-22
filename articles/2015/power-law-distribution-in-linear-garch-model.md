@@ -1,7 +1,7 @@
 Title: Power-law distribution in linear GARCH model
 Date: 2015-03-17 07:04
 Author: Aleksejus Kononovicius
-Tags: economics, interactive models, stochastic models, A. Kononovicius, J. Ruseckas, ARCH process, financial markets
+Tags: economics, interactive, stochastic models, A. Kononovicius, J. Ruseckas, ARCH process, financial markets
 Slug: power-law-distribution-in-linear-garch-model
 Status: published
 Image_url: uploads/2015/power-law-distribution-in-linear-garch-model.png

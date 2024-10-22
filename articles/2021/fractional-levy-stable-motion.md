@@ -1,7 +1,7 @@
 Title: Fractional Levy stable motion
 Date: 2021-12-28 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, fractals, ARFIMA series, Brownian motion, Levy processes
+Tags: interactive, fractals, ARFIMA series, Brownian motion, Levy processes
 Slug: fractional-levy-stable-motion
 Image_url: uploads/2021/fractional-levy-stable-motion.png
 Status: published

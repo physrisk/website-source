@@ -1,7 +1,7 @@
 Title: Describing high-frequency trader's behavior in the order book
 Date: 2018-10-30 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, agent-based models, financial markets, order book, kinetic models, postdoctoral project
+Tags: interactive, agent-based models, financial markets, order book, kinetic models, postdoctoral project
 Slug: describing-high-frequency-traders-behavior-in-the-order-book
 Status: published
 Image_url: uploads/2018/describing-high-frequency-traders-behavior-in-the-order-book.png
