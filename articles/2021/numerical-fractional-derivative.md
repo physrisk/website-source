@@ -100,6 +100,6 @@ cases, one needs to include dependence on interval width \\\( \Delta \\\).
 
 For JavaScript implementation check JavaScript files of the both app for
 fractional derivative of \\\( f(x) = x \\\)
-[here](https://raw.githubusercontent.com/akononovicius/physRisk-model-repository/main/frac-diff/index.js) or \\\( f(x) = \sin(x) \\\)
-[here](https://raw.githubusercontent.com/akononovicius/physRisk-model-repository/main/frac-diff/sine.js) (in both implementations you'll
+[here](https://github.com/physrisk/website-source/blob/main/uploads/models/frac-diff/index.js) or \\\( f(x) = \sin(x) \\\)
+[here](https://github.com/physrisk/website-source/blob/main/uploads/models/frac-diff/sine.js) (in both implementations you'll
 find `frac_deriv` function).

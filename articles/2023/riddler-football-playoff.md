@@ -156,7 +156,7 @@ necessarily ranked.
 Integrating the final integral by hand is problematic, but any specialized
 computer algebra system can do it for us. The result involves couple of
 natural logarithms and a special [Riemann zeta
-function](https://en.wikipedia.org/wiki/Riemann_zeta_function/), which is at
+function](https://en.wikipedia.org/wiki/Riemann_zeta_function), which is at
 the core of one of the hardest problems faced by modern mathematics
 ([Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis)).
 But we are interested in at least an approximation of the true result. It

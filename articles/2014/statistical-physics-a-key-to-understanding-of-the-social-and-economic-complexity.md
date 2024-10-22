@@ -10,8 +10,8 @@ Originally I have written
 this article back in the end of 2013 and submitted it to a pop-science
 article contest organized by three locally well-known pop-science blogs
 "[Mokslo sriuba](https://www.mokslosriuba.lt)" (en. Science soup; online
-pop-science web-show), [technologijos.lt](https://www.technologijos.lt/)
-(en. technology; general science news portal) and
+pop-science web-show), technologijos.lt (edit:
+currently defunct general science news portal) and
 [konstanta.lt](https://www.konstanta.lt) (en. constant; very popular blog
 dedicated to astronomy and astrophysics). The article was rather
 successful and won the scientific jury prize in the contest!

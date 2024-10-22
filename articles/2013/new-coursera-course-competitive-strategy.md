@@ -7,7 +7,7 @@ Status: published
 
 On the 1st of July video course
 [Competitive
-Strategy](https://class.coursera.org/compstrategy-001/class/index) was
+Strategy](https://www.coursera.org/learn/competitive-strategy) was
 started on the [Coursera website](https://www.coursera.org/). The aim of
 this course is to provide elementary background on the game theory and
 also to allow to understand how this theory can be useful in practice.

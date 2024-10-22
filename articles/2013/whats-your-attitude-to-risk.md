@@ -9,4 +9,4 @@ On the
 BBC Lab UK website you can take the Big Risk Test, which will help you
 understand your attitude to risk and why it is as it is.
 
-[Take the test »](https://ssl.bbc.co.uk/labuk/articles/risk/)
+<del>Take the test »</del> (edit: no longer available)

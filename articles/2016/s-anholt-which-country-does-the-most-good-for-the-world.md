@@ -18,4 +18,4 @@ src="https://embed.ted.com/talks/simon\_anholt\_which\_country\_does\_the\_most\
 width="560" height="315"\]
 
 You might also be interested to study [Good Country
-Index](https://goodcountry.org/index/overall-rankings) on your own.
+Index](https://goodcountry.org) on your own.

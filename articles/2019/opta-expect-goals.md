@@ -13,7 +13,7 @@ commentators tend to give the way to emotions and leave rational thinking on the
 bench. Yet with the modern technology and understanding of statistics it is
 quite possible to calculate odds of scoring a goal in a particular situation.
 
-Watch this video by [Opta](https://www.optasports.com/) in which their metric
+Watch this video by Opta in which their metric
 "expected goals" is explained. Though it is not very detailed explanation, but
 it could spark your own imagination.
 
