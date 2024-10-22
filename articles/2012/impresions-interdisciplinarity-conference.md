@@ -1,7 +1,7 @@
 Title: Aleksejus Kononovicius: Impressions from the Interdisciplinarity conference
 Date: 2012-01-30 09:00
 Author: Aleksejus Kononovicius
-Tags: general information, economics, A. Kononovicius, FuturICT, conference
+Tags: general, economics, A. Kononovicius, FuturICT, conference
 Slug: impresions-interdisciplinarity-conference
 Status: published
 

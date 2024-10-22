@@ -1,7 +1,7 @@
 Title: Download rates of our open-access review
 Date: 2012-12-03 07:42
 Author: Aleksejus Kononovicius
-Tags: general information, stochastic models, A. Kononovicius, J. Ruseckas, V. Gontis, open access, internet
+Tags: general, stochastic models, A. Kononovicius, J. Ruseckas, V. Gontis, open access, internet
 Slug: download-rates-of-our-open-access-review
 Status: published
 

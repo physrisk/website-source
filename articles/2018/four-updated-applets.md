@@ -1,7 +1,7 @@
 Title: <del>Four</del> Three updated applets
 Date: 2018-01-23 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive models, general information, Java, github
+Tags: interactive models, general, Java, github
 Slug: four-updated-applets
 Status: published
 

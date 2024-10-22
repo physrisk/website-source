@@ -1,7 +1,7 @@
 Title: Lithuanian scientists join the FuturICT project
 Date: 2012-01-13 13:52
 Author: Aleksejus Kononovicius
-Tags: general information, economics, FuturICT
+Tags: general, economics, FuturICT
 Slug: lithuanian-scientists-join-futurict-project
 Status: published
 

@@ -1,7 +1,7 @@
 Title: When education becomes the last priority...
 Date: 2019-12-10 08:00
 Author: Aleksejus Kononovicius
-Tags: general information, Vilnius University, popular culture, politics, economics
+Tags: general, Vilnius University, popular culture, politics, economics
 Slug: when-education-becomes-the-last-priority
 Status: published
 Image_url: uploads/2019/last-priority.png

@@ -1,7 +1,7 @@
 Title: Slides from the “Science for business and society” conference
 Date: 2011-11-04 11:31
 Author: Aleksejus Kononovicius
-Tags: general information, economics, Science for business and society, V. Daniunas, V. Gontis, conference
+Tags: general, economics, Science for business and society, V. Daniunas, V. Gontis, conference
 Slug: slides-from-science-business-society-conference
 Status: published
 

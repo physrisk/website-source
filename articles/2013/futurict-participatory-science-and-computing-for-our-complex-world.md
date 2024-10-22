@@ -1,7 +1,7 @@
 Title: FuturICT: participatory science and computing for our complex world
 Date: 2013-01-14 08:13
 Author: Aleksejus Kononovicius
-Tags: agent-based models, general information, economics, stochastic models, network models, FuturICT, open access, traffic, financial markets, politics, marketing, statistical physics
+Tags: agent-based models, general, economics, stochastic models, network models, FuturICT, open access, traffic, financial markets, politics, marketing, statistical physics
 Slug: futurict-participatory-science-and-computing-for-our-complex-world
 Status: published
 

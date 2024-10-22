@@ -1,7 +1,7 @@
 Title: New things on Physics of Risk
 Date: 2012-01-02 18:18
 Author: Aleksejus Kononovicius
-Tags: general information
+Tags: general
 Slug: new-things-physics-risk
 Status: published
 
