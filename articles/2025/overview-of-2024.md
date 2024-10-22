@@ -9,7 +9,7 @@ Image_url: uploads/2025/overview-of-2024.png
 Happy New Year! It is time for our yearly reflection. Unexpectedly, we just
 had another good year on Physics of Risk. At least content-wise. We have
 published 36 posts (+3 in comparison to the [previous
-year]({filename}/articles/2024/overview-2023.md)). Half of the posts, 18 in
+year]({filename}/articles/2024/overview-of-2023.md)). Half of the posts, 18 in
 total, were supplemented by [interactive
 materials](/tag/interactive/). Overall trend remains more-or-less
 stable as can be seen from the plot below. 
