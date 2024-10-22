@@ -1,7 +1,7 @@
 Title: ARIMA(p, d, q) models
 Date: 2021-11-02 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, time series models, ARFIMA series
+Tags: interactive, time series models, topic: ARFIMA
 Slug: arima-models
 Image_url: uploads/2021/arima-models.png
 Status: published
@@ -13,7 +13,7 @@ to look at. This time lets take into account letter I (which stands for
 "integrated") - lets look at ARIMA models. 
 <!--more-->
 
-Although in [the earlier posts](/tag/arfima-series/) we have seen that
+Although in [the earlier posts](/tag/topic-arfima/) we have seen that
 ARMA(p, q) models can produce non-stationary time series, fitting these
 models to non-stationary data is quite problematic. Therefore in practice
 ARMA(p, q) models are used to study and forecast only stationary time
