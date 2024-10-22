@@ -12,7 +12,8 @@ of how specific socio-demographic factors influence voting behavior. In
 interested only in contagion effects. Though some of the models sometimes are
 more sophisticated and include things like
 [bounded confidence](/tag/bounded-confidence/), [explicit](/tag/networks/)
-or implicit (like in [Ishii's trust and suspicion models](/tag/trust-and-suspicion/)
+or implicit (like in [Ishii's trust and suspicion
+models]({filename}/articles/2019/ishii-trust-suspicion-model.md)
 we have recently discussed) network structure, which effectively segment the
 society into separate groups. Yet these groups are surely not equivalent to the
 socio-demographic groups.<!--more-->

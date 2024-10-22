@@ -12,9 +12,9 @@ the DeGroot model [cite id="DeGroot1974, Noorazar2020"]. Prior to those papers I
 even heard or paid much attention to it. So I felt a bit curious.
 
 At a first glance DeGroot model appears to be similar to the [trust and
-suspicion](/tag/trust-and-suspicion/) models we have discussed few years
-ago. Also, in the broadest strokes it likely inspired [bounded
-confidence](/tag/bounded-confidence/) models.
+suspicion models]({filename}/articles/2019/ishii-trust-suspicion-model.md) we have
+discussed few years ago. Also, in the broadest strokes it likely inspired
+[bounded confidence](/tag/bounded-confidence/) models.
 
 But let us see what it is actually about!
 <!--more-->
