@@ -1,7 +1,7 @@
 Title: Conference "Science for business and society"
 Date: 2011-10-19 14:46
 Author: Aleksejus Kononovicius
-Tags: general, economics, Science for business and society, V. Daniunas, V. Gontis, conference, announcement
+Tags: general, economics, Science for business and society, V. Daniunas, V. Gontis, conference
 Slug: conference-science-for-business-and-society
 Status: published
 

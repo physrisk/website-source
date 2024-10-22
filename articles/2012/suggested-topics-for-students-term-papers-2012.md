@@ -1,7 +1,7 @@
 Title: Suggested topics for the students' term papers
 Date: 2012-03-05 10:21
 Authors: Vygintas Gontis, Aleksejus Kononovicius
-Tags: general, announcement, students
+Tags: general, students
 Slug: suggested-topics-for-students-term-papers-2012
 Status: published
 
