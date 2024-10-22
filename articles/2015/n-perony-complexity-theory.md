@@ -1,7 +1,7 @@
 Title: N. Perony on complexity theory
 Date: 2015-09-01 08:17
 Author: Aleksejus Kononovicius
-Tags: dynamical chaos, economics, network models, N. Perony, biology, ted.com, video
+Tags: dynamical chaos, economics, networks, N. Perony, biology, ted.com, video
 Slug: n-perony-complexity-theory
 Status: published
 

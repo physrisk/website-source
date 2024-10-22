@@ -1,7 +1,7 @@
 Title: An impossible bet
 Date: 2015-02-03 07:50
 Author: Aleksejus Kononovicius
-Tags: network models, video
+Tags: networks, video
 Slug: impossible-bet
 Status: published
 

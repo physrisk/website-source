@@ -10,7 +10,7 @@ Here we will briefly present another classic agent-based model - Axelrod's model
 
 ## Model specification
 
-In this model agents are placed on a square grid. In general the agents could placed on any [network topology](/tag/network-models/), but square grid is rather common choice for the simple models. In the interactive applet below the grid is toroidal (the edges of the grid are connected to the opposite edges of the grid).
+In this model agents are placed on a square grid. In general the agents could placed on any [network topology](/tag/networks/), but square grid is rather common choice for the simple models. In the interactive applet below the grid is toroidal (the edges of the grid are connected to the opposite edges of the grid).
 
 Each cell on the grid represents a single agent. The agents in this model do not move (they are "locked" to their cells). Each of the agents has a certain culture. Here culture is characterized by a set of features (such as language, religion or other cultural "dimensions"). Each feature may take on any value from a given set of alternatives. These alternative values are referred to as traits. For example, language feature could take on traits "English", "French" or "Lithuanian", religion feature could take on traits "Christian", "Atheist" or "Muslim". To keep the model simple it is assumed that the number of alternative traits is the same for each feature.
 

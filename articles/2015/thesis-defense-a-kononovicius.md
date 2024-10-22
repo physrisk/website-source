@@ -1,7 +1,7 @@
 Title: Thesis defense of A. Kononovicius
 Date: 2015-12-14 07:38
 Author: Aleksejus Kononovicius
-Tags: agent-based models, general, stochastic models, network models, 1/f noise, A. Kononovicius, voter model, Kirman model, financial markets, burst statistics, statistical physics
+Tags: agent-based models, general, stochastic models, networks, 1/f noise, A. Kononovicius, voter model, Kirman model, financial markets, burst statistics, statistical physics
 Slug: thesis-defense-a-kononovicius
 Status: published
 Image_url: uploads/2015/thesis-defense-a-kononovicius.jpg

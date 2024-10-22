@@ -1,7 +1,7 @@
 Title: Some terms related to the graph theory
 Date: 2012-04-16 08:00
 Author: Julius Ruseckas
-Tags: network models
+Tags: networks
 Slug: some-terms-related-to-the-graph-theory
 Status: published
 Image_url: uploads/2012/some-terms-related-to-the-graph-theory.png

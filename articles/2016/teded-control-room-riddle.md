@@ -1,7 +1,7 @@
 Title: TEDed: Control room riddle
 Date: 2016-11-15 07:12
 Author: Aleksejus Kononovicius
-Tags: network models, ted.com, video
+Tags: networks, ted.com, video
 Slug: teded-control-room-riddle
 Status: published
 

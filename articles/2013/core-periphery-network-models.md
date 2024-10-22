@@ -1,7 +1,7 @@
 Title: Core-periphery network models
 Date: 2013-10-07 07:45
 Author: Aleksejus Kononovicius
-Tags: interactive models, network models, Barabasi-Albert model, Erdos-Renyi model
+Tags: interactive models, networks, Barabasi-Albert model, Erdos-Renyi model
 Slug: core-periphery-network-models
 Status: published
 Image_url: uploads/2013/core-periphery-network-models.png
@@ -21,7 +21,7 @@ similar network topology may form not only due to the conspiracy of
 these institutions, but also due to the other reasons.
 
 Thus in this text we continue our topic on the [network formation
-models](/tag/network-models/). This
+models](/tag/networks/). This
 time we will be interested in the so-called core-periphery network
 formation models, which will grow networks with well pronounced core and
 periphery.<!--more-->
