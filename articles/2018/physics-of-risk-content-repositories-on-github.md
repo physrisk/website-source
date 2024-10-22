@@ -1,7 +1,7 @@
 Title: Physics of Risk content repositories on github
 Date: 2018-01-13 11:47
 Author: Aleksejus Kononovicius
-Tags: announcement, github
+Tags: general, github
 Slug: physics-of-risk-content-repositories-on-github
 Status: published
 
