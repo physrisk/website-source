@@ -1,7 +1,7 @@
 Title: Dynamical model of dating apps
 Date: 2022-12-06 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, dating apps series, statistical physics
+Tags: interactive, statistics, topic: dating apps, statistical physics
 Slug: dynamic-model-dating-apps
 Status: published
 Image_url: uploads/2022/dating-apps-dynamic.png

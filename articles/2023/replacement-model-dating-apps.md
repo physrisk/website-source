@@ -1,13 +1,13 @@
 Title: Replacement model of dating apps
 Date: 2023-01-10 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, dating apps series, statistical physics
+Tags: interactive, statistics, topic: dating apps, statistical physics
 Slug: replacement-model-dating-apps
 Status: published
 Image_url: uploads/2023/replacement-model-dating-apps.png
 
 In this post I [continue my
-exploration](/tag/dating-apps-series/) of the [cite id="Olmeda2022Dating"].
+exploration](/tag/topic-dating-apps/) of the [cite id="Olmeda2022Dating"].
 This time let us consider what happens if the users who were matched are
 replaced by a random sample from the population. Will only the least and
 most attractive ones remain unmatched?

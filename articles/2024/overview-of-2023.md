@@ -21,7 +21,7 @@ This year we have mostly focused on the various properties of [Poisson
 processes](/tag/poisson-process/) and related topics (such as [point
 processes](/tag/point-process/) and [shot noise](/tag/shot-noise/)).
 Otherwise we have finished a series of posts from the 2022 on the
-statistical modeling of [dating apps](/tag/dating-apps-series/).
+statistical modeling of [dating apps](/tag/topic-dating-apps/).
 
 There were also some major changes "under the hood". First of all we have
 moved from local server, which was managed by ourselves, to GitHub Pages.

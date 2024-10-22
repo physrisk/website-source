@@ -1,13 +1,13 @@
 Title: Picky-shy model of dating apps
 Date: 2023-01-24 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, dating apps series, statistical physics
+Tags: interactive, statistics, topic: dating apps, statistical physics
 Slug: picky-shy-model-dating-apps
 Status: published
 Image_url: uploads/2023/dating-apps-pickyshy.png
 
 This is the final post (at least for the foreseeable future) on the
-[statistical physics of dating apps](/tag/dating-apps-series/) [cite
+[statistical physics of dating apps](/tag/topic-dating-apps/) [cite
 id="Olmeda2022Dating"]. In this post we will introduce two types of the
 users: some of them will be picky (giving likes predominantly to more
 attractive users), while some of them will be shy (giving likes
