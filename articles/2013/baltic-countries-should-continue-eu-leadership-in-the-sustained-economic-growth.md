@@ -55,7 +55,7 @@ And two averages of time series in the considered time intervals:
     `POWER(10;LOG(BVP(2012)/BVP(1995))/17)-1)*100`, %,
 2.  Average of ratio gross earning/GDP.
 
-[external-interactive
+[html5-interactive
 url="/uploads/models/data-driven-apps/gdp-statplanet/index.html"
 imgurl="/uploads/models/data-driven-apps/gdp-statplanet/index.jpg"
 mode="img"]
