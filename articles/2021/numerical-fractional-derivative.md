@@ -71,7 +71,7 @@ def frac_diff(x: list[float], d: float) -> list[float]:
 
     # convolution throught frequency domain
     dx = ifft(fft(x, fft_len) * fft(frac_diff_coefs, fft_len))
-    
+
     return np.real(dx[0:n_points])
 ```
 

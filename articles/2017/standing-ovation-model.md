@@ -76,7 +76,7 @@ uncomfortable (black curve is at 0).")
 ![periodic patches 2]({static}/uploads/2017/standing-ovation-model-diagonal.png "Periodic ovation has developed. Agents stand up and after some time sit down. A fraction of agents remains uncomfortable. The main difference from the previous example is a shape of the 'front.'")
 
 ![applause dies down]({static}/uploads/2017/standing-ovation-model-dies-down.png "After some time applause dies down (green curve is at 0). No agents feel uncomfortable (black curve is at 0).")
- 
+
 Interactive HTML5 applet
 ------------------------
 

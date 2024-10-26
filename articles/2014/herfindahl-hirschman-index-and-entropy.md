@@ -33,7 +33,7 @@ HHI is defined as:
 \begin{equation}
  H^{\*} = \frac{\sum\limits\_{i=1}^N \left\[ s\_i^2\right\] - \frac{1}{N}}{1-\frac{1}{N}} . 
 \end{equation}
-  
+
 The general form of normalized HHI suggests that now it describes how
 far the market is from being equally divided. Note that \\\( H^{\*} \\\) and \\\(  H \\\) may be very different for small \\\(  N \\\).
 E.g., if \\\(  N=2 \\\), \\\(  s\_1 = s\_2 = 0.5 \\\), then \\\( H^{\*}=0 \\\) and \\\(  H=0.5 \\\). The difference lies in an intuition
@@ -57,7 +57,7 @@ mathematical form is very similar:
 \begin{equation}
  S = - k\_B \sum\_{i=1}^N p\_i \ln p\_i . 
 \end{equation}
-  
+
 Though note that larger entropy means larger competition (more states
 with equal probabilities).
 

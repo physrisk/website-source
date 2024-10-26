@@ -23,5 +23,3 @@ We invite you to explore the data using the new app!
 [html5-interactive
 url="/uploads/models/data-driven-apps/gdp-comparison/index-ppp.html\#countries=132,65,134.fromy=1995.toy=-9999.normy=1995"
 mode="img" imgurl="/uploads/models/data-driven-apps/gdp-comparison/gdp-comparison-ppp.jpg"]
-
- 
