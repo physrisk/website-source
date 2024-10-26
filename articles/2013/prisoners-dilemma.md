@@ -14,7 +14,7 @@ used as a base for a TV game. Watch a fragment of the "[Golden
 Balls](https://en.wikipedia.org/wiki/Golden_Balls)" final stage called
 "Split or steal".
 
-[youtube v="p3Uos2fzIJ0"]
+[youtube v="z2DmzX_BP-A"]
 
 The game is very simple, yet it possesses no correct solution or optimal
 strategy. Interestingly enough it can also be used as model for
