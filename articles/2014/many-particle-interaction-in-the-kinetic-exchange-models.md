@@ -12,7 +12,8 @@ introduction of the many particle interactions. In the ideal gasses
 these interactions do not occur, but in the social systems they might
 have interesting consequences. Namely they might be used to explain why
 certain voting events (elections, referendums) yield unpredictable
-results.<!--more-->
+results.
+<!--more-->
 
 Impact of many particle interactions on the wealth (energy) distribution
 ------------------------------------------------------------------------

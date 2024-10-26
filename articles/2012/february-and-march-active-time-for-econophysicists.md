@@ -16,7 +16,8 @@ have given oral and poster presentations at these conference.
 Presentations were mostly concerned with our newest achievements in [the
 applications of Kirman
 model](/tag/kirman-model/) and [burst
-statistics](/tag/burst-statistics/).<!--more-->
+statistics](/tag/burst-statistics/).
+<!--more-->
 
 Two oral presentation in the sixth international conference on "Unsolved
 Problems on Noise" were given by B. Kaulakys. He gave a speech on our

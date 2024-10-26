@@ -29,7 +29,8 @@ approximate, but one can arrive reasonably near the actual answer.
 Next we illustrate this method by applying it towards three geometric
 shapes - square, circle and Euclidean egg. Why the Euclidean egg? Well,
 there are numerous reasons for it, one of them being Easter. Happy
-Easter!<!--more-->
+Easter!
+<!--more-->
 
 Unit square
 -----------

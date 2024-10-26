@@ -17,7 +17,8 @@ somewhat widely used by the practitioners.
 
 In the next couple of blog posts we will present the main results of the
 manuscript. We will start with a simple demonstration that GARCH(1,1)
-model may exhibit power law distributions<!--more-->
+model may exhibit power law distributions
+<!--more-->
 
 The main idea behind GARCH models is very simple - some economic
 variables are heteroskedastic. Namely they may be modeled as two

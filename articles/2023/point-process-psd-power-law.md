@@ -11,7 +11,8 @@ post]({filename}/articles/2023/point-process-psd-weibull.md) we have seen
 that introducing memory into the memory-less [Poisson
 process](/tag/poisson-process/) makes things very complicated. But we
 haven't yet still seen [1/f noise](/tag/1f-noise/). So now let us consider
-power-law distributed inter-event times!<!--more-->
+power-law distributed inter-event times!
+<!--more-->
 
 ## Pareto distributed inter-event times
 

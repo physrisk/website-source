@@ -18,7 +18,8 @@ successful and won the scientific jury prize in the contest!
 
 Now, after the contest has ended, I can publish this article (and its
 English translation) on "Physics of Risk". So I invite you to read
-on!<!--more-->
+on!
+<!--more-->
 
 Imagine - you are currently in the theater. You have just seen a play.
 While it wasn't that bad, it still wasn't that good. Still somebody have

@@ -30,7 +30,8 @@ function of rank:
 With the dependence being close to the inverse law (i.e.,
 \\\( \alpha \approx 1 \\\)).
 
-So, will it hold?<!--more-->
+So, will it hold?
+<!--more-->
 
 ## Tag popularity
 

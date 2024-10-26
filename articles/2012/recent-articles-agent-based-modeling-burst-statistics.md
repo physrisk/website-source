@@ -10,7 +10,8 @@ issue (will be made available in February, 2012) our article \[cite
 id="Kononovicius2012PhysA"\] will be published. The article is on the
 agent-based reasoning for the stochastic models. Basically this article
 incorporates knowledge obtained while working on the simple models
-provided on Physics of Risk:<!--more-->
+provided on Physics of Risk:
+<!--more-->
 
 -   [Stochastic ant colony model]({filename}/articles/2010/stochastic-ant-colony-model.md),
 -   [Agent based herding model of financial markets]({filename}/articles/2011/agent-based-herding-model-financial-markets.md),

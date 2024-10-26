@@ -27,7 +27,8 @@ result of different productivities in tradable and not tradable sectors
 of the economy. The research in contemporary international
 macroeconomics forces us to acknowledge that this phenomenon is much
 more general and Balassa Samuelson effect is only one of all possible
-explanations.<!--more-->
+explanations.
+<!--more-->
 
 This should be obvious that the problem of economic convergence we are
 interested might have roots in Penn effect. If price levels and

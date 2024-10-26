@@ -19,7 +19,8 @@ This time we will consider a modification of [Ising
 model]({filename}/articles/2010/ising-model.md), which describes
 disordered magnet (a so-called spin glass). In this text we will briefly
 cover the essential feature of spin glasses as well as provide
-interactive HTML5 applet of the spin glasses.<!--more-->
+interactive HTML5 applet of the spin glasses.
+<!--more-->
 
 What is a disordered magnet?
 ----------------------------

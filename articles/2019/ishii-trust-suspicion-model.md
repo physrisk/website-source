@@ -12,7 +12,8 @@ formation in human societies [cite id="Ishii2019GDN"]. His model is based on two
 antipodal concepts in human interactions: trust and suspicion.
 
 In this post we will introduce the trust and suspicion model for the case with
-two agents.<!--more-->
+two agents.
+<!--more-->
 
 So let us assume that there two agents. Each of them has certain opinion
 \\\( O\_i \\\) on certain subject. These two agents need to define their outlook

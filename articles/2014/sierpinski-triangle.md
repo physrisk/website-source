@@ -15,7 +15,8 @@ iterative operations related to triangles (primarily).
 In this text we will discuss iterative removal of triangles, shrinking and
 duplication, chaos game. We will also briefly mention [Lindenmayer
 system](/tag/l-system/), [cellular automata](/tag/cellular-automata/) and
-Pascal's triangles.<!--more-->
+Pascal's triangles.
+<!--more-->
 
 Iterative removal of triangles
 ------------------------------

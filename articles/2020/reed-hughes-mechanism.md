@@ -13,7 +13,8 @@ From theoretical point-of-view it is interesting why power-law distribution is
 observed in the data, as typical epidemic spread is characterized by
 an exponential distribution (at least the [SIR model]({filename}/articles/2020/sir-model.md)
 predicts this). Yet, the explanation is pretty simple and is based on
-the Reed-Hughes mechanism [cite id="Reed2002PRE"].<!--more-->
+the Reed-Hughes mechanism [cite id="Reed2002PRE"].
+<!--more-->
 
 So, [SIR model]({filename}/articles/2020/sir-model.md) predicts that in the
 initial stage of epidemic the growth of confirmed cases will be exponential.

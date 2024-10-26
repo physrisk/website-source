@@ -17,7 +17,8 @@ In the [fourth part]({filename}/articles/2018/price-formation-game-theory.md) we
 
 In the [fifth part]({filename}/articles/2018/price-formation-should-we-turn-to-economic-nationalism.md) we have also analyzed the proposed alternative to the "neo-liberal" idea of the globalization and the free trade. We have concluded that it is a terrible idea, which is neither novel, nor successful.
 
-Through out this series of posts we have discussed few simple models lying behind the idea of free markets. We have discussed the assumptions, which are made and which must hold for the free markets to produce desirable outcome. From these posts, and many others on Physics of Risk, we should have obtained a good understanding that self-organization does not always result in a "good" (desired) outcome.<!--more-->
+Through out this series of posts we have discussed few simple models lying behind the idea of free markets. We have discussed the assumptions, which are made and which must hold for the free markets to produce desirable outcome. From these posts, and many others on Physics of Risk, we should have obtained a good understanding that self-organization does not always result in a "good" (desired) outcome.
+<!--more-->
 
 ## So what should we do?
 

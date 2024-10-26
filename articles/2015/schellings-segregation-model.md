@@ -13,7 +13,8 @@ id="Schelling2006"\]. He tried to comprehend how and why racial
 neighborhoods were forming and becoming so prominent. He wanted to know
 if ubiquitous racial segregation is caused by rising racial tensions or
 the same result might be present in a rather tolerant
-society.<!--more-->
+society.
+<!--more-->
 
 ![Racial segregation map.]({static}/uploads/2015/boston-segregation.jpg "
 Racial segregation in Boston and around it. Data can be found on

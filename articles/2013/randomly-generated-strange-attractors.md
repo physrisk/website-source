@@ -14,7 +14,8 @@ noted that the evolution of the classical systems is pretty trivial - no
 matter what the initial condition is the system will "find" the stable
 state. Usually dissipative forces (such as frictions) are to be blamed
 for this. Though not all systems are so
-simple...<!--more-->
+simple...
+<!--more-->
 
 In the literature those stable state are frequently called attractors.
 These attractors can not only "pull in" trajectories, but they also can

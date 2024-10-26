@@ -18,7 +18,8 @@ eBay Deals](https://www.youtube.com/watch?v=S3G51gDHTXE), which provides
 a broad outlook, and [another recorded by
 TED](https://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money.html "Video on ted.com"),
 in which K. Chen presents his research, - which present this kind of
-research in more detail.<!--more-->
+research in more detail.
+<!--more-->
 
 [youtube v="S3G51gDHTXE"]
 

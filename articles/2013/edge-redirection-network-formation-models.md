@@ -29,7 +29,8 @@ Recall that in this model we had to keep track of the degrees of each
 node. But is it possible to have this information in real life? What
 would happen if we wouldn't have this information, but would explore the
 network through the random selection (just like in the [Erdos-Renyi
-model]({filename}/articles/2013/erdos-renyi-model.md))?<!--more-->
+model]({filename}/articles/2013/erdos-renyi-model.md))?
+<!--more-->
 
 On the edge redirection networks
 --------------------------------

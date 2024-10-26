@@ -24,7 +24,8 @@ Thus in this text we continue our topic on the [network formation
 models](/tag/networks/). This
 time we will be interested in the so-called core-periphery network
 formation models, which will grow networks with well pronounced core and
-periphery.<!--more-->
+periphery.
+<!--more-->
 
 Core and periphery in the networks
 ----------------------------------

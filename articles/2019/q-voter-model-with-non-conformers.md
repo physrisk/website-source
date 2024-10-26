@@ -27,7 +27,8 @@ So here we discuss a generalization of the [q-Voter model]({filename}/articles/2
 using so-called diamond model of social response [cite id="Nail2016APPA"]. An
 interesting result reported in [cite id="Nail2016APPA"] is that two different
 psycho-social approaches to non-conformative behavior generate somewhat different
-results when introduced into the [q-Voter model]({filename}/articles/2019/q-voter-model.md).<!--more-->
+results when introduced into the [q-Voter model]({filename}/articles/2019/q-voter-model.md).
+<!--more-->
 
 ## The diamond model for social responses
 

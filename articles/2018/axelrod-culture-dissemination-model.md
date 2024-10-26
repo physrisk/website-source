@@ -6,7 +6,8 @@ Slug: axelrod-culture-dissemination-model
 Status: published
 Image_url: uploads/2018/axelrod-culture-dissemination-model.png
 
-Here we will briefly present another classic agent-based model - Axelrod's model [cite id="Axelrod1997"]. In his article Axelrod argues that culture is formed through social interactions, that it is "something people learn from each other". Hence he presents a model which describes competition between cultural traits via social interactions between the agents.<!--more-->
+Here we will briefly present another classic agent-based model - Axelrod's model [cite id="Axelrod1997"]. In his article Axelrod argues that culture is formed through social interactions, that it is "something people learn from each other". Hence he presents a model which describes competition between cultural traits via social interactions between the agents.
+<!--more-->
 
 ## Model specification
 

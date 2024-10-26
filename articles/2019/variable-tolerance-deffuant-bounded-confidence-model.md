@@ -10,7 +10,8 @@ Let us briefly come back to the [Deffuant's model]({filename}/articles/2019/deff
 and look at one of its common generalizations. Namely let us allow tolerance to
 vary. Varying tolerance to different opinions would be a rather natural
 assumption as it is usually hard to persuade a radical, while it is somewhat
-easier to persuade a moderate.<!--more-->
+easier to persuade a moderate.
+<!--more-->
 
 So let us say that our tolerance function has the following form:
 

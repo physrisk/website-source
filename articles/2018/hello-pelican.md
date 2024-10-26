@@ -15,7 +15,8 @@ only in Lithuanian).
 
 Today I (Aleksejus) launch a third iteration of the Physics of Risk. There will
 be some changes as we will replace WordPress with a static site generator
-[Pelican](https://docs.getpelican.com/).<!--more-->
+[Pelican](https://docs.getpelican.com/).
+<!--more-->
 
 ## Why Pelican?
 

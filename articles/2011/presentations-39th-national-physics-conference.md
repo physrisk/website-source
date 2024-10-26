@@ -11,7 +11,8 @@ was organized by Vilnius University and Lithuanian Physicist Society.
 Oral presentation by A. Kononovicius was based on some of the models
 presented on Physics of Risk website, while poster presentation by R.
 Kazakevičius tackles very general problem related to the Physics of
-Risk.<!--more-->
+Risk.
+<!--more-->
 
 Oral presentation *Microscopic justification of stochastic models*
 (authors: A. Kononovicius, V. Gontis) was based on some of the already

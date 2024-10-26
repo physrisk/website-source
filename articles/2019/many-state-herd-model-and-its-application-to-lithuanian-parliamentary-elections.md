@@ -13,7 +13,8 @@ multiple state dynamics. Yet unlike in our three state approach to the financial
 markets (see the initial post [here]({filename}/articles/2011/three-group-kirman-agent-based-model-for-financial-markets.md)
 or the article [cite id="Kononovicius2013EPL"])
 this time we allow any number of states to be defined in the model
-[cite id="Kononovicius2017Complexity,Kononovicius2018APPA"].<!--more-->
+[cite id="Kononovicius2017Complexity,Kononovicius2018APPA"].
+<!--more-->
 
 While analyzing Lithuanian parliamentary election data (can be obtained from
 [here](https://www.rinkejopuslapis.lt/ataskaitu-formavimas) or clean csv files

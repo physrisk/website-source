@@ -20,7 +20,8 @@ having the most various states of motion" \[cite id="Ball2002PhysA,
 Patriarca2013AJP"\]. Inspired by this quote we will briefly review,
 while relying on \[cite id="Patriarca2013AJP"\], some of the simplest
 kinetic models and their applications to modeling of socio-economic
-systems.<!--more-->
+systems.
+<!--more-->
 
 Elementary kinetic model
 ------------------------

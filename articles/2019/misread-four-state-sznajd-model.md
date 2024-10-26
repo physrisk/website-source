@@ -14,7 +14,8 @@ Well, accidents happen in science from time to time...
 
 Nevertheless the "misread" model also looks rather nice, so I have decided to
 still present it. Next time I'll introduce you to the original version of this
-"misread" model.<!--more-->
+"misread" model.
+<!--more-->
 
 ## The model
 

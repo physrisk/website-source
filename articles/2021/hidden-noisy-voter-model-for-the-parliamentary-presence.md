@@ -15,7 +15,8 @@ Also in a [follow up post]({filename}/articles/2021/noisy-voter-model-for-the-pa
 we have shown that a noisy [voter model](/tag/voter-model/) is able to reproduce
 ballistic regime and normal diffusion when we consider individual agent
 trajectories. Now let us extend the model to account for sub-linear diffusion
-of parliamentary attendance.<!--more-->
+of parliamentary attendance.
+<!--more-->
 
 ## The model extension
 

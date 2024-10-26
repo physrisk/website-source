@@ -19,7 +19,8 @@ Yet some strongly opinionated individuals do changes their beliefs, thus
 this would not be an ideal solution. Alternative approach was considered
 in \[cite id="Castello2006NJP"\]. In this paper a three state model is
 proposed, where the third state serves as intermediate stop for the
-agents switching between the two main states.<!--more-->
+agents switching between the two main states.
+<!--more-->
 
 Model
 -----

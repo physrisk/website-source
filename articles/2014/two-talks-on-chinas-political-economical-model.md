@@ -17,7 +17,8 @@ We invite you to listen to two talks given by scientists (posted on
 [ted.com](https://www.ted.com)) - one talk is about China's [economical
 model](https://www.ted.com/talks/dambisa_moyo_is_china_the_new_idol_for_emerging_economies.html),
 while the other is about China's [political
-model](https://www.ted.com/talks/eric_x_li_a_tale_of_two_political_systems.html).<!--more-->
+model](https://www.ted.com/talks/eric_x_li_a_tale_of_two_political_systems.html).
+<!--more-->
 
 \[iframe
 src="https://embed.ted.com/talks/dambisa\_moyo\_is\_china\_the\_new\_idol\_for\_emerging\_economies.html"

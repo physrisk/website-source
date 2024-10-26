@@ -12,7 +12,8 @@ of Theoretical Physics and Astronomy (A. Goštauto g. 12 - 432, Vilnius).
 This conference will mark ending of the currently ongoing project behind
 the *Physics of Risk* website. Main focus of this conference will be
 presentation of achieved results and discussion between business and
-scientists.<!--more-->
+scientists.
+<!--more-->
 
 Dr. V. Gontis will give a talk on *Models of Risk in Economics and
 Finance* (lt. *Rizikos ekonomikoje ir finansuose vertinimo modeliai*).

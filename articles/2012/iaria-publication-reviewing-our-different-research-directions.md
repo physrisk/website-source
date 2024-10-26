@@ -13,7 +13,8 @@ into very different complex systems. The previous article \[cite
 id="Daniunas2011ICCGI"\] contained brief review of Physics of Risk
 platform and discussions on some of the models published using it. This
 article received great response and was even awarded the Best Paper
-Award by the publisher IARIA.<!--more-->
+Award by the publisher IARIA.
+<!--more-->
 
 This year we were asked to submit a broader review of our work done in
 the context of Physics of Risk. Thus we have gathered \[cite

@@ -16,7 +16,8 @@ or implicit (like in [Ishii's trust and suspicion
 models]({filename}/articles/2019/ishii-trust-suspicion-model.md)
 we have recently discussed) network structure, which effectively segment the
 society into separate groups. Yet these groups are surely not equivalent to the
-socio-demographic groups.<!--more-->
+socio-demographic groups.
+<!--more-->
 
 Another issue is that often in [opinion dynamics](/tag/opinion-dynamics/) the
 data is not temporal, but is spatial instead. One way to avoid this problem is

@@ -21,6 +21,6 @@ on the video (special thanks to the
 as we can now share for all people who are interested in the popular
 side of Physics of Risk. We invite everyone interested to view the video
 (though note that everything is presented in
-Lithuanian)<!--more-->.
+Lithuanian).
 
 [youtube v="3DaL8KKNcQ8"]

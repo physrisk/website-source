@@ -20,7 +20,8 @@ open-access publisher, we would also like to speak about the improving
 statistics of the Physics of Risk website. In 2012 we expect to be
 visited 12 thousand times! It is slightly better than in 2011, in which
 we had 11 thousand visits. Improvement is small, yet promising a bright
-future.<!--more-->
+future.
+<!--more-->
 
 More on Physics of Risk stats
 -----------------------------

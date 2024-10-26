@@ -16,7 +16,8 @@ opinions ranging from a flat denial of Euro project to the
 uncompromising critics of all steps in the process of its
 implementation. "Realize," the main problem of the European development
 arises from the bad idea and implementation of common currency and the
-whole EU project gets stuck on this idea.<!--more-->
+whole EU project gets stuck on this idea.
+<!--more-->
 
 It is not our task to discuss possible geopolitical circumstances of
 such purposeful opinion flow; we just want to draw attention that very

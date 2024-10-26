@@ -15,13 +15,14 @@ belonging to these two groups are very similar (we have found that most
 similar are Bass diffusion model and [Unidirectional Kirman's
 model]({filename}/articles/2011/unidirectional-kirman-model.md))
 thus serving as a proof for the potential applicability of the ideas
-developed in the econophysical sections.<!--more--> Sadly none of the business models are
+developed in the econophysical sections. Sadly none of the business models are
 currently translated to English, though all econophysical models are
 available in English and Lithuanian languages as we have promised. This
 is due to different aims behind the sections - econophysical models
 represent scientific research done by the contributors, while business
 models were published as an introduction to computer modeling aimed at
 Lithuanian businessmen.
+<!--more-->
 
 This year is also marked by numbers related to you, visitors of Physics
 of Risk. Sadly there we have not received any comments yet, though most

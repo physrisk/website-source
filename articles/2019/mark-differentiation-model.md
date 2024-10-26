@@ -9,7 +9,8 @@ Image_url: uploads/2019/mark-differentiation-model.png
 Let us try to discuss a bit different model by social scientist this time. In
 [cite id="Mark1998"] a social scientist built a simple model to illustrate
 that differences between the social groups could be emergent property inherent
-to how we communicate.<!--more-->
+to how we communicate.
+<!--more-->
 
 ## The model
 

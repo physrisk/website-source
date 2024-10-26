@@ -18,7 +18,8 @@ formation
 model]({filename}/articles/2013/erdos-renyi-model.md).
 While this time I'll write about the Watts-Strogatz network formation
 model ("small world" networks). The Barabasi-Albert model ("scale-free"
-networks) will be left for the next post.<!--more-->
+networks) will be left for the next post.
+<!--more-->
 
 Watts-Strogatz model and the properties of the small world networks
 -------------------------------------------------------------------

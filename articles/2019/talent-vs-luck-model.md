@@ -14,7 +14,8 @@ or social realities. Therefore this model is not suitable for any policy making,
 but is perfect for a general discussion on the topic.
 
 Talent vs Luck model was introduced by a group of Italian researchers in
-[cite id="Pluchino2018ACS"].<!--more-->
+[cite id="Pluchino2018ACS"].
+<!--more-->
 
 ## The model
 

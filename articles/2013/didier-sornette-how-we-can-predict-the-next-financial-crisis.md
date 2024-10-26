@@ -20,7 +20,8 @@ events frequently enough. Below you can find a talk by Didier Sornette
 some of the related info is available from
 [blog.ted.com](https://blog.ted.com/2013/06/12/crises-are-predictable-didier-sornette-at-tedglobal-2013/)),
 who talks about these kind of events, their impact and possibilities to
-predict.<!--more-->
+predict.
+<!--more-->
 
 [iframe
 src="https://embed.ted.com/talks/didier\_sornette\_how\_we\_can\_predict\_the\_next\_financial\_crisis.html"

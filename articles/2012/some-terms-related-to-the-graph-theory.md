@@ -10,7 +10,8 @@ Network models are intimately related to a
 certain branch of mathematics known as the graph theory. Actually
 networks themselves are graphs! Thus further we briefly introduce some
 of the terms related to the mathematical graph
-theory.<!--more-->
+theory.
+<!--more-->
 
 In mathematics a **graph** is a collection of **vertices (or nodes)**
 that are interconnected by **edges (or links, or arcs)**. Edges might be

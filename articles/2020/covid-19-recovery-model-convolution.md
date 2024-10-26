@@ -11,7 +11,8 @@ have shown that Weibull recovery model works well when trying to reconstruct
 the recovered cases time series from the confirmed cases time series. In that
 post we have used random simulation to generate fake recovered cases time
 series. In this post we will use convolution to get the expected recovered
-cases time series.<!--more-->
+cases time series.
+<!--more-->
 
 Suppose we want to obtain expected number of recovered individuals at moment
 \\\( t \\\) given only the confirmed cases time series, \\\( I(t) \\\). Let us

@@ -13,7 +13,8 @@ exponential distribution being a limit of geometric distribution. So, if we
 use non-exponential inter-event time distribution, we introduce memory into
 the process. As the distribution of inter-event times is no longer
 exponential, we now have not a [Poisson process](/tag/poisson-process/), but
-a [point process](/tag/point-process/).<!--more-->
+a [point process](/tag/point-process/).
+<!--more-->
 
 ## Weibull distributed inter-event times
 

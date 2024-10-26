@@ -13,7 +13,8 @@ on high resolution
 data from foreign exchange market. Their work is extremely interesting as
 it starts from the empirical observations at the lowest level observable and
 is built up to reproduce some empirical observations at the higher levels.
-Also the model is analytically tractable using [kinetic theory](/tag/kinetic-models/).<!--more-->
+Also the model is analytically tractable using [kinetic theory](/tag/kinetic-models/).
+<!--more-->
 
 ## Brief description of the HFT model
 

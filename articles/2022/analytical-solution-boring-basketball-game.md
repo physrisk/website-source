@@ -11,7 +11,8 @@ Image_url: uploads/2022/analytical-solution-boring-basketball-game.png
 follow with great interest. In this post we will revisit [boring basketball
 game problem]({filename}/articles/2022/boring-basketball-game.md) from analytical
 perspective. Though we will cheat a bit and use [Python](/tag/python/) to do
-the algebra for us.<!--more-->
+the algebra for us.
+<!--more-->
 
 ## Analysis of the problem
 

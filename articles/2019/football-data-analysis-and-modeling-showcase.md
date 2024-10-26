@@ -11,7 +11,8 @@ Faculty of Physics (Vilnius University). As theory is somewhat boring and
 feels somewhat detached from practice, I have decided to provide students with
 practical showcase on how to work with empirical data. For this showcase I have
 selected a small subset of [a larger football data set](https://github.com/jalapic/engsoccerdata).
-Namely, I decided to take a look at English Premier League's 2000/2001 season.<!--more-->
+Namely, I decided to take a look at English Premier League's 2000/2001 season.
+<!--more-->
 
 This showcase took two lectures and a bit of time after the lectures to cleanup
 the code. The first lecture was mostly dedicated to empirical analysis of the

@@ -13,7 +13,8 @@ The question was to be expected as, while we provide the final
 difference equations, we do not discuss how they were obtained. Thus
 here we will briefly review the most basic principles of the numerical
 solution of the stochastic differential
-equations.<!--more-->
+equations.
+<!--more-->
 
 Let us recall that in general case stochastic differential equation
 looks like:

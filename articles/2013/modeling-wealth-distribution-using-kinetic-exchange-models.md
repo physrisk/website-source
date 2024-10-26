@@ -15,7 +15,8 @@ distribution of the elementary kinetic models, as we have shown before,
 is Boltzmann-Gibbs distribution, while the empirical distribution of
 wealth has a power law tail (see [Fig. 1](#attachment_2581)). Therefore
 we will need some essential modifications to replicate the empirical
-distribution.<!--more-->
+distribution.
+<!--more-->
 
 ![Inverse CDF of wealth. Data are of the United Kingdom from 1996. Figure
 taken from an article by Patriarca and Chakraborti

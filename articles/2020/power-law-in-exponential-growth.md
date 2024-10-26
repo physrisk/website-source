@@ -12,7 +12,8 @@ In the last few posts we have considered
 from the [theoretical]({filename}/articles/2020/reed-hughes-mechanism.md)
 perspectives. In all these posts we considered data at fixed point in time,
 but how does the temporal evolution look like when the system evolves as
-described in our prior posts?<!--more-->
+described in our prior posts?
+<!--more-->
 
 Here our assumptions remain the same. Namely, epidemic growth happens
 exponentially (as it does in the early stages) in a few different spatial units

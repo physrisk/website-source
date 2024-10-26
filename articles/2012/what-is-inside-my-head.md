@@ -10,7 +10,7 @@ Image_url: uploads/2012/what-is-inside-my-head.jpg
 internet meme on the
 [science.memebase.com](https://science.memebase.com/2012/02/17/funny-science-news-experiments-memes-a-universe-silly/).
 Answer appears to rather simple and complex at the same time - nature is
-a fractal!<!--more-->
+a fractal!
 By the way did you know that surface of the human brain has a fractal,
 Hausdorff, dimension of 2.79? This actually means that human brain is
 neither 3D, nor 2D object.

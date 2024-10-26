@@ -19,7 +19,8 @@ the much more extensive interdisciplinary understanding of the social
 and physical sciences. The desire to extend conventional boundaries and
 achieve more understanding between researchers of physical and social
 sciences is a strong motivation for us to deal with
-econophysics.<!--more-->
+econophysics.
+<!--more-->
 
 The price is a key concept in economics as it enables general
 quantitative description in economy and theoretical economics. Market

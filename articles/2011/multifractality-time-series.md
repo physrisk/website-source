@@ -33,7 +33,8 @@ Risk website, time series are also no exception \[cite
 id="Peters1994Willey, Kwapien2005PhysA"\]. Though the aforementioned
 time series are much more complex - they exhibit not monofractality
 (single manner self-similar behavior as the aforementioned formal
-geometric fractals do), but multifractality!<!--more-->
+geometric fractals do), but multifractality!
+<!--more-->
 
 Fractality of time series
 -------------------------

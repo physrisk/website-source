@@ -22,7 +22,8 @@ model]({filename}/articles/2011/unidirectional-kirman-model.md)).
 In this text we will consider financial market scenario and obtain
 stochastic differential equations similar to the existing stochastic
 models considered in \[cite id="Reimann2011PhysA,
-Ruseckas2010PhysRevE"\].<!--more-->
+Ruseckas2010PhysRevE"\].
+<!--more-->
 
 Discussion and model presented in this text is the main topic of our
 paper on *Microscopic reasoning for the non-linear stochastic models of

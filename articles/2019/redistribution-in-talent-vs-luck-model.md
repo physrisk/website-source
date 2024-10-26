@@ -10,7 +10,8 @@ Here we continue our discussion on the Talent vs Luck model proposed by
 [cite id="Pluchino2018ACS"]. This time we introduce capital redistribution
 strategies in to the model, unlike the original authors we do not allow policy
 makers to create capital - instead they must take from somebody and only then
-they can redistribute.<!--more-->
+they can redistribute.
+<!--more-->
 
 ## Redistribution strategies
 

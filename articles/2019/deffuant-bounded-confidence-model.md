@@ -18,7 +18,8 @@ Nevertheless there are few interesting models with continuous opinions. Usually
 these models are based on the concept of bounded confidence. Meaning that people
 tend to listen to other people who have a relatively similar opinion to theirs.
 Here in this post we will discuss one of these bounded confidence models
-proposed by Deffuant et al. in [cite id="Deffuant2000ACS"].<!--more-->
+proposed by Deffuant et al. in [cite id="Deffuant2000ACS"].
+<!--more-->
 
 ## The model
 

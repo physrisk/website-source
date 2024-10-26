@@ -17,7 +17,8 @@ them]({filename}/articles/2011/unidirectional-kirman-model.md). There
 is another classic model, which will be covered in this post, which
 models human intention to join the collective political action with
 inherent risk. In this text we will consider a threshold model proposed
-by Mark Granovetter.<!--more-->
+by Mark Granovetter.
+<!--more-->
 
 Model
 -----

@@ -16,7 +16,8 @@ thus in this text we will try to provide a simple academical
 introduction into these concepts and their role in economics.
 
 It is intended that this text will serve as an introduction into a
-[series of posts](/tag/topic-price-formation/) on how and why free market does (not) work.<!--more-->
+[series of posts](/tag/topic-price-formation/) on how and why free market does (not) work.
+<!--more-->
 
 Let us start by discussing **the law of demand**. This law of economics
 states that the pricier the product is (all other things being equal)

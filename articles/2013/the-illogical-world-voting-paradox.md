@@ -12,7 +12,8 @@ situation is a perfect example of how the otherwise logical human
 behavior, on the individual level, can be easily destroyed by collective
 behavior, on the global level. We would naturally assume that the
 micro-level logic would rise bottom-up, yet it doesn't and that is a
-paradox!<!--more-->
+paradox!
+<!--more-->
 
 Let us imagine that we have three persons who choose among three
 options. They are asked not choose a single of the available option, but

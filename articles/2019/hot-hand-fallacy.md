@@ -10,7 +10,8 @@ A player sinks his fourth shot in a row and the crowd goes wild, while
 commentators say what the crowd is thinking the magic phrase "he is on fire!"
 But is he? There is a significant body of literature related to the [hot hand](/tag/hot-hand/) in
 [sports](/tag/sports/). Some of the papers claim that they have found the effect, while the
-others try to disprove it.<!--more-->
+others try to disprove it.
+<!--more-->
 
 Recently we have also added our own insights into this problem
 [cite id="Kononovicius2019NBA"] by replying to another paper in which the

@@ -19,7 +19,8 @@ space for visitors. For the sake of simplicity let us assume that it may
 conveniently fit in just about half of your coworkers. Each of your
 coworkers faces the same dilemma as you - go home or visit the bar? Thus
 you have to make the same choice as minority of you
-coworkers.<!--more-->
+coworkers.
+<!--more-->
 
 Typical homo economicus could solve this problem by gathering
 information about the plans of his coworkers. In this case he would know

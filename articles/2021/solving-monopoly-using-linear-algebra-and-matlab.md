@@ -11,7 +11,8 @@ their newly acquired skills to do something fun. [Last
 time]({filename}/articles/2019/football-data-analysis-and-modeling-showcase.md) I have built a simple
 statistical football model and "played" a few fictional seasons to see how
 likely was the outcome of the studied season. This year I have decided to
-look into "solving" Monopoly using Linear Algebra.<!--more-->
+look into "solving" Monopoly using Linear Algebra.
+<!--more-->
 
 ## Mathematical idea of "solving" Monopoly
 

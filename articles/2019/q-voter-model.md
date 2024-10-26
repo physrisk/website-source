@@ -9,7 +9,8 @@ Image_url: uploads/2019/q-voter-model.png
 q-Voter model is a generalization of the [voter model]({filename}/articles/2016/voter-model.md)
 [cite id="Castellano2009PhysRevE"]. The main difference is that in the q-voter
 model agent interacts with \\\( q \\\) randomly selected neighbors. While also
-external noise is also present in this model.<!--more-->
+external noise is also present in this model.
+<!--more-->
 
 ## The model
 

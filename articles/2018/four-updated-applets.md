@@ -6,7 +6,8 @@ Slug: four-updated-applets
 Status: published
 
 In the recent few days we have replaced another four Java applets
-with their HTML5 counterparts. The following articles were updated:<!--more-->
+with their HTML5 counterparts. The following articles were updated:
+<!--more-->
 
 * <del>[Agent-based herding model of financial markets]({filename}/articles/2011/agent-based-herding-model-financial-markets.md),</del>
 * [Long-range memory stochastic model of return]({filename}/articles/2010/long-range-memory-stochastic-model-return.md),

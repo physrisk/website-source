@@ -12,7 +12,8 @@ It was proposed in 2000 by two Polish scientists in [cite id="Sznajd2000IntJModP
 and since then it was heavily studied both by various groups of sociophysicists.
 It was used not only in the usual generic scenarios (e.g., exploring how fast
 the opinions converge), but also helped to predict Polish elections of 2015
-[cite id="Sobkowicz2016PlosOne"].<!--more-->
+[cite id="Sobkowicz2016PlosOne"].
+<!--more-->
 
 ## The model
 

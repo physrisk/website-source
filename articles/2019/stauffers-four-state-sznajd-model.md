@@ -11,7 +11,8 @@ admitted that I have misread one well-known generalization of the
 [Sznajd model]({filename}/articles/2019/sznajd-united-we-stand-divided-we-fall-model.md). This time I would like
 to present you the original interpretation proposed by Stauffer in
 [cite id="Stauffer2002ACS"]. Though I would like to note that I was still
-unable to reproduce Stauffer's original result.<!--more-->
+unable to reproduce Stauffer's original result.
+<!--more-->
 
 ## The model
 

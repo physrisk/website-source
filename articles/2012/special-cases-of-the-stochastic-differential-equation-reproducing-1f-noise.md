@@ -25,7 +25,8 @@ In our talks at various [scientific events](/tag/conference/)
 and on Physics of Risk itself we frequently say that this equation also
 encompasses other widely known stochastic processes. Thus further in
 this text we will show some of the relations between this class and some
-widely known stochastic processes.<!--more-->
+widely known stochastic processes.
+<!--more-->
 
 Variable transformation
 -----------------------

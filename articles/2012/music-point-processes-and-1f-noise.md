@@ -20,7 +20,8 @@ ideas are applied towards musical rhythm. To us \[cite
 id="Levitin2012PNAS"\] is especially interesting as this paper considers
 our own model, \[cite id="Gontis2002MC, Kaulakys2005PhysRevE"\], as a
 proper model for the [1/f noise](/tag/1f-noise/) in the spectral density of musical
-rhythm.<!--more-->
+rhythm.
+<!--more-->
 
 Musical rhythm is an excellent example of the point process. Namely we
 can see each individual key press as unit impulse at a certain moment.

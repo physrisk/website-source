@@ -11,7 +11,8 @@ Vacillating voter model is a generalization of the
 contrarian behavior can emerge from imitative interactions
 [cite id="Lambiotte2007JStatMech"]. This result is kind of interesting and
 counter-intuitive as usually, in other models of [opinion dynamics](/tag/opinion-dynamics/),
-contrarian behavior is being explicitly built in.<!--more-->
+contrarian behavior is being explicitly built in.
+<!--more-->
 
 ## The model
 

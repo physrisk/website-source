@@ -9,7 +9,8 @@ Status: published
 time]({filename}/articles/2013/power-spectral-density-part-1.md)
 we have written on the power spectral density and we have "analyzed"
 deterministic periodic time series. This time we will consider spectral
-densities of some stochastic processes.<!--more-->
+densities of some stochastic processes.
+<!--more-->
 
 Spectral density of the white noise
 -----------------------------------

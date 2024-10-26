@@ -15,7 +15,8 @@ id="Epstein2002PNAS"\]. This model is rather interesting in a sense that
 it is not static as original Granovetter model is. It has interesting
 temporal dynamics builtin. In a recent paper by British mathematicians
 \[cite id="Davies2013SciRep"\] this model was applied to explain the
-patterns observed in 2013 London riots.<!--more-->
+patterns observed in 2013 London riots.
+<!--more-->
 
 Model
 -----

@@ -17,7 +17,8 @@ During the next couple of posts I will consider some of the well-known
 network models. I'll start in this text from the Erdos-Renyi network
 formation model, and later will continue with the Watts-Strogatz model
 ("small world" networks) and the Barabasi-Albert model ("scale-free"
-networks).<!--more-->
+networks).
+<!--more-->
 
 Erdos-Renyi model and network properties
 ----------------------------------------

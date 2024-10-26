@@ -13,7 +13,8 @@ with large powers). Recall that root of the function is defined as a
 solution of \\\(  f(z) = 0 \\\). The essence of this method is to
 linearize function at the guessing point. The point where linearized
 function passes the abscissa axis is assumed to be a more precise
-estimate of the actual root.<!--more--> Mathematically:
+estimate of the actual root. Mathematically:
+<!--more-->
 
 \begin{equation}
  z\_{n+1} = z\_n - \frac{f(z\_n)}{f'(z\_n)}, 

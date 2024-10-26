@@ -14,7 +14,8 @@ fact twenty years have passed there is no simple physical model
 reproducing the q-Gaussian distribution. But our colleague Julius
 Ruseckas recently proposed one \[cite id="Ruseckas2015PhysLettA"\]. In
 this text we will briefly discuss his "correlated spin" model and will
-present two related interactive applets.<!--more-->
+present two related interactive applets.
+<!--more-->
 
 In order to understand the main point behind the proposed model it is
 best to start from contrasting **uncorrelated spin model**. In this case

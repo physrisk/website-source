@@ -11,7 +11,8 @@ Brazilian and Lithuanian parliaments exhibits anomalous diffusion. Actually
 we have analyzed Lithuanian data [cite id="Kononovicius2020JStat"], while
 Brazilian data was considered by Vieira and others [cite id="Vieira2019PRE"].
 This time let me constructed a [voter model](/tag/voter-model/) to replicate
-the observations.<!--more-->
+the observations.
+<!--more-->
 
 ## The model
 

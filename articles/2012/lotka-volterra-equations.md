@@ -14,7 +14,8 @@ due to being real life example of competition (conflict). Also there are
 few known simple models for the prey-predator interaction. Among them
 there are both macroscopic, Lotka-Volterra equations, and microscopic,
 agent-based, models. We will start our discussion from the macroscopic
-Lotka-Volterra model.<!--more-->
+Lotka-Volterra model.
+<!--more-->
 
 Lotka-Volterra equations
 ------------------------

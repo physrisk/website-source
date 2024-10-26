@@ -19,7 +19,8 @@ understand the spreading of diseases. Contemporary scientific literature
 usually uses network theory to find optimal vaccination strategies, but
 we will not delve in this complex matter. Our aim in this text is to
 show that vaccination helps saving lives of millions of people. Thus we
-may use a simpler agent-based model for this.<!--more-->
+may use a simpler agent-based model for this.
+<!--more-->
 
 ## Formulation of the model
 

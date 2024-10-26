@@ -13,7 +13,8 @@ thing is that used food source is not certain at any point of time. At
 some times switch between food sources occur though the quality of food
 sources remains the same. In 1993 Alan Kirman proposed that this could
 happen due to importance of herding behavior in ant colonies \[cite
-id="Kirman1993QJE"\].<!--more-->
+id="Kirman1993QJE"\].
+<!--more-->
 
 Supposedly fraction of ants act on their own - they randomly search for
 new food sources. If food source is found ants, which found it, share

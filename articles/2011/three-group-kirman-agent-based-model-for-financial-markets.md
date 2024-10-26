@@ -16,7 +16,8 @@ models]({filename}/articles/2010/long-range-memory-stochastic-model-return.md)
 \[cite id="Gontis2010Intech"\] have double power law spectral density -
 i.e., fractured spectral density. Thus it would be nice to obtain
 fracture of spectral density by improving application of Kirman's agent
-based model towards financial markets.<!--more-->
+based model towards financial markets.
+<!--more-->
 
 One can create more sophisticated model in various ways. The two main
 options are a possibility to combine multiple stochastic models obtained

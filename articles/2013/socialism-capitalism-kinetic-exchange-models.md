@@ -19,7 +19,8 @@ models]({filename}/articles/2013/elementary-kinetic-exchange-models.md)
 appear to be one of the best candidates for the job. Thus in this text I
 will discuss the implementation of the simplistic sketches of these
 economic ideologies into the kinetic exchange
-models.<!--more-->
+models.
+<!--more-->
 
 Brief introduction into the kinetic exchange models
 ---------------------------------------------------

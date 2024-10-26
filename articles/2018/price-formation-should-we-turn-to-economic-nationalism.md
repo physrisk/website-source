@@ -18,7 +18,8 @@ instead of exploring ideas behind them.
 
 Also be warned that text is rather long and the answer is rather obvious. No,
 we should not turn to economic nationalism. It is rather bad idea, which works
-only for strong nations, which are able to exploit more vulnerable nations.<!--more-->
+only for strong nations, which are able to exploit more vulnerable nations.
+<!--more-->
 
 ## What economic nationalism actually is?
 

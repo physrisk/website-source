@@ -14,7 +14,8 @@ few known simple models for the prey-predator interaction. Among them
 there are both macroscopic, Lotka-Volterra equations, and microscopic,
 agent-based, models. In this text we continue the [previous
 discussion]({filename}/articles/2012/lotka-volterra-equations.md) by
-considering the agent-based model.<!--more-->
+considering the agent-based model.
+<!--more-->
 
 Interestingly due to the various applications of the Lotka-Volterra
 equations \[cite id="Ausloos2009Chess, Goodwin1967Cambridge,

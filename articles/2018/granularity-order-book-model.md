@@ -13,7 +13,8 @@ change. Originally this model was develop to study order impacts on a price
 in case of finite liquidity (in case when the order book is not tightly packed).
 Indeed it seems that when there are noticeable gaps behind the best bids, going
 deeper into the respective order book side, a couple of consecutive orders may
-cause power-law fluctuations.<!--more-->
+cause power-law fluctuations.
+<!--more-->
 
 ## The model
 

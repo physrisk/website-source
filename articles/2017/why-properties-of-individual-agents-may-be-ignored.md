@@ -26,7 +26,8 @@ agents (each of them having his own independent parameters). We will
 show that the heterogeneous model produces similar macroscopic dynamics
 as homogeneous model. To simplify matter even further we will use
 [unidirectional Kirman's
-model]({filename}/articles/2011/unidirectional-kirman-model.md).<!--more-->
+model]({filename}/articles/2011/unidirectional-kirman-model.md).
+<!--more-->
 
 Let me remind you that [Bass diffusion
 model](/tag/bass-model/) describes diffusion

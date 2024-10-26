@@ -12,7 +12,8 @@ covered so called "Referendum model" by S. Galam [cited id="Galam2008IntJModPhys
 while talking about
 [many particle interactions in kinetic exchange models]({filename}/articles/2014/many-particle-interaction-in-the-kinetic-exchange-models.md).
 This time we will cover a precursor to this model, which was also reviewed in
-[cited id="Galam2008IntJModPhysC"].<!--more-->
+[cited id="Galam2008IntJModPhysC"].
+<!--more-->
 
 ## Hierarchical voting model
 

@@ -17,9 +17,10 @@ model]({filename}/articles/2014/elementary-model-reproducing-q-gaussian-distribu
 describes possible configurations of the spin chain. In this spin chain
 neighboring spins are usually coaligned, meaning that nearby spins point
 in the same direction, though there are fixed number of cases \\\( d-1 \\\) (in this text \\\(  d \\\) has slightly different meaning) where
-spins are antialigned.<!--more--> Consequently we have \\\(  d \\\)
+spins are antialigned. Consequently we have \\\(  d \\\)
 distinct domains inside of which spins are aligned. We are interested in
 the total spin, \\\(  M = \sum\_i s\_i  \\\), of such system.
+<!--more-->
 
 If \\\(  d \\\) is an even number, then ends of the chain may by
 connected (periodic boundary conditions may be applied), leading to a

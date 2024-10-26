@@ -10,8 +10,9 @@ So for our final post on the trust and suspicion model [cite id="Ishii2019GDN"],
 and also for our last post this year (happy new year by the way), we add a
 trivial extension to this model. Namely we have rebuilt the apps you have
 already seen, where you can mix both update rules (model types) and have
-them acting at different intensities.<!--more--> While this does not add much
+them acting at different intensities. While this does not add much
 to the model, but it allows to explore even more complex social scenarios.
+<!--more-->
 
 So just to be safe we want to write down the combined update rule:
 

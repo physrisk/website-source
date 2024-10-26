@@ -17,7 +17,8 @@ boxes. If every player will find his own bill, then you all will win a
 game - you will regain your dollar as well as you will additionally get
 another 100 dollars. But if at least one player makes a mistake, you all
 will lose. So would you sign up for such
-bet?<!--more-->
+bet?
+<!--more-->
 
 Please note that there are certain restrictions. You are able to
 communicate with other players only before the game. Together you may

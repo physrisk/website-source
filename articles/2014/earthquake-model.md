@@ -16,7 +16,8 @@ activity of the region, while \\\(  a = \lg N\_0 \\\).
 
 In this text we will briefly present self-organized criticality model,
 which reproduces the power-law distribution of earthquakes -
-Olami-Feder-Christensen model.<!--more-->
+Olami-Feder-Christensen model.
+<!--more-->
 
 The definition of model
 -----------------------

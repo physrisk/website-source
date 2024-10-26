@@ -9,7 +9,8 @@ Image_url: uploads/2019/noisy-deffuant-bounded-confidence-model.png
 Let us briefly come back to the [Deffuant's model]({filename}/articles/2019/deffuant-bounded-confidence-model.md)
 and discuss the impact of noise on the dynamics of the model. There multiple
 ways to introduce the noise into the model, so here we will focus on the way
-proposed in [cite id="Pineda2009JStat"].<!--more-->
+proposed in [cite id="Pineda2009JStat"].
+<!--more-->
 
 The core of the model remains the same as proposed in the original paper
 [cite id="Deffuant2000ACS"]. The only difference is that after we select the

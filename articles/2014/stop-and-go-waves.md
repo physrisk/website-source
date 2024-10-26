@@ -14,7 +14,8 @@ etc. But in the recent decades number of cars in the streets grew
 rapidly and it was noticed that sometimes traffic jams form without any
 obvious reasons. In this text we present a simple traffic model by Nagel
 and Schreckenberg [cite id="Nagel1992JDP"], which predicts traffic jams occurring due to small
-errors made by drivers themselves.<!--more-->
+errors made by drivers themselves.
+<!--more-->
 
 Formulation of the Nagel - Schreckenberg model
 ----------------------------------------------

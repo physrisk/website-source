@@ -13,7 +13,8 @@ the gist of which was what would change in my model, if inter-event times
 would be normally distributed. I would expect that, in the particular case
 I was talking about, little would change, but let us make sure of that. In
 this post, we will take a look at point process, and we will revisit a more
-complicated topic I talked about later on.<!--more-->
+complicated topic I talked about later on.
+<!--more-->
 
 ## Intuitive approach
 

@@ -16,7 +16,8 @@ one of the essential points of the underlying scientific research. The
 research actually shows that a comparatively small number of
 corporations control almost everything. Now you can listen to the one of
 the related researchers speaking about this discovery and hear him
-explain that does this actually mean.<!--more-->
+explain that does this actually mean.
+<!--more-->
 
 [iframe
 src="https://embed.ted.com/talks/lang/en/james\_b\_glattfelder\_who\_controls\_the\_world.html"

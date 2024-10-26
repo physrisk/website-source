@@ -11,7 +11,8 @@ series]({filename}/articles/2011/multifractality-time-series.md)) we have
 already discussed that fractals are observed in many daily phenomena.
 Interestingly enough we can eat fractals for our breakfast! Recently we
 have found an article \[cite id="Valous2010MeatSci"\] which studies
-fractal structures, 1/f-like noise in ham!<!--more-->
+fractal structures, 1/f-like noise in ham!
+<!--more-->
 
 The article is highly technical, thus it is recommend only for those
 interested in the spatial applications of detrended fluctuation

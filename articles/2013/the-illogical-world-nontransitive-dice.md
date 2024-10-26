@@ -18,7 +18,8 @@ you'll hear in the youtube video (see below).
 [youtube v="u4XNL-uo520"]
 
 We also provide a more simple take on the same topic
-below.<!--more-->
+below.
+<!--more-->
 
 **Transitivity** is natural and expected property. It is how the most of
 the times "it should be". For example, it is clearly understandable that

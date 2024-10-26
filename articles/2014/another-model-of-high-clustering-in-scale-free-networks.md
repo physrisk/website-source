@@ -13,7 +13,8 @@ random networks do not naturally form local, tightly interconnected,
 communities. In the previous text we discussed a simple model, which
 produces highly clustered scale-free networks. The problem is that it is
 rather hard to relate that model to any real complex system. In this
-text we will attempt to solve this problem.<!--more-->
+text we will attempt to solve this problem.
+<!--more-->
 
 Formulation of model
 --------------------

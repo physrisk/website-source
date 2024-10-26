@@ -11,7 +11,8 @@ time distribution from the empirical COVID-19 data (the confirmed cases time
 series). This was a quite easy task as we know both the confirmed cases time
 series and the recovered cases time series. In this post we will make an
 attempt to solve an inverse problem. Namely, I will try to recover the confirmed
-cases time series from the recovered cases time series.<!--more-->
+cases time series from the recovered cases time series.
+<!--more-->
 
 Why do we care about an inverse problem at all? So far we have thought about
 epidemiology within the framework of

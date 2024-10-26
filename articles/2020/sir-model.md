@@ -25,7 +25,8 @@ efficiency of quarantine to get any reasonable estimate.
 
 So this time we will talk about a classical model in
 [epidemiology](/tag/epidemiology/) known as Susceptible-Infected-Recovered model
-or SIR model for short.<!--more-->
+or SIR model for short.
+<!--more-->
 
 ## The model
 

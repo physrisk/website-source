@@ -16,7 +16,8 @@ super-diffusion) or notably slower (known as sub-diffusion) than the "normal"
 diffusion.
 
 In this post we will compare normal and anomalous diffusion from the
-point-of-view of mean square displacement (abbr. MSD).<!--more-->
+point-of-view of mean square displacement (abbr. MSD).
+<!--more-->
 
 ## Brownian walk - diffusion as we know it
 

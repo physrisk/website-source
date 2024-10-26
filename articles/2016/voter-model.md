@@ -12,7 +12,8 @@ heavily dependent on the dimensionality of the topology on which
 modeling occurred, which was rather interesting phenomenon at that
 time. In contemporary science this model is rather popular, thought now
 it is known as the voter model. This text discusses the simplest version
-of the model.<!--more-->
+of the model.
+<!--more-->
 
 ## Essential rules behind the model
 

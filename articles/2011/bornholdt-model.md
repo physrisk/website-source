@@ -24,7 +24,7 @@ behavior using classical models of statistical physics as an
 inspiration. In this text we will discuss agent-based spin model of the
 financial markets proposed by Bornholdt \[cite id="Bornholdt2001IJMPC,
 Kaizoji2002PhysA"\], which is based on widely known [Ising
-model]({filename}/articles/2010/ising-model.md).<!--more-->
+model]({filename}/articles/2010/ising-model.md).
 Despite the fact that Ising model models inanimate system, natural
 interactions are introduced by assuming two different types of
 interactions between the agents - local herding (local feromagnetic
@@ -35,6 +35,7 @@ Bornholdt's model is also interesting as recently there were some
 attempts to propose macro treatment of the original agent-based model
 \[cite id="Krause2011DPGVerh"\]. Previously similar thing was done with
 Kirman's model \[cite id="Alfarano2005CompEco"\].
+<!--more-->
 
 Bornholdt's modifications of Ising model
 ----------------------------------------

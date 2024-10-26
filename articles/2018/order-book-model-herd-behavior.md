@@ -23,7 +23,8 @@ about which [we often write about here on Physics of Risk](/tag/kirman-model/),
 implement their strategies in order book setting. This implementation heavily
 relies on the core ideas of the empirical high-frequency trader's behavior model
 [cite id="Kanazawa2018PRL,Kanazawa2018arxiv"] we have discussed
-[recently]({filename}/articles/2018/describing-high-frequency-traders-behavior-in-the-order-book.md).<!--more-->
+[recently]({filename}/articles/2018/describing-high-frequency-traders-behavior-in-the-order-book.md).
+<!--more-->
 
 ## The model
 

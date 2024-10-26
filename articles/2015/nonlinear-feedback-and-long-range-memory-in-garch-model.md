@@ -21,7 +21,8 @@ and also that [nonlinear GARCH(1,1) model enables reproduction of
 long-range
 memory]({filename}/articles/2015/long-range-memory-in-nonlinear-garch-model.md).
 In this blog post we once again touch the topic of long-range memory,
-but now we consider nonlinear feedback.<!--more-->
+but now we consider nonlinear feedback.
+<!--more-->
 
 [Previously]({filename}/articles/2015/long-range-memory-in-nonlinear-garch-model.md)
 we have written down iterative equation, which has rather inconvenient

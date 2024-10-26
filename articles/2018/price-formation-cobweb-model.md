@@ -12,7 +12,8 @@ In the [first part]({filename}/articles/2017/laws-of-supply-and-demand.md) of th
 
 In the [second part]({filename}/articles/2018/price-formation-printing-press-example.md) we have discussed a simple example in which printing press failed to predict the demand for the book. We have discussed how non-optimal prices as well as certain dynamics might emerge.
 
-In this installment (a third part) of the series, we discuss another classical, but more sophisticated, model, which attempts to explain what happens if the knowledge about supply and demand laws is not perfect. The cobweb model aims to show how the self-organized optimal prices emerge over time. Note that we have already discussed (see [this post]({filename}/articles/2014/market-price-is-it-economic-or-sociological-concept.md)) how self-organized price emerges from [the Kirman model](/tag/kirman-model/) and that this price is far from reflecting underlying economic values.<!--more-->
+In this installment (a third part) of the series, we discuss another classical, but more sophisticated, model, which attempts to explain what happens if the knowledge about supply and demand laws is not perfect. The cobweb model aims to show how the self-organized optimal prices emerge over time. Note that we have already discussed (see [this post]({filename}/articles/2014/market-price-is-it-economic-or-sociological-concept.md)) how self-organized price emerges from [the Kirman model](/tag/kirman-model/) and that this price is far from reflecting underlying economic values.
+<!--more-->
 
 ## Cobweb model
 

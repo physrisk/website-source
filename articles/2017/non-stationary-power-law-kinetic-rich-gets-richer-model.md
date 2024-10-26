@@ -6,7 +6,8 @@ Slug: non-stationary-power-law-kinetic-rich-gets-richer-model
 Status: published
 Image_url: uploads/2017/non-stationary-power-law-kinetic-rich-gets-richer-model.png
 
-More than four years ago I (Aleksejus) started a series of posts reviewing with most well known [kinetic exchange models](/tag/kinetic-models/). Recently I had to refresh my memory on this topic as a colleague (Julius) suggested an idea how to obtain power-law from the [constant exchange model]({filename}/articles/2013/elementary-kinetic-exchange-models.md).<!--more-->
+More than four years ago I (Aleksejus) started a series of posts reviewing with most well known [kinetic exchange models](/tag/kinetic-models/). Recently I had to refresh my memory on this topic as a colleague (Julius) suggested an idea how to obtain power-law from the [constant exchange model]({filename}/articles/2013/elementary-kinetic-exchange-models.md).
+<!--more-->
 
 ## Initial idea
 

@@ -19,7 +19,8 @@ generation may exist \[cite id="Albert2002RevModPhys,
 Barabasi2015CUP"\]. In this text we will discuss how intrinsic random
 nature and tendency to optimize causes scale-free topologies to emerge
 in computer networks - how and why "luck and reason" may be behind the
-observed complexity \[cite id="Barabasi2015CUP"\].<!--more-->
+observed complexity \[cite id="Barabasi2015CUP"\].
+<!--more-->
 
 When adding a new node (e.g., router) to the network we have to take to
 important factors into consideration - the cost of cable necessary to

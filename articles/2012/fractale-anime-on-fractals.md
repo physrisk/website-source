@@ -14,7 +14,8 @@ is far behind the leaders.
 
 First thing each viewer see is memorable opening sequence, which is rich
 of strange patterns and fractals. The view is nice, interesting and very
-sophisticated.<!--more-->
+sophisticated.
+<!--more-->
 
 [youtube v="MMoRrvAeCjA"]
 

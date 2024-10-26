@@ -20,7 +20,10 @@ for us to see where do we actually stand. Are we still in physics or
 maybe we have moved to the other domains (e.g., economics, financial
 mathematics or maybe even into the brand new independent field
 econophysics?). So in this text I will attempt to share and develop some
-interesting thoughts heard during the conference.<!--more--> I have
+interesting thoughts heard during the conference.
+<!--more-->
+
+I have
 found K. Kirtiklis paraphrase "Embrace the object not the field"
 (original phrase by J. R. Beniger \[cite id="Beniger1993JComm"\])
 thought the most interesting. Further one could develop it by drawing

@@ -10,7 +10,8 @@ Couple of months ago I have started a [series of posts](/tag/topic-price-formati
 
 In the [first part]({filename}/articles/2017/laws-of-supply-and-demand.md) of the series we have discussed economic laws of supply and demand. We have also mentioned the "sweet spot" of the supply-demand model - equilibrium price. But we did not cover how one would discover the equilibrium price.
 
-What I did not notice previously, until revisiting the topic while writing this post, is that the supply and demand laws should be stated as areas and not curves. The simple logic is that if you sell, you are keen to sell at no lower than some price. You will be obviously happy to sell at higher price. Hence for the supplier any point on or above supply curve is desirable outcome. The same logic applies to the demand curve - buyers are happy to buy at some price or lower.<!--more-->
+What I did not notice previously, until revisiting the topic while writing this post, is that the supply and demand laws should be stated as areas and not curves. The simple logic is that if you sell, you are keen to sell at no lower than some price. You will be obviously happy to sell at higher price. Hence for the supplier any point on or above supply curve is desirable outcome. The same logic applies to the demand curve - buyers are happy to buy at some price or lower.
+<!--more-->
 
 ## Printing press example
 

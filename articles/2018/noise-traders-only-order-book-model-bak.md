@@ -13,7 +13,8 @@ was inspired by reaction-diffusion model from physics.
 
 Note that the full model considered in [cite id="Bak1997PhysA"] is more complex
 than we discuss in this post. Here we only reproduce the results of the model
-with "noise traders" only (as discussed in Section IV B of the article).<!--more-->
+with "noise traders" only (as discussed in Section IV B of the article).
+<!--more-->
 
 ## The "noise traders" only model
 

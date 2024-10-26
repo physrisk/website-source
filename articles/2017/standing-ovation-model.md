@@ -18,7 +18,8 @@ It appears to be free choice, but actually it isn't as there are various
 social feedback loops in play. This problem was considered as a simple
 agent-based model in a paper by Miller and Page \[cite
 id="Miller2004Complexity"\]. In this text we will briefly introduce you
-to it.<!--more-->
+to it.
+<!--more-->
 
 The model
 ---------

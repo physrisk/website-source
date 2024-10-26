@@ -16,7 +16,8 @@ distribution can be obtained from the
 and some other models. But clustering appears to be trickier to
 reproduce together with the previous two. In this text we will discuss
 what clustering actually is and how to obtain it in random network
-model.<!--more-->
+model.
+<!--more-->
 
 Context of the three main random network models
 -----------------------------------------------

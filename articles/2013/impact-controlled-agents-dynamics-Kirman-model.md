@@ -24,7 +24,8 @@ small part of the society, yet they are able to shape the behavior on
 the collective level. Actually this is confirmed by the experiments
 \[cite id="Dyer2009RSTB"\]. Thus we see that the possibility to control
 the collective behavior is not very unrealistic idea, and therefore it
-is very interesting topic to be studied.<!--more-->
+is very interesting topic to be studied.
+<!--more-->
 
 Introduction of the controlled agents
 -------------------------------------

@@ -16,7 +16,8 @@ tosses a coin until the tail appears. After each toss he pays a player
 money. The problem in question is - what is an optimal price for the
 game? Namely how much money the host should ask from a player, that he
 would be still motivated to play the game, yet also preventing
-unnecessary losses by the host.<!--more-->
+unnecessary losses by the host.
+<!--more-->
 
 There is no direct answer for this problem, because the expected
 winnings are infinite,

@@ -13,7 +13,8 @@ time to time it annoys us and sometimes we even call police to keep it
 in check? The answer to this quite complex, as it is oriented towards
 people with physics background, question is unbelievably simple. Noise
 possesses all of the aforementioned
-qualities!<!--more-->
+qualities!
+<!--more-->
 
 **White noise** was named after white color. As it should be known white
 color is actually a mixture of many different colors. Human sees it if

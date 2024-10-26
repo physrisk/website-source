@@ -10,7 +10,8 @@ Here we continue our discussion on the Talent vs Luck model proposed by
 [cite id="Pluchino2018ACS"]. This time we show you the reason why this model
 is worthy of comparison to the [kinetic exchange models](/tag/kinetic-models/).
 This model is capable of reproducing power-law wealth (capital in this model)
-distribution.<!--more-->
+distribution.
+<!--more-->
 
 ## HTML 5 app
 

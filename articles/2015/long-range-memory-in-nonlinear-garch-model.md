@@ -19,7 +19,8 @@ time]({filename}/articles/2015/power-law-distribution-in-linear-garch-model.md)
 we have shown that GARCH(1,1) modeli is able to produce power law
 distributions, but not a long-range memory. In this text we introduce
 nonlinearity into GARCH(1,1) model and demonstrate that the modified
-model exhibits long-range memory.<!--more-->
+model exhibits long-range memory.
+<!--more-->
 
 Comparison between stochastic differential equation obtained from
 GARCH(1,1) and a general class of stochastic differential equations

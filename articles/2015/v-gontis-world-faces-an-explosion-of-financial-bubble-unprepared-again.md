@@ -29,7 +29,8 @@ estimation of the stimulation program indicates that this contributed to
 the growth of China after 2008 exceeds up to the 90 percent of whole GDP
 growth (see [article by Bill Powel on
 Time](https://content.time.com/time/magazine/article/0,9171,1975336,00.html#ixzz1g4B5P26P)).
-Nevertheless, several giant projects have really failed.<!--more-->
+Nevertheless, several giant projects have really failed.
+<!--more-->
 
 The Chinese municipal governments have developed the independent
 infrastructure programs with total value of used credits up to the 1.7

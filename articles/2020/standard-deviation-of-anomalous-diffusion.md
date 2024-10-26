@@ -9,7 +9,8 @@ Image_url: uploads/2020/standard-deviation-of-anomalous-diffusion.png
 In a [previous post]({filename}/articles/2020/brief-introduction-into-anomalous-diffusion.md) we have
 used mean squared displacement to understand diffusion of Brownian and Levy's
 walks. Alternatively we could use a more familiar statistical measure: variance
-(or standard deviation).<!--more-->
+(or standard deviation).
+<!--more-->
 
 ## Discussion
 

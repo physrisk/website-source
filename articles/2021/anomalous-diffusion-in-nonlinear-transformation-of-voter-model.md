@@ -11,7 +11,8 @@ considering my recent manuscript together with R. Kazakevicius
 [cite id="Kazakevicius2021AnoVM"]. In the said manuscript we have considered two
 different non-linear transformations of the noisy
 [voter model](/tag/voter-model/). Here we present you with non-linear
-transformation of the observable.<!--more-->
+transformation of the observable.
+<!--more-->
 
 ## Model
 

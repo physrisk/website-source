@@ -10,7 +10,8 @@ about two essential statistical features of the time series -
 probability and spectral densities. The probability density function
 should well known to our readers - it is related to the distribution of
 time series values. So let us now discuss the power spectral
-density.<!--more-->
+density.
+<!--more-->
 
 Note that we have already written on the "colors" of noise (see
 [here]({filename}/articles/2012/colors-of-noise.md)),

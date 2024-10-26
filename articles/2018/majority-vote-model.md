@@ -13,7 +13,8 @@ which draws inspiration from the [Ising model]({filename}/articles/2010/ising-mo
 This generalization, known as majority-vote model [cite id="Liggett1985,Oliveira1992JStatPhys"],
 adds thermal noise and hence the average opinion, \\\( M \\\), no longer
 converges to a fixed
-point if the amount of noise is just right.<!--more-->
+point if the amount of noise is just right.
+<!--more-->
 
 ## Majority-vote model
 

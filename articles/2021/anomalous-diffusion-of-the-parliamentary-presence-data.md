@@ -13,7 +13,8 @@ perspective, let me consider parliamentary presence data. Why this data could be
 interesting to us? Because, it was shown that parliamentary presence in the
 Brazilian parliament does exhibit [anomalous diffusion](/tag/anomalous-diffusion/)
 [cite id="Vieira2019PRE"]. And it seems that Lithuanian Seimas does too
-[cite id="Kononovicius2020JStat"].<!--more-->
+[cite id="Kononovicius2020JStat"].
+<!--more-->
 
 ## Data
 

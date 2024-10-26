@@ -10,7 +10,8 @@ In the [previous post]({filename}/articles/2020/covid-19-recovery-rate.md) we
 have estimated mean recovery time in COVID-19 Lithuanian data set. We have
 tried to generate fake recovery time series assuming that recovery times are
 exponentially distributed. We have failed. This time we will assume that
-recovery times are Weibull distributed.<!--more-->
+recovery times are Weibull distributed.
+<!--more-->
 
 Assuming exponential distribution to describe the recovery times has a specific
 meaning. It means that the recovery rate is constant in time. Namely, it does

@@ -11,7 +11,8 @@ century economist Harold Hotelling noted that competitors tend to make
 their products very similar. Currently this observation is known as
 minimal differentiation principle or Hotelling law. In order to
 understand what and why is going on, let us imagine one dimensional
-city.<!--more-->
+city.
+<!--more-->
 
 Evidently a real-life city can't be one dimensional - we live in three
 dimensions, thus our cities are also three dimensional. But lets

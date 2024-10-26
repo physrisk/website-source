@@ -14,7 +14,8 @@ antipodal concepts in human interactions: trust and suspicion.
 In this post we discuss how the model is extended to three agent case (which
 will eventually lead us to many agent case) and its relationship with well-known
 Hegselmann-Krause model, which we have discussed in an earlier
-[post]({filename}/articles/2019/hegselmann-krause-bounded-confidence-model.md).<!--more-->
+[post]({filename}/articles/2019/hegselmann-krause-bounded-confidence-model.md).
+<!--more-->
 
 So now Type I update rule is given by:
 

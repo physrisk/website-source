@@ -15,7 +15,8 @@ is being turned on periodically for a brief periods of time). When the
 field is on, it creates a force, acting on the particle, of strength
 \\\(  K \\\). As field is on only for a very brief periods of time, the
 force may be approximated by the Dirac delta
-function.<!--more-->
+function.
+<!--more-->
 
 ![General schema of kicked
 rotator]({static}/uploads/2014/chaotic-dynamics-in-the-kicked-rotator-problem.png

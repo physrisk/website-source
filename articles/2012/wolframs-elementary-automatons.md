@@ -19,7 +19,8 @@ and simplifications, generally speaking cellular automatons might evolve
 in the infinite dimensions, have infinite neighborhoods and have
 limitless number of possible cell states, these cellular automatons
 appear to be very simple, though as we show below they can replicate
-very complex and even chaotic behavior.<!--more-->
+very complex and even chaotic behavior.
+<!--more-->
 
 These cellular automatons in some literature are named Wolfram's
 elementary programs as S. Wolfram was the first one who took up an

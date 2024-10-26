@@ -14,7 +14,8 @@ In the [second part]({filename}/articles/2018/price-formation-printing-press-exa
 
 In the [third part]({filename}/articles/2018/price-formation-cobweb-model.md) of the series we have discussed the implications of the cobweb model, which attempts to explain how the prices and produced quantity converge to equilibrium. We have noted that this convergence is not immediate and may take some time.
 
-Previously we have mentioned that supply and demand laws should be reformulated as areas. As anything above the supply curve is good for the supplier and anything below the demand curve is good for the customer. What we have not yet talked about is why the curves are where they are.<!--more-->
+Previously we have mentioned that supply and demand laws should be reformulated as areas. As anything above the supply curve is good for the supplier and anything below the demand curve is good for the customer. What we have not yet talked about is why the curves are where they are.
+<!--more-->
 
 ## Shifts in supply and demand curves
 

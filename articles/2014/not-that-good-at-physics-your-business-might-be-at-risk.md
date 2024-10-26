@@ -23,7 +23,8 @@ large city is reviewed by Aleksejus Kononovicius, younger research
 fellow at Institute of Theoretical Physics and Astronomy, Vilnius
 University. He is also a current contributor to the "Physics of Risk", a
 website which presents an idea that "more physics - less risk" for a
-broader society.<!--more-->
+broader society.
+<!--more-->
 
 Small disturbances - large consequences
 ---------------------------------------

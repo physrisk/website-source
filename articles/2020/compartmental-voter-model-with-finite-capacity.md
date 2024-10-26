@@ -10,7 +10,8 @@ In the [last post]({filename}/articles/2020/compartmental-voter-model.md) we
 have introduced you to the compartmental voter model
 [cite id="Kononovicius2019Comp"]. While we have introduced the concept of
 capacity and allowed for a brief exploration of it, this time we dig slightly
-deeper into this topic.<!--more-->
+deeper into this topic.
+<!--more-->
 
 Note that if the capacity is finite, we are no longer able to obtain close form
 result. Yet we can rely on the fact that our model is in fact a Markov chain.

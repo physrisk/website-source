@@ -14,7 +14,8 @@ antipodal concepts in human interactions: trust and suspicion.
 In this post we present you with an app, which uses \\\( 100 \\\) agents.
 Obviously, it would not be reasonable to enter \\\( \mathbf{D} \\\) by hand for
 such number of agents. So we have used random strategy to fill in
-\\\( \mathbf{D} \\\).<!--more-->
+\\\( \mathbf{D} \\\).
+<!--more-->
 
 While, obviously, there is a large choice of possible fill in strategies we have
 decided to use a random fill in strategy with the following assumptions:

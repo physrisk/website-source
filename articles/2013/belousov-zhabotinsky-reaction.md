@@ -21,7 +21,8 @@ equations]({filename}/articles/2012/lotka-volterra-equations.md).
 
 In this text we will also consider certai cellular automaton, which
 replicates the spatial oscillations seen in some of the
-Belousov-Zhabotinsky reactions.<!--more-->
+Belousov-Zhabotinsky reactions.
+<!--more-->
 
 Belousov-Zhabotinsky reaction and Lotka-Volterra equations
 ----------------------------------------------------------

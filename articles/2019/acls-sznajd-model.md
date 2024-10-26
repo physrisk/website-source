@@ -12,7 +12,8 @@ four opinions. But now they are no longer one-dimensional! In this
 Authoritarian-conservative-libertarian-socialist (ACLS) Sznajd model
 opinions are two-dimensional. Namely, there are two binary dimensions:
 attitudes towards political and personal freedoms are considered at the same time
-[cite id="SznajdWeron2005PhysA"].<!--more-->
+[cite id="SznajdWeron2005PhysA"].
+<!--more-->
 
 ## The model
 

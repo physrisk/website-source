@@ -22,7 +22,8 @@ model](/tag/kirman-model/))
 can be treated analytically with ease in most of the cases \[cite
 id="Aoki2007Cambridge,VanKampen2007NorthHolland"\]. In this text we will
 discuss two main techniques used to analytically obtain statistical
-features of the kinetic exchange models.<!--more-->
+features of the kinetic exchange models.
+<!--more-->
 
 Master equation
 ---------------

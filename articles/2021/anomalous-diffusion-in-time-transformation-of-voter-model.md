@@ -10,7 +10,8 @@ Image_url: uploads/2021/anomalous-diffusion-in-time-transformation-of-voter-mode
 we have discussed the first non-linear transformation of the noisy voter model
 considered by me and R. Kazakevicius [cite id="Kazakevicius2021AnoVM"]. This
 time let us talk about the second non-linear transformation: transformation
-of the time scale.<!--more-->
+of the time scale.
+<!--more-->
 
 ## Model
 

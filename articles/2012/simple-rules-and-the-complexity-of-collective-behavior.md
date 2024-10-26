@@ -11,7 +11,8 @@ should be pretty straightforward why the agent-based models appear to be
 very simple. They do poses technical simplicity, which my cause some
 doubts on the actual usefulness of the agent-based models. But the fact
 is that they are able to reproduce complex, non-trivial behavioral
-patterns.<!--more-->
+patterns.
+<!--more-->
 
 There numerous examples for this. One of the most simple, yet very
 persuasive, is made available on the Icosystem website (see

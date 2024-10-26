@@ -19,7 +19,8 @@ and the
 [Watts-Strogatz]({filename}/articles/2013/watts-strogatz-model.md)
 ("small world" networks) network formation models. This time I'll write
 about the Barabasi-Albert model ("scale-free"
-networks).<!--more-->
+networks).
+<!--more-->
 
 The essence of the Barabasi-Albert model
 ----------------------------------------

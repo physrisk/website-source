@@ -16,7 +16,8 @@ to solve another default setup: "10 apples + 4 pears = 48 Litas, while 5
 apples + 6 pears = 32 Litas, if so then how many Litas does a single
 apple or pear cost?" Why should anyone solve this problem in this way?
 Can't the client just look up the price tags? Or check his
-receipt?<!--more-->
+receipt?
+<!--more-->
 
 The thoughts above are taken from, or at least inspired by, [the article
 on The

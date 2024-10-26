@@ -27,7 +27,8 @@ other.
 At this point we would like to stop the discussion on the use of the
 terminology. Recall that the aim of this text is somewhat different from
 that. We aim to familiarize you with the
-Econophysics!<!--more-->
+Econophysics!
+<!--more-->
 
 Economics need a scientific revolution
 --------------------------------------

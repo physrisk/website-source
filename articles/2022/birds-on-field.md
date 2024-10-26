@@ -11,7 +11,8 @@ How many birds could potentially fit on a wire? Well it depends on how
 density of birds is approximately \\\( \frac{1}{2 r + 1} \\\) in the steady
 state regime (here \\\( r \\\) is the tolerance distance of the birds). In
 this post we provide an interactive applet for the two dimensional case
-(field).<!--more-->
+(field).
+<!--more-->
 
 ## Interactive app
 

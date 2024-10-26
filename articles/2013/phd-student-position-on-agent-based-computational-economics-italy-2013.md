@@ -23,7 +23,8 @@ EURACE and is expected to contribute to its further development.
 
 Applicants should have a Master degree in Engineering, Science or
 Economics with an adequate background in programming, data analysis and
-statistics.<!--more-->
+statistics.
+<!--more-->
 
 Rules and application form (deadline for application is September 20th):
 ------------------------------------------------------------------------

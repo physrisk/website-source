@@ -10,7 +10,8 @@ how close the market is to monopolistic market. This tool is used by
 organizations responsible for the supervision of fair competition (e.g.,
 when considering corporate mergers). This index is obtained using known
 market shares, \\\(  s\_i \in (0,1\] \\\), of competitors in the
-market<!--more-->:  
+market:
+<!--more-->
 
 \begin{equation}
  H = \sum\_{i=1}^N s\_i^2 . 

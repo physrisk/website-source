@@ -37,7 +37,8 @@ Scandinavian countries to already reviewed Baltic and Visegrad regions.
 In the first graph we plot GDPs in USD, current prices, of these EU
 members’ and Norway from 1995 to 2012. The same data is show in three
 different ways to stress various growth
-trends.<!--more-->
+trends.
+<!--more-->
 
 ![Fig. 1: GDP in USD, current prices, of Baltic, Visegrad and Scandinavian
 countries is shown in three different ways from 1995 to

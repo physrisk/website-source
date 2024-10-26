@@ -19,7 +19,8 @@ fails to explain economic processes in the periods of global crises.
 They further develop the term of Animal Spirits seeking to explain the
 evolution of global economy in the periods of crises and depression and
 looking for the appropriate measures how to overcome the economic
-slump.<!--more-->
+slump.
+<!--more-->
 
 Authors’ suggest characterizing the Animal Spirits by five human
 behavioral features. First of them - confidence and its multipliers,

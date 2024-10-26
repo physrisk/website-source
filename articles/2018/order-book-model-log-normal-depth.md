@@ -18,7 +18,8 @@ facts.
 
 It is quite possible that we will discuss some of the modifications
 sometime later on Physics of Risk, but now let us describe the chosen version
-of the model proposed by Tobias Preis.<!--more-->
+of the model proposed by Tobias Preis.
+<!--more-->
 
 ## The model
 

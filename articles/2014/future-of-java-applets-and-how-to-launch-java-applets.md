@@ -25,7 +25,8 @@ problems occurring to you, our readers.
 
 In the mean time, we present a list of articles, which include old Java
 applets, and also provide a detailed instruction on how to launch Java
-applets.<!--more-->
+applets.
+<!--more-->
 
 Articles with old Java applets
 ------------------------------

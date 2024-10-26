@@ -17,7 +17,8 @@ on the topics of "Economic convergence as thermodynamic appreciation of
 real currency exchange rate" (supervisor dr. (HP) Vygintas Gontis;
 student-trainee Kęstutis Acus) and "Controling complex stochastic
 systems" (supervisor Aleksejus Kononovicius; student-trainee Ignas
-Kazakevičius).<!--more-->
+Kazakevičius).
+<!--more-->
 
 **On
 the 5-6th of June** in the Mykolas Romeris University the international

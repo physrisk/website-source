@@ -31,7 +31,8 @@ estimation of risk, known as *burst statistics* \[cite
 id="Alaburda2011JDySES, Kaulakys2009AIP"\]. In this text we will discuss
 these variables and their statistical properties. At the end of the text
 we also present an interactive HTML5 applet, using which one can reproduce
-burst statistics of certain stochastic model.<!--more-->
+burst statistics of certain stochastic model.
+<!--more-->
 
 Burst statistics
 ----------------

@@ -10,7 +10,8 @@ This summer one of my colleagues asked me if I know what is the recovery rate
 from COVID-19. While I have read a lot of papers, some of them claiming to use
 "realistic" parameters, I still had no clue (as those "realistic" parameters
 were in some cases wildly different). Yet as we have enough data available, we
-can estimate recovery rate ourselves.<!--more-->
+can estimate recovery rate ourselves.
+<!--more-->
 
 Actually we need to define what we mean by "recovery rate", \\\( \lambda \\\).
 Let us say that it is an inverse of a mean time it takes for a newly discovered

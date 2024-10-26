@@ -16,7 +16,8 @@ applications - from biology to finance. In \[cite id="Kirman1993QJE"\]
 it is noted that behavior observed by entomologists is similar to one
 observed in economic scenarios (ex. popularity of books and
 restaurants). Thus one might expect that Kirman's model might be
-modified to work in the marketing scenario.<!--more-->
+modified to work in the marketing scenario.
+<!--more-->
 
 Bass diffusion model as a special case of Kirman's model
 --------------------------------------------------------
