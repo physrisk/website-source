@@ -16,7 +16,6 @@ Balls](https://en.wikipedia.org/wiki/Golden_Balls)" final stage called
 
 [youtube v="z2DmzX_BP-A"]
 
-The game is very simple, yet it possesses no correct solution or optimal
-strategy. Interestingly enough it can also be used as model for
-understanding social behavior of humans \[cite
-id="Grund2013SRep"\].
+The game is very simple, yet about what constitutes an optimal play or
+correct solution we could argue a lot. It is even used to understand social
+behavior in humans [cite id="Grund2013SRep"].
