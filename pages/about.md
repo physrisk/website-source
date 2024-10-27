@@ -2,6 +2,7 @@ Title: About
 Date: 2017-10-13
 Slug: about
 Order: 0
+Number_figures: False
 
 On this blog we discuss a variety of [topics](/tags.html) related to the research
 interests of our Complex Physical and Social Systems group in [Vilnius University](https://www.vu.lt/)
