@@ -56,8 +56,8 @@ Usually this is would be true. For example, with trust matrix
 
 \begin{equation}
     \mathbf{T} = \begin{pmatrix}
-            0 & 0.5 & 0.5 \\
-            1 & 0 & 0 \\
+            0 & 0.5 & 0.5 \\\\
+            1 & 0 & 0 \\\\
             0 & 1 & 0
         \end{pmatrix} 
 \end{equation}
@@ -72,8 +72,8 @@ consider trust matrix
 
 \begin{equation}
     \mathbf{T} = \begin{pmatrix}
-            0 & 0.5 & 0.5 \\
-            1 & 0 & 0 \\
+            0 & 0.5 & 0.5 \\\\
+            1 & 0 & 0 \\\\
             1 & 0 & 0
         \end{pmatrix} .
 \end{equation}
