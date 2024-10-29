@@ -227,5 +227,5 @@ was discussed above. Thus meaning of the parameters should be evident
 from previous discussion.
 
 [html5-interactive
-url="/uploads/models/bornholdt/index.html"
+url="/uploads/models/financial-markets/bornholdt-model/index.html"
 width="500" height="570" mode="iframe"]
