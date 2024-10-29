@@ -2,33 +2,28 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Noisy Deffuant et al. bounded confidence model</title>
-    <link rel="stylesheet" type="text/css" href="../shared-libs/normalize.css">
-    <link rel="stylesheet" type="text/css" href="../shared-libs/universal-style.css">
-	<script src="../shared-libs/jquery-183.min.js"></script>
-    <script src="../shared-libs/plotly-131.min.js"></script>
-    <script src="../shared-libs/plotlyPlot.js"></script>
-    <style>
-        #probNoise {width:70px}
-    </style>
+    <title>Deffuant et al. bounded confidence model</title>
+    <link rel="stylesheet" type="text/css" href="../../shared-libs/normalize.css">
+    <link rel="stylesheet" type="text/css" href="../../shared-libs/universal-style.css">
+	<script src="../../shared-libs/jquery-183.min.js"></script>
+    <script src="../../shared-libs/plotly-131.min.js"></script>
+    <script src="../../shared-libs/plotlyPlot.js"></script>
+	<script src="../../shared-libs/commonFunctions.js"></script>
 </head>
 <body>
 <div id="wrapper">
 <div id="figureWrapper">
-    <canvas id="plotDiv" width="500" height="500" class="fullSize"></canvas>
+    <div id="timeSeries" class="fullSize"></div>
+    <div id="pdf" class="fullSize"></div>
 </div><!-- #figureWrapper -->
 <div id="controlWrapper">
     <span class="controlBlock">
         <label for="epsilon">&epsilon;=</label>
-        <input id="epsilon" name="epsilon" type="number" min="0.01" max="1" step="0.01" value="0.32">
+        <input id="epsilon" name="epsilon" type="number" min="0.01" max="1" step="0.01" value="0.25">
     </span>
     <span class="controlBlock">
         <label for="mu">&mu;=</label>
         <input id="mu" name="mu" type="number" min="0.01" max="0.5" step="0.01" value="0.25">
-    </span>
-    <span class="controlBlock">
-        <label for="probNoise">p<sub>n</sub>=</label>
-        <input id="probNoise" name="probNoise" type="number" min="0.0" max="0.2" step="0.001" value="0.01">
     </span>
     <br>
     <span class="controlBlock"><button name="restart" id="restart">Start</button></span>
@@ -36,13 +31,12 @@
 </div><!-- #controlWrapper -->
 </div><!-- #wrapper -->
 <script src="./deffuantBCModel.js"></script>
-<script src="./noisy-main.js"></script>
+<script src="./main.js"></script>
 <script>
 /* bind events and set initial states */
 $("#stop").attr("disabled","disabled");
 $("#restart").click(function () {
 	setup();
-    plotFigures();
 	$("#restart").attr("disabled","disabled");
 	$("#stop").removeAttr("disabled").click();
 });

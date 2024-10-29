@@ -26,7 +26,7 @@ becomes equivalent to the original [Deffuant's model]({filename}/articles/2019/d
 You can examine how the tolerance function looks like using app below.
 
 [html5-interactive width="520" height="240" mode="iframe"
-src="/uploads/models/deffuant-bc-model/vari-beta.html"]
+src="/uploads/models/opinion-dynamics/deffuant-bc-model/vari-beta.html"]
 
 Now that the two randomly selected will have differing tolerances we have to
 redefine our interaction rules from [previously]({filename}/articles/2019/deffuant-bounded-confidence-model.md).
@@ -51,6 +51,6 @@ agents will spawn less clusters than the opposite side (one with the less
 "tolerant" agents).
 
 [html5-interactive width="520" height="505" mode="iframe"
-src="/uploads/models/deffuant-bc-model/vari-eps.html"]
+src="/uploads/models/opinion-dynamics/deffuant-bc-model/vari-eps.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

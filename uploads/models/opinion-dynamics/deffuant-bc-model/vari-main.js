@@ -1,8 +1,8 @@
 function myParseFloat(val) {return parseFloat((""+val).replace(",","."));}
 
-let timeSeriesPlot=new plotlyPlot("timeSeries",["t",false]);
+let timeSeriesPlot=new plotlyPlot("timeSeries",["t",false],[10,15,40,60]);
 timeSeriesPlot.setRanges(true,[0,1]);
-let pdfPlot=new plotlyPlot("pdf",["x","p(x)"]);
+let pdfPlot=new plotlyPlot("pdf",["x","p(x)"],[10,15,40,60]);
 pdfPlot.setRanges([0,1],true);
 
 let nAgents=100;
@@ -15,11 +15,14 @@ let opinionPdfX=null;
 let pdfStep=0.01;
 
 let timeoutID=null;
+let autoStop=true;
 
 function play() {
     let i;
     if(model.step(nAgents)==0) {
-        $("#stop").click();
+        if(autoStop) {
+            $("#stop").click();
+        }
     }
     if(timeSeries.length>30) {
         timeSeries.splice(0,1);
@@ -57,9 +60,13 @@ function pdfSetup() {
 }
 
 function setup() {
+    autoStop=$("#autostop").is(":checked");
     model=new DeffuantBCModel(nAgents,
             myParseFloat($("#mu").val()),
-            myParseFloat($("#epsilon").val())
+            myParseFloat($("#epsilon").val()),
+            myParseFloat($("#alpha").val()),
+            myParseFloat($("#beta").val()),
+            myParseFloat($("#epsilonMin").val())
         );
     seriesSetup();
     pdfSetup();

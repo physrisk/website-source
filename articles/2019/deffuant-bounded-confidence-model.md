@@ -64,6 +64,6 @@ are used in the app). The bottom figure shows current distribution of the
 opinions.
 
 [html5-interactive width="520" height="470" mode="iframe"
-src="/uploads/models/deffuant-bc-model/index.html"]
+src="/uploads/models/opinion-dynamics/deffuant-bc-model/index.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
