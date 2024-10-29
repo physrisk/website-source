@@ -33,7 +33,7 @@ will plot the probability density function of confirmed cases, \\\( I \\\),
 variates, here are case and death counts of each county at specific \\\( t \\\).
 
 [html5-interactive mode="iframe"
-src="/uploads/models/reed-hughes/covid.html" width="520" height="240"]
+src="/uploads/models/stats-basic/reed-hughes/covid.html" width="520" height="240"]
 
 Note that such approach is somewhat similar to the
 [compartmental voter model](/tag/compartmental-voter-model/) I have written a

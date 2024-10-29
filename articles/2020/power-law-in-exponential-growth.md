@@ -93,4 +93,4 @@ global dynamics (sum of the local dynamics), while gray curves show example
 curves of the local dynamics.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/reed-hughes/series.html" width="520" height="270"]
+src="/uploads/models/stats-basic/reed-hughes/series.html" width="520" height="270"]
