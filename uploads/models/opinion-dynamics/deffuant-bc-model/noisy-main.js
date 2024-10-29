@@ -44,7 +44,7 @@ function plotFigures() {
     }
     // frame
     g.strokeStyle="rgb(0,0,0)";
-    g.strokeRect(0,0,pdfSteps*sqSize,pdfSteps*sqSize);
+    g.strokeRect(1,1,pdfSteps*sqSize-1,pdfSteps*sqSize-1);
     // ticks
     for(i=1;i<=nTicks;i+=1) {
         c=Math.floor(pdfSteps*sqSize*i/(nTicks+1));
