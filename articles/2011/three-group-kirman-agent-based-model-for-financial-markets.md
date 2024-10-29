@@ -158,5 +158,5 @@ Applet
 ------
 
 [html5-interactive
-url="/uploads/models/three-state-return-model/index.html"
+url="/uploads/models/financial-markets/three-state-return-model/index.html"
 width="515" height="385" mode="iframe"]

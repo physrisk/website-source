@@ -1,5 +1,5 @@
 // import shared scripts
-importScripts("../shared-libs/commonFunctions.js");
+importScripts("../../shared-libs/commonFunctions.js");
 // import local scripts
 importScripts("./abmThreeType.js");
 
