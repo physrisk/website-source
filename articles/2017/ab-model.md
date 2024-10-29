@@ -90,5 +90,5 @@ A or B).
 No more instructions - just try it yourself!
 
 [html5-interactive
-src="/uploads/models/ab-model/index.html"
+src="/uploads/models/opinion-dynamics/ab-model/index.html"
 height="265" width="425" mode="iframe"]
