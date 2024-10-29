@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: agent-based models, interactive, politics, culture, Axelrod model, opinion dynamics
 Slug: axelrod-culture-dissemination-model
 Status: published
-Image_url: uploads/2018/axelrod-culture-dissemination-model.png
+Image_url: uploads/2017/axelrod-culture-dissemination-model.png
 
 Here we will briefly present another classic agent-based model - Axelrod's model [cite id="Axelrod1997"]. In his article Axelrod argues that culture is formed through social interactions, that it is "something people learn from each other". Hence he presents a model which describes competition between cultural traits via social interactions between the agents.
 <!--more-->
@@ -36,7 +36,7 @@ Note that if A1 and A2 would share religion feature trait (for example if they b
 What to try? Notice that the model is boring with just \\\( 1 \\\) feature. Note how the convergence (to a fixed state) speed depends on all model parameters. Try to discover the parameter values which would allow for multiple cultures to persist.
 
 [html5-interactive
-src="/uploads/models/axelrod-model/index.html" width="420"
+src="/uploads/models/opinion-dynamics/axelrod-model/index.html" width="420"
 height="510" mode="iframe"]
 
 The applet also allows to change how fast the model is run. Here, "kips" and "mips" stand for thousands (kilo) interactions per second and millions (mega) interactions per second respectively. Note that older computers with weaker hardware might "lag" at faster speeds. If so, please decrease the speed.
