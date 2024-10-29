@@ -119,4 +119,4 @@ intentionally symmetric), but you achieve a draw. Feel free to experiment and
 find optimal position.
 
 [html5-interactive width="520" height="290" mode="iframe"
-url="/uploads/models/median-voter/index.html"]
+url="/uploads/models/opinion-dynamics/median-voter/index.html"]
