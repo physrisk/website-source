@@ -76,6 +76,6 @@ The interactive plots fractions of agents who hold positive
 (blue), negative (red) and neutral (gray) opinions.
 
 [html5-interactive mode="iframe" width="520" height="270"
-src="/uploads/models/repulsion-controversial-debate-model/index.html"]
+src="/uploads/models/opinion-dynamics/repulsion-controversial-debate-model/index.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

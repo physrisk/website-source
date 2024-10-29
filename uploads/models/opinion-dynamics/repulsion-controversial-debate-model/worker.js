@@ -1,4 +1,4 @@
-importScripts("../shared-libs/random-026.min.js");
+importScripts("../../shared-libs/random-026.min.js");
 importScripts("rcdVoterModel.js");
 
 /* declare globals */
