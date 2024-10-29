@@ -80,7 +80,7 @@ initial conditions. Note that you may also change the strength of the
 kicks, \\\(  K \\\). Period of the external force was set to one second.
 
 [html5-interactive
-src="/uploads/models/standard-map/separation.html"
+src="/uploads/models/attractor/standard-map/separation.html"
 width="520" height="370" mode="iframe"]
 
 Many trajectory Poincare plot and Standard map
@@ -103,7 +103,7 @@ trajectories become apparently random (chaotic as they are of
 deterministic nature).
 
 [html5-interactive
-src="/uploads/models/standard-map/index.html"
+src="/uploads/models/attractor/standard-map/index.html"
 width="460" height="560" mode="iframe"]
 
 Note that this applet allows to restrict \\\(  \omega \\\) to the
