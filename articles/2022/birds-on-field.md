@@ -35,4 +35,4 @@ In the above \\\( \left( x, y \right) \\\) are the coordinates of recently
 landed bird.
 
 [html5-interactive width="520" height="270" mode="iframe"
-url="/uploads/models/birds-on-wire/two-dim.html"]
+url="/uploads/models/stats-puzzles/birds-on-wire/two-dim.html"]
