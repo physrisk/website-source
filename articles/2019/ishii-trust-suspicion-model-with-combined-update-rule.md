@@ -28,16 +28,16 @@ Explore the possibilities the combined model offers.
 ## \\\( N=2 \\\) app
 
 [html5-interactive width="520" height="370" mode="iframe"
-src="/uploads/models/ishii-trust/index-comb.html"]
+src="/uploads/models/opinion-dynamics/ishii-trust-model/index-comb.html"]
 
 ## \\\( N=3 \\\) app
 
 [html5-interactive width="520" height="400" mode="iframe"
-src="/uploads/models/ishii-trust/index-comb-3.html"]
+src="/uploads/models/opinion-dynamics/ishii-trust-model/index-comb-3.html"]
 
 ## \\\( N=100 \\\) app
 
 [html5-interactive width="520" height="570" mode="iframe"
-src="/uploads/models/ishii-trust/index-comb-100.html"]
+src="/uploads/models/opinion-dynamics/ishii-trust-model/index-comb-100.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

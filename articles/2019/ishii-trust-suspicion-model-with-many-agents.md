@@ -46,6 +46,6 @@ interval. If opinions fall outside this range, they are shown at the edges (as
 if they were \\\( \pm 10 \\\)).
 
 [html5-interactive width="520" height="570" mode="iframe"
-src="/uploads/models/ishii-trust/index-100.html"]
+src="/uploads/models/opinion-dynamics/ishii-trust-model/index-100.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

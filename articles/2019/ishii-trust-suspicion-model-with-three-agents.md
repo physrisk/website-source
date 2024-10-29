@@ -47,6 +47,6 @@ only on \\\( \mathbf{D} \\\), but also on the initial conditions. Feel free to
 try variety of scenarios using the app below.
 
 [html5-interactive width="520" height="405" mode="iframe"
-src="/uploads/models/ishii-trust/index-3.html"]
+src="/uploads/models/opinion-dynamics/ishii-trust-model/index-3.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]

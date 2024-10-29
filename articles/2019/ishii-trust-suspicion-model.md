@@ -97,6 +97,6 @@ try changing initial opinions of the agents, \\\( O\_1(0) \\\) and
 \\\( O\_2(0) \\\), as they may also play a role in the observed dynamics.
 
 [html5-interactive width="520" height="340" mode="iframe"
-src="/uploads/models/ishii-trust/index.html"]
+src="/uploads/models/opinion-dynamics/ishii-trust-model/index.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
