@@ -3,7 +3,7 @@ Date: 2024-10-29 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, opinion dynamics, agent-based models, DeGroot model
 Slug: degroot-model
-Status: draft
+Status: published
 Image_url: uploads/2024/degroot-model.png
 
 While looking through the recent [opinion dynamics](/tag/opinion-dynamics/)
