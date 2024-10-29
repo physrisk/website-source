@@ -224,7 +224,7 @@ here \\\(  \xi\_i  \\\) is Gaussian noise (zero mean, unit variance) and
 \\\(  \kappa  \\\) is numerical precision parameter.
 
 [html5-interactive width="520" height="615" mode="iframe"
-url="/uploads/models/grk-return-model/index.html"]
+url="/uploads/models/financial-markets/grk-return-model/index.html"]
 
 You can also download a full java program with GUI in
 [Lithuanian]({static}/uploads/2010/returnModel.jar)

@@ -141,4 +141,4 @@ HTML5 applet {#applet}
 -----------
 
 [html5-interactive width="520" height="515" mode="iframe"
-url="/uploads/models/grk-return-model/bursts.html"]
+url="/uploads/models/financial-markets/grk-return-model/bursts.html"]
