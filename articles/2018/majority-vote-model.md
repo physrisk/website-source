@@ -85,7 +85,7 @@ initial fraction of red agents (ones with \\\( +1 \\\) opinion). It is only used
 to generate initial configuration of the grid.
 
 [html5-interactive
-src="/uploads/models/majority-vote-model/index.html" width="520"
+src="/uploads/models/opinion-dynamics/majority-vote-model/index.html" width="520"
 height="450" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
