@@ -1,8 +1,8 @@
 function myParseFloat(val) {return parseFloat((""+val).replace(",","."));}
 
-let timeSeriesPlot=new plotlyPlot("timeSeries",["t",false]);
+let timeSeriesPlot=new plotlyPlot("timeSeries",["t",false],[10,15,40,60]);
 timeSeriesPlot.setRanges(true,[0,1]);
-let pdfPlot=new plotlyPlot("pdf",["x","p(x)"]);
+let pdfPlot=new plotlyPlot("pdf",["x","p(x)"],[10,15,40,60]);
 pdfPlot.setRanges([0,1],true);
 
 let nAgents=100;
