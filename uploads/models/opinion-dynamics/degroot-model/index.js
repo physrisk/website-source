@@ -5,7 +5,7 @@ let interaction_matrix = Array(3)
     .fill(null)
     .map(() => Array(3).fill(0));
 
-const STEP_INTERVAL = 100;
+const STEP_INTERVAL = 300;
 let continue_flag = false;
 
 function initialize() {
