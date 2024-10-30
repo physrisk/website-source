@@ -18,7 +18,7 @@ models. Such as
 [Galam's referendum model]({filename}/articles/2014/many-particle-interaction-in-the-kinetic-exchange-models.md),
 [Voter model]({filename}/articles/2016/voter-model.md),
 [AB model]({filename}/articles/2017/ab-model.md) and
-[Axelrod's culture dissemination model]({filename}/articles/2018/axelrod-culture-dissemination-model.md).
+[Axelrod's culture dissemination model]({filename}/articles/2017/axelrod-culture-dissemination-model.md).
 Though we haven't discussed it in detail
 [Bass diffusion model]({filename}/articles/2011/unidirectional-kirman-model.md)
 as well as [Kirman's model](/tag/kirman-model/) could be also seen as opinion
