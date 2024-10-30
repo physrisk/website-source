@@ -34,7 +34,7 @@ you can influence the maximal precision (recursive depth) in which the
 fractal is drawn. Observe self-similarity of the structure.
 
 [html5-interactive
-src="/uploads/models/sierpinski-triangle/geom.html"
+src="/uploads/models/fractals/sierpinski-triangle/geom.html"
 width="460" height="460" mode="iframe"]
 
 Shrinking and duplication
@@ -53,7 +53,7 @@ and "-" to influence the maximal precision (recursive depth) in which
 the fractal is drawn. Observe how a square starts to look like
 Sierpinski triangle.
 
-[html5-interactive src="/uploads/models/sierpinski-triangle/shrink.html"
+[html5-interactive src="/uploads/models/fractals/sierpinski-triangle/shrink.html"
 width="320" height="370" mode="iframe"]
 
 Chaos game
@@ -77,7 +77,7 @@ colored in three colors - red, green and blue. These colors are used when
 select color for the marking of the new current position (step 4). Note
 that colors stay separated and are near the appropriate main point.
 
-[html5-interactive src="/uploads/models/sierpinski-triangle/rand.html"
+[html5-interactive src="/uploads/models/fractals/sierpinski-triangle/rand.html"
 width="460" height="425" mode="iframe"]
 
 Other ways to obtain Sierpinski triangle
