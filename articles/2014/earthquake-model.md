@@ -53,5 +53,5 @@ HTML5 applet
 ------------
 
 [html5-interactive
-src="/uploads/models/ofc-model/index.html"
+src="/uploads/models/cellular-automata/ofc-model/index.html"
 width="500" height="560" mode="iframe"]
