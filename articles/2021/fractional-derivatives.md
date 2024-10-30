@@ -100,4 +100,4 @@ continuously "interpolates" between the function, its derivative and
 anti-derivative.
 
 [html5-interactive width="520" height="350" mode="iframe"
-url="/uploads/models/frac-diff/index.html"]
+url="/uploads/models/fractals/frac-deriv/index.html"]

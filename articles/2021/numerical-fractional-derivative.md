@@ -29,7 +29,7 @@ particular case comes into play together with integration constant
 (\\\( C = 1 \\\)).
 
 [html5-interactive width="520" height="350" mode="iframe"
-url="/uploads/models/frac-diff/sine.html"]
+url="/uploads/models/fractals/frac-deriv/sine.html"]
 
 Note that this app doesn't use analytical formula we have provided, but
 instead relies on numerical method discussed in the following section.
@@ -100,6 +100,6 @@ cases, one needs to include dependence on interval width \\\( \Delta \\\).
 
 For JavaScript implementation check JavaScript files of the both app for
 fractional derivative of \\\( f(x) = x \\\)
-[here](https://github.com/physrisk/website-source/blob/main/uploads/models/frac-diff/index.js) or \\\( f(x) = \sin(x) \\\)
-[here](https://github.com/physrisk/website-source/blob/main/uploads/models/frac-diff/sine.js) (in both implementations you'll
+[here](https://github.com/physrisk/website-source/blob/main/uploads/models/fractals/frac-deriv/index.js) or \\\( f(x) = \sin(x) \\\)
+[here](https://github.com/physrisk/website-source/blob/main/uploads/models/fractals/frac-deriv/sine.js) (in both implementations you'll
 find `frac_deriv` function).
