@@ -127,5 +127,5 @@ the allocated grid ends) by using "Start" button. You can also
 evaluation generation one by one - just use the button "Iteration".
 
 [html5-interactive
-url="/uploads/models/cellular-automata-elementary/index.html"
+url="/uploads/models/cellular-automata/elementary/index.html"
 width="490" height="580" mode="iframe"]
