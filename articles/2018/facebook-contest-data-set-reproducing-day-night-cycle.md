@@ -62,6 +62,6 @@ number of awake agents (blue curve), the bottom figure will show the number of
 new comments per 15 minute window (red curve).
 
 [html5-interactive
-src="/uploads/models/bass-day-night/index.html" width="520"
+src="/uploads/models/opinion-dynamics/bass-diffusion/day-night/index.html" width="520"
 height="540" mode="iframe"]
 
