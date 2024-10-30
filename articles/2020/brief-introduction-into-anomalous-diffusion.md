@@ -60,7 +60,7 @@ that we have fixed \\\( p = 0.5 \\\), so that even short drunkard's walk would
 be reasonably similar to Brownian walk.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/diffusion/index.html" width="520" height="240"]
+src="/uploads/models/physics-models/diffusion/index.html" width="520" height="240"]
 
 ## Levy's walk - super-diffusion
 
@@ -122,5 +122,5 @@ walk and exhibit same MSD dependence as Brownian walk (linear growth).
 Explore these intuitions using the app below.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/diffusion/levy.html" width="520" height="270"]
+src="/uploads/models/physics-models/diffusion/levy.html" width="520" height="270"]
 

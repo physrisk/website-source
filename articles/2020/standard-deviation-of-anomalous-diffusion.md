@@ -51,7 +51,7 @@ because I am relying on standard deviation and not variance. If I would have
 used variance the exponents would be exactly the same.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/diffusion/brown-std.html" width="520" height="240"]
+src="/uploads/models/physics-models/diffusion/brown-std.html" width="520" height="240"]
 
 ## Levy's walk
 
@@ -73,5 +73,5 @@ The equation above will hold as long as estimate of \\\( \alpha \\\) is within
 allowed value interval.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/diffusion/levy-std.html" width="520" height="270"]
+src="/uploads/models/physics-models/diffusion/levy-std.html" width="520" height="270"]
 
