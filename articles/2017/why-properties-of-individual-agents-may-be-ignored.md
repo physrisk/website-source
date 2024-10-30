@@ -85,7 +85,7 @@ prediction matches rather well. Before trying the app out note that
 intrinsic model time step, which is actually set automatically.
 
 [html5-interactive
-url="/uploads/models/bass-hetero-js/index.html"
+url="/uploads/models/opinion-dynamics/bass-diffusion/heterogeneous/index.html"
 width="470" height="500" mode="iframe"]
 
 We invite our readers to think critically about this topic. Not all
