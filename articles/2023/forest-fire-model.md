@@ -53,4 +53,4 @@ that around \\\( \rho \approx 0.55 \\\) the sizes of the fires change: being
 local for smaller values, and spanning whole forest with larger values.
 
 [html5-interactive width="520" height="540" mode="iframe"
-url="/uploads/models/forest-fire/index.html"]
+url="/uploads/models/cellular-automata/forest-fire/index.html"]
