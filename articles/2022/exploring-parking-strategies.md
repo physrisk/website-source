@@ -139,4 +139,4 @@ time. The second plot shows normalized average cost for all currently parked
 cars.
 
 [html5-interactive width="520" height="500" mode="iframe"
-url="/uploads/models/parking/index.html"]
+url="/uploads/models/stats-puzzles/parking/index.html"]
