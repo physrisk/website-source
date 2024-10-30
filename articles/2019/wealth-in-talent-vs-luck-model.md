@@ -27,4 +27,4 @@ relative luck distribution (which appears to be close to being normally
 distributed).
 
 [html5-interactive width="520" height="480" mode="iframe"
-src="/uploads/models/talent-luck/wealth.html"]
+src="/uploads/models/stats-puzzles/talent-luck/wealth.html"]

@@ -67,4 +67,4 @@ Feel free to explore a new app, which is essentially identical to the one from
 shows three different plots.
 
 [html5-interactive width="520" height="510" mode="iframe"
-src="/uploads/models/talent-luck/redist.html"]
+src="/uploads/models/stats-puzzles/talent-luck/redist.html"]
