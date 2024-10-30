@@ -97,7 +97,7 @@ trajectory exists and is reachable within 5000 iterations, black points
 will correspond to the trajectory of strange attractor.
 
 [html5-interactive id="html5-app"
-url="/uploads/models/attractor/random/index.html"
+url="/uploads/models/dynamical-chaos/random-attractor/index.html"
 mode="iframe" height="615" width="500"]
 
 Previously the interactive model was powered by Wolfram CDF technology.

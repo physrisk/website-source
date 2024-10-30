@@ -61,7 +61,7 @@ either select your own parameter values or generate them randomly (by
 pressing randomize).
 
 [html5-interactive id="html5-app" mode="iframe" height="630" width="520"
-url="/uploads/models/attractor/clifford/index.html"]
+url="/uploads/models/dynamical-chaos/clifford-attractor/index.html"]
 
 Not all attractors you'll find will be interesting. If after a quick moment
 the plot goes red, this means that you have found a quite boring attractor.
