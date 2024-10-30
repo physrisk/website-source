@@ -51,6 +51,6 @@ compared against the normal distribution with
 \\\( \frac{x(256) - x(0)}{256} \\\) mean and unit variance.
 
 [html5-interactive width="520" height="270" mode="iframe"
-url="/uploads/models/brownian-motion-interpolation/distribution.html"]
+url="/uploads/models/stats-basic/brownian-motion-interpolation/distribution.html"]
 
 Everything seems fine doesn't it?

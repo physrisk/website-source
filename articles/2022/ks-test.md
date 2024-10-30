@@ -60,6 +60,6 @@ indicates the obtained K-S static (\\\( D \\\)) and the threshold value
 (which is always \\\( 0.085 \\\) in the app).
 
 [html5-interactive width="520" height="270" mode="iframe"
-url="/uploads/models/brownian-motion-interpolation/ks-test.html"]
+url="/uploads/models/stats-basic/brownian-motion-interpolation/ks-test.html"]
 
 Everything seems fine doesn't it?

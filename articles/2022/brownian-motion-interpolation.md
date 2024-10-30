@@ -63,7 +63,7 @@ and \\\( x(256) \\\), which is \\\( x(128) \\\). Then it generates
 the missing mid-points until the trajectory is known at all integer times.
 
 [html5-interactive width="520" height="270" mode="iframe"
-url="/uploads/models/brownian-motion-interpolation/index.html"]
+url="/uploads/models/stats-basic/brownian-motion-interpolation/index.html"]
 
 The app won't generate the trajectory instantaneously on purpose. After
 filling in all current mid-points it will pause for \\\( 1 \\\) second.
