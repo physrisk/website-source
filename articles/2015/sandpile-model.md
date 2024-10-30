@@ -40,5 +40,5 @@ HTML5 applet
 ------------
 
 [html5-interactive
-src="/uploads/models/sandpile-model/index.html"
+src="/uploads/models/cellular-automata/sandpile-model/index.html"
 width="500" height="470" mode="iframe"]
