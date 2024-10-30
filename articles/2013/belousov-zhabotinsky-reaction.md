@@ -102,5 +102,5 @@ reminiscent to the those seen in YouTube video). Also note that the grid
 is torus.
 
 [html5-interactive
-url="/uploads/models/bz-reaction/index.html"
+url="/uploads/models/cellular-automata/bz-reaction/index.html"
 mode="iframe" height="575" width="495"]
