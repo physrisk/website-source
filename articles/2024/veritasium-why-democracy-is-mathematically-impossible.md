@@ -3,7 +3,7 @@ Date: 2024-11-05 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Veritasium, opinion dynamics, game theory
 Slug: veritasium-why-democracy-is-mathematically-impossible
-Status: draft
+Status: published
 
 While briefly going back to the topic of [opinion
 dynamics](/tag/opinion-dynamics/) let us become familiar with one possibly
