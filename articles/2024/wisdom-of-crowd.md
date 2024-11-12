@@ -3,7 +3,7 @@ Date: 2024-11-12 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, opinion dynamics, agent-based models, DeGroot model
 Slug: wisdom-of-crowd
-Status: draft
+Status: published
 Image_url: uploads/2024/wisdom-of-crowd.png
 
 While looking through the recent [opinion dynamics](/tag/opinion-dynamics/)
