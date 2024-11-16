@@ -121,9 +121,9 @@ axis_btn.addEventListener("click", () => {
     log_axis = !log_axis;
     axis_btn.innerHTML = log_axis ? "Lin-axis" : "Log-axis";
     if (log_axis) {
-        dist_plot.setLabels(["x", "lg[P(x)]"]);
+        dist_plot.setLabels(["x", "lg[p(x)]"]);
     } else {
-        dist_plot.setLabels(["x", "P(x)"]);
+        dist_plot.setLabels(["x", "p(x)"]);
     }
     if (!continue_flag) {
         plot_figures();
