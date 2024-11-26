@@ -3,7 +3,7 @@ Date: 2024-11-26 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, opinion dynamics, agent-based models, DeGroot model
 Slug: friedkin-johnsen-model
-Status: draft
+Status: published
 Image_url: uploads/2024/friedkin-johnsen-model.png
 
 Another model I have seen recently featured a lot in the literature is the
