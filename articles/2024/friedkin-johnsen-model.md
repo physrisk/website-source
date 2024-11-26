@@ -19,7 +19,7 @@ the DeGroot model [cite id="Friedkin1990"].
 So the agents still have real-valued opinions and there exits a trust
 network between them. The opinions are still averaged over the trusted
 agents, but the agents also remember their initial opinion and are pulled
-towards it. The update formula is then given by:
+towards it. The updated formula is then given by:
 
 \begin{equation}
     o\_i(t+1) = (1 - s\_i) \sum\_j T\_{i,j} o\_j(t) + s\_i o\_i(0).
@@ -27,13 +27,14 @@ towards it. The update formula is then given by:
 
 In the above all of the parameters are identical to the [DeGroot
 model]({filename}/articles/2024/degroot-model.md), with one new parameter -
-\\\( s\_i \\\) stands for the stubbornness of the agent (willingness to
-retain initial opinion).
+\\\( s\_i \\\). The new parameter stands for the stubbornness (willingness
+to retain the initial opinion) of the \\\( i \\\)-th agent.
 
 ## Interactive app
 
-As should be expected, stubborn crowds become less wise. Wisdom of the crowd
-effect (shrinkage of the opinion distribution) is still present, but now the
+As should be expected, stubborn crowds become less wise. [Wisdom of the crowd
+effect]({filename}/articles/2024/wisdom-of-crowd.md)
+(shrinkage of the opinion distribution) is still present, but now the
 width of the final opinion distribution depends on the value of \\\( s\_i
 \\\), which in this app we have kept the same for all agents. It is assumed
 to be equal to just \\\( s \\\).
