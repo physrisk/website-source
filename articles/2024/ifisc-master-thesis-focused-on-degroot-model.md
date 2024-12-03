@@ -3,7 +3,7 @@ Date: 2024-12-03 08:00
 Author: Aleksejus Kononovicius
 Tags: video, IFISC, opinion dynamics, DeGroot model, networks, bias
 Slug: ifisc-master-thesis-focused-on-degroot-model
-Status: draft
+Status: published
 
 In a few recent posts we have looked at the [DeGroot
 model]({filename}/articles/2024/degroot-model.md) and its
