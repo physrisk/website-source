@@ -6,12 +6,11 @@ Slug: colonel-blotto-game-varied-castles
 Status: draft
 Image_url: uploads/2024/colonel-blotto-game-varied-castles.png
 
-In an [earlier
-post]({filename}/articles/2024/colonel-blotto-game.md) we have seen basic
-framework behind the Colonel Blotto game. We have assumed that castles are
-identical and of equal value, but one of the simplest ways to generalize
-Colonel Blotto game is to assume that castles are heterogeneous. Can you
-still find a winning strategy?
+In an [earlier post]({filename}/articles/2024/colonel-blotto-game.md) we
+have seen basic framework behind the Colonel Blotto game. We have assumed
+that castles are identical and of equal value. In this post let us consider
+one of the simplest ways to generalize Colonel Blotto game is to assume that
+castles are heterogeneous. Can you still find a winning strategy?
 <!--more-->
 
 ## Interactive app
