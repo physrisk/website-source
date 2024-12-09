@@ -1,18 +1,25 @@
 Title: Colonel Blotto game
 Date: 2024-12-10 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, game theory, conflicts, Colonel Blotto game
+Tags: interactive, game theory, conflicts, competition, Colonel Blotto game
 Slug: colonel-blotto-game
 Status: draft
 Image_url: uploads/2024/colonel-blotto-game.png
 
 In an [earlier
-post]({filename}/articles/2024/financial-times-US-presidential-campaign-game.md)
-we have invited you to coordinate presidential campaign within a simple web
-game. We have also mentioned that the framework of the aforementioned web
-game is related to [game theory](/tag/game-theory/) and [Colonel Blotto
-game](/tag/colonel-blotto-game/). Let us talk about this classic game in
-this post.
+post]({filename}/articles/2024/financial-times-US-presidential-campaign-game.md),
+we invited you to coordinate presidential campaign within a simple web game.
+We have also mentioned that the framework of the web game relates to [game
+theory](/tag/game-theory/) and the [Colonel Blotto
+game](/tag/colonel-blotto-game/). Let us turn our attention for the next
+few posts to this classic game. As we will see it contains rich strategic
+landscape, and has numerous practical applications in various fields,
+including political campaigning (as previously discussed), warfare (as
+suggested by its original context), [marketing](/tag/marketing/), and even
+[sports](/tag/sports/).
+
+Here, in this post, will start by discussing the original formulation of the
+game.
 <!--more-->
 
 ## The game
