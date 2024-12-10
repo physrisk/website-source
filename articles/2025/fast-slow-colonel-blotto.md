@@ -6,7 +6,7 @@ Slug: fast-slow-colonel-blotto
 Status: draft
 Image_url: uploads/2025/fast-slow-colonel-blotto.png
 
-Let us continue exploring [Colonel Blotto game](/tag/Colonel-Blotto-game/)!
+Let us continue exploring [Colonel Blotto game](/tag/colonel-blotto-game/)!
 In an [earlier post]({filename}/articles/2024/colonel-blotto-game.md), we
 became familiar with the basic premise of the model. Then, we have
 [explored]({filename}/articles/2024/colonel-blotto-game-varied-castles.md)
@@ -20,7 +20,9 @@ this time?
 ## The game
 
 Let us once again assume that all five castles hold equal value, and
-therefore, to win the war, each warlord must capture three castles. This
+therefore, to win the war, each warlord must capture three castles. As
+before, warlord captures the castle if they have more troops at the castle
+than their opponent. This
 time, however, the warlords have access to two distinct types of troops.
 
 The first type is slow troops. They cost only one resource but must be
