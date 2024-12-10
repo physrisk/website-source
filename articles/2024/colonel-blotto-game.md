@@ -3,7 +3,7 @@ Date: 2024-12-10 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, game theory, conflicts, competition, Colonel Blotto game
 Slug: colonel-blotto-game
-Status: draft
+Status: published
 Image_url: uploads/2024/colonel-blotto-game.png
 
 In an [earlier
