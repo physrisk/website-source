@@ -1,5 +1,5 @@
 Title: Fast and slow troops in Colonel Blotto game
-Date: 2025-01-14 08:00
+Date: 2025-01-28 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, game theory, conflicts, Colonel Blotto game
 Slug: fast-slow-colonel-blotto
