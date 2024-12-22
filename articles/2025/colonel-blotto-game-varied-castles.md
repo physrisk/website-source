@@ -1,10 +1,10 @@
-Title: Colonel Blotto game with varied castles.
-Date: 2024-12-24 08:00
+Title: Colonel Blotto game with varied castles
+Date: 2025-01-14 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, game theory, conflicts, Colonel Blotto game
 Slug: colonel-blotto-game-varied-castles
 Status: draft
-Image_url: uploads/2024/colonel-blotto-game-varied-castles.png
+Image_url: uploads/2025/colonel-blotto-game-varied-castles.png
 
 In an [earlier post]({filename}/articles/2024/colonel-blotto-game.md) we
 have seen basic framework behind the Colonel Blotto game. We have assumed
