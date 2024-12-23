@@ -9,7 +9,7 @@ Image_url: uploads/2025/fast-slow-colonel-blotto.png
 Let us continue exploring [Colonel Blotto game](/tag/colonel-blotto-game/)!
 In an [earlier post]({filename}/articles/2024/colonel-blotto-game.md), we
 became familiar with the basic premise of the model. Then, we have
-[explored]({filename}/articles/2024/colonel-blotto-game-varied-castles.md)
+[explored]({filename}/articles/2025/colonel-blotto-game-varied-castles.md)
 what happens when the castles (battlefields) have different importance.
 This time, let us consider a scenario with two types of troops: one that is
 slow and inexpensive, and another that is fast but more costly. What happens
