@@ -3,7 +3,7 @@ Date: 2025-01-07 08:00
 Author: Aleksejus Kononovicius
 Tags: general
 Slug: overview-of-2024
-Status: draft
+Status: published
 Image_url: uploads/2025/overview-of-2024.png
 
 Happy New Year! It is time for our yearly reflection. Unexpectedly, we just
