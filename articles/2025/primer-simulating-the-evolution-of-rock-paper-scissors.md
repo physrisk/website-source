@@ -1,5 +1,5 @@
 Title: Primer: Simulating the evolution of rock, paper, scissors
-Date: 2025-02-18 08:00
+Date: 2025-03-18 08:00
 Author: Aleksejus Kononovicius
 Tags: video, game theory, Primer
 Slug: primer-simulating-the-evolution-of-rock-paper-scissors
