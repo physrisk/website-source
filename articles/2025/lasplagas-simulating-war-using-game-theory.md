@@ -14,4 +14,4 @@ gradually grow more sophisticated.
 
 It seems that the "smart colonel" strategy from the video above is similar
 to the strategy I have implemented to be used by computer opponent in the
-app from [an earlier post]({filename}/articles/2024/colonel-blotto.md).
+app from [an earlier post]({filename}/articles/2024/colonel-blotto-game.md).
