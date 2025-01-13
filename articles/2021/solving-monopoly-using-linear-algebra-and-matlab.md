@@ -95,5 +95,5 @@ For a longer discussion together with "live" coding see the video below.
 My code is available on GitHub, it includes the code coded during the live
 lecture as well as a bit more complicated take on Monopoly, which I have
 done off camera. URL:
-[https://github.com/akononovicius/solving-monopoly](https://github.com/akononovicius/solving-monopoly).
+<https://github.com/akononovicius/NMI-coding-session-archive/tree/main/2021-solving-games>.
 
