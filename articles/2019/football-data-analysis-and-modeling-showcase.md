@@ -176,5 +176,5 @@ during the lecture as we were running out of time.
 
 I have made the Matlab (actually developed in GNU Octave, but the code should
 be compatible with Matlab) code available on GitHub:
-[https://github.com/akononovicius/football-model](https://github.com/akononovicius/football-model).
+<https://github.com/akononovicius/NMI-coding-session-archive/tree/main/2019-football-model>.
 
