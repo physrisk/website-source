@@ -3,7 +3,7 @@ Date: 2025-01-14 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, game theory, conflicts, Colonel Blotto game
 Slug: colonel-blotto-game-varied-castles
-Status: draft
+Status: published
 Image_url: uploads/2025/colonel-blotto-game-varied-castles.png
 
 In an [earlier post]({filename}/articles/2024/colonel-blotto-game.md) we
