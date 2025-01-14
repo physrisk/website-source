@@ -108,7 +108,7 @@ is known as "Monty Hall" problem in honor of Monty Hall, long term host
 of "Let's make deal" (very popular show in the US, back in the 20th
 century).
 
-![Monty Hall problem]({static}/uploads/2012/monty-hall.png)
+![Monty Hall problem]({static}/uploads/2012/monty-hall.jpg)
 
 The
 game is played as follows. At first the player choose one of the three

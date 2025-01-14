@@ -4,7 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: video, statistics, sports, Python, github
 Slug: fifa-world-cup-2022-predictions
 Status: published
-Image_url: uploads/2022/fifa-world-cup-2022-predictions.png
+Image_url: uploads/2022/fifa-world-cup-2022-predictions.jpg
 
 [Few years ago]({filename}/articles/2019/football-data-analysis-and-modeling-showcase.md) I have played
 around with Premier League data and created a simple model of EPL 2000/2001
@@ -74,7 +74,7 @@ The detailed prediction is also visible there. It is... England! Well,
 roughly in quarter of simulated World Cups.
 
 ![predictions screenshot
-montage]({static}/uploads/2022/fifa-world-cup-2022-predictions.png)
+montage]({static}/uploads/2022/fifa-world-cup-2022-predictions.jpg)
 
 More details in video below :)
 

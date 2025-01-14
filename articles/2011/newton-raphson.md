@@ -57,7 +57,7 @@ fractals.
 In the image below you see solution of \\\(  z^2+2 \imath z+1=0 \\\) one the complex plane (real and imaginary parts are constrained
 in \[-5;5\]).
 
-![solution]({static}/uploads/2011/newton-raphson.png)
+![solution]({static}/uploads/2011/newton-fig1.png)
 
 While this image is not breathtaking, it is perfect for understanding of
 the method - in it you can clearly see how different guesses converge
@@ -76,7 +76,7 @@ seen fully, while the others are seen only partly (via basins).
 
 But what happens near the edge of basin?
 
-![edge of basin]({static}/uploads/2011/newton-fig1b.png)
+![edge of basin]({static}/uploads/2011/newton-raphson.png)
 
 As we can see interesting thing happen on the edge - many small basins
 are attached to the larger one. Attachment should persist at different

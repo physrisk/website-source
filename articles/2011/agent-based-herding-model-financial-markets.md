@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: agent-based models, interactive, stochastic models, 1/f noise, A. Kononovicius, CEV process, voter model, Kirman model, V. Gontis, financial markets
 Slug: agent-based-herding-model-financial-markets
 Status: published
+Image_url: uploads/2011/agent-based-herding-model-financial-markets.png
 
 Kirman's ant colony model, previously
 presented on our website as [agent
