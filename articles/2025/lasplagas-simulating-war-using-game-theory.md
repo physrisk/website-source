@@ -3,7 +3,7 @@ Date: 2025-01-21 08:00
 Author: Aleksejus Kononovicius
 Tags: video, game theory, conflicts, Lasplagas, Colonel Blotto game
 Slug: lasplagas-simulating-war-using-game-theory
-Status: draft
+Status: published
 
 A quick video on the [Colonel Blotto game](/tag/colonel-blotto-game/), which
 visually introduces the [game](/tag/game-theory/) we have been posting about
