@@ -5,7 +5,7 @@ Tags: video, game theory, conflicts, Lasplagas, Colonel Blotto game
 Slug: lasplagas-simulating-war-using-game-theory
 Status: published
 
-A quick video on the [Colonel Blotto game](/tag/colonel-blotto-game/), which
+A short video on the [Colonel Blotto game](/tag/colonel-blotto-game/), which
 visually introduces the [game](/tag/game-theory/) we have been posting about
 recently. It implements a couple of straightforward strategies, which
 gradually grow more sophisticated.
