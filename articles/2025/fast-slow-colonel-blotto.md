@@ -3,7 +3,7 @@ Date: 2025-01-28 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, game theory, conflicts, Colonel Blotto game
 Slug: fast-slow-colonel-blotto
-Status: draft
+Status: published
 Image_url: uploads/2025/fast-slow-colonel-blotto.png
 
 Let us continue exploring [Colonel Blotto game](/tag/colonel-blotto-game/)!
