@@ -3,7 +3,7 @@ Date: 2025-02-11 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, game theory, sports, board games, Colonel Blotto game
 Slug: can-colonel-blotto-coach-football
-Status: draft
+Status: published
 Image_url: uploads/2025/can-colonel-blotto-coach-football.png
 
 Let us now apply the things we have learned from analyzing various
