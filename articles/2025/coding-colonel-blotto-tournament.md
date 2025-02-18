@@ -3,7 +3,7 @@ Date: 2025-02-18 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, Matlab, github, Colonel Blotto game, FiveThirtyEight
 Slug: coding-colonel-blotto-tournament
-Status: draft
+Status: published
 Image_url: uploads/2025/coding-colonel-blotto-tournament.jpg
 
 As I have already written couple of times, I used to teach
