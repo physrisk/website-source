@@ -11,6 +11,7 @@ const AI_PRIORITIES = [
     [0, 2],
     [0, 3, 4],
     [1, 2, 3],
+    [1, 2, 4],
 ];
 const AI_MIN_COMMIT_MIN = 0;
 const AI_MIN_COMMIT_MAX = 3;
