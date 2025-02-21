@@ -39,7 +39,7 @@ Enemy, \\\( B \geq E \\\).
 ## The trivial case
 
 So, first let us consider a trivial case when \\\( E \leq B / 2 \\\). In
-this case, colonel Blotto could simply assign \\\( B / 2 \\\) troops to each
+this case, Colonel Blotto could simply assign \\\( B / 2 \\\) troops to each
 of the castles. In the worst case scenario Blotto would win one castle, and
 face stalemate in the other, while still winning the overall war.
 

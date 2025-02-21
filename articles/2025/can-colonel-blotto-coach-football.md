@@ -1,4 +1,4 @@
-Title: Can colonel Blotto coach a football team?
+Title: Can Colonel Blotto coach a football team?
 Date: 2025-02-11 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, game theory, sports, board games, Colonel Blotto game

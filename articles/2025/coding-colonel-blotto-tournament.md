@@ -1,4 +1,4 @@
-Title: Coding colonel Blotto tournament in Matlab
+Title: Coding Colonel Blotto tournament in Matlab
 Date: 2025-02-18 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, Matlab, github, Colonel Blotto game, FiveThirtyEight
@@ -17,7 +17,7 @@ tournament hosted by Riddler on
 [Colonel Blotto game](/tag/colonel-blotto-game/).
 
 In this post I discuss the problem posed to my students. And I also provide
-a live session recording of me implementing [colonel
+a live session recording of me implementing [Colonel
 Blotto](/tag/colonel-blotto-game/) tournament in [Matlab](/tag/matlab/).
 <!--more-->
 
