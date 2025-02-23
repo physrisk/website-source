@@ -46,7 +46,7 @@ So, this time feel free to explore the implications of finite capacity with low
 likely to observe discontinuous distributions of \\\( X \\\).
 
 [html5-interactive
-url="/uploads/models/compartmental-voter-model/index-caps.html"
+url="/uploads/models/voter/compartmental/index-caps.html"
 width="520" height="270" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

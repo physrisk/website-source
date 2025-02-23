@@ -87,4 +87,4 @@ distribution of the top four parties during the 1992 election the best [cite id=
 Play around with the app to explore what results you can get.
 
 [html5-interactive width="520" height="370" mode="iframe"
-src="/uploads/models/herd-many-opinion-model/index.html"]
+src="/uploads/models/voter/multi-state/index.html"]

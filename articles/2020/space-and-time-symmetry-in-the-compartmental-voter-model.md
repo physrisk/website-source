@@ -69,7 +69,7 @@ we report only the rank-size distributions: red dots correspond to the temporal
 (stationary) distribution, blue dots correspond to the spatial distribution.
 
 [html5-interactive
-url="/uploads/models/compartmental-voter-model/index-symmetry.html"
+url="/uploads/models/voter/compartmental/index-symmetry.html"
 width="520" height="270" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

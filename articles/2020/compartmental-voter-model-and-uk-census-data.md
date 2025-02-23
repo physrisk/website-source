@@ -38,7 +38,7 @@ which allow to make agent types statistically distinguishable. Note that this
 app is somewhat resource hungry and thus might be quite slow.
 
 [html5-interactive
-url="/uploads/models/compartmental-voter-model/index.html"
+url="/uploads/models/voter/compartmental/index.html"
 width="520" height="330" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

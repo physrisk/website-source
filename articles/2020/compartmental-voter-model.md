@@ -133,7 +133,7 @@ So feel free to explore the model using the app below. Note that in a few weeks
 time, with new posts on this same model, we will add a few apps more.
 
 [html5-interactive
-url="/uploads/models/compartmental-voter-model/index-single.html"
+url="/uploads/models/voter/compartmental/index-single.html"
 width="520" height="300" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]

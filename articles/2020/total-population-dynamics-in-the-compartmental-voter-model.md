@@ -36,7 +36,7 @@ overlap.
 As always, feel free to explore on your own!
 
 [html5-interactive
-url="/uploads/models/compartmental-voter-model/index-pops.html"
+url="/uploads/models/voter/compartmental/index-pops.html"
 width="520" height="300" mode="iframe"]
 
 [acknowledge id="postdoc-ak-2017"]
