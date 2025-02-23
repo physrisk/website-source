@@ -30,7 +30,7 @@ below is identical to the one from the [previous
 post]({filename}/articles/2023/shot-noise.md).
 
 [html5-interactive width="520" height="480" mode="iframe"
-url="/models/uploads/stats/models/psd-point-process/shot-continuous.html"]
+url="/uploads/models/stats/models/psd-point-process/shot-continuous.html"]
 
 Observe that in the continuous time with any choice of parameters simulated
 [power spectral density](/tag/spectral-density/) follows analytical

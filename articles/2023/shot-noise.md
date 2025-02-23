@@ -110,4 +110,4 @@ model]({filename}/articles/2023/poisson-process-psd.md) this was not
 possible, because the pulses had negligible duration.
 
 [html5-interactive width="520" height="480" mode="iframe"
-url="/models/uploads/stats/models/psd-point-process/shot.html"]
+url="/uploads/models/stats/models/psd-point-process/shot.html"]

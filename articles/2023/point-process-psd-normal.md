@@ -73,4 +73,4 @@ button is pressed. PSD of the sampled series is shown in the bottom plot as
 a red curve.
 
 [html5-interactive width="520" height="480" mode="iframe"
-url="/models/uploads/stats/models/psd-point-process/normal.html"]
+url="/uploads/models/stats/models/psd-point-process/normal.html"]
