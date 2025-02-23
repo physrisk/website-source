@@ -79,4 +79,4 @@ Interactive applet
 ------------------
 
 [html5-interactive height="300" width="440" mode="iframe"
-src="/uploads/models/epstein/index.html" height="325"]
+src="/uploads/models/agent-based-models/epstein-riot-model/index.html" height="325"]
