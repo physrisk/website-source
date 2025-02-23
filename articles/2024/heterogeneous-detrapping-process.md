@@ -78,7 +78,7 @@ the signal. Observe that low-frequency cutoff is related to the smallest
 \\\( \gamma \\\) observed (i.e., compare rightmost plots).
 
 [html5-interactive width="520" height="530" mode="iframe"
-url="/uploads/models/random-telegraph-noise/heterogeneous-detrapping-process.html"]
+url="/uploads/models/physics-models/random-telegraph-noise/heterogeneous-detrapping-process.html"]
 
 Observe that, while the theoretical curve predicts (black curve in top right
 figure) a continuous gradual decrease of the smallest \\\( \gamma \\\)

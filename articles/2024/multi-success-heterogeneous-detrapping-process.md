@@ -46,5 +46,5 @@ Now we invite you to play around with \\\( N\_{success} \\\) parameter
 value and check what happens.
 
 [html5-interactive width="520" height="530" mode="iframe"
-url="/uploads/models/random-telegraph-noise/heterogeneous-detrapping-process.html"]
+url="/uploads/models/physics-models/random-telegraph-noise/heterogeneous-detrapping-process.html"]
 

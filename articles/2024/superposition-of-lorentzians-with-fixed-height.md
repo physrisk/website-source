@@ -64,4 +64,4 @@ we encourage you to explore how adjusting the bounds of the \\\( \lambda
 the superposition.
 
 [html5-interactive width="520" height="270" mode="iframe"
-url="/uploads/models/random-telegraph-noise/superposition-fixed-height.html"]
+url="/uploads/models/physics-models/random-telegraph-noise/superposition-fixed-height.html"]

@@ -85,7 +85,7 @@ density](/tag/spectral-density/) plot it doesn't matter which rate you
 change).
 
 [html5-interactive width="520" height="480" mode="iframe"
-url="/uploads/models/random-telegraph-noise/poiss.html"]
+url="/uploads/models/physics-models/random-telegraph-noise/poiss.html"]
 
 Note: The app was recently updated with an additional parameter \\\(
 N\_{success} \\\). It will be discussed in a forthcoming post (the link will

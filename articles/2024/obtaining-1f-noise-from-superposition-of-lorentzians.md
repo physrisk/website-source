@@ -97,4 +97,4 @@ dominates, while for the highest frequencies \\\( S(f) \sim 1/f^2 \\\)
 dependence emerges.
 
 [html5-interactive width="520" height="270" mode="iframe"
-url="/uploads/models/random-telegraph-noise/superposition-variable-height.html"]
+url="/uploads/models/physics-models/random-telegraph-noise/superposition-variable-height.html"]

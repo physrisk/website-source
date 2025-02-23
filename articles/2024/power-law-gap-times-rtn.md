@@ -207,5 +207,5 @@ might want to change \\\( \alpha \\\) to observe the different slopes that
 can emerge from this model.
 
 [html5-interactive width="520" height="500" mode="iframe"
-url="/uploads/models/random-telegraph-noise/power-law-gaps.html"]
+url="/uploads/models/physics-models/random-telegraph-noise/power-law-gaps.html"]
 

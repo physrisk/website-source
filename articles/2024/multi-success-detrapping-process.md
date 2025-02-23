@@ -54,4 +54,4 @@ but now you are encouraged to verify insights of this posts by changing \\\(
 N\_{success} \\\) parameter values.
 
 [html5-interactive width="520" height="530" mode="iframe"
-url="/uploads/models/random-telegraph-noise/poiss.html"]
+url="/uploads/models/physics-models/random-telegraph-noise/poiss.html"]
