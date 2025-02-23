@@ -101,7 +101,7 @@ ODE parameter \\\( a \\\), solution method and its parameters
 \\\( \Delta t \\\).
 
 [html5-interactive width="520" height="250" mode="iframe"
-url="/uploads/models/rk4/index.html"]
+url="/uploads/models/ordinary-differential-equations/runge-kutta-4/index.html"]
 
 Notice that 4th order Runge-Kutta method provides reasonable solution even
 for big \\\( \Delta t \\\), while Euler method requires noticeably smaller
