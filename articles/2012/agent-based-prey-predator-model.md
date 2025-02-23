@@ -74,5 +74,5 @@ paused, then the program will resume instead. Modeling can be stopped
 by pressing "Stop" button. To reset the modeling press "New" button.
 
 [html5-interactive
-url="/uploads/models/lotka-volterra-abm/index.html"
+url="/uploads/models/agent-based-models/lotka-volterra/index.html"
 width="510" height="310" mode="iframe"]
