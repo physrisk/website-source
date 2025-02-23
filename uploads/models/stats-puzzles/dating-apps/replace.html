@@ -2,16 +2,16 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Dating based on biased decisions (dynamic interpretation)</title>
-    <link rel="stylesheet" type="text/css" href="../shared-libs/normalize.css">
-    <link rel="stylesheet" type="text/css" href="../shared-libs/universal-style.css">
-    <script src="../shared-libs/jstat-192.min.js"></script>
-    <script src="../shared-libs/plotly-131.min.js"></script>
-    <script src="../shared-libs/plotlyPlot.js"></script>
-    <script src="../shared-libs/random-026.min.js"></script>
+    <title>Dating based on biased decisions (replacement variation)</title>
+    <link rel="stylesheet" type="text/css" href="../../shared-libs/normalize.css">
+    <link rel="stylesheet" type="text/css" href="../../shared-libs/universal-style.css">
+    <script src="../../shared-libs/jstat-192.min.js"></script>
+    <script src="../../shared-libs/plotly-131.min.js"></script>
+    <script src="../../shared-libs/plotlyPlot.js"></script>
+    <script src="../../shared-libs/random-026.min.js"></script>
     <style>
         #adjacency {width: 200px}
-        #popPlot {width: 300px}
+        #matchPlot {width: 300px}
         #diff_method, #distribution {width: 80px;background-color: #fff}
         .customWidth {margin-right:10px}
         .customWidth:last-child {margin-right:0}
@@ -21,9 +21,8 @@
 <div id="wrapper">
 <div id="figureWrapper">
     <canvas id="adjacency" width="200" height="200"></canvas>
-    <div id="popPlot"></div>
-    <div id="likePlot" class="halfSize"></div>
-    <div id="matchPlot" class="halfSize"></div>
+    <div id="matchPlot"></div>
+    <div id="poolPlot" class="fullSize"></div>
 </div><!-- #figureWrapper -->
 <div id="controlWrapper">
     <span class="controlBlock customWidth">
@@ -44,6 +43,10 @@
         <label for="pickiness">&beta; = </label>
         <input id="pickiness" type="number" min="0" step="0.5" value="7">
     </span>
+    <span class="controlBlock customWidth">
+        <label for="threshold">T = </label>
+        <input id="threshold" type="number" min="1" step="1" value="5">
+    </span>
     <br>
     <span class="controlBlock">
         <button id="start">Start</button>
@@ -53,7 +56,7 @@
     </span>
 </div><!-- #controlWrapper -->
 </div><!-- #wrapper -->
-<script src="./dynamicDatingModel.js"></script>
-<script src="./dynamic.js"></script>
+<script src="./replaceDatingModel.js"></script>
+<script src="./replace.js"></script>
 </body>
 </html>

@@ -92,4 +92,4 @@ Note that this model is static - users interact among each other only once
 per click on "Simulate" button. As usual, feel free to explore!
 
 [html5-interactive width="520" height="470" mode="iframe"
-url="/uploads/models/dating-apps/index.html"]
+url="/uploads/models/stats-puzzles/dating-apps/index.html"]

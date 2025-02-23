@@ -77,4 +77,4 @@ is not clearly seen as there are just a few data points (at most
 \\\( 50 \\\) pairs are formed).
 
 [html5-interactive width="520" height="470" mode="iframe"
-url="/uploads/models/dating-apps/dropout.html"]
+url="/uploads/models/stats-puzzles/dating-apps/dropout.html"]

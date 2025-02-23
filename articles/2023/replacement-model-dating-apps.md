@@ -49,4 +49,4 @@ posts]({filename}/articles/2022/dropout-model-dating-apps.md). The only
 addition is the replacement mechanism. Feel free to explore!
 
 [html5-interactive width="520" height="470" mode="iframe"
-url="/uploads/models/dating-apps/replace.html"]
+url="/uploads/models/stats-puzzles/dating-apps/replace.html"]
