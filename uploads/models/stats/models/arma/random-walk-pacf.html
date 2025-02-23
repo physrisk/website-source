@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Autocorrelation function of random walk</title>
-    <link rel="stylesheet" type="text/css" href="../shared-libs/normalize.css">
-    <link rel="stylesheet" type="text/css" href="../shared-libs/universal-style.css">
-    <script src="../shared-libs/plotly-131.min.js"></script>
-    <script src="../shared-libs/plotlyPlot.js"></script>
-    <script src="../shared-libs/big-313.min.js"></script>
-    <script src="../shared-libs/ssci-131.min.js"></script>
-    <script src="../shared-libs/jstat-192.min.js"></script>
+    <title>Partial autocorrelation function of random walk</title>
+    <link rel="stylesheet" type="text/css" href="../../../shared-libs/normalize.css">
+    <link rel="stylesheet" type="text/css" href="../../../shared-libs/universal-style.css">
+    <script src="../../../shared-libs/plotly-131.min.js"></script>
+    <script src="../../../shared-libs/plotlyPlot.js"></script>
+    <script src="../../../shared-libs/big-313.min.js"></script>
+    <script src="../../../shared-libs/ssci-131.min.js"></script>
+    <script src="../../../shared-libs/jstat-192.min.js"></script>
     <style>
         #distribution{width:120px;}
     </style>
@@ -18,7 +18,7 @@
 <div id="wrapper">
 <div id="figureWrapper">
     <div id="timeSeries" class="halfSize"></div>
-    <div id="acfPlot" class="halfSize"></div>
+    <div id="pacfPlot" class="halfSize"></div>
 </div><!-- #figureWrapper -->
 <div id="controlWrapper">
     <span class="controlBlock">
@@ -40,6 +40,6 @@
     <span class="controlBlock"><button name="start" id="generate">Regenerate</button></span>
 </div><!-- #controlWrapper -->
 </div><!-- #wrapper -->
-<script src="./random-walk.js"></script>
+<script src="./random-walk-pacf.js"></script>
 </body>
 </html>

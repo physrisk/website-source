@@ -40,7 +40,7 @@ value being dependent on the previous samples it is conditioned on the
 history of noise.
 
 [html5-interactive width="520" height="510" mode="iframe"
-url="/uploads/models/arma/ma5.html"]
+url="/uploads/models/stats/models/arma/ma5.html"]
 
 Note that in case of MA(q) process ACF plot becomes more informative. Now
 the number of peaks (minus one) in the ACF plot seems to indicate the order
@@ -64,4 +64,4 @@ more complicated [cite id="Holmes2021ATSA"]), but feel free to explore using
 the app below.
 
 [html5-interactive width="520" height="540" mode="iframe"
-url="/uploads/models/arma/arma55.html"]
+url="/uploads/models/stats/models/arma/arma55.html"]

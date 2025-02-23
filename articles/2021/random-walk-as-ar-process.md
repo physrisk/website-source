@@ -34,7 +34,7 @@ the lag. As you can explore in the app below, no matter what distribution is
 used ACF is close to zero for all lags except \\\( \tau = 0 \\\).
 
 [html5-interactive width="520" height="240" mode="iframe"
-url="/uploads/models/arma/white-noise.html"]
+url="/uploads/models/stats/models/arma/white-noise.html"]
 
 Note that earlier we have examined [spectral
 density](/tag/spectral-density/) of the white noise process (see [this
@@ -62,7 +62,7 @@ from the random walk process depends on the previous sample,
 \\\( x\_{t-1} \\\). Hence random walk will be auto-correlated.
 
 [html5-interactive width="520" height="300" mode="iframe"
-url="/uploads/models/arma/random-walk.html"]
+url="/uploads/models/stats/models/arma/random-walk.html"]
 
 Strangely, the ACF decays extremely slow, though we have introduced
 dependence only on one previous sample from the process. This, quite likely,

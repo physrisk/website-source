@@ -35,4 +35,4 @@ if the process would be not fGn, but fBm. For \\\( d < 0 \\\) noise becomes
 anti-persistent - it rapidly changes value and sign.
 
 [html5-interactive width="520" height="510" mode="iframe"
-url="/uploads/models/arma/arfima2d2.html"]
+url="/uploads/models/stats/models/arma/arfima2d2.html"]

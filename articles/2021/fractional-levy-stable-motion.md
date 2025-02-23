@@ -42,7 +42,7 @@ index of the process. In general case it is given by:
 \end{equation}
 
 [html5-interactive width="520" height="470" mode="iframe"
-url="/uploads/models/arma/flsm.html"]
+url="/uploads/models/stats/models/arma/flsm.html"]
 
 Note that the app also allows you to generate fractional Levy stable noise
 (abbr. FLSN), too. It is simply but a straightforward derivative of FLSM.

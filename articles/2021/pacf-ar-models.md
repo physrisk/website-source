@@ -32,7 +32,7 @@ values of \\\( \alpha\_1 \\\) would make the process stationary, but this
 should not have any effect on the PACF plot.
 
 [html5-interactive width="520" height="300" mode="iframe"
-url="/uploads/models/arma/random-walk-pacf.html"]
+url="/uploads/models/stats/models/arma/random-walk-pacf.html"]
 
 Note that all values of PACF become close to zero if we apply differencing
 procedure. This is expected, because in this case we revert back to AR(0)
@@ -58,7 +58,7 @@ Let \\\( \vec{x}^{(p)} \\\) contain last \\\( p \\\) samples of
 \\\( x\_i \\\), starting from the most recent.
 
 [html5-interactive width="520" height="510" mode="iframe"
-url="/uploads/models/arma/ar5.html"]
+url="/uploads/models/stats/models/arma/ar5.html"]
 
 Now observe how both ACF and PACF change, when you change the order of the
 time series. As soon as more terms of \\\( \vec{\alpha} \\\) are noticeably
