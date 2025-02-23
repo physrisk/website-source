@@ -78,7 +78,7 @@ also note how the height changes with the changing value of
 on phase, \\\(  \phi \\\)!
 
 [html5-interactive
-src="/uploads/models/psd-example/index.html" width="515"
+src="/uploads/models/stats/concepts/power-spectral-density/index.html" width="515"
 height="550" mode="iframe"]
 
 Experiment with this interactive app to discover how the spectral density
