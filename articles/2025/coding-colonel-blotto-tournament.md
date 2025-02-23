@@ -43,9 +43,9 @@ determined in a single "war" (comparison of the strategies).
 
 Tournament I held was meant to be slightly different. I wanted my students
 to show their [Matlab](/tag/matlab/) and critical thinking skills, so I
-decided to encourage them to create random and adaptable troop allocation
+decided to encourage them to create random and adaptive troop allocation
 strategies by declaring a winner only after 1001 wars. Sadly, only a few
-students actually implemented adaptable strategies, but those who did
+students actually implemented adaptive strategies, but those who did
 managed to perform rather well in the tournament. Some of them even beating
 my own strategy :)
 
