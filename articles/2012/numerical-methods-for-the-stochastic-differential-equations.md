@@ -1,7 +1,7 @@
 Title: Numerical methods for the stochastic differential equations
 Date: 2012-05-28 07:37
 Author: Aleksejus Kononovicius
-Tags: stochastic models, methods, Java
+Tags: interactive, stochastic models, methods, Java
 Slug: numerical-methods-for-the-stochastic-differential-equations
 Status: published
 Image_url: uploads/2012/numerical-methods-for-the-stochastic-differential-equations.png
@@ -20,7 +20,7 @@ Let us recall that in general case stochastic differential equation
 looks like:
 
 \begin{equation}
- \mathrm{d} x = f(x) \mathrm{d} t + g(x) \mathrm{d} W. 
+ \mathrm{d} x = f(x) \mathrm{d} t + g(x) \mathrm{d} W.
 \end{equation}
 
 The above can be even more general if the drift and diffusion functions
@@ -37,14 +37,14 @@ numerical discretization method. In our case, while neglecting diffusion
 term, we obtain:
 
 \begin{equation}
- \Delta x = f(x) \Delta t \quad \Rightarrow \quad x\_{i+1} =x\_i + f(x\_i) \Delta t . 
+ \Delta x = f(x) \Delta t \quad \Rightarrow \quad x\_{i+1} =x\_i + f(x\_i) \Delta t .
 \end{equation}
 
 To understand what have we done here recall the definition of
 derivative:
 
 \begin{equation}
- \frac{\mathrm{d} x(t)}{\mathrm{d} t} = \lim\_{\Delta t\rightarrow 0} \frac{x(t) - x(t-\Delta t)}{\Delta t} \approx\frac{\Delta x}{\Delta t} . 
+ \frac{\mathrm{d} x(t)}{\mathrm{d} t} = \lim\_{\Delta t\rightarrow 0} \frac{x(t) - x(t-\Delta t)}{\Delta t} \approx\frac{\Delta x}{\Delta t} .
 \end{equation}
 
 It should be evident that if the diffusion function is constant, namely
@@ -58,7 +58,7 @@ smaller.
 ![image]({static}/uploads/2012/num-methods-euler.png "Illustration of the Euler method applied towards
 non-linear differential equation. Note that the numerical solution (red
 dots) doesn't fully coincide with the correct answer (blue
-curve)."){#attachment_2323} 
+curve)."){#attachment_2323}
 
 In [Fig. 1](#attachment_2323) the differences between the numerical and
 correct answer are easily noticeable. In order to improve numerical
@@ -83,7 +83,7 @@ of variables during some time window. By doing so we obtain the
 following difference equation:
 
 \begin{equation}
- x\_{i+1} = x\_i + f(x\_i) \Delta t + g(x\_i) \Delta W . 
+ x\_{i+1} = x\_i + f(x\_i) \Delta t + g(x\_i) \Delta W .
 \end{equation}
 
 The difference equation has a very familiar shape and the only
@@ -97,7 +97,7 @@ deviation will increase as a root of time window width. In such case we
 can rewrite the difference equation as follows:
 
 \begin{equation}
- x\_{i+1} = x\_i + f(x\_i) \Delta t + g(x\_i) \sqrt{\Delta t}\zeta\_i . 
+ x\_{i+1} = x\_i + f(x\_i) \Delta t + g(x\_i) \sqrt{\Delta t}\zeta\_i .
 \end{equation}
 
 Here we purely intuitively arrive at numerical method which is known as
@@ -122,7 +122,7 @@ Let us now consider the following non-linear stochastic differential
 equation:
 
 \begin{equation}
- \mathrm{d} x = \left(\eta - \frac{\lambda}{2} \right)x^{2 \eta -1} \mathrm{d} t + x^\eta \mathrm{d} W . 
+ \mathrm{d} x = \left(\eta - \frac{\lambda}{2} \right)x^{2 \eta -1} \mathrm{d} t + x^\eta \mathrm{d} W . \label{nlin-sde}
 \end{equation}
 
 We choose this equation as it represents very general class of
@@ -148,11 +148,11 @@ two difference equations (one for the random variable, another for the
 time):
 
 \begin{equation}
- x\_{i+1} = x\_i + \kappa^2 \left(\eta - \frac{\lambda}{2}\right) x\_i + \kappa x\_i \zeta\_i , 
+ x\_{i+1} = x\_i + \kappa^2 \left(\eta - \frac{\lambda}{2}\right) x\_i + \kappa x\_i \zeta\_i ,
 \end{equation}
 
 \begin{equation}
- t\_{i+1} = t\_i + \kappa^2 x\_i^{2- 2 \eta} . 
+ t\_{i+1} = t\_i + \kappa^2 x\_i^{2- 2 \eta} .
 \end{equation}
 
 Note that now the equations includes \\\(  \kappa \\\), which stands for
@@ -175,7 +175,7 @@ equations - see [Fig. 2](#attachment_2324).
 ![image]({static}/uploads/2012/numerical-methods-for-the-stochastic-differential-equations.png "Introducing variable time steps into the original Euler
 method. Note that under similar conditions the agreement between
 analytical and numerical solution is
-improved."){#attachment_2324} 
+improved."){#attachment_2324}
 
 Source code as an example
 -------------------------
@@ -210,3 +210,16 @@ Take time to familiarize yourself with the example Java program.
         return Math.pow(kappa,2.0)*Math.pow(x,2.0-2.0*eta);
     }
 ```
+
+Interactive HTML5 app
+---------------------
+
+**(comment added in 2025)** While reorganizing
+[interactive](/tag/interactive/) apps I have found that one legacy-styled
+app that had no home. I think its home should be here, as it shows numerical
+solution of \eqref{nlin-sde}. Though it uses not the [Java](/tag/java/) code
+above, but it is instead implemented in the JavaScript language.
+
+[html5-interactive
+url="/uploads/models/stats/models/nonlinear-sde/index.html"
+width="470" height="470" mode="iframe"]
