@@ -121,5 +121,5 @@ one]({filename}/articles/2012/what-can-the-bass-diffusion-model-tell-us-about-pi
 (Bass curves are plotted while not taking these into account).
 
 [html5-interactive
-url="/uploads/models/unidirectional-kirman-model/index.html"
+url="/uploads/models/kirman/unidirectional/index.html"
 width="475" height="535" mode="iframe"]

@@ -204,7 +204,7 @@ buttons you can continue evaluating old time series using the new
 parameters. "Restart" button always restarts modeling from scratch.
 
 [html5-interactive
-url="/uploads/models/kirman-control/index.html"
+url="/uploads/models/kirman/control/index.html"
 width="490" height="345" mode="iframe"]
 
 Acknowledgement

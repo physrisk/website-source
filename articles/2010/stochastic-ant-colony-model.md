@@ -227,5 +227,5 @@ and unit variance. As \\\(  x \\\) has meaning only in the interval
 \\\(  x\_i \\\) values.
 
 [html5-interactive
-url="/uploads/models/kirman-sde/index.html"
+url="/uploads/models/kirman/sde/index.html"
 width="470" height="480" mode="iframe"]

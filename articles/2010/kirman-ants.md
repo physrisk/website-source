@@ -157,5 +157,5 @@ fulfill requirements set by the previous inequalities for \\\( \Delta t \\\) - o
 smaller positive number. In most of the cases \\\(  \kappa \approx1 \\\) will suffice.
 
 [html5-interactive
-url="/uploads/models/kirman-abm/index.html"
+url="/uploads/models/kirman/abm/index.html"
 width="470" height="510" mode="iframe"]

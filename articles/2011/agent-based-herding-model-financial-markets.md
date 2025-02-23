@@ -359,5 +359,5 @@ approximate results - please wait a bit for a program to "settle down",
 it will start to show correct and precise results as time passes.
 
 [html5-interactive
-url="/uploads/models/kirman-sde-ret/index.html"
+url="/uploads/models/kirman/sde-ret/index.html"
 width="470" height="480" mode="iframe"]

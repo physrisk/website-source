@@ -3,11 +3,11 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Agent based herding model of financial markets</title>
-    <link rel="stylesheet" type="text/css" href="../shared-libs/normalize.css">
-	<script src="../shared-libs/jquery-183.min.js"></script>
-	<script src="../shared-libs/jquery.flot-08.min.js"></script>
-	<script src="../shared-libs/jquery.flot-07.axislabels.js"></script>
-	<script src="../shared-libs/commonFunctions.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../shared-libs/normalize.css">
+	<script src="../../shared-libs/jquery-183.min.js"></script>
+	<script src="../../shared-libs/jquery.flot-08.min.js"></script>
+	<script src="../../shared-libs/jquery.flot-07.axislabels.js"></script>
+	<script src="../../shared-libs/commonFunctions.js"></script>
 	<script src="./kirmanSdeRetModel.js"></script>
 	<style type="text/css">
 		input,select,button{box-sizing:border-box;height:20px;line-height:20px;padding:0 6px;border:1px solid #999;}
@@ -42,6 +42,7 @@ function myParseFloat(val) {return parseFloat((""+val).replace(",","."));}
 
 /*options and settings*/
 var timeoutID=null;
+var continue_flag=false;
 var colony=null;
 $('#plotDiv').data('plotOptions', {
 	series: {
@@ -163,6 +164,9 @@ function play() {
 	$('#plotDiv2').data('pdf',pdf);
 	$('#plotDiv2').data('pdfLen',pdfLen);
 	plotFigure();
+    if(continue_flag) {
+        setTimeout('play()', 25.0);
+    }
 }
 
 function readAndLoad() {
@@ -200,12 +204,12 @@ function pdfSetup() {
 }
 
 function stopGame() {
-	window.clearInterval(timeoutID);
-	timeoutID=null;
+    continue_flag=false;
 }
 
 function resumeGame() {
-	timeoutID=window.setInterval('play()',25.0);
+    continue_flag=true;
+    setTimeout('play()', 25.0);
 }
 
 /*main*/

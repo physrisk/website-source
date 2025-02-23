@@ -348,4 +348,4 @@ confirmed that in this model dependence of multifractality on the number
 of agents is negligible \[cite id="Kononovicius2011LNFK"\].
 
 [html5-interactive width="520" height="505" mode="iframe"
-url="/uploads/models/kirman-sde-ret/multifractal.html"]
+url="/uploads/models/kirman/sde-ret/multifractal.html"]
