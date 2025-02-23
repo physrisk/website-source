@@ -95,7 +95,7 @@ double linear axes. As usual we show the simulation result by a red curve,
 and theoretical fit (bottom figure only) by a dark gray curve.
 
 [html5-interactive width="520" height="470" mode="iframe"
-url="/uploads/models/stats-basic/exponential-power-law/index.html"]
+url="/uploads/models/stats/concepts/exponential-power-law/index.html"]
 
 Given enough time, the app will reproduce probability density function with
 a power-law slope for the intermediate values. While for the extreme values,

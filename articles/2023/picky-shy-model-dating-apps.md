@@ -92,4 +92,4 @@ of the pairing types. Feel free to explore. But as far as I can tell the
 situation of shy and picky agents is often symmetric.
 
 [html5-interactive width="520" height="470" mode="iframe"
-url="/uploads/models/stats-puzzles/dating-apps/pickyshy.html"]
+url="/uploads/models/stats/models/dating-apps/pickyshy.html"]

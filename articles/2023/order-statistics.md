@@ -75,4 +75,4 @@ function, while dark grey curve shows theoretical result: probability
 density function of Beta distribution.
 
 [html5-interactive width="520" height="280" mode="iframe"
-url="/uploads/models/stats-basic/order-stats/index.html"]
+url="/uploads/models/stats/concepts/order-stats/index.html"]

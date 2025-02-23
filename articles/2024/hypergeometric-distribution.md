@@ -91,7 +91,7 @@ gradually increased by the app automatically. As \\\( K \\\) is increases,
 the empirical histogram plot is being gradually updated.
 
 [html5-interactive width="520" height="290" mode="iframe"
-url="/uploads/models/stats-basic/hypergeometric-distribution/index.html"]
+url="/uploads/models/stats/concepts/hypergeometric-distribution/index.html"]
 
 The red curve in the plot shows the empirical histogram of a draw *without*
 replacement (follows the hypergeometric distribution), while the blue curve

@@ -90,4 +90,4 @@ what is the effect of \\\( \lambda \\\)? Feel free to explore it on your
 own, and drop us a comment if you feel like it.
 
 [html5-interactive width="520" height="500" mode="iframe"
-url="/uploads/models/stats-puzzles/parking/random.html"]
+url="/uploads/models/stats/models/parking/random.html"]

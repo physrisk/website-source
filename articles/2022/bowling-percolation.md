@@ -59,4 +59,4 @@ out: if \\\( p \\\) is larger than some critical value, then the system will
 percolate (bottommost pin will be knocked down) with non-zero probability.
 
 [html5-interactive width="520" height="280" mode="iframe"
-url="/uploads/models/stats-puzzles/bowling-percolation/index.html"]
+url="/uploads/models/stats/puzzles/bowling-percolation/index.html"]

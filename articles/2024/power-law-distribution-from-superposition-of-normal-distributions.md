@@ -105,7 +105,7 @@ ranges, but otherwise can be freely set. Feel free to experiment with the
 parameter values to uncover the properties of \\\( x \\\) distribution.
 
 [html5-interactive width="520" height="300" mode="iframe"
-url="/uploads/models/stats-basic/normal-power-law/index.html"]
+url="/uploads/models/stats/concepts/normal-power-law/index.html"]
 
 Note that this app plots three probability density functions on double
 logarithmic axes. This is done because the most interesting behavior is

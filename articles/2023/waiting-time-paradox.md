@@ -129,4 +129,4 @@ The bottom plot shows the probability density function of the
 waiting time, when the observation is started at a random time.
 
 [html5-interactive width="520" height="510" mode="iframe"
-url="/uploads/models/stats-basic/waiting-time/paradox.html"]
+url="/uploads/models/stats/concepts/waiting-time/paradox.html"]

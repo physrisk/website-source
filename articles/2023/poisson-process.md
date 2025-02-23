@@ -134,4 +134,4 @@ The black curve is the Poisson probability mass function. As more hours get
 simulated red curve will tend towards the theoretical curve.
 
 [html5-interactive width="520" height="480" mode="iframe"
-url="/uploads/models/stats-basic/poisson-process/index.html"]
+url="/uploads/models/stats/concepts/poisson-process/index.html"]

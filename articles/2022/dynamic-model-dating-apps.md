@@ -96,4 +96,4 @@ matches user gets. Most popular users are the ones most attractive, hence
 they get fewer matches.
 
 [html5-interactive width="520" height="470" mode="iframe"
-url="/uploads/models/stats-puzzles/dating-apps/dynamic.html"]
+url="/uploads/models/stats/models/dating-apps/dynamic.html"]

@@ -57,7 +57,7 @@ number of buses \\\( p ( n ) \\\). The mode of \\\( p ( n ) \\\) will quite
 often be close to the mean.
 
 [html5-interactive width="520" height="280" mode="iframe"
-url="/uploads/models/stats-puzzles/fan-bus/index.html"]
+url="/uploads/models/stats/puzzles/fan-bus/index.html"]
 
 Note that the left plot shows how the number of fans changed after each bus
 (\\\( i \\\) being the index of the bus): on average over all simulations

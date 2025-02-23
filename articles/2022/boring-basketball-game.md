@@ -42,6 +42,6 @@ single game. Overall record is shown in the top label of the interactive app
 below.
 
 [html5-interactive width="520" height="280" mode="iframe"
-url="/uploads/models/stats-puzzles/boring-basketball/index.html"]
+url="/uploads/models/stats/puzzles/boring-basketball/index.html"]
 
 Can you find the \\\( x \\\)?

@@ -100,5 +100,5 @@ anti-clockwise) should be more frequent. Also observe that no matter the
 value of \\\( \varepsilon \\\) the stationary distribution remains the same.
 
 [html5-interactive width="520" height="320" mode="iframe"
-url="/uploads/models/stats-basic/detailed-balance/index.html"]
+url="/uploads/models/stats/concepts/detailed-balance/index.html"]
 

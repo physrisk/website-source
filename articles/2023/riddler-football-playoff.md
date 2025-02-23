@@ -197,7 +197,7 @@ iteration number), the teams (and their pairings) from the last playoff and
 the team strength distribution.
 
 [html5-interactive width="520" height="295" mode="iframe"
-url="/uploads/models/stats-puzzles/football-playoff/index.html"]
+url="/uploads/models/stats/puzzles/football-playoff/index.html"]
 
 Note that all team names are generic "Team #XX", where XX indicates the
 strength of the team: \\\( XX = \left\lceil x\_i \cdot 100 \right\rceil \\\).

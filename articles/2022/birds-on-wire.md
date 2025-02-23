@@ -92,4 +92,4 @@ gray dots, analytical distribution is shown as blue curve (despite the fact
 that the distribution itself is discrete).
 
 [html5-interactive width="520" height="470" mode="iframe"
-url="/uploads/models/stats-puzzles/birds-on-wire/index.html"]
+url="/uploads/models/stats/models/birds-on-wire/index.html"]

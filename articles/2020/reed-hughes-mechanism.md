@@ -68,4 +68,4 @@ logarithmic so the red curve should be almost straight line (representing
 power-law dependence).
 
 [html5-interactive mode="iframe"
-src="/uploads/models/stats-basic/reed-hughes/index.html" width="520" height="270"]
+src="/uploads/models/stats/concepts/reed-hughes/index.html" width="520" height="270"]

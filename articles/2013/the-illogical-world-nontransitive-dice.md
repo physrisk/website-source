@@ -52,5 +52,5 @@ die? Go ahead and try! Note that after playing many games your opponent
 gains upper hand.
 
 [html5-interactive
-url="/uploads/models/stats-puzzles/nontransitive-dice/index.html"
+url="/uploads/models/stats/puzzles/nontransitive-dice/index.html"
 width="330" height="310" mode="iframe"]

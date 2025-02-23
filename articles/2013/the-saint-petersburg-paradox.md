@@ -67,5 +67,5 @@ Browser applet
 --------------
 
 [html5-interactive
-url="/uploads/models/stats-puzzles/st-petersburg-paradox/index.html"
+url="/uploads/models/stats/puzzles/st-petersburg-paradox/index.html"
 mode="iframe" height="480" width="500"]

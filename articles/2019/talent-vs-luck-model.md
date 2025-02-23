@@ -94,4 +94,4 @@ on the capital), while right figure show a clear upwards trend (luck
 significantly impacts the capital).
 
 [html5-interactive width="520" height="480" mode="iframe"
-src="/uploads/models/stats-puzzles/talent-luck/index.html"]
+src="/uploads/models/stats/models/talent-luck/index.html"]
