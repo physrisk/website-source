@@ -112,8 +112,8 @@ Interactive Lotka-Volterra model applet
 ---------------------------------------
 
 [html5-interactive id="html5app"
-url="/uploads/models/lotka-volterra/index.html"
-width="465" height="540" mode="iframe"]
+url="/uploads/models/ordinary-differential-equations/lotka-volterra/index.html"
+width="470" height="540" mode="iframe"]
 
 Previously, instead of the currently used HTML5 app, we have used an app
 based on the Wolfram CDF technology. The old app is still available for

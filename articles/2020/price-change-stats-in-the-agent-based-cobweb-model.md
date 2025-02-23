@@ -22,4 +22,4 @@ statistics similar to the stylized facts ([1/f spectral density](/tag/1f-noise/)
 probability density). But maybe you will find such parameter set.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/cobweb-model/abm-stats.html" width="520" height="500"]
+src="/uploads/models/economics/cobweb-model/abm-stats.html" width="520" height="500"]

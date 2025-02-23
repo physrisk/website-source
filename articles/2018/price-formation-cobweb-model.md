@@ -22,7 +22,7 @@ Let us assume that we are producers of lettuce, a product which is almost always
 This logic, also known as cobweb model, can be nicely visualized using cobweb plot, which you should see in the interactive applet below. Here the gray curve marks the trajectory of price and quantity.
 
 [html5-interactive
-src="/uploads/models/cobweb-model/index.html" width="405"
+src="/uploads/models/economics/cobweb-model/index.html" width="405"
 height="460" mode="iframe"]
 
 This interactive applet has three parameters:

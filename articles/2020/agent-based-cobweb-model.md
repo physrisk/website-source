@@ -171,7 +171,7 @@ interactive app below. Feel free to verify our intuitions as well as to develop
 your own.
 
 [html5-interactive mode="iframe"
-src="/uploads/models/cobweb-model/abm.html" width="520" height="500"]
+src="/uploads/models/economics/cobweb-model/abm.html" width="520" height="500"]
 
 ## Disclaimer
 
