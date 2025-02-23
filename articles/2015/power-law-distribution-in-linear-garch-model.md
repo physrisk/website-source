@@ -78,7 +78,7 @@ allow the simulation takes its time - correct results appear when power
 law distribution becomes visible.
 
 [html5-interactive
-url="/uploads/models/garch11/index.html" width="470"
+url="/uploads/models/stats/models/garch11/index.html" width="470"
 height="480" mode="iframe"]
 
 Next time we will be back with GARCH(1,1) - we will introduce nonlinear

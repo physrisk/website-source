@@ -92,5 +92,5 @@ distribution or divergence of the model might be observed.
 We invite you to try HTML5 app below.
 
 [html5-interactive
-url="/uploads/models/ngarch11/index.html" width="470"
+url="/uploads/models/stats/models/ngarch11/index.html" width="470"
 height="480" mode="iframe"]

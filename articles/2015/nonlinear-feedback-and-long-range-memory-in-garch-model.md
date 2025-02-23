@@ -90,5 +90,5 @@ value is set in respect to \\\(  b\_1 \\\).
 We invite you to try interactive HTML5 applet below.
 
 [html5-interactive
-url="/uploads/models/ngarch11/index2-en.html" width="470"
+url="/uploads/models/stats/models/ngarch11/feedback.html" width="470"
 height="480" mode="iframe"]
