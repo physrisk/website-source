@@ -87,4 +87,4 @@ discussed in the text. Try different parameter values for yourself to
 understand their importance to the observed dynamics of the model.
 
 [html5-interactive height="290" width="430" mode="iframe"
-src="/uploads/models/standing-ovation-model/index.html"]
+src="/uploads/models/opinion-dynamics/standing-ovation-model/index.html"]

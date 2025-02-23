@@ -108,4 +108,4 @@ population fraction of agents in these groups, \\\(  p\_i \\\).
 We invite you to try this app!
 
 [html5-interactive height="365" width="430" mode="iframe"
-src="/uploads/models/threshold-model/index.html"]
+src="/uploads/models/opinion-dynamics/threshold-model/index.html"]

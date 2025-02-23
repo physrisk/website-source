@@ -91,6 +91,6 @@ become a bit slower, but will not stop until all of the agents are independent.
 The differentiation mechanics here are very strong.
 
 [html5-interactive width="520" height="320" mode="iframe"
-src="/uploads/models/mark-differentiation-model/index.html"]
+src="/uploads/models/opinion-dynamics/mark-differentiation-model/index.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
