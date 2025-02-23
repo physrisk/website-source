@@ -59,7 +59,7 @@ values for the model parameters with which traffic jams should form.
 Applet
 ------
 
-[html5-interactive src="/uploads/models/stop-and-go/index.html"
+[html5-interactive src="/uploads/models/agent-based-models/stop-and-go/index.html"
 width="520" height="340" mode="iframe"]
 
 We invite our readers to test different parameter values. Note that with
