@@ -116,4 +116,4 @@ predictions (the exponents of the frequency dependence remain the same, but
 the constant term is fitted according to the generated numerical data).
 
 [html5-interactive width="520" height="480" mode="iframe"
-url="/uploads/models/psd-point-process/pareto.html"]
+url="/models/uploads/stats/models/psd-point-process/pareto.html"]

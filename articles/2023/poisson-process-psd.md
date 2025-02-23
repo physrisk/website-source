@@ -176,4 +176,4 @@ button is pressed. PSD of the sampled series is shown in the bottom plot as
 a red curve, the dark gray curve indicates theoretical prediction.
 
 [html5-interactive width="520" height="480" mode="iframe"
-url="/uploads/models/psd-point-process/exponential.html"]
+url="/models/uploads/stats/models/psd-point-process/exponential.html"]
