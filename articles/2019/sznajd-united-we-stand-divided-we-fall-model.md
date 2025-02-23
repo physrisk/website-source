@@ -57,6 +57,6 @@ enable and disable usage of the both of the discussed rules as well as select
 the probability for an agent to have a positive opinion at \\\( t=0 \\\).
 
 [html5-interactive width="520" height="505" mode="iframe"
-src="/uploads/models/sznajd-model/index.html"]
+src="/uploads/models/opinion-dynamics/sznajd-model/index.html"]
 
 [acknowledge id="postdoc-ak-2017-lit"]
