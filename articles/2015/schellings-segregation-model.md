@@ -53,7 +53,7 @@ happy agents divided by total number of agents) and mean segregation
 (mean value of \\\(  \frac{N^{(i,j)}\_s}{N^{(i,j)}\_s +N^{(i,j)}\_o} \\\) over all agents).
 
 [html5-interactive
-url="/uploads/models/schelling/index.html"
+url="/uploads/models/agent-based-models/schelling-model/index.html"
 width="425" height="260" mode="iframe"]
 
 Note that mean segregation is always larger than \\\(  h \\\). Thus
