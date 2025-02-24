@@ -11,7 +11,7 @@ system. Though, as usual, domain knowledge is often useful in such
 approaches.
 
 We invite you to watch this interesting video scripted and edited by J.
-Llabres and Sara Oliver from [IFISC](https://ifisc.uib-csic.es/).
+Llabres and Sara Oliver from [IFISC](https://ifisc.uib-csic.es/en/).
 
 [youtube v="zZP42di3QVk"]
 

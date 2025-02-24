@@ -15,6 +15,8 @@ This video discusses basic intuition on how to estimate the actual cases of an
 epidemic outbreak. In general same methodology works for any epidemic outbreak
 as long as we are still in the exponential growth phase. The actual numbers are
 estimated for the ongoing COVID-19 outbreak and are taken from 
-[a blog post by Tomes Pueyo](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca). We invite you to watch it.
+[a blog post by Tomes
+Pueyo](https://tomaspueyo.medium.com/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca).
+We invite you to watch it.
 
 [youtube v="mCa0JXEwDEk"]

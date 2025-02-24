@@ -12,7 +12,7 @@ on the most recent research done by us. During July and August we will
 have two students-trainees, who will participate in the project
 "Promotion of Student Scientific
 Activities" from the [Research
-Council of Lithuania](https://lmt.lrv.lt/). The training will be held
+Council of Lithuania](https://lmt.lrv.lt/en/). The training will be held
 on the topics of "Economic convergence as thermodynamic appreciation of
 real currency exchange rate" (supervisor dr. (HP) Vygintas Gontis;
 student-trainee Kęstutis Acus) and "Controling complex stochastic

@@ -11,8 +11,7 @@ Century". In this book he explains how economic inequality emerges in
 capitalist economy (mostly from historical perspective). T. Piketty also
 suggest some measures to stop inequality growth. We invite you to listen
 to his talk given in TED event (see
-[here](https://ideas.ted.com/2014/10/06/thomas-pikettys-capital-in-the-twenty-first-century-explained/)).
+[here](https://ideas.ted.com/thomas-pikettys-capital-in-the-twenty-first-century-explained/)).
 
-\[iframe
-src="https://embed.ted.com/talks/thomas\_piketty\_new\_thoughts\_on\_capital\_in\_the\_twenty\_first\_century.html"
-width="560" height="315"\]
+[iframe width="560" height="315"
+src="https://embed.ted.com/embed/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century"]

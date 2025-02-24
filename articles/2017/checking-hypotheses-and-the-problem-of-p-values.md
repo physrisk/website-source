@@ -14,8 +14,8 @@ process the collected data and either confirm his initial hypothesis or
 to reject it in comparison to the alternatives.
 
 One of the methods is the so-called critical value approach (e.g.,
-see on Penn State Eberly College of Science website:
-<https://onlinecourses.science.psu.edu/statprogram/node/137>). This
+see on [Penn State Eberly College of Science
+website](https://online.stat.psu.edu/statprogram/reviews/statistical-concepts/hypothesis-testing/critical-value-approach)). This
 method relies on the researcher to set a precision standard to the
 statistical test and accept or reject hypothesis based on it. Usually
 different branches of science have their own set of rules how small the

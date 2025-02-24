@@ -17,7 +17,7 @@ convergence. We choose the estimate of GDP in common currency US dollars
 calculated in current prices and current exchange rates. In order to
 compare different size states we use GDP normalized per capita. Such
 data is available at the [World Bank
-Database](https://blogs.worldbank.org/opendata/the-future-of-the-open-data-catalog "WB open data").
+Database](https://blogs.worldbank.org/en/opendata/the-future-of-the-open-data-data-catalog "WB open data").
 <!--more-->
 
 We do plot the ratios of GDP per capita in US dollars with GDP of the

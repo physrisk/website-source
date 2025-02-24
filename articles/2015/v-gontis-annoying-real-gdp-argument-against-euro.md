@@ -8,7 +8,7 @@ Image_url: uploads/2015/v-gontis-annoying-real-gdp-argument-against-euro.png
 
 Though Paul Krugman is among the most
 prominent critics of the Euro idea
-\[[1](https://krugman.blogs.nytimes.com/2015/07/22/annoying-euro-apologetics/?smid=tw-NytimesKrugman&seid=auto&_r=0)\],
+\[[1](https://archive.nytimes.com/krugman.blogs.nytimes.com/2015/07/22/annoying-euro-apologetics/)\],
 there are many other professional economists and journalists criticizing
 the macroeconomic policy of Euro zone. The problem of Greece has become
 one of the most disputable because there is permanent pressure of
@@ -23,7 +23,7 @@ It is not our task to discuss possible geopolitical circumstances of
 such purposeful opinion flow; we just want to draw attention that very
 often these opinions are based on the fault argument. There is a flow of
 new articles
-\[[2](https://seekingalpha.com/article/3322825-the-euro-a-monetary-strangulation-mechanism),[3](https://www.washingtonpost.com/blogs/wonkblog/wp/2015/07/23/finland-is-the-poster-child-for-why-the-euro-doesnt-work/)\]
+\[[2](https://marketmonetarist.com/2015/07/14/the-euro-a-monetary-strangulation-mechanism/),[3](https://www.washingtonpost.com/news/wonk/wp/2015/07/23/finland-is-the-poster-child-for-why-the-euro-doesnt-work/)\]
 making a comparison of real GDP growth of European countries already in
 Euro area or pegged to Euro with countries still having floating
 currency policies. There is no necessity to be an expert of
@@ -70,7 +70,7 @@ better in long time period. There is strong evidence that Baltic
 countries with their pegged currencies are more successful than Vysegrad
 countries with their floating currencies caching up developed European
 countries
-\[[4](https://gontis.eu/en/2013/07/baltijos-valstybiu-ekonomikos-vejasi-ir-lenkia-vysegrado-salis/)\].
+\[[4](https://gontis.eu/2013/07/baltijos-valstybiu-ekonomikos-vejasi-ir-lenkia-vysegrado-salis/)\].
 
 ![Real GDP changes in PPS
 (EuroStat)]({static}/uploads/2015/GDP-PPP-Eurostat2015.png "Real GDP
@@ -80,7 +80,7 @@ The article published by Matt O’Brien in The Washington Post
 \[[3](https://www.washingtonpost.com/blogs/wonkblog/wp/2015/07/23/finland-is-the-poster-child-for-why-the-euro-doesnt-work/)\]
 is a nice piece of very convincing text promoting ideas of the new
 monetary ideology
-\[[5](https://www.economist.com/blogs/freeexchange/2013/07/quantitative-easing)\].
+\[[5](https://www.economist.com/free-exchange/2013/07/26/the-new-monetary-ideology)\].
 The problem is that with incorrect quantitative arguments one is able to
 please the ideology but cannot serve the truth. Lets compare the
 figures. First we provide comparison of Sweden and Finland given in The

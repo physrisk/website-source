@@ -7,7 +7,7 @@ Status: published
 
 Vygintas
 Gontis, currently working in Boston, was invited to give a talk to a
-students of [Boston Lithuanian School](https://www.blsm.org/). Though
+students of Boston Lithuanian School. Though
 slides are based [on the previous
 talk]({filename}/articles/2013/cafe-scientifique-physics-of-risk-more-physics-less-risk-video.md),
 but the narrative is completely new and aimed at younger viewer (though

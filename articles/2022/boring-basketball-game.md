@@ -17,8 +17,8 @@ for April
 ## Puzzle
 
 In short (see the [original
-post](https://fivethirtyeight.com/features/who-wins-a-very-boring-basketball
-game/) for a more detailed formulation), we have two teams (e.g., "red" and
+post](https://fivethirtyeight.com/features/who-wins-a-very-boring-basketball-game/)
+for a more detailed formulation), we have two teams (e.g., "red" and
 "blue") playing a game of \\\( 200 \\\) possessions (\\\( 100 \\\) possessions
 for each team). Let us allow only two-pointers in this game. Furthermore let
 us assume that if the teams are tied, scoring probability for either

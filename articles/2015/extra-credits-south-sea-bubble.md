@@ -16,7 +16,7 @@ South Sea Company stock price grew to unbelievable heights. Despite the
 fact that it never made any profits from trading.
 
 We invite you to see videos by [Extra
-Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg),
+Credits](https://www.youtube.com/@extrahistory),
 which tell the story with more details, but in attractive and
 approachable manner. You can find the playlist on YouTube by following
 this URL:

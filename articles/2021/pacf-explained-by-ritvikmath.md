@@ -13,7 +13,7 @@ allowed us to circumvent non-stationarity of the random walk series.
 In the upcoming post in our [ARFIMA series](/tag/topic-arfima/) we will use
 another technique known as partial auto-correlation function (abbr., PACF).
 This new technique is discussed by
-[ritvikmath](https://www.youtube.com/channel/UCUcpVoi5KkJmnE3bvEhHR0Q) in
+[ritvikmath](https://www.youtube.com/@ritvikmath) in
 the video below. Watch in order to understand the new tool.
 
 [youtube v="DeORzP0go5I"]

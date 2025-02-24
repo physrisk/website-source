@@ -10,6 +10,6 @@ country, is decreasing in many countries around the world due to the ongoing
 pandemic and associated lockdowns, but
 [financial markets](/tag/financial-markets/) seem to be doing more than fine.
 To find out some of the possible reasons watch the following video by
-[Two Cents](https://www.youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w).
+[Two Cents](https://www.youtube.com/@TwoCentsPBS).
 
 [youtube v="A76SdJqOej0"]

@@ -7,7 +7,7 @@ Status: published
 
 Last week,
 on 26th and 27th of January, [Lithuanian Society of Young
-Researchers](https://ljms.lt) held a conference "Interdisciplinarity: How
+Researchers](https://www.ljms.lt) held a conference "Interdisciplinarity: How
 to Make it Work". During the conference presenters, which included both
 scientists and officers of varying institutions, from all over the world
 and Lithuania have shared with the attendees their success stories and

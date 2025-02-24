@@ -25,7 +25,6 @@ verslui ir visuomenei“ ir jo inovatyvios žinios*).
 
 Attendance is free, though note that all talks will be given in
 Lithuanian. Also note that you must inform organizers about your
-attendance before 24th of October, 2011 by email
-<mokslasplius@itpa.lt>.
+attendance before 24th of October, 2011 by email.
 
 <del>Read more</del>

@@ -28,7 +28,7 @@ building new economic disproportions inside the country. The general
 estimation of the stimulation program indicates that this contributed to
 the growth of China after 2008 exceeds up to the 90 percent of whole GDP
 growth (see [article by Bill Powel on
-Time](https://content.time.com/time/magazine/article/0,9171,1975336,00.html#ixzz1g4B5P26P)).
+Time](https://time.com/archive/6691257/inside-chinas-runaway-building-boom/#ixzz1g4B5P26P)).
 Nevertheless, several giant projects have really failed.
 <!--more-->
 
@@ -64,7 +64,7 @@ last three trading days of yesterweek.
 Though the media is still looks pretty quiet and broadcasts opinions
 considering the financial information as ordinary correction of markets,
 our duty is to warn that, probably, there are the first sounds of global
-bubble explosion and we have to be ready for the worst (see [Telepgrah's
+bubble explosion and we have to be ready for the worst (see [Telegraph's
 article on possible global market
 crash](https://www.telegraph.co.uk/finance/11805523/Doomsday-clock-for-global-market-crash-strikes-one-minute-to-midnight-as-central-banks-lose-control.html)).
 One can find more opinions of financial analysts looking at the various

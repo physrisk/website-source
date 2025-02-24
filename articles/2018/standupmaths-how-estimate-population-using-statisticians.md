@@ -22,7 +22,7 @@ This formula should give a rather good approximation of \\\( N \\\) if
 samples sizes are large and enough and the sampling is truly random.
 
 You can find two exemplary experiments in a video by Matt Parker (one of
-the well known
-[standup mathematicians](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A)).
+the most well-known
+[standup mathematicians](https://www.youtube.com/@standupmaths)).
 
 [youtube v="MTmnVBJ9gCI"]

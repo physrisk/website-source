@@ -8,7 +8,7 @@ Status: published
 One and half year ago world media exclaimed -
 finance is controlled by a single super-corporation (e.g., read article
 in
-[Lithuanian](https://www.15min.lt/naujiena/verslas/uzsienis/mokslininku-tyrimas-pasaulio-finansus-valdo-viena-superkorporacija-195-175783)
+[Lithuanian](https://www.15min.lt/verslas/naujiena/uzsienis/mokslininku-tyrimas-pasaulio-finansus-valdo-viena-superkorporacija-195-175783)
 or
 [English](https://www.forbes.com/sites/bruceupbin/2011/10/22/the-147-companies-that-control-everything/))!
 Evidently this conclusion is somewhat far fetched, yet it does capture
@@ -19,12 +19,11 @@ the related researchers speaking about this discovery and hear him
 explain that does this actually mean.
 <!--more-->
 
-[iframe
-src="https://embed.ted.com/talks/lang/en/james\_b\_glattfelder\_who\_controls\_the\_world.html"
-height="315" width="560"]
+[iframe height="315" width="560"
+src="https://embed.ted.com/embed/james_b_glattfelder_who_controls_the_world"]
 
 Video taken from
-[ted.com](https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world.html)
+[ted.com](https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world)
 website.
 
 The research was published in an open-access journal PLoS One, so anyone

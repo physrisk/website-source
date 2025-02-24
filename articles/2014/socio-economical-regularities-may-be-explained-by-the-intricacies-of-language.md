@@ -16,16 +16,15 @@ futureless language, while Lithuanian and English have strongly
 differing future tense). Below you will find two videos - [one made by
 eBay Deals](https://www.youtube.com/watch?v=S3G51gDHTXE), which provides
 a broad outlook, and [another recorded by
-TED](https://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money.html "Video on ted.com"),
+TED](https://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money "Video on ted.com"),
 in which K. Chen presents his research, - which present this kind of
 research in more detail.
 <!--more-->
 
 [youtube v="S3G51gDHTXE"]
 
-\[iframe
-src="https://embed.ted.com/talks/keith\_chen\_could\_your\_language\_affect\_your\_ability\_to\_save\_money.html"
-width="560" height="315"\]
+[iframe width="560" height="315"
+src="https://embed.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money"]
 
 In the context of Physics of Risk it also worth to mention that the
 language dynamics (the evolution of the popularity of the language)

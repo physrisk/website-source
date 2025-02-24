@@ -24,7 +24,7 @@ In order to familiarize yourself more with the research done by Peter
 Turchin please visit the
 [newscientist.com](https://www.newscientist.com/) portal - see the
 "[Real-world Civilisation game shows impact of
-war](https://www.newscientist.com/article/dn24262-realworld-civilisation-game-shows-impact-of-war.html)"
+war](https://www.newscientist.com/article/dn24262-real-world-civilisation-game-shows-impact-of-war/)"
 article (by Hal Hodson).
 
 

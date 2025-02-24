@@ -42,7 +42,7 @@ domain).
 ## Search functionality
 
 Search functionality on our website is being provided by
-[Google](https://google.com).
+[Google](https://www.google.com/).
 
 ## Improving our privacy practices
 

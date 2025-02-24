@@ -35,4 +35,6 @@ contains the source code).
 
 Read more on open source software in science in Nature Editorial ["If
 you want reproducible science, the software needs to be open
-source"](https://arstechnica.com/science/news/2012/02/science-code-should-be-open-source-according-to-editorial.ars "Nature Editorial: If you want reproducible science, the software needs to be open source").
+source"](https://arstechnica.com/science/2012/02/science-code-should-be-open-source-according-to-editorial/
+"Nature Editorial: If you want reproducible science, the software needs to
+be open source").

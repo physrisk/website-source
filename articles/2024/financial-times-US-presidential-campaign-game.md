@@ -6,10 +6,10 @@ Slug: financial-times-US-presidential-campaign-game
 Status: published
 
 Presidential elections in the United States are quickly approaching. For
-this special occasion [Financial Times](https://ft.com/) has created an
+this special occasion [Financial Times](https://www.ft.com) has created an
 interactive game, which allows you to become party leader and try to win
 electoral college in 10 swing states. You will compete against other readers
-of the [Financial Times](https://ft.com/). At my best attempt I have beaten
+of the [Financial Times](https://www.ft.com). At my best attempt I have beaten
 75% of the other readers. How many will you beat?
 
 ![Screenshot of the

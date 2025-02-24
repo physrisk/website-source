@@ -7,7 +7,7 @@ Image_url: uploads/2021/fractional-derivatives.png
 Status: published
 
 [Last time]({filename}/articles/2021/arima-models.md) we have seen that ARMA
-modelis can be integrated (and differentiated) to deal with non-stationarity
+models can be integrated (and differentiated) to deal with non-stationarity
 present in the empirical data. ARIMA model should be sufficient in most
 cases, but if the empirical data is know to exhibit "true" long-range
 memory, then ordinary calculus will not work. In those cases one would have
@@ -55,7 +55,7 @@ fraction between 0 and 1. We can easily calculate this integral and then
 take the ordinary derivative to its output. 
 
 These theoretical points well discussed in the following video by
-[vcubingx](https://www.youtube.com/channel/UCv0nF8zWevEsSVcmz6mlw6A).
+[vcubingx](https://www.youtube.com/@vcubingx).
 
 [youtube v="A4sTAKN6yFA"]
 

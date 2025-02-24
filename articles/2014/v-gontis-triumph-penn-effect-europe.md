@@ -7,7 +7,7 @@ Status: published
 
 The idea of this contribution has come after
 the publication in *The Economist* [The Big Mac
-index](https://www.economist.com/content/big-mac-index). Such index was
+index](https://www.economist.com/interactive/big-mac-index). Such index was
 introduce to explain the concept of real currency exchange rate needed
 to deal with the problem of varying price levels in different countries.
 The different price levels cause the different purchasing powers of the

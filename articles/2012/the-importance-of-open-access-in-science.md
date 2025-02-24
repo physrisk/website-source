@@ -8,6 +8,6 @@ Status: published
 The creators
 of the well known science related web comic offer everybody a chance to
 become familiar with the open access philosophy (video taken from
-<https://www.phdcomics.com/comics.php?n=1533>).
+<https://phdcomics.com/comics.php?n=1533>).
 
 [youtube v="L5rVH1KGBCY"]

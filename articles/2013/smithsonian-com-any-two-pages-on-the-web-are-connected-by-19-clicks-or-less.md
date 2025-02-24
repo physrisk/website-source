@@ -15,4 +15,4 @@ made interesting discoveries about the World Wide Web.
 
 [Read the article "Any Two Pages on the Web Are Connected By 19 Clicks
 or Less" on the smithsonian.com
-»](https://blogs.smithsonianmag.com/science/2013/02/any-two-pages-on-the-web-are-connected-by-19-clicks-or-less/)
+»](https://www.smithsonianmag.com/science-nature/any-two-pages-on-the-web-are-connected-by-19-clicks-or-less-19517004/)

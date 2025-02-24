@@ -43,7 +43,7 @@ Following topics are offered officially via Faculty of Physics during the
 
 * **"Influence of the state interaction network on the statistical
   properties of the voter model"** (2024). Internship was supported by
-  [Research Council of Lithuania](https://lmt.lrv.lt) (P-SV-24-28). Intern
+  [Research Council of Lithuania](https://lmt.lrv.lt/en/) (P-SV-24-28). Intern
   Lukas Turčinskas (Vilnius University, Faculty of Mathematics and
   Informatics). Supervisor Aleksejus Kononovicius.
 * **"Influence of boundary conditions on self-similar processes"** (2024).
@@ -52,7 +52,7 @@ Following topics are offered officially via Faculty of Physics during the
   one-dimensional Fokker-Planck equation"** (2024). Master thesis by Justas
   Kvedaravičius. Supervisor Aleksejus Kononovicius.
 * **"Rank dynamics of compartmental voter model"** (2023-2024). Internship
-  supported by [Research Council of Lithuania](https://lmt.lrv.lt)
+  supported by [Research Council of Lithuania](https://lmt.lrv.lt/en/)
   (S-ST-23-122). Intern Justas Kvedaravičius. Supervisor Aleksejus
   Kononovicius.
 * **"Processes described by q-exponential waiting time distributions"** (2023).
@@ -77,7 +77,7 @@ Following topics are offered officially via Faculty of Physics during the
   Tupčiauskas. Supervisor Aleksejus Kononovicius.
 * **"Modeling of the Sąjūdis growth by using interacting agent-based model"**
   (2016). "Mokslo Pieva" internship project (organized by
-  [BPTI](https://bpti.eu), financial support by [ESO](https://www.eso.lt)).
+  [BPTI](https://www.bpti.eu), financial support by [ESO](https://www.eso.lt)).
   Interns: Brigita Čelkytė, Goda Damaševičiūtė, Milda Venckutė and Ugnė
   Šiurienė (various faculties at Vilnius University). Supervisors: Tomas
   Žalandauskas (BPTI), Ainė Ramonaitė (VU IIRPS), Julius Ruseckas (VU ITPA)
@@ -86,12 +86,12 @@ Following topics are offered officially via Faculty of Physics during the
   social processes"** (2015). PhD thesis by Aleksejus Kononovicius. Supervisor
   Vygintas Gontis.
 * **"Controlling complex stochastic systems"** (2013). Internship supported by
-  the [Research Council of Lithuania](https://lmt.lrv.lt)
+  the [Research Council of Lithuania](https://lmt.lrv.lt/en/)
   (VP1-3.1-ŠMM-01-V-02-003). Intern Ignas Kazakevičius. Supervisor Aleksejus
   Kononovicius.
 * **"Economic convergence as thermodynamic appreciation of real currency
   exchange rate"** (2013). Internship supported by the [Research Council of
-  Lithuania](https://lmt.lrv.lt) (VP1-3.1-ŠMM-01-V-02-003). Intern Ignas
+  Lithuania](https://lmt.lrv.lt/en/) (VP1-3.1-ŠMM-01-V-02-003). Intern Ignas
   Kazakevičius. Supervisor Vygintas Gontis.
 * **"Statistical properties of nonlinear systems affected by Gaussian and
   non-Gaussian noise"** (2013). Master thesis by Rytis Kazakevičius.
@@ -113,5 +113,5 @@ Following topics are offered officially via Faculty of Physics during the
   Aleksejus Kononovicius.
 * **"Modeling of word statistics in literature as well as modeling of trading
   activity in financial markets"** (2007). Internship supported by [Research
-  Council of Lithuania](https://lmt.lrv.lt). Intern Aleksejus Kononovicius.
+  Council of Lithuania](https://lmt.lrv.lt/en/). Intern Aleksejus Kononovicius.
   Supervisor Vygintas Gontis.

@@ -10,7 +10,7 @@ February and Match three very important conference to the
 econophysicists were held: "Unsolved Problems on
 Noise", ["Verhandlungen
 DPG"](https://berlin12.dpg-tagungen.de/index.html?lang=en) and ["Open
-Readings" (lt. "Laisvieji skaitymai")](https://www.openreadings.eu/). Our
+Readings" (lt. "Laisvieji skaitymai")](https://openreadings.eu/). Our
 B. Kaulakys, V. Gontis, A. Kononovicius, P. Purlys and R. Kazakevičius
 have given oral and poster presentations at these conference.
 Presentations were mostly concerned with our newest achievements in [the

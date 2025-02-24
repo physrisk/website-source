@@ -8,9 +8,9 @@ Status: published
 Physics of Risk is becoming more and more
 popular and gaining more attention from the media. This time our
 permanent contributor Aleksejus Kononovicius gave an interview to a
-journalist Marija Rudzevičiūtė from [Bzn start](https://www.bznstart.lt).
+journalist Marija Rudzevičiūtė from [Bzn start](https://bznstart.lt).
 The original article was published [in Lithuanian
-language](https://www.bznstart.lt/verslas/verslo-salygos/1574/Neismanote-fizikos-Kyla-rizika-imonei "Lithuanian text on bznstart.lt"),
+language](https://bznstart.lt/verslas/vadyba/neismanote-fizikos-kyla-rizika-imonei/ "Lithuanian text on bznstart.lt"),
 but here you can find its free form translation to English.
 
 "Probably most of us were stuck in a traffic jam for at least once in

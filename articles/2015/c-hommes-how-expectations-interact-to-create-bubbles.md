@@ -16,6 +16,6 @@ heterogeneous economical behavior in safe environment.
 
 We invite you to listen to his interview given to the Institute for New
 Economic Thinking (you may find INET on YouTube by clicking [this
-link](https://www.youtube.com/channel/UCp5hG8rt1z2MJ9aNVxY2Xdg)).
+link](https://www.youtube.com/@NewEconomicThinking)).
 
 [youtube v="dhLYuPKA8Ac"]

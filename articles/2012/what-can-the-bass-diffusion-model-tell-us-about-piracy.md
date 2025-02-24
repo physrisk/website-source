@@ -13,8 +13,8 @@ lot of disccusion on anti-piracy and the proportionality of so-called
 and PIPA, while EU countries one after another expressed will to join
 ACTA. In Lithuanian media and blogosphere, as most probably in the rest
 of the world, has split into the [ACTA
-supporter](https://mokslas.delfi.lt/technology/acaplikas-sprendimas-prisijungti-prie-acta-yra-teisingas.d?id=55518815)
-and [opposition](https://www.kroitus.com/2012/02/26/tai-kas-gi-vagia/)
+supporter](https://www.delfi.lt/mokslas/technologijos/acaplikas-sprendimas-prisijungti-prie-acta-yra-teisingas-55518815)
+and [opposition](https://kroitus.com/2012/02/26/tai-kas-gi-vagia/)
 camps.
 <!--more-->
 

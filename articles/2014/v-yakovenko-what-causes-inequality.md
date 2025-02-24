@@ -14,7 +14,7 @@ recent texts, And we still have couple of thoughts on this topic
 remaining. But this time we invite you to listen to Victor Yakovenko,
 one of the most prominent econophysicists working on this topic. His
 works have attracted attention from [Institute for New Economic
-Thinking](https://ineteconomics.org/) (INET). In this video he is
+Thinking](https://www.ineteconomics.org/) (INET). In this video he is
 interviewed by Perry Mehrling of INET...
 
 [youtube v="aBxjrAjrIZY"]

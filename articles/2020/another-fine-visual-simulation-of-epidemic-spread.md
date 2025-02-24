@@ -6,7 +6,7 @@ Slug: another-fine-visual-simulation-of-epidemic-spread
 Status: published
 
 I would like to share another fine visual simulation of epidemic spread
-created by [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ),
+created by [Primer](https://www.youtube.com/@PrimerBlobs),
 which was sent to me by a student (thanks for the link!). It is extremely
 visually appealing, so we invite you to watch it!
 

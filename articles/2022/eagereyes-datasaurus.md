@@ -8,9 +8,8 @@ Status: published
 Summary statistics, whether mean, standard deviation or any other single
 number, are useful, but sometimes they can mislead - vastly different data
 sets can have similar or even identical summary statistics. In the video
-below [Robert
-Kosara](https://www.youtube.com/channel/UCKecjwo5N9YrRyYf_sj72KQ) discusses
-this phenomenon in more detail. 
+below [Robert Kosara](https://www.youtube.com/@eagereyes) discusses this
+phenomenon in more detail. 
 
 [youtube v="RbHCeANCbW0"]
 

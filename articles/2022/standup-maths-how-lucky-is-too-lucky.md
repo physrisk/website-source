@@ -7,7 +7,7 @@ Status: published
 
 [Last week]({filename}/articles/2022/end-of-the-world-2026.md) we were lucky
 to avoid doomsday, but how lucky can one get? In this [Stand-up
-Maths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A) video Matt
+Maths](https://www.youtube.com/@standupmaths) video Matt
 Parker talks about few quite improbable lucky streaks experienced by a
 particular Minecraft speedrunner and few other people.
 

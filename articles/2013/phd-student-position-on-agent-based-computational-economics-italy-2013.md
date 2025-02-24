@@ -29,10 +29,10 @@ statistics.
 Rules and application form (deadline for application is September 20th):
 ------------------------------------------------------------------------
 
-<https://www.studenti.unige.it/postlaurea/dottorati/XXIX/bandoGeneraleEN>
-(English)
+<del>https://www.studenti.unige.it/postlaurea/dottorati/XXIX/bandoGeneraleEN
+(English)</del>
 
-<https://www.studenti.unige.it/postlaurea/dottorati/XXIX> (Italian)
+<del>https://www.studenti.unige.it/postlaurea/dottorati/XXIX (Italian)</del>
 
 (in particular see the Curriculum on Economy and Management, at pag. 36
 of Annex A)

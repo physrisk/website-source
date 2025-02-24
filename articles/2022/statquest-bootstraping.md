@@ -26,6 +26,6 @@ gives us a confidence interval) and is applicable even in highly complex
 situations, for which no analytical error estimation formulas exist.
 
 More about this method in the following video by [StatQuest with Josh
-Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw).
+Starmer](https://www.youtube.com/@statquest).
 
 [youtube v="Xz0x-8-cgaQ"]

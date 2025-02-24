@@ -1,7 +1,7 @@
 Title: Teaching math in a different way
 Date: 2012-12-31 08:14
 Author: Aleksejus Kononovicius
-Tags: general, paradox, popular culture, science.memebase.com
+Tags: general, paradox, popular culture, memebase.cheezburger.com
 Slug: teaching-math-in-a-different-way
 Status: published
 Image_url: uploads/2012/teaching-math-in-a-different-way.jpg
@@ -21,7 +21,7 @@ receipt?
 
 The thoughts above are taken from, or at least inspired by, [the article
 on The
-Spectator](https://www.spectator.co.uk/features/8744071/should-alice-marry-bob/).
+Spectator](https://www.spectator.co.uk/article/should-alice-marry-bob/).
 Further in this text I will take up one interesting, in terms of the
 Physics of Risk, problem given in the aforementioned article, Also I
 will consider another similar problem, which was on my mind for a quite
@@ -32,7 +32,7 @@ So, should Alice marry Bob?
 ---------------------------
 
 So the problem stated in the [article in The
-Spectator](https://www.spectator.co.uk/features/8744071/should-alice-marry-bob/)
+Spectator](https://www.spectator.co.uk/article/should-alice-marry-bob/)
 is as follows. Alice is dating Bob, whom she feels to be the best match
 for her so far (previously she was in two relationships). One day Bob
 asks Alice to marry him, but she isn't so sure about her answer. Since
@@ -161,7 +161,7 @@ situations.
 
 May be in this way it would be possible to avoid something in the spirit
 of the image below (taken from
-[science.memebase.com](https://cheezburger.com/6690922752); author:
+[memebase.cheezburger.com](https://cheezburger.com/6690922752); author:
 YUNOtele).
 
 ![math real life]({static}/uploads/2012/teaching-math-in-a-different-way.jpg "Real life math?")

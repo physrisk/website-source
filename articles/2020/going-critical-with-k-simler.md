@@ -15,6 +15,6 @@ explores the complexity of social systems from the point of view of various
 also involves a lot of neat interactive apps.
 
 We encourage you to explore "Going critical" on
-<https://www.meltingasphalt.com/interactive/going-critical/>.
+<https://meltingasphalt.com/interactive/going-critical/>.
 
 See you after the summer holidays!

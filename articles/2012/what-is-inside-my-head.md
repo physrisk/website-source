@@ -1,14 +1,14 @@
-Title: memebase.com: "What is inside my head?"
+Title: What is inside my head?
 Date: 2012-02-20 09:15
 Author: Aleksejus Kononovicius
-Tags: fractals, biology, popular culture, science.memebase.com
+Tags: fractals, biology, popular culture, memebase.cheezburger.com
 Slug: what-is-inside-my-head
 Status: published
 Image_url: uploads/2012/what-is-inside-my-head.jpg
 
 "What's inside my head?" asks
 internet meme on the
-[science.memebase.com](https://science.memebase.com/2012/02/17/funny-science-news-experiments-memes-a-universe-silly/).
+<https://memebase.cheezburger.com/>.
 Answer appears to rather simple and complex at the same time - nature is
 a fractal!
 By the way did you know that surface of the human brain has a fractal,

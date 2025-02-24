@@ -12,7 +12,7 @@ though sober, exhibited remarkably short tempers. Now, consider the
 following: which journey is more likely to be completed, that of a drunkard
 finding their way home or a tipsy bird navigating its flight path homeward?
 It's an intriguing question posed by
-[Mathemaniac](https://youtube.com/channel/UCrlZs71h3mTR45FgQNINfrg) in a
+[Mathemaniac](https://www.youtube.com/@mathemaniac) in a
 video that explores the theoretical disparities between [Brownian
 motion](/tag/brownian-motion/) in 2D and 3D realms, all without any harm to
 our feathered or human friends.

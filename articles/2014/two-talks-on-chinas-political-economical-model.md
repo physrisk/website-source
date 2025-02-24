@@ -15,15 +15,13 @@ Russia and USA. Clearly those countries have different economical and
 political models, but are they the same as media tends to present them?
 We invite you to listen to two talks given by scientists (posted on
 [ted.com](https://www.ted.com)) - one talk is about China's [economical
-model](https://www.ted.com/talks/dambisa_moyo_is_china_the_new_idol_for_emerging_economies.html),
+model](https://www.ted.com/talks/dambisa_moyo_is_china_the_new_idol_for_emerging_economies),
 while the other is about China's [political
-model](https://www.ted.com/talks/eric_x_li_a_tale_of_two_political_systems.html).
+model](https://www.ted.com/talks/eric_x_li_a_tale_of_two_political_systems).
 <!--more-->
 
-\[iframe
-src="https://embed.ted.com/talks/dambisa\_moyo\_is\_china\_the\_new\_idol\_for\_emerging\_economies.html"
-width="560" height="315"\]
+[iframe width="560" height="315"
+src="https://embed.ted.com/embed/dambisa_moyo_is_china_the_new_idol_for_emerging_economies"]
 
-\[iframe
-src="https://embed.ted.com/talks/eric\_x\_li\_a\_tale\_of\_two\_political\_systems.html"
-width="560" height="315"\]
+[iframe width="560" height="315"
+src="https://embed.ted.com/embed/eric_x_li_a_tale_of_two_political_systems"]
