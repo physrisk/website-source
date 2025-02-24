@@ -54,7 +54,7 @@ of agents in the "active" state \\\( X \\\)) lie on a single line. Unlike in
 the example considered in this post, there are no loops, which would allow
 to have persisting directed flows.
 
-Namely, in the [noisy voter model](/tag/voter-model) it is only possible to
+Namely, in the [noisy voter model](/tag/voter-model/) it is only possible to
 increment or decrement the number of "active" agents by one at a time, i.e.,
 only \\\( X \rightarrow X \pm 1 \\\) transitions are allowed. So, if there
 would be a directed flow, then the system would eventually get stuck in the
