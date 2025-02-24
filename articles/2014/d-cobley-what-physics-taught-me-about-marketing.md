@@ -9,9 +9,8 @@ Dan Cobley, online marketing
 whiz working at Google, talks about ideas shared by physics and
 marketing.
 
-\[iframe
-src="https://embed-ssl.ted.com/talks/dan\_cobley\_what\_physics\_taught\_me\_about\_marketing.html"
-width="560" height="315"\]
+[iframe width="560" height="315"
+src="https://embed.ted.com/embed/dan_cobley_what_physics_taught_me_about_marketing"]
 
 Talk was recorded by TED (see
 [here](https://www.ted.com/talks/dan_cobley_what_physics_taught_me_about_marketing)).
