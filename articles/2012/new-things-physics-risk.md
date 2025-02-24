@@ -20,7 +20,7 @@ place under the new "General models" topic.
 The discussed improvements enables us to cover two very important events
 related to the Physics of Risk. First one is the annual meeting of COST
 P10: Physics of Risk held in Vilnius in 2006. See [the corresponding
-page](/vilnius-2006-cost-p10 "COST P10 Vilnius 2006")
+page](/vilnius-2006-cost-p10/)
 for conference program and slides. Another important "event" has only
 just started - the brand new European Union flagship project
 FuturICT.
