@@ -4,6 +4,7 @@ Author: Aleksejus Kononovicius
 Tags: general, students, opinion dynamics, voter model
 Slug: open-phd-position-2025
 Status: draft
+Image_url: uploads/2025/open-phd-position-2025.jpg
 
 Are you interested in [opinion dynamics](/tag/opinion-dynamics/) and [voter
 model](/tag/voter-model/)? Do you have Master's degree in Physics or
