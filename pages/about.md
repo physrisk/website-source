@@ -19,10 +19,10 @@ project).
 
 This blog was created while executing EU structural fund project "[Mokslas.
 Mokslininkai.
-Visuomenė.](https://www.ff.vu.lt/?option=com_content&view=article&layout=edit&id=930)"
+Visuomenė.](https://mokslasplius.lt/mmv/)"
 (en. "Science. Scientists. Society."; ran from 2006 to 2008) and further
 extended during Inogeb-1 project "[Mokslas verslui ir
-visuomenei](https://www.ff.vu.lt/?option=com_content&view=article&layout=edit&id=1016)"
+visuomenei](https://mokslasplius.lt/mvv/)"
 (en.  "Science for business and society"; ran from 2009 to 2011).  During
 these projects articles for this blog were written by various members of our
 group, as well as by some authors who no longer work with us - V. Daniūnas,

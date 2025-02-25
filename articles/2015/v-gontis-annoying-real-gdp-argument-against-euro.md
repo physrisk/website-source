@@ -44,9 +44,9 @@ use of real GDP, nevertheless, he and very many his followers build
 their macroeconomic arguments and compare performance of countries based
 on this very limited GDP measure. Lets take more careful look at data
 provided by recent authors
-\[[2](https://seekingalpha.com/article/3322825-the-euro-a-monetary-strangulation-mechanism),[3](https://www.washingtonpost.com/blogs/wonkblog/wp/2015/07/23/finland-is-the-poster-child-for-why-the-euro-doesnt-work/)\].
+\[[2](https://marketmonetarist.com/2015/07/14/the-euro-a-monetary-strangulation-mechanism/),[3](https://www.washingtonpost.com/blogs/wonkblog/wp/2015/07/23/finland-is-the-poster-child-for-why-the-euro-doesnt-work/)\].
 Lars Christensen has published his
-[comments](https://seekingalpha.com/article/3322825-the-euro-a-monetary-strangulation-mechanism)
+[comments](https://marketmonetarist.com/2015/07/14/the-euro-a-monetary-strangulation-mechanism/)
 on real GDP growth data in Europe for the period 2007-2014. For your
 convenience we just repeat Lars’s figure:
 
