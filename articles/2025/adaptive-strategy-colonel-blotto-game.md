@@ -3,7 +3,7 @@ Date: 2025-02-25 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, game theory, conflicts, Colonel Blotto game
 Slug: adaptive-strategy-colonel-blotto-game
-Status: draft
+Status: published
 Image_url: uploads/2025/adaptive-strategy-colonel-blotto-game.png
 
 [Last week]({filename}/articles/2025/coding-colonel-blotto-tournament.md) I
