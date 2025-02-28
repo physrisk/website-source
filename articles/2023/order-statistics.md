@@ -22,7 +22,7 @@ largest and look at the distribution of \\\( k \\\)-th ordered sample (with
 sample, \\\( p\_k( x ) \\\)?
 
 If \\\( k = 1 \\\), then things are quite simple: we just need \\\( N-1 \\\)
-samples to be less or equal to \\\( x \\\) and one sample to be equal to
+samples to be greater or equal to \\\( x \\\) and one sample to be equal to
 \\\( x \\\). This leads to:
 
 \begin{equation}
@@ -30,7 +30,7 @@ samples to be less or equal to \\\( x \\\) and one sample to be equal to
 \end{equation}
 
 Similar logic leads to \\\( k = N \\\) case: we need \\\( N-1 \\\) samples
-to be greater or equal to \\\( x \\\) and one sample being equal to
+to be less or equal to \\\( x \\\) and one sample being equal to
 \\\( x \\\). Resulting in:
 
 \begin{equation}
