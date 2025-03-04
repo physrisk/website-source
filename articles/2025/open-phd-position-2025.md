@@ -3,15 +3,17 @@ Date: 2025-03-04 08:00
 Author: Aleksejus Kononovicius
 Tags: general, students, opinion dynamics, voter model
 Slug: open-phd-position-2025
-Status: draft
+Status: published
 Image_url: uploads/2025/open-phd-position-2025.jpg
 
-Are you interested in [opinion dynamics](/tag/opinion-dynamics/) and [voter
-model](/tag/voter-model/)? Do you have Master's degree in Physics or
-Mathematics and good grasp of statistics and numerical simulation? Would you
+![poster]({static}/uploads/2025/open-phd-position-2025.jpg)
+
+Are you interested in complex systems, [opinion dynamics](/tag/opinion-dynamics/), or the [voter
+model](/tag/voter-model/)? Do you have a Master's degree in Physics or
+Mathematics and a good grasp of statistics and numerical simulation? Would you
 like to work together with me as your PhD supervisor? If so, apply for a PhD
-position at [Institute of Theoretical Physics and
-Astronomy](https://www.ff.vu.lt/en/itpa/) (part of [Faculty of
+position at the [Institute of Theoretical Physics and
+Astronomy](https://www.ff.vu.lt/en/itpa/) (part of the [Faculty of
 Physics](https://www.ff.vu.lt/en/) at [Vilnius
 University](https://www.vu.lt/en/)).
 <!--more-->
