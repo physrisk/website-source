@@ -8,11 +8,11 @@ Image_url: uploads/2025/galam-referendum-model.png
 
 [Eleven years
 ago]({filename}/articles/2014/many-particle-interaction-in-the-kinetic-exchange-models.md)
-I have written about many particle interactions. Few days ago I have
-stumbled upon this earlier posts and had a thought that the referendum model
-doesn't fit well together with [kinetic exchange
-models](/tag/kinetic-models/). So, I have decided to update the app and
-create a separate dedicated post to showcase this model.
+I have written a post about many particle interactions in the kinetic
+exchange models. Few days ago I have stumbled upon that post and noticed
+that it features a model that has little in common with [kinetic exchange
+models](/tag/kinetic-models/). Under these circumstances the only natural
+thing is to write a dedicated post highlighting the said model.
 
 So, consider how we make decisions. Not all of us are skilled and informed
 enough to make decisions on our own in all possible everyday scenarios. I
@@ -21,6 +21,8 @@ enough. I am not speaking about the questions outside my work or hobby
 expertise. In such cases, we must rely on our social contacts
 (acquaintances, co-workers, family members, etc.) to help us decide.
 <!--more-->
+
+## Referendum model
 
 In Galam's referendum model [cite id="Galam2008IntJModPhysC"] people meet in
 their discussion groups of varied sizes. For simplicity sake, let us assume
@@ -53,12 +55,12 @@ choosing the "yes" option, then you may obtain it this way:
 
 ## Interactive app
 
-Feel free to explore the interactive app below. You may adjust initial
+We invite you to explore the interactive app below. You may adjust initial
 condition, \\\(\xi(0)\\\), and the probabilities to have specific group
 sizes, \\\(p[N]\\\). Observe what happens when the probability to have
 even-sized group grows small, \\\(p[2] + p[4] + p[6] \ll p[3]+p[5]\\\),
 i.e., when the tie-breaker mechanism applies rarely.
 
-[html5-interactive width="500" height="375" mode="iframe"
+[html5-interactive width="520" height="345" mode="iframe"
 url="/uploads/models/opinion-dynamics/galam-model/index.html"]
 
