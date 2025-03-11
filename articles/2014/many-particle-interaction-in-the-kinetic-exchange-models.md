@@ -37,7 +37,7 @@ in the system. In the applet below you can see that in case \\\( N=2 \\\) we hav
 values the uniform part becomes more prominent.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/manyparticle-en.html"
+url="/uploads/models/kinetic-models/many-particle.html"
 width="405" height="410" mode="iframe"]
 
 Referendum model
@@ -72,5 +72,5 @@ In the applet below you can tune \\\(  p\[N\] \\\) parameters, which
 define the probability that \\\(  N \\\) individuals will meet.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/galam-model-en.html"
+url="/uploads/models/kinetic-models/galam-model.html"
 width="500" height="375" mode="iframe"]

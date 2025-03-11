@@ -97,7 +97,7 @@ impossible, because certain level of economic activity is mandatory to
 survival.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/socialism-en.html"
+url="/uploads/models/kinetic-models/socialism.html"
 width="420" height="415" mode="iframe"]
 
 Capitalism
@@ -136,7 +136,7 @@ bankrupt particles (in the distribution the remain fixed at \\\( -w\_{max} \\\))
 flatter.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/capitalism-en.html"
+url="/uploads/models/kinetic-models/capitalism.html"
 width="420" height="440" mode="iframe"]
 
 We refer to this model as "simple" capitalism model, because it is
@@ -164,7 +164,7 @@ particle is once again treated unfairly - but now its energy would
 decrease despite the fact it does nothing wrong.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/capitalism-smart-en.html"
+url="/uploads/models/kinetic-models/capitalism-smart.html"
 width="420" height="440" mode="iframe"]
 
 We could invent a better taxation mechanism by solving the following

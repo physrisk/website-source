@@ -88,7 +88,7 @@ distribution of this model is Boltzmann-Gibbs distribution (given by red
 curve).
 
 [html5-interactive
-url="/uploads/models/kinetic-models/random-reshuffle-en.html"
+url="/uploads/models/kinetic-models/random-reshuffle.html"
 width="420" height="390" mode="iframe"]
 
 Constant exchange model
@@ -105,7 +105,7 @@ here \\\(  w\_0 \\\) is a model parameter describing the amount of energy
 exchange during each interaction.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/constant-swap-en.html"
+url="/uploads/models/kinetic-models/constant-swap.html"
 width="420" height="415" mode="iframe"]
 
 Fixed saving and borrowing
@@ -132,7 +132,7 @@ While if \\\(  w\_{min} \rightarrow 1 \\\) (approaching initial energy
 of the particles), the system remains in the initial state.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/fixed-saving-en.html"
+url="/uploads/models/kinetic-models/fixed-saving.html"
 width="420" height="415" mode="iframe"]
 
 We would like to draw your attention to the fact that these kind of
@@ -158,5 +158,5 @@ or later all energy will be accumulated by a single particle, while all
 others will have no energy. See HTML5 applet below.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/va-bank-en.html"
+url="/uploads/models/kinetic-models/va-bank.html"
 width="420" height="390" mode="iframe"]

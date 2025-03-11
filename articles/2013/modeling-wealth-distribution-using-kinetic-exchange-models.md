@@ -57,7 +57,7 @@ proportional saving propensity can be seen in the interactive HTML5
 applet below.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/homogeneous-saving-en.html"
+url="/uploads/models/kinetic-models/homogeneous-saving.html"
 width="420" height="415" mode="iframe"]
 
 Note that in this model the stationary distribution still behaves as
@@ -78,7 +78,7 @@ You can see the power-law distribution (note that the plot is log-log)
 in the HTML5 applet below.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/hetero-saving-en.html"
+url="/uploads/models/kinetic-models/hetero-saving.html"
 width="420" height="390" mode="iframe"]
 
 How did this happen? Why we have obtained power-law distribution under
@@ -123,7 +123,7 @@ distribution in the sum is strongly emphasized thus forming a "bump",
 while the sum over others allows to obtain the power-law tail.
 
 [html5-interactive
-url="/uploads/models/kinetic-models/hetero-saving2-en.html"
+url="/uploads/models/kinetic-models/hetero-saving2.html"
 width="420" height="415" mode="iframe"]
 
 Therefore by playing with \\\(  p\_0 \\\) and \\\(  \kappa\_0 \\\)
