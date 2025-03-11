@@ -3,7 +3,7 @@ Date: 2025-03-11 07:02
 Author: Aleksejus Kononovicius
 Tags: agent-based models, interactive, opinion dynamics
 Slug: galam-referendum-model
-Status: draft
+Status: published
 Image_url: uploads/2025/galam-referendum-model.png
 
 [Eleven years
