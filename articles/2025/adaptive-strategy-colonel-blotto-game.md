@@ -1,7 +1,7 @@
 Title: Adaptive strategy in Colonel Blotto game
 Date: 2025-02-25 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, game theory, conflicts, Colonel Blotto game
+Tags: interactive, game theory, conflicts, Colonel Blotto game, evolution
 Slug: adaptive-strategy-colonel-blotto-game
 Status: published
 Image_url: uploads/2025/adaptive-strategy-colonel-blotto-game.png
