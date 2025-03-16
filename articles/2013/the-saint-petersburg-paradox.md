@@ -34,7 +34,7 @@ characteristic scale, while there is no characteristic scale in this
 problem.
 
 I have seen this paradox for a first time in a book by Mantegna and
-Stanley \[cite id="Mantegna2000Cambridge"\], yet slightly earlier I have
+Stanley [cite id="Mantegna1999CUP"], yet slightly earlier I have
 seen an inverse formulation of the paradox. In the inverse formulation
 the lack of characteristic scale is seen more clearly (and dangerously).
 
