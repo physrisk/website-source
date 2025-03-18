@@ -3,7 +3,7 @@ Date: 2025-03-18 08:00
 Author: Aleksejus Kononovicius
 Tags: general, financial markets, opinion dynamics, game theory, networks, kinetic models, students
 Slug: tutorial-on-physics-of-socio-economic-phenomena-2025
-Status: draft
+Status: published
 Image_url: uploads/2025/tutorial-on-physics-of-socio-economic-phenomena-2025.jpg
 
 Continuing the ongoing tradition (see the
