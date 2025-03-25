@@ -3,7 +3,7 @@ Date: 2025-03-25 08:00
 Author: Aleksejus Kononovicius
 Tags: video, game theory, Primer, evolution
 Slug: primer-simulating-the-evolution-of-rock-paper-scissors
-Status: draft
+Status: published
 
 Over the last few months, we have focused on the [game
 theory](/tag/game-theory/). We have recently even looked at adaptive
