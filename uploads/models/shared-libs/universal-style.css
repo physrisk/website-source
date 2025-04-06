@@ -52,6 +52,7 @@ label {
     width:210px;
 }
 .controlBlock.singleWidth label,
+.controlBlock.oneandhalfWidth label,
 .controlBlock.doubleWidth label {
     width:30px;
     text-align:right;
