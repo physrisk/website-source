@@ -3,7 +3,7 @@ Date: 2025-04-08 08:00
 Author: Aleksejus Kononovicius
 Tags: agent-based models, interactive, voter model, opinion dynamics, opinion polls, delayed models
 Slug: poll-delayed-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2025/poll-delayed-voter-model.png
 
 In the [yearly overview]({filename}/articles/2025/overview-of-2024.md), I
