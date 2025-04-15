@@ -3,7 +3,7 @@ Date: 2025-04-15 08:00
 Author: Aleksejus Kononovicius
 Tags: video, economics, free market, competition, Santa Fe Institute, evonomics.com
 Slug: santa-fe-institute-the-big-myth
-Status: draft
+Status: published
 
 From time to time I enjoy catching up to the seminars hosted by the [Santa
 Fe Institute](https://www.santafe.edu/) and shared on [their Youtube
