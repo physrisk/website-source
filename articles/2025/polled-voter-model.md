@@ -61,5 +61,5 @@ Note that for the shorter polling periods \\\( X(t) \\\) does not seem to
 follow \\\( A\_k \\\) series. Instead, vice versa appears to be true. Also,
 in this regime, the changes in consecutive poll outcomes seem to be larger.
 While as the polling period becomes longer, \\\( X(t) \\\) starts to
-fluctuate around the \\\ A\_k \\\). Thus, in this regime, the changes
+fluctuate around the \\\( A\_k \\\). Thus, in this regime, the changes
 between the consecutive poll outcomes become small.
