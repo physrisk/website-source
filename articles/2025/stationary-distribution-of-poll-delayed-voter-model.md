@@ -1,7 +1,7 @@
 Title: Stationary distribution of the poll-delayed voter model
 Date: 2025-05-06 08:00
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive, voter model, opinion dynamics, opinion polls, delayed models
+Tags: agent-based models, interactive, voter model, opinion dynamics, opinion polls, delayed models, poll-delayed voter model
 Slug: stationary-distribution-of-poll-delayed-voter-model
 Status: draft
 Image_url: uploads/2025/stationary-distribution-of-poll-delayed-voter-model.png
