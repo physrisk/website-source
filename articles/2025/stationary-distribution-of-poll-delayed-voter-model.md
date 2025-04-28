@@ -7,7 +7,8 @@ Status: draft
 Image_url: uploads/2025/stationary-distribution-of-poll-delayed-voter-model.png
 
 In the last few posts, I have introduced you to two variations of the voter
-model enhanced with [polling mechanism](/tag/opinion-polls/). These two
+model enhanced with [polling mechanism](/tag/opinion-polls/) [cite
+id="Kononovicius2024PhysA"]. These two
 variations differed in whether the announcement of poll outcome is
 [delayed]({filename}/articles/2025/poll-delayed-voter-model.md) or
 [not]({filename}/articles/2025/polled-voter-model.md). This time, we
