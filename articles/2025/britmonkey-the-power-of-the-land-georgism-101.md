@@ -3,7 +3,7 @@ Date: 2025-04-29 08:00
 Author: Aleksejus Kononovicius
 Tags: video, wealth, politics, BritMonkey
 Slug: britmonkey-the-power-of-the-land-georgism-101
-Status: draft
+Status: published
 
 Last Sunday in Lithuania, a protest took place against the proposed changes
 to property tax laws. The protest itself reminded me of a
