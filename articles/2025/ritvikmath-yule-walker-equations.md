@@ -1,7 +1,7 @@
 Title: ritvikmath: Yule-Walker equations
 Date: 2025-05-13 08:00
 Author: Aleksejus Kononovicius
-Tags: video, ritvikmath, statistics, poll-delayed voter model
+Tags: video, ritvikmath, statistics, time series models, poll-delayed voter model
 Slug: ritvikmath-yule-walker-equations
 Status: published
 
