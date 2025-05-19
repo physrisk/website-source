@@ -52,6 +52,6 @@ function replot() {
 
     const var_series = jStat.variance(series);
     const stationarity_flag = is_non_stationary(phi_1, phi_2);
-    plot_title.innerHTML = `In ${stationarity_flag ? "non-" : ""}stationary regime (variance ${stationarity_flag ? "???" : var_series.toFixed(2)})`;
+    plot_title.innerHTML = `In ${stationarity_flag ? "non-" : ""}stationary regime (Var[x]=${stationarity_flag ? "???" : var_series.toFixed(2)})`;
 }
 replot();
