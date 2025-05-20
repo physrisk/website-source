@@ -70,7 +70,7 @@ variance:
 
 \begin{equation}
     \gamma\_0 = \mathrm{Var}\left(x\_t\right) =
-        \frac{(1-\phi\_2) \sigma^2}{(\phi\_2+1) \left(-\phi\_1^2+\phi\_2^2-2 \phi\_2+1\right)} .
+        \frac{(1-\phi\_2) \sigma^2}{(1+\phi\_2) \left(1-\phi\_1^2+\phi\_2^2-2 \phi\_2\right)} .
 \end{equation}
 
 While the expression is nonlinear, the dependence between the stationary
