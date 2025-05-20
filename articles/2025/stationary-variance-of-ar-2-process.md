@@ -3,7 +3,7 @@ Date: 2025-05-20 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, time series models, statistics
 Slug: stationary-variance-of-ar-2-process
-Status: draft
+Status: published
 Image_url: uploads/2025/stationary-variance-of-ar-2-process.png
 
 It is hard (or impossible) to directly obtain the analytical expression for
