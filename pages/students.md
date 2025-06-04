@@ -22,23 +22,12 @@ We will try to schedule a meeting to find a problem you could tackle.
 ## Internship, BSc and MSc topics
 
 Following topics are offered officially via Faculty of Physics during the
-2024-2025 academic year.
+2025-2026 academic year.
 
-* **"Research of stochastic opinion dynamic model with fractional inflow of
-  new opinions"**. Supervisor Vygintas Gontis.
-* **"Determination of anomalous diffusion duration in an inhomogeneous
-  environment"**. Supervisor Rytis Kazakevičius.
-* **"Estimation of the anomalous diffusion exponent using a
-  machine-learning-based approach"**. Supervisor Rytis Kazakevičius.
-* **"Estimation of surface roughness using the fractal dimension"**.
-  Supervisor Rytis Kazakevičius.
-* **"Modeling charge carrier trapping in semiconductors: Surface vs bulk
-  dynamics"**. Supervisor Rytis Kazakevičius.
-* **"Modeling heterogeneous media as a noisy harmonic oscillator with
-  friction fluctuations"**. Supervisor Rytis Kazakevičius.
-* **"Investigation of the emergence of anomalous diffusion in chaotic
-  systems"**. Supervisor Rytis Kazakevičius.
-* **"Latent individual particle state flipping in the voter model"**.
+* **"Competition statistics of the noisy voter model"**. Supervisor
+  Aleksejus Kononovicius.
+* **"Spectral and stationary statistics of the noisy voter model with delay
+  mechanisms"**.
   Supervisor Aleksejus Kononovicius.
 
 ## Completed theses and internships
