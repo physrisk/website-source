@@ -3,7 +3,7 @@ Date: 2025-06-10 08:00
 Author: Aleksejus Kononovicius
 Tags: video, opinion dynamics, ICTP SAIFR
 Slug: workshop-on-sociophysics-at-ictp-saifr
-Status: draft
+Status: published
 
 In October 2021, [South American Institute of Fundamental Research of
 International Centre for Theoretical Physics](https://www.ictp-saifr.org)
