@@ -17,7 +17,7 @@ We will try to schedule a meeting to find a problem you could tackle.
 
 * **"[Change and exchange processes in complex social
   systems](https://www.ff.vu.lt/en/itpa/studies-and-education/phd-studies#change-and-exchange-processes-in-complex-social-systems)"**.
-  Supervisor Aleksejus Kononovicius.
+  Supervisor [Aleksejus Kononovicius](https://kononovicius.lt).
 
 ## Internship, BSc and MSc topics
 
@@ -25,17 +25,40 @@ Following topics are offered officially via Faculty of Physics during the
 2025-2026 academic year.
 
 * **"Competition statistics of the noisy voter model"**. Supervisor
-  Aleksejus Kononovicius.
+  [Aleksejus Kononovicius](https://kononovicius.lt).
 * **"Spectral and stationary statistics of the noisy voter model with delay
   mechanisms"**.
-  Supervisor Aleksejus Kononovicius.
+  Supervisor [Aleksejus Kononovicius](https://kononovicius.lt).
+* **First-Passage Time Analysis for a Heterogeneous Diffusion Process**.
+  Supervisor [Rytis
+  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
+* **"Estimation of the Anomalous Diffusion Exponent Using a
+  Machine-Learning-Based Approach"**. Supervisor Rytis Kazakevičius.
+* **"Application of the Fractional Fokker–Planck Equation to Anomalous
+  Diffusion Modeling"**. Supervisor [Rytis
+  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
+* **"Determination of the Relationship Between the Generalized Hurst
+  Parameter (H) and Fractal Dimension (D) in Self-Similar Processes"**.
+  Supervisor [Rytis
+  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
+* **"Modeling Heterogeneous Media as a Noisy Harmonic Oscillator with
+  Friction Fluctuations"**. Supervisor [Rytis
+  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
+* **"Investigation of the Emergence of Anomalous Diffusion in Chaotic
+  Systems"**. Supervisor [Rytis
+  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 
 ## Completed theses and internships
 
 **Theses:** 19 (11 BSc + 5 MSc + 3 PhD)
 
+**Postdoctoral projects:** 2
+
 **Internships:** 6
 
+* **"Determination of anomalous diffusion duration in an inhomogeneous
+  environment" (2025)**. Term paper by Vaiva Blaževičiūtė (Vilnius
+  University, Life Sciences Center). Supervisor Rytis Kazakevičius.
 * **"Influence of the state interaction network on the statistical
   properties of the voter model"** (2024). Internship was supported by
   [Research Council of Lithuania](https://lmt.lrv.lt/en/) (P-SV-24-28). Intern
@@ -52,10 +75,18 @@ Following topics are offered officially via Faculty of Physics during the
   Kononovicius.
 * **"Processes described by q-exponential waiting time distributions"** (2023).
   Bachelor thesis written by Gediminas Jonikas. Supervisor Vygintas Gontis.
+* **"Investigation of long memory in complex multi-state stochastic agent
+  systems** (2020-2022). Postdoctoral project financed by European Social
+  Fund (09.3.3-LMT-K-712-19-0017). Researcher Rytis Kazakevičius. Supervisor
+  Vygintas Gontis.
 * **"Scaling of empirical compartmental distributions"** (2022). Bachelor thesis
   written by Justas Kvedaravičius. Supervisor Aleksejus Kononovicius.
 * **"The joint model of kinetic wealth exchange and investment"** (2020).
   Bachelor thesis by Giedrius Pakalka. Supervisor Vygintas Gontis.
+* **"Physical modeling of order-book and opinion dynamics"** (2017-2020).
+  Postdoctoral project financed by European Social Fund
+  (09.3.3-LMT-K-712-02-0026). Researcher Aleksejus Kononovicius. Supervisor
+  Julius Ruseckas.
 * **"First passage time of birth-death processes"** (2019). Master thesis by
   Ignas Kazakevičius. Supervisor Vygintas Gontis.
 * **"Imitative model of opinion dynamics"** (2018). Bachelor thesis by Edvinas
