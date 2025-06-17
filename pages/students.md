@@ -29,7 +29,7 @@ Following topics are offered officially via Faculty of Physics during the
 * **"Spectral and stationary statistics of the noisy voter model with delay
   mechanisms"**.
   Supervisor [Aleksejus Kononovicius](https://kononovicius.lt).
-* **First-Passage Time Analysis for a Heterogeneous Diffusion Process**.
+* **"First-Passage Time Analysis for a Heterogeneous Diffusion Process"**.
   Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 * **"Estimation of the Anomalous Diffusion Exponent Using a
