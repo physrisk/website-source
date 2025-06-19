@@ -207,7 +207,7 @@ Applet
 ------
 
 HTML5 applet below solves differential equations above using
-Euler-Maruyama method \[cite id="Kloeden1999Springer"\]. We also use
+Euler-Maruyama method \[cite id="Kloeden1992Springer"\]. We also use
 variable time step. In such case stochastic differential equations
 becomes a set of difference equations for time and return. In case of
 the last stochastic differential above

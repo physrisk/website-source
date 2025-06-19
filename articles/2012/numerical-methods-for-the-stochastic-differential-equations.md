@@ -118,7 +118,7 @@ difference equation then becomes:
 
 Here, we have purely intuitively arrived at numerical method which is known
 as Euler-Maruyama method. For more details on this method and its
-alternatives see [cite id="Kloeden1999Springer"].
+alternatives see [cite id="Kloeden1992Springer"].
 
 ## Solving non-linear stochastic differential equations using variable time step {#var-step}
 

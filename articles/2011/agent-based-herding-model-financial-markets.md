@@ -335,7 +335,7 @@ Applet
 ------
 
 This applet numerically solves Eq. \eqref{lany} using
-Euler-Maruyama method \[cite id="Kloeden1999Springer"\]. In such case
+Euler-Maruyama method \[cite id="Kloeden1992Springer"\]. In such case
 Eq. \eqref{lany} becomes a set of difference equations:
 
 \begin{equation}

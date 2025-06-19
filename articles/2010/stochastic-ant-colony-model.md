@@ -213,7 +213,7 @@ Population fraction SDE Applet
 ------------------------------
 
 In the applet below we solve aforementioned Langevin equation using
-simple Euler-Maruyama method (see \[cite id="Kloeden1999Springer"\]).
+simple Euler-Maruyama method (see \[cite id="Kloeden1992Springer"\]).
 Using this method we transform stochastic differential equation into
 *difference equation*
 
