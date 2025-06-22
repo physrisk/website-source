@@ -44,7 +44,8 @@ Gontis, dr. A.  Kononovicius.")
 ### Current members
 
 * [dr. Vygintas Gontis](https://gontis.eu) (head of the group)
-* dr. Rytis Kazakevičius
+* [dr. Rytis
+  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius)
 * [dr. Aleksejus Kononovicius](https://kononovicius.lt)
 * [dr. Viktor Novičenko](http://www.itpa.lt/%7Enovicenko/) (associated member)
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/) (affiliated member)
