@@ -33,7 +33,8 @@ Following topics are offered officially via Faculty of Physics during the
   Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 * **"Estimation of the Anomalous Diffusion Exponent Using a
-  Machine-Learning-Based Approach"**. Supervisor Rytis Kazakevičius.
+  Machine-Learning-Based Approach"**. Supervisor [Rytis
+  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 * **"Application of the Fractional Fokker–Planck Equation to Anomalous
   Diffusion Modeling"**. Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
