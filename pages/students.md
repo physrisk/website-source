@@ -13,12 +13,6 @@ proper determination and with enough effort anything can be learnt.
 If you are interested, feel free to [contact us]({filename}/pages/about.md).
 We will try to schedule a meeting to find a problem you could tackle.
 
-## PhD positions
-
-* **"[Change and exchange processes in complex social
-  systems](https://www.ff.vu.lt/en/itpa/studies-and-education/phd-studies#change-and-exchange-processes-in-complex-social-systems)"**.
-  Supervisor [Aleksejus Kononovicius](https://kononovicius.lt).
-
 ## Internship, BSc and MSc topics
 
 Following topics are offered officially via Faculty of Physics during the
