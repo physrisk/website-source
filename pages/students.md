@@ -52,7 +52,7 @@ Following topics are offered officially via Faculty of Physics during the
 **Internships:** 6
 
 * **"Determination of anomalous diffusion duration in an inhomogeneous
-  environment" (2025)**. Term paper by Vaiva Blaževičiūtė (Vilnius
+  environment"** (2025). Term paper by Vaiva Blaževičiūtė (Vilnius
   University, Life Sciences Center). Supervisor Rytis Kazakevičius.
 * **"Influence of the state interaction network on the statistical
   properties of the voter model"** (2024). Internship was supported by
