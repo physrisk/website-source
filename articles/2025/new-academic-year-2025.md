@@ -3,7 +3,7 @@ Date: 2025-09-09 08:00
 Author: Aleksejus Kononovicius
 Tags: general
 Slug: new-academic-year-2025
-Status: draft
+Status: published
 Image_url: uploads/2025/new-academic-year-2025.jpg
 
 Another summer has ended, and we are back to uncover and learn new things!
