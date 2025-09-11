@@ -1,4 +1,4 @@
-Title: New academic year (2025)
+Title: New academic year!
 Date: 2025-09-09 08:00
 Author: Aleksejus Kononovicius
 Tags: general
