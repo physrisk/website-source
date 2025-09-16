@@ -3,7 +3,7 @@ Date: 2025-09-16 08:00
 Author: Aleksejus Kononovicius
 Tags: 3Blue1Brown, Spectral Collective, video, statistical physics, Ising model
 Slug: vilas-winstein-simulating-and-understanding-phase-change
-Status: draft
+Status: published
 
 This summer, [3Blue1Brown](https://www.youtube.com/@3blue1brown) ran a series
 of guest videos. One of them is particularly interesting for the fans of
