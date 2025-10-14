@@ -3,7 +3,7 @@ Date: 2025-10-14 08:00
 Author: Aleksejus Kononovicius
 Tags: general, conference, opinion dynamics, stochastic models, statistical physics, voter model, agent-based models, LNFK, FENS, A. Kononovicius, R. Kazakevicius
 Slug: 2025-autumn-conferences
-Status: draft
+Status: published
 Image_url: uploads/2025/2025-autumn-conferences.jpg
 
 Over the last few weeks we, [I](/tag/a-kononovicius/) and
