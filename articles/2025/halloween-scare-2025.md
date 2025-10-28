@@ -3,7 +3,7 @@ Date: 2025-10-28 08:00
 Author: Aleksejus Kononovicius
 Tags: popular culture, opinion dynamis, economics, biology, politics, J. Benton
 Slug: halloween-scare-2025
-Status: draft
+Status: published
 Image_url: uploads/2025/halloween-scare-2025.jpg
 
 ![Modern take on Halloween
