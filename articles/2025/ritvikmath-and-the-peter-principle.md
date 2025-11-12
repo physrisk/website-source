@@ -1,7 +1,7 @@
 Title: ritvikmath and the Peter principle
 Date: 2025-11-11 08:00
 Author: Aleksejus Kononovicius
-Tags: video, ritvikmath, game theory, Peter principle
+Tags: video, economics, ritvikmath, game theory, Peter principle
 Slug: ritvikmath-and-the-peter-principle
 Status: published
 
