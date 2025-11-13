@@ -382,7 +382,6 @@ restart_btn.addEventListener("click", () => {
         level_multiplier_input.disabled = true;
         competence_hypothesis_input.disabled = true;
         promotion_algorithm_input.disabled = true;
-        level_multiplier_input.disabled = true;
         restart_btn.innerHTML = "Pause";
         frame();
     } else {
