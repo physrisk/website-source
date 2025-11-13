@@ -178,6 +178,13 @@ Note that the size of the effect depends on how the level of importance
 scales with increasing rank. We have chosen to show this effect when the
 importance of each rank is identical, i.e., \\\( \Delta w = 0 \\\).
 
+In practice promoting the worst workers would feel unnatural. So, the
+solution suggested by the authors [cite id="Biondo2013JStatPhys"] was to
+promote randomly! As only a random strategy performs consistently well
+whether the "Randomization" hypothesis or the "Transfer" hypothesis holds.
+This observation has won the authors the [Ig Nobel Management Prize in
+2010](https://improbable.com/ig/winners/#ig2010).
+
 ### What I have found interesting
 
 In research it is a commonly said that most work is being done by doctoral
