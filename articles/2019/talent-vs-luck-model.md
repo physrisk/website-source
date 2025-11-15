@@ -1,7 +1,7 @@
 Title: Talent vs Luck model
 Date: 2019-09-10 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, agent-based models, wealth, talent vs luck
+Tags: interactive, agent-based models, wealth, talent vs luck, Catania group
 Slug: talent-vs-luck-model
 Status: published
 Image_url: uploads/2019/tvl-model.png

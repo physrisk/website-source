@@ -1,7 +1,7 @@
 Title: Peter principle
 Date: 2025-11-18 08:00
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive, economics, Peter principle
+Tags: agent-based models, interactive, economics, Peter principle, Catania group
 Slug: peter-principle
 Status: draft
 Image_url: uploads/2025/peter-principle.png
