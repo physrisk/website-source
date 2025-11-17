@@ -46,8 +46,8 @@ to:
 In the above \\\( N \\\) is the number of empirical data points. In our case
 \\\( N = 256 \\\), thus \\\( C = 0.085 \\\).
 
-[![Visual illustration of K-S test in action.]({static}/uploads/2022/ks-test.png
-"Visual illustration of K-S test in action.")](https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Smirnov_test#/media/File:KS_Example.png)
+![Visual illustration of K-S test in action.]({static}/uploads/2022/ks-test.png
+"Visual illustration of K-S test in action.")
 
 ## Interactive app
 
