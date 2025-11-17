@@ -1,5 +1,5 @@
 Title: Accidental politicians
-Date: 2025-12-09 08:00
+Date: 2025-12-16 08:00
 Author: Aleksejus Kononovicius
 Tags: agent-based models, interactive, politics, Catania group
 Slug: accidental-politicians

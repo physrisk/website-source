@@ -1,5 +1,5 @@
 Title: Ig Nobel Prize 2022 in Economics
-Date: 2025-11-25 08:00
+Date: 2025-12-02 08:00
 Author: Aleksejus Kononovicius
 Tags: video, talent vs luck, Catania group
 Slug: ig-nobel-prize-2022-economics
