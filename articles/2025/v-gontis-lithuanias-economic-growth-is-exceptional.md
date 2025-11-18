@@ -3,7 +3,7 @@ Date: 2025-11-18 08:00
 Author: Vygintas Gontis
 Tags: interactive, economics, V. Gontis, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, Flourish
 Slug: v-gontis-lithuanias-economic-growth-is-exceptional
-Status: draft
+Status: published
 Image_url: uploads/2025/v-gontis-lithuanias-economic-growth-is-exceptional.png
 
 Comparing the economic development of countries is not as straightforward as
