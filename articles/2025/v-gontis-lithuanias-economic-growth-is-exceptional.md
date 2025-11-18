@@ -36,12 +36,12 @@ figures from 2025 to 2030 are projections, but they are based on the best
 available macroeconomic models and the observed development of each country
 up to 2024.
 
-Below, an interactive country comparison chart presents both the absolute
+Below, an interactive country comparison chart (hosted on [Flourish](https://flo.uri.sh/story/3197425/embed?auto=1#slide-0)) presents both the absolute
 values of GDP per capita in international US dollars (click "Scores") and
 the ranking of each country relative to others (click "Rank").
 
 [html5-interactive
-url="https://flo.uri.sh/story/3197425/embed?auto=1#slide-0" mode="img"
+url="https://flo.uri.sh/story/3197425/embed?auto=1#slide-0" mode="img-only"
 imgurl="/uploads/2025/v-gontis-lithuanias-economic-growth-is-exceptional.png"]
 
 Both visualizations are highly valuable.
