@@ -1,7 +1,7 @@
 Title: V. Gontis: Can Lithuania's Economy Catch Up and Overtake Western Countries?
 Date: 2025-11-20 08:00
 Author: Vygintas Gontis
-Tags: economics, V. Gontis, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania
+Tags: economics, V. Gontis, L. Kolinets, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, Malta, debt
 Slug: v-gontis-can-lithuanias-economic-catch-up-and-overtake
 Status: draft
 Image_url: uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake.png

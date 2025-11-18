@@ -1,7 +1,7 @@
 Title: V. Gontis: The Main Reason for Lithuania’s Economic Success – Low Private Debt
 Date: 2025-11-19 08:00
 Author: Vygintas Gontis
-Tags: economics, V. Gontis, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, debt
+Tags: economics, V. Gontis, L. Kolinets, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, debt
 Slug: v-gontis-the-main-reason-for-lithuanias-economic-success
 Status: draft
 Image_url: uploads/2025/v-gontis-the-main-reason-for-lithuanias-economic-success.jpg
