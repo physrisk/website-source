@@ -1,7 +1,7 @@
 Title: V. Yakovenko: What Causes Inequality?
 Date: 2014-02-03 07:14
 Author: Aleksejus Kononovicius
-Tags: agent-based models, economics, INET, V. Yakovenko, kinetic models, inequality, statistical physics, wealth, free market
+Tags: agent-based models, economics, INET, V. Yakovenko, kinetic models, inequality, statistical physics, wealth, free market, socialism, capitalism
 Slug: v-yakovenko-what-causes-inequality
 Status: published
 

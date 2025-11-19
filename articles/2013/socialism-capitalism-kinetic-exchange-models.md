@@ -1,7 +1,7 @@
 Title: A. Kononovicius: Socialism and capitalism in the kinetic exchange models
 Date: 2013-12-30 07:04
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive, kinetic models, statistical physics, wealth, economics, free market
+Tags: agent-based models, interactive, kinetic models, statistical physics, wealth, economics, free market, socialism, capitalism
 Slug: socialism-capitalism-kinetic-exchange-models
 Status: published
 Image_url: uploads/2013/socialism-capitalism-kinetic-exchange-models.jpg

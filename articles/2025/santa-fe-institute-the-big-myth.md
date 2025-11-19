@@ -1,7 +1,7 @@
 Title: N. Oreskes: The Big Myth
 Date: 2025-04-15 08:00
 Author: Aleksejus Kononovicius
-Tags: video, economics, free market, competition, Santa Fe Institute, evonomics.com
+Tags: video, economics, free market, competition, Santa Fe Institute, evonomics.com, capitalism
 Slug: santa-fe-institute-the-big-myth
 Status: published
 
