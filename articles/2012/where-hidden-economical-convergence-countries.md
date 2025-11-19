@@ -1,4 +1,4 @@
-Title: Vygintas Gontis: Where is the hidden economical convergence of countries?
+Title: V. Gontis: Where is the hidden economical convergence of countries?
 Date: 2012-01-25 16:25
 Author: Vygintas Gontis
 Tags: economics, Baltic countries, V. Gontis, gross domestic product, economic convergence, macroeconomics, politics

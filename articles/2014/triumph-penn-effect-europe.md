@@ -1,8 +1,8 @@
-Title: V. Gontis: The triumph of Penn effect in Europe
+Title: The triumph of Penn effect in Europe
 Date: 2014-02-10 06:58
 Author: Vygintas Gontis
 Tags: economics, interactive, Big Mac Index, Eurostat, World Bank, StatPlanet, The Economist, V. Gontis, gross domestic product, economic convergence, macroeconomics, purchasing power parity, purchasing power standard, politics
-Slug: v-gontis-triumph-penn-effect-europe
+Slug: triumph-penn-effect-europe
 Status: published
 
 The idea of this contribution has come after
@@ -82,7 +82,7 @@ you can get acquainted with our observations.
 
 ![Fig. 1: Penn effect. Scatter plot of World countries in the plane
 (LOGGDPpercapitaPPP\_USD,
-LOGPriceLevel).]({static}/uploads/2014/v-gontis-triumph-penn-effect-europe.jpg
+LOGPriceLevel).]({static}/uploads/2014/triumph-penn-effect-europe.jpg
 "Penn effect. Scatter plot of World countries in the plane
 (LOGGDPpercapitaPPP\_USD, LOGPriceLevel)."){#attachment_2624}
 

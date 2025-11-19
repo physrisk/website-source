@@ -1,8 +1,8 @@
-Title: V. Gontis: the World Faces an Explosion of Financial Bubble Unprepared Again
+Title: The World Faces an Explosion of Financial Bubble Unprepared Again
 Date: 2015-08-23 23:40
 Author: Vygintas Gontis
 Tags: economics, China, V. Gontis, gross domestic product, financial markets, macroeconomics, politics
-Slug: v-gontis-world-faces-an-explosion-of-financial-bubble-unprepared-again
+Slug: world-faces-an-explosion-of-financial-bubble-unprepared-again
 Status: published
 
 The evolution of

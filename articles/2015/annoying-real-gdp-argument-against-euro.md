@@ -1,10 +1,10 @@
-Title: V. Gontis: Annoying real GDP argument against Euro
+Title: Annoying real GDP argument against Euro
 Date: 2015-07-31 17:50
 Author: Vygintas Gontis
 Tags: economics, Eurostat, P. Krugman, World Bank, V. Gontis, gross domestic product, economic growth, euro, macroeconomics, purchasing power parity, purchasing power standard
-Slug: v-gontis-annoying-real-gdp-argument-against-euro
+Slug: annoying-real-gdp-argument-against-euro
 Status: published
-Image_url: uploads/2015/v-gontis-annoying-real-gdp-argument-against-euro.png
+Image_url: uploads/2015/annoying-real-gdp-argument-against-euro.png
 
 Though Paul Krugman is among the most
 prominent critics of the Euro idea
@@ -102,7 +102,7 @@ related with Nokia just needs the time to be solved in the long-term
 macroeconomic level.
 
 ![Growth of Finland's and Sweeden's GDP in
-PPP]({static}/uploads/2015/v-gontis-annoying-real-gdp-argument-against-euro.png
+PPP]({static}/uploads/2015/annoying-real-gdp-argument-against-euro.png
 "Comparison of GDP percentage growth between Finland and Sweden evaluated in
 current international dollars (PPP data from World
 Bank)."){#attachment_2823} 

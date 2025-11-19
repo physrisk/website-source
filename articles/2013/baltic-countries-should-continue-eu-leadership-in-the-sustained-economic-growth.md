@@ -1,4 +1,4 @@
-Title: V. Gontis, A. Kononovicius, K. Acus: Baltic countries should continue EU leadership in the sustained economic growth
+Title: Baltic countries should continue EU leadership in the sustained economic growth
 Date: 2013-09-16 07:20
 Authors: Vygintas Gontis, Aleksejus Kononovicius, Kęstutis Acus
 Tags: economics, A. Kononovicius, Eurostat, K. Acus, StatPlanet, V. Gontis, gross domestic product, economic convergence, macroeconomics, purchasing power parity, purchasing power standard, politics, actual individual consumption
