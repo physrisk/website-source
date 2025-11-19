@@ -1,10 +1,10 @@
-Title: V. Gontis: Can Lithuania's Economy Catch Up and Overtake Western Countries?
+Title: Can Lithuania's Economy Catch Up and Overtake Western Countries?
 Date: 2025-11-20 08:00
 Author: Vygintas Gontis
 Tags: economics, V. Gontis, L. Kolinets, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, Malta, debt
-Slug: v-gontis-can-lithuanias-economic-catch-up-and-overtake
+Slug: can-lithuanias-economic-catch-up-and-overtake
 Status: draft
-Image_url: uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake.png
+Image_url: uploads/2025/can-lithuanias-economic-catch-up-and-overtake.png
 
 Can Lithuania catch up with and even overtake Western Europe? This question
 is provocative—but not without foundation. A recent study [cite
@@ -25,7 +25,7 @@ dynamics.
 ![Gross domestic product (GDP) per capita for Western countries, Europe, and
 the United States, calculated in Purchasing Power Parity (PPP) terms and
 normalized to the U.S.
-level.]({static}/uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake.png
+level.]({static}/uploads/2025/can-lithuanias-economic-catch-up-and-overtake.png
 "Gross domestic product (GDP) per capita for Western countries, Europe, and
 the United States, calculated in Purchasing Power Parity (PPP) terms and
 normalized to the U.S. level.")
@@ -48,7 +48,7 @@ price levels suggest that the dollar's exchange rate and monetary policy
 remain key sources of global economic volatility.
 
 ![Changes in the price-level index calculated by the PPP
-method.]({static}/uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake-2.png
+method.]({static}/uploads/2025/can-lithuanias-economic-catch-up-and-overtake-2.png
 "Changes in the price-level index calculated by the PPP method.")
 
 A notable observation is that countries whose convergence with the U.S. has
@@ -60,7 +60,7 @@ Figure 3 shows the changes in Malta's and Spain's accumulated foreign direct
 investment over the analyzed period.
 
 ![Accumulated foreign direct investment in Malta and
-Spain.]({static}/uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake-3.png
+Spain.]({static}/uploads/2025/can-lithuanias-economic-catch-up-and-overtake-3.png
 "Accumulated foreign direct investment in Malta and Spain.")
 
 The data clearly demonstrate that Malta's strong economic growth began
@@ -76,7 +76,7 @@ increase at rates similar to Spain's, while their absolute levels depend
 primarily on the size of each economy.
 
 ![Foreign trade of Malta and Spain during the analyzed
-period.]({static}/uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake-4.png
+period.]({static}/uploads/2025/can-lithuanias-economic-catch-up-and-overtake-4.png
 "Foreign trade of Malta and Spain during the analyzed period.")
 
 A rather unexpected finding is that domestic capital investment follows an
@@ -85,7 +85,7 @@ macroeconomic conditions (see Figure 5). Even adding the group of CEE
 countries would not significantly change the overall picture.
 
 ![Accumulated domestic capital investment of countries during the analyzed
-period.]({static}/uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake-5.png
+period.]({static}/uploads/2025/can-lithuanias-economic-catch-up-and-overtake-5.png
 "Accumulated domestic capital investment of countries during the analyzed
 period.")
 
@@ -98,7 +98,7 @@ private indebtedness; in almost all of them, the level exceeds 100% of GDP,
 and in some cases, even reaches or surpasses 200% of GDP (see Figure 6)
 
 ![Evolution of Private Debt in Western European
-Countries.]({static}/uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake-6.png
+Countries.]({static}/uploads/2025/can-lithuanias-economic-catch-up-and-overtake-6.png
 "Evolution of Private Debt in Western European Countries.")
 
 In terms of private debt, neither Malta nor Spain stands out significantly;
@@ -114,7 +114,7 @@ substantial impact on economic growth than private debt. This contrasts with
 the CEE region calls for more detailed investigation and explanation.
 
 ![Central government debt in Western European
-countries.]({static}/uploads/2025/v-gontis-can-lithuanias-economic-catch-up-and-overtake-7.png
+countries.]({static}/uploads/2025/can-lithuanias-economic-catch-up-and-overtake-7.png
 "Central government debt in Western European countries.")
 
 After the crisis, Malta's government debt fell below 50% of GDP, whereas

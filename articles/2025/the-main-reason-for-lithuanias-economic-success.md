@@ -1,10 +1,10 @@
-Title: V. Gontis: The Main Reason for Lithuania’s Economic Success – Low Private Debt
+Title: The Main Reason for Lithuania's Economic Success - Low Private Debt
 Date: 2025-11-19 08:00
 Author: Vygintas Gontis
 Tags: economics, V. Gontis, L. Kolinets, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, debt
-Slug: v-gontis-the-main-reason-for-lithuanias-economic-success
+Slug: the-main-reason-for-lithuanias-economic-success
 Status: published
-Image_url: uploads/2025/v-gontis-the-main-reason-for-lithuanias-economic-success.jpg
+Image_url: uploads/2025/the-main-reason-for-lithuanias-economic-success.jpg
 
 Assoc. Prof. Lesya Kolinets, lecturer in international macroeconomics at
 VILNIUS TECH and professor at Ternopil National Economic University, and I
@@ -32,7 +32,7 @@ World Economic Outlook (see Fig. 1).
 
 ![IMF data: ranking of CEE countries by GDP per capita in Purchasing Power
 Parity (PPP) terms,
-1995-2030.]({static}/uploads/2025/v-gontis-the-main-reason-for-lithuanias-economic-success.jpg
+1995-2030.]({static}/uploads/2025/the-main-reason-for-lithuanias-economic-success.jpg
 "IMF data: ranking of CEE countries by GDP per capita in Purchasing Power
 Parity (PPP) terms, 1995-2030.")
 
@@ -45,7 +45,7 @@ economic starting points.
 ![Comparison of the Baltic states. The first panel shows GDP per capita in
 PPP terms; the second, the accumulated debt of private firms and households
 to
-banks.]({static}/uploads/2025/v-gontis-the-main-reason-for-lithuanias-economic-success-2.png
+banks.]({static}/uploads/2025/the-main-reason-for-lithuanias-economic-success-2.png
 "Comparison of the Baltic states. The first panel shows GDP per capita in
 PPP terms; the second, the accumulated debt of private firms and households
 to banks.")
@@ -65,7 +65,7 @@ collectively contribute to the overall result for the Baltic states.
 ![Contribution of components to GDP per capita in the Baltic states. Total
 represents the sum of all components and coincides with the empirical GDP
 level for each
-country.]({static}/uploads/2025/v-gontis-the-main-reason-for-lithuanias-economic-success-3.png
+country.]({static}/uploads/2025/the-main-reason-for-lithuanias-economic-success-3.png
 "Contribution of components to GDP per capita in the Baltic states. Total
 represents the sum of all components and coincides with the empirical GDP
 level for each country.")
@@ -87,7 +87,7 @@ components (see Fig. 4).
 
 ![Relative contribution of private debt to the economic growth of CEE
 countries; methodological details are provided in the scientific
-manuscript.]({static}/uploads/2025/v-gontis-the-main-reason-for-lithuanias-economic-success-4.png
+manuscript.]({static}/uploads/2025/the-main-reason-for-lithuanias-economic-success-4.png
 "Relative contribution of private debt to the economic growth of CEE
 countries; methodological details are provided in the scientific
 manuscript.")

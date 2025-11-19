@@ -1,10 +1,10 @@
-Title: V. Gontis: Lithuania's Economic Growth — Exceptional in Central and Eastern Europe
+Title: Lithuania's Economic Growth - Exceptional in Central and Eastern Europe
 Date: 2025-11-18 08:00
 Author: Vygintas Gontis
 Tags: interactive, economics, V. Gontis, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, Flourish
-Slug: v-gontis-lithuanias-economic-growth-is-exceptional
+Slug: lithuanias-economic-growth-is-exceptional
 Status: published
-Image_url: uploads/2025/v-gontis-lithuanias-economic-growth-is-exceptional.png
+Image_url: uploads/2025/lithuanias-economic-growth-is-exceptional.png
 
 Comparing the economic development of countries is not as straightforward as
 it may seem to many. The most commonly used indicator—Gross Domestic
@@ -42,7 +42,7 @@ the ranking of each country relative to others (click "Rank").
 
 [html5-interactive
 url="https://flo.uri.sh/story/3197425/embed?auto=1#slide-0" mode="img-only"
-imgurl="/uploads/2025/v-gontis-lithuanias-economic-growth-is-exceptional.png"]
+imgurl="/uploads/2025/lithuanias-economic-growth-is-exceptional.png"]
 
 Both visualizations are highly valuable.
 
