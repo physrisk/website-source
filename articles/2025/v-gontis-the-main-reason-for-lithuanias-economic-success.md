@@ -3,7 +3,7 @@ Date: 2025-11-19 08:00
 Author: Vygintas Gontis
 Tags: economics, V. Gontis, L. Kolinets, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, debt
 Slug: v-gontis-the-main-reason-for-lithuanias-economic-success
-Status: draft
+Status: published
 Image_url: uploads/2025/v-gontis-the-main-reason-for-lithuanias-economic-success.jpg
 
 Assoc. Prof. Lesya Kolinets, lecturer in international macroeconomics at
