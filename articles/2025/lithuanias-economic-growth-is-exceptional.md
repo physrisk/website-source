@@ -64,11 +64,5 @@ Although Lithuania still faces many unresolved social challenges, it can
 rely on a strong economic foundation as it seeks the best available ways
 to overcome them.
 
-<div markdown="1" class="note">
-
-**Note**: This text was originally published on
-[gontis.eu](https://gontis.eu/2025/07/lithuanias-economic-growth-exceptional-in-central-and-eastern-europe/).
-Some changes may have been made to make the text fit Physics of Risk content
-presentation style.
-
-</div>
+[declare_source label="gontis.eu"
+href="https://gontis.eu/2025/07/lithuanias-economic-growth-exceptional-in-central-and-eastern-europe/"]

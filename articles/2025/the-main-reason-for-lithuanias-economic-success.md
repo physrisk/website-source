@@ -98,16 +98,7 @@ finding significantly contributes to explaining Lithuania’s macroeconomic
 success and may be valuable for the further development of theories on
 economic growth.
 
-<div markdown="1" class="note">
+[declare_source label="gontis.eu"
+href="https://gontis.eu/2025/11/the-main-reason-for-lithuanias-economic-success-low-private-debt/"]
 
-**Note:** This text was originally published on
-[gontis.eu](https://gontis.eu/2025/11/the-main-reason-for-lithuanias-economic-success-low-private-debt/).
-Some changes may have been made to make the text fit Physics of Risk content
-presentation style.
-
-**Note:** This manuscript was prepared by Vygintas Gontis while being
-affiliated with [Institute of Lithuanian Scientific
-Society](https://msi.lms.lt/) as well as with our group (i.e., using dual
-affiliation).
-
-</div>
+[acknowledge id="gontis-ilss"]

@@ -148,16 +148,7 @@ investment, it keeps both public and private debt at a low level. The
 greatest challenge ahead is geopolitical instability, as well as the
 sensitivity of external capital flows to regional tensions.
 
-<div markdown="1" class="note">
+[declare_source label="gontis.eu"
+href="https://gontis.eu/2025/11/can-lithuanias-economy-catch-up-and-overtake-western-countries/"]
 
-**Note:** This text was originally published on
-[gontis.eu](https://gontis.eu/2025/11/can-lithuanias-economy-catch-up-and-overtake-western-countries/)
-Some changes may have been made to make the text fit Physics of Risk content
-presentation style.
-
-**Note:** The discussed manuscript was prepared by Vygintas Gontis while
-being affiliated with [Institute of Lithuanian Scientific
-Society](https://msi.lms.lt/) as well as with our group (i.e., using dual
-affiliation).
-
-</div>
+[acknowledge id="gontis-ilss"]
