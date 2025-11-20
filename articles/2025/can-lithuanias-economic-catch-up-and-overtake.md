@@ -3,7 +3,7 @@ Date: 2025-11-20 08:00
 Author: Vygintas Gontis
 Tags: economics, V. Gontis, L. Kolinets, gross domestic product, economic growth, macroeconomics, purchasing power parity, Lithuania, Malta, debt
 Slug: can-lithuanias-economic-catch-up-and-overtake
-Status: draft
+Status: published
 Image_url: uploads/2025/can-lithuanias-economic-catch-up-and-overtake.png
 
 Can Lithuania catch up with and even overtake Western Europe? This question
