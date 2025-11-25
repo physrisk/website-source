@@ -3,7 +3,7 @@ Date: 2025-11-25 08:00
 Author: Aleksejus Kononovicius
 Tags: agent-based models, interactive, economics, Peter principle, Catania group
 Slug: peter-principle
-Status: draft
+Status: published
 Image_url: uploads/2025/peter-principle.png
 
 [Last time]({filename}/articles/2025/ritvikmath-and-the-peter-principle.md)
