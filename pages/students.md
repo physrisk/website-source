@@ -20,24 +20,21 @@ Following topics are offered officially via Faculty of Physics during the
 
 * **"Competition statistics of the noisy voter model"**. Supervisor
   [Aleksejus Kononovicius](https://kononovicius.lt).
+* **"Deep-learning-assisted analysis of the transition probability function
+  in the noisy voter model"**. Supervisor [Aleksejus
+  Kononovicius](https://kononovicius.lt).
 * **"Spectral and stationary statistics of the noisy voter model with delay
   mechanisms"**.
   Supervisor [Aleksejus Kononovicius](https://kononovicius.lt).
 * **"First-Passage Time Analysis for a Heterogeneous Diffusion Process"**.
   Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
-* **"Estimation of the Anomalous Diffusion Exponent Using a
-  Machine-Learning-Based Approach"**. Supervisor [Rytis
-  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
-* **"Application of the Fractional Fokker–Planck Equation to Anomalous
+* **"Application of the Fractional Fokker-Planck Equation to Anomalous
   Diffusion Modeling"**. Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 * **"Determination of the Relationship Between the Generalized Hurst
   Parameter (H) and Fractal Dimension (D) in Self-Similar Processes"**.
   Supervisor [Rytis
-  Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
-* **"Modeling Heterogeneous Media as a Noisy Harmonic Oscillator with
-  Friction Fluctuations"**. Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 * **"Investigation of the Emergence of Anomalous Diffusion in Chaotic
   Systems"**. Supervisor [Rytis
