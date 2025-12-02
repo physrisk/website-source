@@ -12,8 +12,8 @@ research has won [the Ig Nobel Management Prize in
 2010](https://improbable.com/ig/winners/#ig2010). Did you know that the same
 group received [the Ig Nobel Economics Prize in
 2022](https://improbable.com/ig/winners/#ig2022)? Furthermore, they received
-the prize for the model we have already covered on [Physics of
-Risk](/tag/talent-vs-luck/). We encourage you to watch their acceptance
+the prize for [the model](/tag/talent-vs-luck/) we have already covered on
+Physics of Risk. We encourage you to watch their acceptance
 speech below.
 
 [youtube v="uSELZ1A5OT8" t="4360"]
