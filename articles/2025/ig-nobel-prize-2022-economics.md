@@ -3,7 +3,7 @@ Date: 2025-12-02 08:00
 Author: Aleksejus Kononovicius
 Tags: video, talent vs luck, Catania group
 Slug: ig-nobel-prize-2022-economics
-Status: draft
+Status: published
 
 [Last time]({filename}/articles/2025/peter-principle.md) we have discussed a
 model, which shows that random promotions can be the best way to ensure
