@@ -1,7 +1,7 @@
 Title: Agent-based versus macroscopic modeling of competition and business processes in economics
 Date: 2011-06-30 15:01
 Author: Aleksejus Kononovicius
-Tags: agent-based models, stochastic models, A. Kononovicius, Bass model, voter model, Kirman model, V. Daniunas, V. Gontis, methods, conference, marketing, ICCGI
+Tags: agent-based models, stochastic models, A. Kononovicius, Bass model, voter model, Kirman model, V. Daniunas, V. Gontis, methods, conference, marketing, ICCGI, publication
 Slug: agent-based-versus-macroscopic-modeling-competition-business-processes-economics
 Status: published
 

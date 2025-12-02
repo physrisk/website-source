@@ -1,7 +1,7 @@
 Title: IARIA publication reviewing our different research directions
 Date: 2012-02-27 09:13
 Author: Aleksejus Kononovicius
-Tags: agent-based models, economics, stochastic models, A. Kononovicius, Bass model, Kirman model, V. Daniunas, V. Gontis, methods, multifractality, burst statistics, marketing
+Tags: agent-based models, economics, stochastic models, A. Kononovicius, Bass model, Kirman model, V. Daniunas, V. Gontis, methods, multifractality, burst statistics, marketing, publication
 Slug: iaria-publication-reviewing-our-different-research-directions
 Status: published
 
