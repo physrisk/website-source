@@ -3,7 +3,7 @@ Date: 2025-12-04 08:00
 Author: Aleksejus Kononovicius
 Tags: general, publication, first-passage time, opinion dynamics, voter model, A. Kononovicius, R. Kazakevicius
 Slug: publication-mean-first-passage-time-of-the-symmetric-noisy-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2025/publication-mean-first-passage-time-of-the-symmetric-noisy-voter-model.png
 
 Our most recent work [cite id="Kazakevicius2026CSF"] concerning the first
