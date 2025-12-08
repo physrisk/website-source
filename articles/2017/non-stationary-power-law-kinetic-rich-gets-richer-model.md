@@ -1,7 +1,7 @@
 Title: Non-stationary power-law in a kinetic "rich gets richer" model
 Date: 2017-12-12 08:00
 Authors: Aleksejus Kononovicius, Julius Ruseckas
-Tags: agent-based models, statistical physics, kinetic models, Python, wealth, economics, free market, capitalism
+Tags: agent-based models, statistical physics, kinetic models, Python, wealth, economics, free market, capitalism, power-law distribution
 Slug: non-stationary-power-law-kinetic-rich-gets-richer-model
 Status: published
 Image_url: uploads/2017/non-stationary-power-law-kinetic-rich-gets-richer-model.png

@@ -1,7 +1,7 @@
 Title: Agent-based herding model of financial markets
 Date: 2011-07-08 08:12
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive, stochastic models, 1/f noise, A. Kononovicius, CEV process, voter model, Kirman model, V. Gontis, financial markets
+Tags: agent-based models, interactive, stochastic models, 1/f noise, A. Kononovicius, CEV process, voter model, Kirman model, V. Gontis, financial markets, power-law distribution
 Slug: agent-based-herding-model-financial-markets
 Status: published
 Image_url: uploads/2011/agent-based-herding-model-financial-markets.png

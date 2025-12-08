@@ -1,7 +1,7 @@
 Title: Granularity order book model
 Date: 2018-06-05 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, agent-based models, financial markets, order book, postdoctoral project
+Tags: interactive, agent-based models, financial markets, order book, postdoctoral project, power-law distribution
 Slug: granularity-order-book-model
 Status: published
 Image_url: uploads/2018/granularity-order-book-model.png

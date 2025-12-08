@@ -1,7 +1,7 @@
 Title: Power-law distribution from superposition of normal distributions
 Date: 2024-03-12 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics
+Tags: interactive, statistics, power-law distribution
 Slug: power-law-distribution-from-superposition-of-normal-distributions
 Status: published
 Image_url: uploads/2024/power-law-distribution-from-superposition-of-normal-distributions.png

@@ -1,7 +1,7 @@
 Title: 401st post!
 Date: 2023-09-05 08:00
 Author: Aleksejus Kononovicius
-Tags: general, statistics, language, Zipf's law
+Tags: general, statistics, language, Zipf's law, power-law distribution
 Slug: 401st-post
 Status: published
 Image_url: uploads/2023/401st-tags.png

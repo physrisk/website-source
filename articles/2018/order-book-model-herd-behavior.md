@@ -1,7 +1,7 @@
 Title: Order book model with herd behavior
 Date: 2018-11-13 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, agent-based models, financial markets, order book, voter model, Kirman model, A. Kononovicius, J. Ruseckas, postdoctoral project
+Tags: interactive, agent-based models, financial markets, order book, voter model, Kirman model, A. Kononovicius, J. Ruseckas, postdoctoral project, power-law distribution
 Slug: order-book-model-herd-behavior
 Status: published
 Image_url: uploads/2018/order-book-model-herd-behavior.png

@@ -1,7 +1,7 @@
 Title: PSD of a point process with power-law inter-event times
 Date: 2023-10-17 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, Poisson process, point process, Fourier transform, spectral density
+Tags: interactive, Poisson process, point process, Fourier transform, spectral density, power-law distribution
 Slug: point-process-psd-power-law
 Status: published
 Image_url: uploads/2023/point-process-psd-power-law.png
