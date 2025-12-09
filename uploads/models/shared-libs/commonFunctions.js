@@ -22,7 +22,7 @@ var commonFunctions={
         if(log) {
             llim=this.LogBase10(llim);
             rlim=this.LogBase10(rlim);
-            lstep=(rlim-llim)/(outPoints-1.0);
+            lstep=(rlim-llim)/outPoints;
             used=0;
             while((llim<=rlim)&&(used<outPoints)) {
                 integralas=0;
@@ -51,7 +51,7 @@ var commonFunctions={
                 rez2=null;
             }
         } else {
-            lstep=(rlim-llim)/(outPoints-1.0);
+            lstep=(rlim-llim)/outPoints;
             for(i=0;i<outPoints;i++) {
                 integralas=0;
                 llim+=lstep;
