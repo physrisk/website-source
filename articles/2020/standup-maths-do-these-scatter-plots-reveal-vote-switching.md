@@ -1,7 +1,7 @@
 Title: Stand-up Maths: Do these scatter plots reveal fraudulent vote-switching in Michigan?
 Date: 2020-12-01 08:00
 Author: Aleksejus Kononovicius
-Tags: video, standupmaths, opinion dynamics, statistics, politics, popular culture
+Tags: video, standupmaths, opinion dynamics, statistics, politics, popular culture, United States
 Slug: standup-maths-do-these-scatter-plots-reveal-vote-switching
 Status: published
 

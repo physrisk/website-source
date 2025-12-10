@@ -1,7 +1,7 @@
 Title: Above the Noise: Gerrymandering (is Geometry Silencing Your Vote?)
 Date: 2019-04-23 08:00
 Author: Aleksejus Kononovicius
-Tags: politics, sociology, opinion dynamics, video, Above the Noise
+Tags: politics, sociology, opinion dynamics, video, Above the Noise, United States
 Slug: above-the-noise-gerrymandering-is-geometry-silencing-your-vote
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Financial Times: Can you mastermind a US presidential campaign?
 Date: 2024-09-26 08:00
 Author: Aleksejus Kononovicius
-Tags: Financial Times, opinion dynamics, game theory, Colonel Blotto game
+Tags: Financial Times, opinion dynamics, game theory, Colonel Blotto game, United States
 Slug: financial-times-US-presidential-campaign-game
 Status: published
 

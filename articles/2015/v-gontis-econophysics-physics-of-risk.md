@@ -1,7 +1,7 @@
 Title: V. Gontis: "Econophysics = Physics of Risk"
 Date: 2015-03-03 07:33
 Author: Vygintas Gontis
-Tags: agent-based models, general, economics, stochastic models, networks, 1/f noise, Boston Lithuanian School, Kirman model, A. Kononovicius, V. Gontis, biology, traffic, financial markets, statistical physics, video
+Tags: agent-based models, general, economics, stochastic models, networks, 1/f noise, Boston Lithuanian School, Kirman model, A. Kononovicius, V. Gontis, biology, traffic, financial markets, statistical physics, video, United States, Baltic-American Freedom Foundation
 Slug: v-gontis-econophysics-physics-of-risk
 Status: published
 
