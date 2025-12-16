@@ -3,7 +3,7 @@ Date: 2025-12-16 08:00
 Author: Aleksejus Kononovicius
 Tags: agent-based models, interactive, politics, Catania group
 Slug: accidental-politicians
-Status: draft
+Status: published
 Image_url: uploads/2025/accidental-politicians.png
 
 Over the last few posts I have been writing about variety of research
