@@ -55,14 +55,12 @@ function setup(d) {
             if(idx>-1) {
                 checked=" checked";
             }
-            $("#controlWrapper").append("<span id=\"data-"+value+"\" class=\"controlBlock singleWidth\"><input class=\"curveCheckbox\" type=\"checkbox\" value=\""+value+"\""+checked+"> "+c+"</span>");
+            $("#controlWrapper").append("<span id=\"data-"+value+"\" class=\"controlBlock smallBlock\"><input class=\"curveCheckbox\" type=\"checkbox\" value=\""+value+"\""+checked+"> "+c+"</span>");
             data.data[v][c]=data.data[v][c].sort((a,b) => b-a).slice(0);
         });
         $("#controlWrapper").append("<br/>");
     });
     $(".curveCheckbox").click(checkboxUpdate);
-    $("#controlWrapper .singleWidth").css("width","90px");
-    $("#controlWrapper").css("line-height","15px");
 
     X = d["postcode areas"].map((val,idx) => idx+1);
 }
