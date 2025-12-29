@@ -12,6 +12,7 @@
     <script src="../../shared-libs/random-026.min.js"></script>
     <style>
         #figureWrapper #title.label {padding-top:10px;padding-left:50px;display:block}
+        .inputBlock{width:140px}
     </style>
 </head>
 <body>
@@ -27,29 +28,26 @@
         <div id="psdPlot" class="halfSize"></div>
     </div><!-- #figureWrapper -->
     <div id="controlWrapper">
-        <span class="controlBlock oneandhalfWidth">
+        <span class="controlBlock inputBlock">
             <label for="power_gap">&alpha; = </label>
             <input id="power_gap" type="number" min="-2" max="2" step="0.1" value="0">
         </span>
-        <span class="controlBlock oneandhalfWidth">
+        <span class="controlBlock inputBlock">
             <label for="min_rate">&gamma;<sub>min</sub> = </label>
             10^<input id="min_rate" type="number" min="-6" max="-2" step="0.1" value="-6">
-            <label> [1/s]</label>
         </span>
-        <span class="controlBlock oneandhalfWidth">
+        <span class="controlBlock inputBlock">
             <label for="max_rate">&gamma;<sub>max</sub> = </label>
             10^<input id="max_rate" type="number" min="-3" max="1" step="0.1" value="0">
-            <label> [1/s]</label>
         </span>
         <br>
-        <span class="controlBlock oneandhalfWidth">
+        <span class="controlBlock inputBlock">
             <label for="n_success">N<sub>success</sub> = </label>
             <input id="n_success" type="number" min="1" max="10" step="1" value="1">
         </span>
-        <span class="controlBlock oneandhalfWidth">
+        <span class="controlBlock inputBlock">
             <label for="recombination_time">&theta;<sub>c</sub> = </label>
             10^<input id="recombination_time" type="number" value="3">
-            <label> [s]</label>
         </span>
         <br>
         <span class="controlBlock">

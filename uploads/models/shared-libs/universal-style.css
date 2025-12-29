@@ -22,7 +22,7 @@ fieldset {
 }
 input, select, button {
     height: 24px;
-    width: 60px;
+    width: 70px;
     line-height: 20px;
     padding: 0 6px;
     border: 1px solid #999;
@@ -35,26 +35,23 @@ input[type=checkbox] {
 button{
     width: 140px;
 }
-label {
-    width: 40px;
-}
 .controlBlock{
     display:inline-block;
     margin-left:5px;
 }
 .controlBlock.singleWidth {
-    width:100px;
+    width:116px;
 }
 .controlBlock.oneandhalfWidth {
-    width:155px;
+    width:179px;
 }
 .controlBlock.doubleWidth {
-    width:210px;
+    width:242px;
 }
 .controlBlock.singleWidth label,
 .controlBlock.oneandhalfWidth label,
 .controlBlock.doubleWidth label {
-    width:30px;
+    width:40px;
     text-align:right;
     display:inline-block;
 }
