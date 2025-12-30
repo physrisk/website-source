@@ -1,7 +1,7 @@
 Title: Won't be teaching Matlab!
 Date: 2023-02-07 08:00
 Author: Aleksejus Kononovicius
-Tags: general, Matlab, Python
+Tags: general, Matlab, Python, students
 Slug: wont-be-teaching-matlab
 Status: published
 Image_url: uploads/2023/matlab.jpg

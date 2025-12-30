@@ -1,7 +1,7 @@
 Title: Coding Colonel Blotto tournament in Matlab
 Date: 2025-02-18 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, Matlab, github, Colonel Blotto game, FiveThirtyEight
+Tags: video, statistics, Matlab, github, Colonel Blotto game, FiveThirtyEight, students
 Slug: coding-colonel-blotto-tournament
 Status: published
 Image_url: uploads/2025/coding-colonel-blotto-tournament.jpg

@@ -1,7 +1,7 @@
 Title: "Solving" Monopoly using Linear Algebra and Matlab
 Date: 2021-06-08 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, board games, Markov chains, Matlab, github
+Tags: video, statistics, board games, Markov chains, Matlab, github, students
 Slug: solving-monopoly-using-linear-algebra-and-matlab
 Status: published
 
