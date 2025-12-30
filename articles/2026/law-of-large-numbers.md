@@ -51,30 +51,30 @@ quantity \\\( X \\\) by some specific constant \\\( a\\\), the variance of
 the product is given by
 
 \begin{equation}
-\mathbf{Var}\left[a X\right] = a^2 \mathbf{Var}\left[X\right] .
+\mathrm{Var}\left[a X\right] = a^2 \mathrm{Var}\left[X\right] .
 \end{equation}
 
 Another identity we need to make use of is
 
 \begin{equation}
-\mathbf{Var}\left[\sum\_{i=1}^{N} X\_i\right] =
-    \sum\_{i=1}^{N} \sum\_{j=1}^{N} \mathbf{Cov}\left(X\_i, X\_j\right).
+\mathrm{Var}\left[\sum\_{i=1}^{N} X\_i\right] =
+    \sum\_{i=1}^{N} \sum\_{j=1}^{N} \mathrm{Cov}\left(X\_i, X\_j\right).
 \end{equation}
 
 If the random variates are independent, their covariance is zero. This is
 the case when \\\( i \neq j \\\), thus what remains is
 
 \begin{equation}
-\mathbf{Var}\left[\sum\_{i=1}^{N} X\_i\right] =
-    \sum\_{i=1}^{N} \mathbf{Cov}\left(X\_i, X\_i\right) =
-    \sum\_{i=1}^{N} \mathbf{Var}\left(X\_i\right) .
+\mathrm{Var}\left[\sum\_{i=1}^{N} X\_i\right] =
+    \sum\_{i=1}^{N} \mathrm{Cov}\left(X\_i, X\_i\right) =
+    \sum\_{i=1}^{N} \mathrm{Var}\left(X\_i\right) .
 \end{equation}
 
 These identities allow us to write,
 
 \begin{equation}
-\mathbf{Var}\left[\hat{X}\_N\right] = \frac{1}{N^2} \sum\_{i=1}^N
-\mathbf{Var}\left[X\_i\right] = \frac{\mathbf{Var}\left[X\right]}{N} .
+\mathrm{Var}\left[\hat{X}\_N\right] = \frac{1}{N^2} \sum\_{i=1}^N
+\mathrm{Var}\left[X\_i\right] = \frac{\mathrm{Var}\left[X\right]}{N} .
 \end{equation}
 
 From the above we can see that variance of the estimate decrease (goes to
