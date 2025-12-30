@@ -1,7 +1,7 @@
 Title: Many state herding model and its application to Lithuanian parliamentary elections
 Date: 2019-06-25 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, agent-based models, opinion dynamics, A. Kononovicius, Lithuania, voter model, Kirman model
+Tags: interactive, agent-based models, opinion dynamics, A. Kononovicius, Lithuania, voter model, Kirman model, GitHub
 Slug: many-state-herd-model-and-its-application-to-lithuanian-parliamentary-elections
 Status: published
 Image_url: uploads/2019/many-state-herd-model-and-its-application-to-lithuanian-parliamentary-elections.png
@@ -18,7 +18,7 @@ this time we allow any number of states to be defined in the model
 
 While analyzing Lithuanian parliamentary election data (can be obtained from
 [here](https://www.rinkejopuslapis.lt/ataskaitu-formavimas) or clean csv files
-are available from my github repository
+are available from my GitHub repository
 [here](https://github.com/akononovicius/lithuanian-parliamentary-election-data))
 I noticed that data set for the 1992 election seems to be the cleanest - the
 results of the three major parties are clearly Beta distributed, while for the

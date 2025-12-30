@@ -1,7 +1,7 @@
 Title: Wireless mouse battery problem
 Date: 2022-06-07 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, Matlab, github, students
+Tags: video, statistics, Matlab, GitHub, students
 Slug: wireless-mouse-battery-problem
 Status: published
 

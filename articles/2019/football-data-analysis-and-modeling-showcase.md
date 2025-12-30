@@ -1,7 +1,7 @@
 Title: Football data analysis and modeling showcase
 Date: 2019-05-21 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Numberphile, statistics, sports, Matlab, github
+Tags: video, Numberphile, statistics, sports, Matlab, GitHub
 Slug: football-data-analysis-and-modeling-showcase
 Status: published
 Image_url: uploads/2019/football-data-analysis-and-modeling-showcase.png

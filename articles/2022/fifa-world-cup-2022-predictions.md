@@ -1,7 +1,7 @@
 Title: FIFA World Cup 2022 predictions
 Date: 2022-11-19 13:30
 Author: Aleksejus Kononovicius
-Tags: video, statistics, sports, Python, github
+Tags: video, statistics, sports, Python, GitHub
 Slug: fifa-world-cup-2022-predictions
 Status: published
 Image_url: uploads/2022/fifa-world-cup-2022-predictions.jpg

@@ -1,7 +1,7 @@
 Title: Anomalous diffusion of the parliamentary presence data
 Date: 2021-01-19 08:00
 Author: Aleksejus Kononovicius
-Tags: anomalous diffusion, opinion dynamics, politics, postdoctoral project
+Tags: anomalous diffusion, opinion dynamics, politics, postdoctoral project, GitHub
 Slug: anomalous-diffusion-of-the-parliamentary-presence-data
 Status: published
 Image_url: uploads/2021/anomalous-diffusion-of-the-parliamentary-presence-data.png
