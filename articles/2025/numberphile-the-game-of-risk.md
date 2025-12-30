@@ -3,7 +3,7 @@ Date: 2025-12-30 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Numberphile, statistics, board games, Markov chains, networks
 Slug: numberphile-the-game-of-risk
-Status: draft
+Status: published
 
 In this [Numberphile](https://www.youtube.com/@numberphile) video prof.
 Marcus du Sautoy talks about mathematics behind the [board
