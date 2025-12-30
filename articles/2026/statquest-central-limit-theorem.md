@@ -6,7 +6,7 @@ Slug: statquest-central-limit-theorem
 Status: draft
 
 We have already previously [shared a
-video]({filename}/2023/3blue1brown-central-limit-theorem.md) about the
+video]({filename}/articles/2023/3blue1brown-central-limit-theorem.md) about the
 [central limit theorem](/tag/central-limit-theorem/), but recently I have
 found another neat explanation by
 [StatQuest](https://www.youtube.com/@statquest). I would like to invite you
