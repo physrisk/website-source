@@ -3,7 +3,7 @@ Date: 2026-01-06 08:00
 Author: Aleksejus Kononovicius
 Tags: general
 Slug: overview-of-2025
-Status: draft
+Status: published
 Image_url: uploads/2026/overview-of-2025.png
 
 Happy New Year! It is time for the traditional post about our last year's
