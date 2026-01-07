@@ -9,7 +9,7 @@ In a recent video [Veritasium](https://www.youtube.com/@veritasium) talked
 about a topic close to our heart - [power-law
 distributions](/tag/power-law-distribution/)! It is a neat
 video, which covers a lot of important models and concepts. And it also
-explain the implications of power-law distributions on everyday life. We
+explains the implications of power-law distributions on everyday life. We
 invite you to watch it, and maybe revisit our posts on some of the models
 discussed in the video (such as [The Saint Petersburg
 paradox]({filename/articles/2013/the-saint-petersburg-paradox.md), [Ising
