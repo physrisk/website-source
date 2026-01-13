@@ -3,7 +3,7 @@ Date: 2026-01-13 08:00
 Author: Aleksejus Kononovicius
 Tags: agent-based models, interactive, voter model, opinion dynamics, boundary conditions, zealots, birth-death process
 Slug: boundary-conditions-and-zealotry-in-noisy-voter-model
-Status: draft
+Status: published
 Image_url: uploads/2026/boundary-conditions-and-zealotry-in-noisy-voter-model.png
 
 When writing [cite id="Kazakevicius2026CSF"], I have argued with my
