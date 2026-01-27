@@ -47,6 +47,7 @@ Gontis, dr. A.  Kononovicius.")
 * [dr. Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius)
 * [dr. Vidas Regelskis](https://www.ff.vu.lt/tfai/darbuotojai/regelskis)
+* [dr. Augustinas Jacovskis](https://ajacovskis.github.io/) (postdoctoral fellow)
 * [dr. Viktor Novičenko](http://www.itpa.lt/%7Enovicenko/) (associated member)
 * [dr. Vygintas Gontis](https://gontis.eu) (affiliated member)
 * [prof. habil. dr. Bronislovas Kaulakys](http://www.itpa.lt/kaulakys/) (affiliated member)

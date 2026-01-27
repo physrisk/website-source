@@ -40,14 +40,18 @@ Following topics are offered officially via Faculty of Physics during the
   Systems"**. Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 
-## Completed theses and internships
+## Theses and internships
 
 **Theses:** 19 (11 BSc + 5 MSc + 3 PhD)
 
-**Postdoctoral projects:** 2
+**Postdoctoral projects:** 3
 
 **Internships:** 6
 
+* **"Categorical Torelli's theorem for three-dimensional Fano spaces and
+  quasi-phantoms"** (2025-2027). Postdoctoral project financed by [Research
+  Council of Lithuania](https://lmt.lrv.lt) (P-PD-25-081). Researcher
+  Augustinas Jacovskis. Supervisor Vidas Regelskis.
 * **"\\\( \mathfrak{sl}\_3 \\\)-type short exact sequences "** (2026). Term
   paper by Mykolas Žemaitis. Supervisor Vidas Regelskis.
 * **"Application of neural networks for classification of stochastic
