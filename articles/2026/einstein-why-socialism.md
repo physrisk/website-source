@@ -3,7 +3,7 @@ Date: 2026-01-27 08:00
 Author: Aleksejus Kononovicius
 Tags: video, politics, socialism, capitalism, free market, A. Einstein, Dr. Fatima
 Slug: einstein-why-socialism
-Status: draft
+Status: published
 
 Did you know that Albert Einstein once wrote an essay titled "Why
 Socialism?" [cite id="Einstein1949MonRev"]. I did not either.  Recently I
