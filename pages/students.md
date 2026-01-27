@@ -48,6 +48,8 @@ Following topics are offered officially via Faculty of Physics during the
 
 **Internships:** 6
 
+* **"\\\( \mathfrak{sl}\_3 \\\)-type short exact sequences "** (2026). Term
+  paper by Mykolas Žemaitis. Supervisor Vidas Regelskis.
 * **"Application of neural networks for classification of stochastic
   processes"** (2026). Term paper by Jovaras Zigmantas. Supervisor Rytis
   Kazakevičius.
