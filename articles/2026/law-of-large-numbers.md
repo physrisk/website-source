@@ -3,7 +3,7 @@ Date: 2026-02-10 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, law of large numbers, central limit theorem, students
 Slug: law-of-large-numbers
-Status: draft
+Status: published
 Image_url: uploads/2026/law-of-large-numbers.png
 
 Our group, along with a few [students](/tag/students/), has been reading
