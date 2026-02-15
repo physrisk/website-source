@@ -16,10 +16,8 @@ triangle]({filename}/articles/2014/sierpinski-triangle.md)
 or Koch
 snowflake,
 but also in the surrounding nature. One of my most favorite examples is
-a comparison of tree, its branches and a leaf (for more inspiring
-examples see [introduction of Fractals
-section](/tag/fractals/))
-- they all have branching structure and something green filling the
+a comparison of tree, its branches and a leaf - they all have branching
+structure and something green filling the
 extra space in between.
 
 The interesting thing, in context of the topic in focus, is that one can
