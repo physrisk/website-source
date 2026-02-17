@@ -3,7 +3,7 @@ Date: 2026-02-17 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, law of large numbers
 Slug: j-blitz-jones-law-of-large-numbers
-Status: draft
+Status: published
 Image_url: uploads/2026/law-of-large-numbers.png
 
 In an [earlier post]({filename}/articles/2026/law-of-large-numbers.md) we
