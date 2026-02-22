@@ -8,7 +8,7 @@ Image_url: uploads/2026/law-of-large-numbers.png
 
 Our group, along with a few [students](/tag/students/), has been reading
 [statistics](/tag/statistics/) handbook and refreshing our understanding of
-the basic statistics. I was given a chapter about the [central limit
+the basic statistics. I was given to cover a chapter about the [central limit
 theorem](/tag/central-limit-theorem/), which reminded me that I had already
 given a similar presentation while being PhD student myself. While diving
 into the topic, I have noticed a couple things, which are usually glanced
