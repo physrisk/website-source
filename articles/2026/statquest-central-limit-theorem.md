@@ -1,5 +1,5 @@
 Title: StatQuest: Central limit theorem
-Date: 2026-03-10 08:00
+Date: 2026-03-17 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, central limit theorem, StatQuest
 Slug: statquest-central-limit-theorem

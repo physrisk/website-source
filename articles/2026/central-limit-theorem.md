@@ -1,5 +1,5 @@
 Title: Central limit theorem
-Date: 2026-03-03 08:00
+Date: 2026-03-10 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, law of large numbers, central limit theorem, stable distributions, students
 Slug: central-limit-theorem
