@@ -1,7 +1,7 @@
 Title: Nonlinear feedback and long-range memory in GARCH model
 Date: 2015-04-07 07:46
 Author: Aleksejus Kononovicius
-Tags: economics, interactive, stochastic models, 1/f noise, A. Kononovicius, J. Ruseckas, ARCH process, financial markets, power-law distribution
+Tags: economics, interactive, stochastic models, 1/f noise, A. Kononovicius, J. Ruseckas, ARCH process, financial markets, power-law distributions
 Slug: nonlinear-feedback-and-long-range-memory-in-garch-model
 Status: published
 Image_url: uploads/2015/nonlinear-feedback-and-long-range-memory-in-garch-model.png

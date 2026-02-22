@@ -1,7 +1,7 @@
 Title: Multi-success heterogeneous detrapping process
 Date: 2024-05-07 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, spectral density, 1/f noise, random telegraph noise, power-law distribution
+Tags: interactive, statistics, spectral density, 1/f noise, random telegraph noise, power-law distributions
 Slug: multi-success-heterogeneous-detrapping-process
 Status: published
 Image_url: uploads/2024/multi-success-heterogeneous-detrapping-process.png

@@ -1,7 +1,7 @@
 Title: Long-range memory stochastic model of return
 Date: 2010-12-10 09:35
 Author: Aleksejus Kononovicius
-Tags: interactive, stochastic models, 1/f noise, A. Kononovicius, CEV process, J. Ruseckas, V. Gontis, financial markets, power-law distribution, GitHub
+Tags: interactive, stochastic models, 1/f noise, A. Kononovicius, CEV process, J. Ruseckas, V. Gontis, financial markets, power-law distributions, GitHub
 Slug: long-range-memory-stochastic-model-return
 Status: published
 Image_url: uploads/2010/long-range-memory-stochastic-model-return.png

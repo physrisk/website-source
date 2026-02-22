@@ -1,7 +1,7 @@
 Title: Sandpile model
 Date: 2015-09-29 07:19
 Author: Aleksejus Kononovicius
-Tags: dynamical chaos, interactive, cellular automata, 1/f noise, self-organized criticality, power-law distribution
+Tags: dynamical chaos, interactive, cellular automata, 1/f noise, self-organized criticality, power-law distributions
 Slug: sandpile-model
 Status: published
 

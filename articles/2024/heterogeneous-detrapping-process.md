@@ -1,7 +1,7 @@
 Title: Heterogeneous detrapping process
 Date: 2024-04-09 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, spectral density, 1/f noise, random telegraph noise, power-law distribution
+Tags: interactive, statistics, spectral density, 1/f noise, random telegraph noise, power-law distributions
 Slug: heterogeneous-detrapping-process
 Status: published
 Image_url: uploads/2024/heterogeneous-detrapping-process.png

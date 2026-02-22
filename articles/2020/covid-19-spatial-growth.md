@@ -1,7 +1,7 @@
 Title: COVID-19 spatial growth
 Date: 2020-09-01 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, epidemiology, statistics, Reed-Hughes mechanism, Zipf's law, power-law distribution, GitHub
+Tags: interactive, epidemiology, statistics, Reed-Hughes mechanism, Zipf's law, power-law distributions, GitHub
 Slug: covid-19-spatial-growth
 Status: published
 Image_url: uploads/2020/covid-19-spatial-growth.png

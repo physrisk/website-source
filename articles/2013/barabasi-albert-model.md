@@ -1,7 +1,7 @@
 Title: Barabasi-Albert model
 Date: 2013-08-26 07:11
 Author: Aleksejus Kononovicius
-Tags: interactive, networks, Barabasi-Albert model, scale-free network, coursera, small world, power-law distribution
+Tags: interactive, networks, Barabasi-Albert model, scale-free network, coursera, small world, power-law distributions
 Slug: barabasi-albert-model
 Status: published
 

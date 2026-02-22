@@ -1,7 +1,7 @@
 Title: Brief introduction into anomalous diffusion
 Date: 2020-12-08 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistical physics, stochastic models, anomalous diffusion, Levy processes, power-law distribution
+Tags: interactive, statistical physics, stochastic models, anomalous diffusion, Levy processes, power-law distributions
 Slug: brief-introduction-into-anomalous-diffusion
 Status: published
 Image_url: uploads/2020/brief-introduction-into-anomalous-diffusion.png

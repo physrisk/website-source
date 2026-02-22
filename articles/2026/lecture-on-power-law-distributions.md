@@ -1,7 +1,7 @@
 Title: Lecture on power-law distributions
 Date: 2026-02-24 08:00
 Author: Aleksejus Kononovicius
-Tags: general, financial markets, opinion dynamics, networks, kinetic models, power-law distribution, students, nmakademija
+Tags: general, financial markets, opinion dynamics, networks, kinetic models, power-law distributions, students, nmakademija
 Slug: lecture-on-power-law-distributions
 Status: draft
 Image_url: uploads/2026/lecture-on-power-law-distributions.jpg

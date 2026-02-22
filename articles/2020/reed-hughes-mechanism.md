@@ -1,7 +1,7 @@
 Title: Reed-Hughes mechanism
 Date: 2020-09-15 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, epidemiology, statistics, Reed-Hughes mechanism, power-law distribution
+Tags: interactive, epidemiology, statistics, Reed-Hughes mechanism, power-law distributions
 Slug: reed-hughes-mechanism
 Status: published
 Image_url: uploads/2020/reed-hughes-mechanism.png
