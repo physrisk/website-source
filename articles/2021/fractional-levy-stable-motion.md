@@ -1,7 +1,7 @@
 Title: Fractional Levy stable motion
 Date: 2021-12-28 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, fractals, topic: ARFIMA, Brownian motion, Levy processes
+Tags: interactive, fractals, topic: ARFIMA, Brownian motion, Levy processes, stable distributions
 Slug: fractional-levy-stable-motion
 Image_url: uploads/2021/fractional-levy-stable-motion.png
 Status: published
@@ -19,13 +19,14 @@ Typical [Brownian motion](/tag/brownian-motion/), whether fractional or not,
 uses [normal
 distribution](https://en.wikipedia.org/wiki/Normal_distribution) to describe
 noise. FLSM uses \\\( \alpha \\\)-[stable
-distribution](https://en.wikipedia.org/wiki/Stable_distribution) instead.
+distribution](/tag/stable-distributions/) instead (see a related [Wikipedia
+article](https://en.wikipedia.org/wiki/Stable_distribution)).
 This generalization allows to take into account systems in which large jumps
 are common (distribution has heavy tails).
 
 Now FLSM has two parameters: differentiation order \\\( d \\\) and index of
 stable distribution \\\( \alpha \\\). If \\\( \alpha = 2 \\\) then [stable
-distribution](https://en.wikipedia.org/wiki/Stable_distribution) is
+distribution](/tag/stable-distributions/) is
 equivalent to [normal
 distribution](https://en.wikipedia.org/wiki/Normal_distribution) and FLSM is
 equivalent to fBm.  Otherwise we will observe deviations from the usual
