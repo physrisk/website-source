@@ -12,7 +12,7 @@ video, which covers a lot of important models and concepts. And it also
 explains the implications of power-law distributions on everyday life. We
 invite you to watch it, and maybe revisit our posts on some of the models
 discussed in the video (such as [The Saint Petersburg
-paradox]({filename/articles/2013/the-saint-petersburg-paradox.md), [Ising
+paradox]({filename}/articles/2013/the-saint-petersburg-paradox.md), [Ising
 model]({filename}/articles/2010/ising-model.md), [self-organized
 criticality](/tag/self-organized-criticality/) models, [Barabasi-Albert
 model]({filename}/articles/2013/barabasi-albert-model.md)).
