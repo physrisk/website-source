@@ -3,7 +3,7 @@ Date: 2026-03-10 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, law of large numbers, central limit theorem, stable distributions, students
 Slug: central-limit-theorem
-Status: draft
+Status: published
 Image_url: uploads/2026/central-limit-theorem.png
 
 Our group, along with a few [students](/tag/students/), has been reading
