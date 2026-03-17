@@ -3,7 +3,7 @@ Date: 2026-03-17 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, central limit theorem, StatQuest
 Slug: statquest-central-limit-theorem
-Status: draft
+Status: published
 
 We have already previously [shared a
 video]({filename}/articles/2023/3blue1brown-central-limit-theorem.md) about the
