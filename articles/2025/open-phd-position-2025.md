@@ -6,7 +6,8 @@ Slug: open-phd-position-2025
 Status: published
 Image_url: uploads/2025/open-phd-position-2025.jpg
 
-![poster]({static}/uploads/2025/open-phd-position-2025.jpg)
+![poster created with the help of ChatGPT (partially
+edited)]({static}/uploads/2025/open-phd-position-2025.jpg)
 
 Are you interested in complex systems, [opinion dynamics](/tag/opinion-dynamics/), or the [voter
 model](/tag/voter-model/)? Do you have a Master's degree in Physics or
