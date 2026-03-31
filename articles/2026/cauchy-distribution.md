@@ -3,7 +3,7 @@ Date: 2026-03-31 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, power-law distributions, stable distributions, students
 Slug: cauchy-distribution
-Status: draft
+Status: published
 Image_url: uploads/2026/cauchy-distribution.png
 
 Our group, along with a few [students](/tag/students/), has been reading
