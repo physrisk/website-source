@@ -44,7 +44,7 @@ Yet, if you try to obtain the statistical moments of the distribution, they
 diverge,
 
 \begin{equation}
-\left\langle x \right\rangle = \int\_{-\infty}^{\infty} x\cdot\frac{1}{\pi\gamma \left[1 + \left(\frac{x - x\_0}{\gamma}\right)^2\right]} d x \approx 2 \gamma \int\_{0}^{\infty} \frac{1}{x} dx = 2\gamma \left[ \ln(\infty) - \ln(0) \right].
+\left\langle x \right\rangle = \int\_{-\infty}^{\infty} x\cdot\frac{1}{\pi\gamma \left[1 + \left(\frac{x - x\_0}{\gamma}\right)^2\right]} d x \approx \frac{2 \gamma}{\pi} \int\_{0}^{\infty} \frac{1}{x} dx = \frac{2\gamma}{\pi} \left[ \ln(\infty) - \ln(0) \right].
 \end{equation}
 
 When approximating we have simply assumed that \\\( x\_0 = 0 \\\). For the
