@@ -70,7 +70,7 @@ well-defined moments and Cauchy distribution does not? The answer is in the
 tails of the distribution.
 
 [html5-interactive width="520" height="270" mode="iframe"
-url="/uploads/models/stats/concepts/cauchy-distribution/index.html"]
+url="/uploads/models/stats/models/cauchy-distribution/index.html"]
 
 In the interactive app above, we have plotted the probability density
 functions of the Cauchy distribution (red) and the normal distribution

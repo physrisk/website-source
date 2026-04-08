@@ -45,7 +45,7 @@ location at \\\( N x\_0 \\\) and scale of \\\( N \gamma \\\). You may verify
 this conclusion using the interactive app below.
 
 [html5-interactive width="520" height="300" mode="iframe"
-url="/uploads/models/stats/concepts/cauchy-distribution/summation.html"]
+url="/uploads/models/stats/concepts/addition/cauchy-distribution.html"]
 
 Note that the app sets theoretical distribution (black curve) parameters
 automatically. So, the black curve will match the simulated probability
