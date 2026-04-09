@@ -1,10 +1,10 @@
-Title: What happens if you add Cauchy random variates?
+Title: What happens if you sum Cauchy random variates?
 Date: 2026-04-14 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, central limit theorem, power-law distributions, stable distributions, students
-Slug: what-happens-if-you-add-cauchy-random-variates
+Slug: what-happens-if-you-sum-cauchy-random-variates
 Status: draft
-Image_url: uploads/2026/what-happens-if-you-add-cauchy-random-variates.png
+Image_url: uploads/2026/what-happens-if-you-sum-cauchy-random-variates.png
 
 Our group, along with a few [students](/tag/students/), has been reading
 [statistics](/tag/statistics/) handbook and refreshing our understanding of
@@ -19,7 +19,7 @@ have taken a look at a distribution whose mean and variance are undefined.
 We know that the [central limit
 theorem]({filename}/articles/2026/central-limit-theorem.md) holds only if
 mean and variance of the sample distribution are defined and finite. So what
-happens if we add Cauchy random variates?
+happens if we sum Cauchy random variates?
 <!--more-->
 
 If we want to figure distribution of a sum of random variates, we multiply
