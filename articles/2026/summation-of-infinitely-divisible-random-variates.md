@@ -48,7 +48,7 @@ as characteristic function of the sum would be given by,
 You can verify this result by using the interactive app below.
 
 [html5-interactive width="520" height="300" mode="iframe"
-url="/uploads/models/stats/concepts/addition/gamma-distribution.html"]
+url="/uploads/models/stats/concepts/summation/gamma-distribution.html"]
 
 Note that this app is identical to the one we have used to test the
 summation of [Cauchy-distributed random
@@ -73,7 +73,7 @@ Once again, things look nice and this can be easily verified by using the
 interactive app below.
 
 [html5-interactive width="520" height="330" mode="iframe"
-url="/uploads/models/stats/concepts/addition/gamma-distribution-same-scale.html"]
+url="/uploads/models/stats/concepts/summation/gamma-distribution-same-scale.html"]
 
 ## Different scale, identical shape
 
@@ -105,7 +105,7 @@ values) have long fractional part (though the app shows just 2 numbers after
 the decimal point).
 
 [html5-interactive width="520" height="330" mode="iframe"
-url="/uploads/models/stats/concepts/addition/gamma-distribution-same-shape.html"]
+url="/uploads/models/stats/concepts/summation/gamma-distribution-same-shape.html"]
 
 If you want to see that something is wrong, choose small \\\( \alpha \\\)
 and extremely different \\\( \theta\_j \\\). This will make skewness (the
