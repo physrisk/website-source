@@ -3,7 +3,7 @@ Date: 2026-04-14 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, central limit theorem, power-law distributions, stable distributions, students
 Slug: what-happens-if-you-sum-cauchy-random-variates
-Status: draft
+Status: published
 Image_url: uploads/2026/what-happens-if-you-sum-cauchy-random-variates.png
 
 Our group, along with a few [students](/tag/students/), has been reading
