@@ -41,8 +41,8 @@ derivative. Still we can make use of this integral to it define fractional
 derivative, \\\( D^n \\\):
 
 \begin{equation}
-    D^n f = \frac{\mathrm{d}^{\lceil n \rceil}}{\mathrm{d} x^{\lceil n \rceil}}
-        \left( I^{\lceil n \rceil - n} f \right) .
+    D^n \left\\\{ f(x) \right\\\} = \frac{\mathrm{d}^{\lceil n \rceil}}{\mathrm{d} x^{\lceil n \rceil}}
+        \left( I^{\lceil n \rceil - n} \left\\\{ f(x) \right\\\} \right) .
 \end{equation}
 
 In the above \\\( \lceil \ldots \rceil \\\) rounds numbers up (takes a
@@ -65,11 +65,11 @@ Let us assume that the order of derivative, \\\( n \\\), is in
 \\\( (0, 1] \\\).
 
 \begin{equation}
-    D^n x = \frac{\mathrm{d}}{\mathrm{d} x} \left( I^{1-n} x \right) .
+    D^n \left\\\{x\right\\\} = \frac{\mathrm{d}}{\mathrm{d} x} \left( I^{1-n} \left\\\{x\right\\\} \right) .
 \end{equation}
 
 \begin{equation}
-    I^{1-n} x = \frac{1}{\Gamma(1-n)} \int\_a^x (x-t)^{-n} t \mathrm{d} t.
+    I^{1-n} \left\\\{x\right\\\} = \frac{1}{\Gamma(1-n)} \int\_a^x (x-t)^{-n} t \mathrm{d} t.
 \end{equation}
 
 Now lets do substitution \\\( u = x-t \\\):
@@ -90,7 +90,7 @@ After a bit of algebra and setting \\\( a=0 \\\):
 A bit more trivial algebra:
 
 \begin{equation}
-    D^n x = \frac{1}{\Gamma(2-n)} x^{1-n} . 
+    D^n \left\\\{x\right\\\} = \frac{1}{\Gamma(2-n)} x^{1-n} . 
 \end{equation}
 
 This kind of a lot of manual labor, but the end result looks nice.
