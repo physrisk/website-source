@@ -49,7 +49,7 @@ Following topics are offered officially via Faculty of Physics during the
 **Internships:** 6
 
 * **"Categorical Torelli's theorem for three-dimensional Fano spaces and
-  quasi-phantoms"** (2025-2027). Postdoctoral project financed by [Research
+  quasi-phantoms"** (2026-2028). Postdoctoral project financed by [Research
   Council of Lithuania](https://lmt.lrv.lt) (P-PD-25-081). Researcher
   Augustinas Jacovskis. Supervisor Vidas Regelskis.
 * **"\\\( \mathfrak{sl}\_3 \\\)-type short exact sequences "** (2026). Term
