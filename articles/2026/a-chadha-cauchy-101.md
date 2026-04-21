@@ -3,7 +3,7 @@ Date: 2026-04-21 08:00
 Author: Aleksejus Kononovicius
 Tags: video, statistics, central limit theorem, power-law distributions, stable distributions, A. Chadha
 Slug: a-chadha-cauchy-101
-Status: draft
+Status: published
 
 Over the last few posts we have taken a look at the [Cauchy
 distribution]({filename}/articles/2026/cauchy-distribution.md), which
