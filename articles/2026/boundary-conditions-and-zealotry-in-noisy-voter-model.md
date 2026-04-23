@@ -118,7 +118,10 @@ Observe that the opinion distribution in the two variants of the noisy
 [voter model](/tag/voter-model/) changes differently as we change the size
 of stable support. If the support is provided by the
 [zealots](/tag/zealots/) (red curve), the opinion distribution narrows
-(grows close to the delta function). If the support is provided by the
+(the shape remains close to the beta-binomial distribution, but the values of
+shape parameter increase by the number of zealots in corresponding state,
+i.e., \\\( \alpha = \varepsilon\_1 + Z\_1 \\\) and \\\( \beta =
+\varepsilon\_0 + Z\_0 \\\)). If the support is provided by the
 [boundary conditions](/tag/boundary-conditions/), the opinion distribution
 retains familiar form of \\\(
 \mathrm{BetaBinomial}(\varepsilon\_1,\varepsilon\_0,N) \\\) (stationary
