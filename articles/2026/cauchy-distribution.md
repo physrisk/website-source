@@ -1,7 +1,7 @@
 Title: Cauchy distribution
 Date: 2026-03-31 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, power-law distributions, stable distributions, students
+Tags: interactive, statistics, power-law distributions, stable distributions, students, topic: stable distributions
 Slug: cauchy-distribution
 Status: published
 Image_url: uploads/2026/cauchy-distribution.png

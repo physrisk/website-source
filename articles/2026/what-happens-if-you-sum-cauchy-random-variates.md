@@ -1,7 +1,7 @@
 Title: What happens if you sum Cauchy random variates?
 Date: 2026-04-14 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, central limit theorem, power-law distributions, stable distributions, students
+Tags: interactive, statistics, central limit theorem, power-law distributions, stable distributions, students, topic: stable distributions
 Slug: what-happens-if-you-sum-cauchy-random-variates
 Status: published
 Image_url: uploads/2026/what-happens-if-you-sum-cauchy-random-variates.png

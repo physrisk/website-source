@@ -1,7 +1,7 @@
 Title: J. Blitz-Jones: Law of large numbers
 Date: 2026-02-17 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, law of large numbers
+Tags: video, statistics, law of large numbers, topic: stable distributions
 Slug: j-blitz-jones-law-of-large-numbers
 Status: published
 Image_url: uploads/2026/law-of-large-numbers.png

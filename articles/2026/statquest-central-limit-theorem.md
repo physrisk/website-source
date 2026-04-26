@@ -1,7 +1,7 @@
 Title: StatQuest: Central limit theorem
 Date: 2026-03-17 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, central limit theorem, StatQuest
+Tags: video, statistics, central limit theorem, StatQuest, topic: stable distributions
 Slug: statquest-central-limit-theorem
 Status: published
 

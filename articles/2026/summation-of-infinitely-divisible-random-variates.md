@@ -1,7 +1,7 @@
 Title: Summation of infinitely divisible random variates
 Date: 2026-04-28 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, gamma distribution, infinite divisibility, stable distributions, students
+Tags: interactive, statistics, gamma distribution, infinite divisibility, stable distributions, students, topic: stable distributions
 Slug: summation-of-infinitely-divisible-random-variates
 Status: draft
 Image_url: uploads/2026/summation-of-infinitely-divisible-random-variates.png

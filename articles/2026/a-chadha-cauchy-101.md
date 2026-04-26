@@ -1,7 +1,7 @@
 Title: A. Chadha: Cauchy 101
 Date: 2026-04-21 08:00
 Author: Aleksejus Kononovicius
-Tags: video, statistics, central limit theorem, power-law distributions, stable distributions, A. Chadha
+Tags: video, statistics, central limit theorem, power-law distributions, stable distributions, A. Chadha, topic: stable distributions
 Slug: a-chadha-cauchy-101
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Law of large numbers
 Date: 2026-02-10 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, statistics, law of large numbers, central limit theorem, students
+Tags: interactive, statistics, law of large numbers, central limit theorem, students, topic: stable distributions
 Slug: law-of-large-numbers
 Status: published
 Image_url: uploads/2026/law-of-large-numbers.png
