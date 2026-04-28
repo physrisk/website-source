@@ -3,7 +3,7 @@ Date: 2026-04-28 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, gamma distribution, infinite divisibility, stable distributions, students, topic: stable distributions
 Slug: summation-of-infinitely-divisible-random-variates
-Status: draft
+Status: published
 Image_url: uploads/2026/summation-of-infinitely-divisible-random-variates.png
 
 Our group, along with a few [students](/tag/students/), has been reading
