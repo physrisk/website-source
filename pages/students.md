@@ -52,6 +52,9 @@ Following topics are offered officially via Faculty of Physics during the
   quasi-phantoms"** (2026-2028). Postdoctoral project financed by [Research
   Council of Lithuania](https://lmt.lrv.lt) (P-PD-25-081). Researcher
   Augustinas Jacovskis. Supervisor Vidas Regelskis.
+* **"Ladder-type basis for the algebra \\\(
+  \mathcal{Y}^{+}\left(\mathfrak{sl}\_2\right) \\\)"** (2026). Term paper by
+  Karolina Čereškevičiūte. Supervisor Vidas Regelskis.
 * **"\\\( \mathfrak{sl}\_3 \\\)-type short exact sequences "** (2026). Term
   paper by Mykolas Žemaitis. Supervisor Vidas Regelskis.
 * **"Application of neural networks for classification of stochastic
