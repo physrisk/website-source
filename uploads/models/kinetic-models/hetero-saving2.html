@@ -83,8 +83,7 @@ function play() {
 	e2=Math.floor(energies[i2]*40.0);
 	if(energyDist.length<=e1 || energyDist.length<=e2) {
 		var maxE=Math.max(e1,e2);
-		var matlog10=Math.log(10);
-		for(var i=energyDist.length;i<=maxE;i++) energyDist.push([Math.log((i+0.5)/40.0)/matlog10,0]);
+		for(var i=energyDist.length;i<=maxE;i++) energyDist.push([Math.log10((i+0.5)/40.0),0]);
 	}
 	energyDist[e1][1]++;
 	energyDist[e2][1]++;
@@ -106,8 +105,7 @@ function initialize() {
 	savingProp=new Array();
 	p0=myParseFloat($('#controlP').val());
 	kappa0=myParseFloat($('#controlL').val());
-	var matlog10=Math.log(10);
-	for(var i=0;i<=4000;i++) energyDist.push([Math.log((i+0.5)/40.0)/matlog10,0]);
+	for(var i=0;i<=4000;i++) energyDist.push([Math.log10((i+0.5)/40.0),0]);
 	for(var i=0;i<NParticles;i++) {
 		var tmpEn=Math.random()+0.5;
 		energies.push(tmpEn);
@@ -120,34 +118,33 @@ function initialize() {
 function pdfModification(pdf, llim, rlim, xlim, xstep, outPoints) {
 	var rez=new Array();
 	for(var i=0;i<outPoints;i++) rez.push([0,0]);
-	var nueita=0;
+	var parsed=0;
 	var curlim=xlim;
 	while(curlim<llim) {
 		curlim+=xstep;
-		nueita++;
+		parsed++;
 	}
-	var matlog10=Math.log(10);
-	llim=Math.log(llim)/matlog10;
-	rlim=Math.log(rlim)/matlog10;
+	llim=Math.log10(llim);
+	rlim=Math.log10(rlim);
 	var lstep=(rlim-llim)/(outPoints-1.0);
-	var panaudota=0;
-	while((llim<=rlim)&&(panaudota<outPoints)) {
-		var integralas=0;
+	var used=0;
+	while((llim<=rlim)&&(used<outPoints)) {
+		var integral=0;
 		llim+=lstep;
-		while((Math.log(curlim)/matlog10<llim)&&(nueita<pdf.length)) {
+		while((Math.log10(curlim)<llim)&&(parsed<pdf.length)) {
 			curlim+=xstep;
-			integralas+=(pdf[nueita][1]/NParticles);
-			nueita++;
+			integral+=(pdf[parsed][1]/NParticles);
+			parsed++;
 		}
-		if(integralas>0) {
-			rez[panaudota][0]=llim-0.5*lstep;
-			if(panaudota>0) rez[panaudota][1]=Math.log(integralas/(Math.pow(10,rez[panaudota][0])-Math.pow(10,rez[panaudota-1][0])))/matlog10;
-			else rez[panaudota][1]=Math.log(integralas/(Math.pow(10,rez[panaudota][0])-Math.pow(10,rez[panaudota][0]-lstep)))/matlog10;
-			panaudota++;
+		if(integral>0) {
+			rez[used][0]=llim-0.5*lstep;
+			if(used>0) rez[used][1]=Math.log10(integral/(Math.pow(10,rez[used][0])-Math.pow(10,rez[used-1][0])));
+			else rez[used][1]=Math.log10(integral/(Math.pow(10,rez[used][0])-Math.pow(10,rez[used][0]-lstep)));
+			used++;
 		}
 	}
-	if(panaudota<outPoints) {
-		for(var i=outPoints;i>panaudota;i--) rez.pop();
+	if(used<outPoints) {
+		for(var i=outPoints;i>used;i--) rez.pop();
 	}
 	return rez;
 }

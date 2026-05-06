@@ -60,7 +60,7 @@ function update() {
         // normalize
         var normalizationFactor=dt/points;
         for(i=0;i<=points/2;i+=1) {
-            psdY[i]=commonFunctions.LogBase10(psdY[i]*normalizationFactor);
+            psdY[i]=Math.log10(psdY[i]*normalizationFactor);
         }
         // return y values of the PSD
         return psdY;
@@ -72,7 +72,7 @@ function update() {
     var sigmaSq=sigma*sigma;
     var piSq2=2.0*Math.PI*Math.PI;
     var gammaSq2=2.0*gamma*gamma;
-    var whiteRatio=commonFunctions.LogBase10(sigmaSq);
+    var whiteRatio=Math.log10(sigmaSq);
     function theoreticApproximation(type,x) {
         var x10=Math.pow(10.0,x);
         switch(type) {
@@ -80,7 +80,7 @@ function update() {
             case 0:
                 return whiteRatio;
             case 1:
-                return commonFunctions.LogBase10(sigmaSq/(gammaSq2+piSq2*x10*x10));
+                return Math.log10(sigmaSq/(gammaSq2+piSq2*x10*x10));
             case 2:
                 return null;
         }
@@ -108,7 +108,7 @@ function update() {
     var i;
     if(seriesType===2) {
         for(i=0;i<points;i+=1) {
-            serY[i]=commonFunctions.LogBase10(serY[i]);
+            serY[i]=Math.log10(serY[i]);
         }
         timeSeriesPlot.setLabels(["x, s","lg[f(x)]"]);
     } else {
@@ -155,7 +155,7 @@ $(function () {
     // setup frequency points of which PSD is obtained
     var tmax=points*dt;
     for(i=0;i<=points/2;i+=1) {
-        psdX[i]=commonFunctions.LogBase10(i/tmax);
+        psdX[i]=Math.log10(i/tmax);
     }
     // draw figures with default parameters
     update();

@@ -175,7 +175,7 @@ function setup() {
     redistNext=redistFreq;
     redistMode=parseInt($("#redistMode").val());
     chosenId=Math.floor(model.rng.uniform(0,model.nAgents));
-    timeSeries=[[model.time,commonFunctions.LogBase10(model.cap[chosenId])]];
+    timeSeries=[[model.time,Math.log10(model.cap[chosenId])]];
     plotFigures();
     plotField();
 }

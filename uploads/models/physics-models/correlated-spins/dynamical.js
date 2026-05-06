@@ -18,13 +18,12 @@ function plotFigure() {
     var rezDist;
     var opts=$("#plotDiv").data("plotOptions");
     var outDist=new Array();
-    var matlog10=Math.log(10);
     var norm=0;
     var min=99999;
-    if(interactionsOccured>0) norm=Math.log(interactionsOccured);
+    if(interactionsOccured>0) norm=Math.log10(interactionsOccured);
     for(var i=0;i<trueDist.length;i+=1) {
         if(trueDist[i][1]>=1) {
-            var tput=(Math.log(trueDist[i][1])-norm)/matlog10;
+            var tput=(Math.log10(trueDist[i][1])-norm);
             min=Math.min(min,tput);
             outDist.push([trueDist[i][0],tput]);
         }
@@ -135,14 +134,14 @@ function initialize() {
     timer=null;
     interactionsOccured=0;
     var la=Math.floor((boundaries-1)/2);
-    var cTeor=Math.log(2*la_gamma(1.5+la)/(NParticles*Math.sqrt(Math.PI)*la_gamma(1+la)));
-    var cTeor2=0.5*Math.log(2/(NParticles*Math.PI));
-    var matlog10=Math.log(10);
+    var cTeor=Math.log10(2*la_gamma(1.5+la)/(NParticles*Math.sqrt(Math.PI)*la_gamma(1+la)));
+    var cTeor2=0.5*Math.log10(2/(NParticles*Math.PI));
+    var gaussConst=(NParticles/2)/Math.log(10);
     for(var i=0;i<NParticles;i+=1) {
         trueDist.push([-NParticles/2+i,0]);
         var x=2*i/NParticles-1;
-        teorDist.push([-NParticles/2+i,(cTeor+la*Math.log(1-x*x))/matlog10]);
-        teor2Dist.push([-NParticles/2+i,(cTeor2-(NParticles/2)*x*x)/matlog10]);
+        teorDist.push([-NParticles/2+i,(cTeor+la*Math.log10(1-x*x))]);
+        teor2Dist.push([-NParticles/2+i,(cTeor2-gaussConst*x*x)]);
     }
     generateBoundaries();
     plotFigure();

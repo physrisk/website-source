@@ -157,7 +157,7 @@ function play() {
 			pdfLen++;
 		}
 		modelSignal.push([xm+colony.integrationDt,m]);
-		logModelSignal.push([xm+colony.integrationDt,commonFunctions.LogBase10(m)]);
+		logModelSignal.push([xm+colony.integrationDt,Math.log10(m)]);
 	}
 	$('#plotDiv').data('modelSignal',modelSignal);
 	$('#plotDiv').data('logModelSignal',logModelSignal);
@@ -187,7 +187,7 @@ function setup() {
 	colony=new kirmanSdeRetModel();
 	var signal=[];
 	var logSignal=[];
-	var log05=commonFunctions.LogBase10(0.5);
+	var log05=Math.log10(0.5);
 	for(var i=0;i<4096;i++) {
 		signal.push([(i-4096)*colony.integrationDt,0.5]);
 		logSignal.push([(i-4096)*colony.integrationDt,log05]);

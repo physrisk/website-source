@@ -66,10 +66,9 @@ $('#switch-fig').toggle(
 
 function plotFigure() {
 	var outDist=new Array();
-	var matlog10=Math.log(10);
 	for(var i=0;i<energyDist.length;i++) {
 		if(energyDist[i][1]<1) outDist.push([energyDist[i][0],-20]);
-		else outDist.push([energyDist[i][0],Math.log(energyDist[i][1])/matlog10]);
+		else outDist.push([energyDist[i][0],Math.log10(energyDist[i][1])]);
 	}
 	$.plot($("#plotDiv"),[{data:outDist, color:"blue", label:"model"},{data:boltzmannDist, color:"red", label:"B-G distribution"}],$('#plotDiv').data('plotOptions'));
 	$.plot($("#plotDiv2"),[{data:bankrotIstorija, color:"blue"}],$('#plotDiv2').data('plotOptions'));
@@ -153,8 +152,7 @@ function initialize() {
 		energies.push(1);
 		energyDist[32][1]++;
 	}
-	var matlog10=Math.log(10);
-	for(var i=0;i<=280;i++) boltzmannDist.push([i/40.0,Math.log((NParticles/4)*Math.exp(-i/40.0))/matlog10]);
+	for(var i=0;i<=280;i++) boltzmannDist.push([i/40.0,Math.log10((NParticles/4)*Math.exp(-i/40.0))]);
 }
 
 function start() {timer=setInterval(function(){timeStep();},100);}

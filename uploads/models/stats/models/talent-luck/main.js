@@ -20,11 +20,11 @@ function play() {
 }
 
 function plotFigures() {
-    timeSeries.push([model.time,commonFunctions.LogBase10(model.cap[chosenId])]);
+    timeSeries.push([model.time,Math.log10(model.cap[chosenId])]);
     timeSeriesPlot.update([commonFunctions.toOneDimensionalArray(timeSeries,0)],
                           [commonFunctions.toOneDimensionalArray(timeSeries,1)]);
-    talCapPlot.update([model.talent],[model.cap.map(x => commonFunctions.LogBase10(x))],"markers");
-    lucCapPlot.update([model.histLuck],[model.cap.map(x => commonFunctions.LogBase10(x))],"markers");
+    talCapPlot.update([model.talent],[model.cap.map(x => Math.log10(x))],"markers");
+    lucCapPlot.update([model.histLuck],[model.cap.map(x => Math.log10(x))],"markers");
 }
 
 function plotField() {
@@ -64,7 +64,7 @@ function setup() {
          myParseFloat($("#tBeta").val())]
     );
     chosenId=Math.floor(model.rng.uniform(0,model.nAgents));
-    timeSeries=[[model.time,commonFunctions.LogBase10(model.cap[chosenId])]];
+    timeSeries=[[model.time,Math.log10(model.cap[chosenId])]];
     plotFigures();
     plotField();
 }

@@ -1,7 +1,4 @@
 var commonFunctions={
-    matlog2: Math.log(2),
-    matlog10: Math.log(10),
-    LogBase10: function(x) {return Math.log(x)/this.matlog10;},
     pdfModification: function(pdf, log, llim, rlim, outPoints, xlim, xstep, ntrials) {
         if(!log) xlim=typeof xlim!=="undefined" ? xlim : 0;
         else xlim=typeof xlim!=="undefined" ? xlim : 1;
@@ -9,33 +6,33 @@ var commonFunctions={
         ntrials=typeof ntrials!=="undefined" ? ntrials : 1;
         if((log)&&(llim<=0)) return null;
         var rez=[];
-        var i, ii, lstep, used, integralas, rez2;
+        var i, ii, lstep, used, integral, rez2;
         for(i=0;i<outPoints;i++) {
             rez.push([0,0]);
         }
-        var nueita=0;
+        var parsed=0;
         var curlim=xlim;
         while(curlim<llim) {
             curlim+=xstep;
-            nueita++;
+            parsed++;
         }
         if(log) {
-            llim=this.LogBase10(llim);
-            rlim=this.LogBase10(rlim);
+            llim=Math.log10(llim);
+            rlim=Math.log10(rlim);
             lstep=(rlim-llim)/outPoints;
             used=0;
             while((llim<=rlim)&&(used<outPoints)) {
-                integralas=0;
+                integral=0;
                 llim+=lstep;
-                while((this.LogBase10(curlim)<llim)&&(nueita<pdf.length)) {
+                while((Math.log10(curlim)<llim)&&(parsed<pdf.length)) {
                     curlim+=xstep;
-                    integralas+=(pdf[nueita]/ntrials);
-                    nueita++;
+                    integral+=(pdf[parsed]/ntrials);
+                    parsed++;
                 }
-                if(integralas>0) {
+                if(integral>0) {
                     rez[used][0]=llim-0.5*lstep;
-                    if(used>0) rez[used][1]=this.LogBase10(integralas/(Math.pow(10,rez[used][0])-Math.pow(10,rez[used-1][0])));
-                    else rez[used][1]=this.LogBase10(integralas/(Math.pow(10,rez[used][0])-Math.pow(10,rez[used][0]-lstep)));
+                    if(used>0) rez[used][1]=Math.log10(integral/(Math.pow(10,rez[used][0])-Math.pow(10,rez[used-1][0])));
+                    else rez[used][1]=Math.log10(integral/(Math.pow(10,rez[used][0])-Math.pow(10,rez[used][0]-lstep)));
                     used++;
                 }
             }
@@ -53,15 +50,15 @@ var commonFunctions={
         } else {
             lstep=(rlim-llim)/outPoints;
             for(i=0;i<outPoints;i++) {
-                integralas=0;
+                integral=0;
                 llim+=lstep;
-                while((curlim<llim)&&(nueita<pdf.length)) {
+                while((curlim<llim)&&(parsed<pdf.length)) {
                     curlim+=xstep;
-                    integralas+=(pdf[nueita]/ntrials);
-                    nueita++;
+                    integral+=(pdf[parsed]/ntrials);
+                    parsed++;
                 }
                 rez[i][0]=llim-0.5*lstep;
-                rez[i][1]=integralas/lstep;
+                rez[i][1]=integral/lstep;
             }
         }
         return rez;
@@ -97,14 +94,14 @@ var commonFunctions={
         var rex=[];
         var imx=[];
         var n=arrx.length;
-        var m=Math.log(n)/this.matlog2;
+        var m=Math.log2(n);
         var cut=0;
         if(m % 1>0) {
             var tn=Math.pow(2,Math.floor(m));
             cut=Math.floor((n-tn+1)*Math.random());
             n=tn;
         }
-        m=Math.log(n)/this.matlog2;
+        m=Math.log2(n);
         for(j=cut;j<n+cut;j++) {
             rex.push(arrx[j]);
             imx.push(0);
@@ -174,10 +171,10 @@ var commonFunctions={
         }
     },
     specModification: function(spec,timeTick,outPoints,smoothen) {
-        var normalization=this.LogBase10(timeTick/spec.length);
-        var scale=this.LogBase10(spec.length)+this.LogBase10(timeTick);
+        var normalization=Math.log10(timeTick/spec.length);
+        var scale=Math.log10(spec.length*timeTick);
         var llim=0;
-        var rlim=this.LogBase10(spec.length/2.0);
+        var rlim=Math.log10(spec.length/2.0);
         var lstep=(rlim-llim)/(outPoints);
         var clim=llim+lstep;
         var i=1;
@@ -188,7 +185,7 @@ var commonFunctions={
         var total=0;
         var oldX=0;
         while(clim<=rlim) {
-            while(this.LogBase10(i)<clim) {
+            while(Math.log10(i)<clim) {
                 total+=spec[i];
                 i++;
                 inInterval++;
@@ -196,12 +193,12 @@ var commonFunctions={
             if(total>0) {
                 if(used==0) {
                     oldX=Math.pow(10,clim-scale);
-                    rez[used][0]=this.LogBase10(oldX/2.0);
-                    rez[used][1]=this.LogBase10(total/(inInterval));
+                    rez[used][0]=Math.log10(oldX/2.0);
+                    rez[used][1]=Math.log10(total/(inInterval));
                 } else {
                     var newX=Math.pow(10,clim-scale);
-                    rez[used][0]=this.LogBase10((newX+oldX)/2.0);
-                    rez[used][1]=this.LogBase10(total/(inInterval));
+                    rez[used][0]=Math.log10((newX+oldX)/2.0);
+                    rez[used][1]=Math.log10(total/(inInterval));
                     oldX=newX;
                 }
                 rez[used][1]+=normalization;

@@ -48,8 +48,8 @@ function getBurstStats(series,thresh) {
             } else {// ends?
                 prevBurstDuration=curDuration;
                 burstDuration.push(curDuration*realizationParams.dt);
-                burstSize.push([commonFunctions.LogBase10(curDuration*realizationParams.dt),
-                                commonFunctions.LogBase10(curSize*realizationParams.dt)]);
+                burstSize.push([Math.log10(curDuration*realizationParams.dt),
+                                Math.log10(curSize*realizationParams.dt)]);
                 curDuration=1;
                 curSize=0;
                 isBurst=false;

@@ -108,11 +108,10 @@ function drawField() {
 function plotFigures() {
     $.plot($("#timeDiv"),[{data:avalanches,color:"red"}],{yaxis:{axisLabel:"S(t)"},xaxis:{axisLabel:"t"}});
     var outDist=[];
-    var matlog10=Math.log(10);
-    var norm=Math.log(legitQuake)/matlog10;
-    //var normX=Math.log(fieldX*fieldY)/matlog10;
+    var norm=Math.log10(legitQuake);
+    //var normX=Math.log10(fieldX*fieldY);
     for(var i=0;i<pdf.length;i+=1) {
-        if(pdf[i][1]>0) outDist.push([Math.log(pdf[i][0])/matlog10,Math.log(pdf[i][1])/matlog10-norm]);
+        if(pdf[i][1]>0) outDist.push([Math.log10(pdf[i][0]),Math.log10(pdf[i][1])-norm]);
     }
     $.plot($("#pdfDiv"),[{data:outDist,color:"red"}],{yaxis:{axisLabel:"lg[p(S)]"},xaxis:{axisLabel:"lg[S]"}});
 }

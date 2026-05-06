@@ -109,11 +109,10 @@ function plotFigure() {
 	var showPdf=[];
 	var pdfLen=$('#plotDiv2').data('pdfLen');
 	if(pdfLen>0) {
-		var norm=-Math.log(pdfLen)+Math.log(pdf.length-1);
-		var matlog10=Math.log(10);
+		var norm=-Math.log10(pdfLen)+Math.log10(pdf.length-1);
 		for(var i=0;i<pdf.length;i++) {
 			if(pdf[i][1]>0) {
-				showPdf.push([pdf[i][0],(Math.log(pdf[i][1])+norm)/matlog10]);
+				showPdf.push([pdf[i][0],Math.log10(pdf[i][1])+norm]);
 			}
 		}
 	}

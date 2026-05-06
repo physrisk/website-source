@@ -46,10 +46,9 @@ $('#stop').toggle(
 
 function plotFigure() {
 	var outDist=new Array();
-	var matlog10=Math.log(10);
 	for(var i=0;i<28;i++) {
 		if(energyDist[i][1]<1) outDist.push([energyDist[i][0],-20]);
-		else outDist.push([energyDist[i][0],Math.log(energyDist[i][1])/matlog10]);
+		else outDist.push([energyDist[i][0],Math.log10(energyDist[i][1])]);
 	}
 	$.plot($("#plotDiv"),[{data:outDist, color:"blue"}],$('#plotDiv').data('plotOptions'));
 }

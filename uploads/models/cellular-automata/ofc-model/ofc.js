@@ -120,10 +120,9 @@ function step() {
 function plotFigures() {
     $.plot($("#timeDiv"),[{data:timeSeries,color:"red"}],{yaxis:{axisLabel:"M(t)"},xaxis:{axisLabel:"t"}});
     var outDist=[];
-    var matlog10=Math.log(10);
-    var norm=Math.log(quakes)/matlog10;
+    var norm=Math.log10(quakes);
     for(var i=0;i<pdf.length;i+=1) {
-        if(pdf[i][1]>0) outDist.push([Math.log(i+1)/matlog10,Math.log(pdf[i][1])/matlog10-norm]);
+        if(pdf[i][1]>0) outDist.push([Math.log10(i+1),Math.log10(pdf[i][1])-norm]);
     }
     $.plot($("#pdfDiv"),[{data:outDist,color:"red"}],{yaxis:{axisLabel:"lg[p(M)]"},xaxis:{axisLabel:"lg[M]"}});
 }

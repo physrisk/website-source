@@ -13,7 +13,7 @@ var deform = 0;
 var kappa2 = 0.1;
 var nPoints = 131072;
 var outPoints = 256;
-var logStep = commonFunctions.LogBase10(nPoints) / outPoints;
+var logStep = Math.log10(nPoints) / outPoints;
 
 var qArr = [-10, -8, -5, -4, -3, -2, -1, -0.5, 0.5, 1, 2, 3, 4, 5, 8, 10];
 
@@ -67,15 +67,15 @@ function updateFq(profile) {
         }
         for (i = 0; i < outPoints; i += 1) {
             tau = Math.round(Math.pow(10, i * logStep));
-            logTau = commonFunctions.LogBase10(tau);
+            logTau = Math.log10(tau);
             if (tau > oldTau && tau > 50 && tau < 10000) {
                 if (fqEmpty) {
                     fqtau[qi][filledIn] = [
                         logTau + modelLogStep,
-                        commonFunctions.LogBase10(f2(profile, tau, q)),
+                        Math.log10(f2(profile, tau, q)),
                     ];
                 } else {
-                    fqtau[qi][filledIn][1] = commonFunctions.LogBase10(
+                    fqtau[qi][filledIn][1] = Math.log10(
                         Math.pow(10, fqtau[qi][filledIn][1]) +
                             f2(profile, tau, q)
                     );
@@ -209,7 +209,7 @@ function getResults() {
     profile = getProfile(series);
     updateFq(profile);
     realizations += 1;
-    logr = commonFunctions.LogBase10(realizations);
+    logr = Math.log10(realizations);
     hq = getHq();
     holder = getHolder(hq);
     for (i = 0; i < qArr.length; i += 1) {
@@ -235,7 +235,7 @@ function initializeModel(e1, e2, alpha) {
     model.setEpsilons(e1, e2);
     model.setTauScenario(alpha);
     model.kappa2 = kappa2;
-    modelLogStep = commonFunctions.LogBase10(model.integrationDt);
+    modelLogStep = Math.log10(model.integrationDt);
 }
 
 self.addEventListener(

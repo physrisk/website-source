@@ -32,7 +32,7 @@ function plotFigures() {
             Math.min(pdfMax,capacity),Math.min(pdfMax+1,101),1,1,pdfLen);
         let showPDFX=commonFunctions.toOneDimensionalArray(showPDF,0);
         let showPDFY=commonFunctions.toOneDimensionalArray(showPDF,1);
-        showPDFY=showPDFY.map(v => commonFunctions.LogBase10(v));
+        showPDFY=showPDFY.map(v => Math.log10(v));
         showPDF=null;
         pdfPlot.update([showPDFX],[showPDFY],"markers",["#cc2525"]);
     }

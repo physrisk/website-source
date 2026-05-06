@@ -70,7 +70,6 @@ $('#plotDiv').data('plotOptions', {
         max: null,
         tickDecimals: null,
         ticks: function (axis) {
-            var matlog10=Math.log(10);
             var etalon=[1,2,4,7,10];
             var decMin=Math.pow(10,axis.min);
             var mult=Math.pow(10,Math.floor(axis.min));
@@ -91,7 +90,7 @@ $('#plotDiv').data('plotOptions', {
             if(found==-1) found=0;
             var maxMult=mult;
             decMax=etalon[found]*mult;
-            axis.max=Math.log(etalon[found]*mult)/matlog10;
+            axis.max=Math.log10(etalon[found]*mult);
             var rez=[];
             mult=minMult;
             var i=0;
@@ -104,10 +103,10 @@ $('#plotDiv').data('plotOptions', {
                     mult*=10;
                 }
             }
-            rez.push(Math.log(x)/matlog10);
+            rez.push(Math.log10(x));
             while(x<decMax) {
                 x=mult*etalon[i];
-                rez.push(Math.log(x)/matlog10);
+                rez.push(Math.log10(x));
                 i++;
                 if(i>=etalon.length) {
                     i=0;

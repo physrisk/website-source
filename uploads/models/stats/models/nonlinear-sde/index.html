@@ -162,7 +162,7 @@ function play() {
 			pdfLen++;
 		}
 		modelSignal.push([xm+1,m]);
-		logModelSignal.push([xm+1,commonFunctions.LogBase10(m)]);
+		logModelSignal.push([xm+1,Math.log10(m)]);
 	}
 	$('#plotDiv').data('modelSignal',modelSignal);
 	$('#plotDiv').data('logModelSignal',logModelSignal);
@@ -189,7 +189,7 @@ function setup() {
 	nlinsde=new nonlinearSde();
 	var signal=[];
 	var logSignal=[];
-	var log05=commonFunctions.LogBase10(0.5);
+	var log05=Math.log10(0.5);
 	for(var i=0;i<4096;i++) {
 		signal.push([(i-4096),0.5]);
 		logSignal.push([(i-4096),log05]);

@@ -44,10 +44,9 @@ $('#stop').toggle(
 
 function plotFigure() {
 	var outDist=new Array();
-	var matlog10=Math.log(10);
 	for(var i=0;i<28;i++) {
 		if(energyDist[i][1]<1) outDist.push([energyDist[i][0],-20]);
-		else outDist.push([energyDist[i][0],Math.log(energyDist[i][1])/matlog10]);
+		else outDist.push([energyDist[i][0],Math.log10(energyDist[i][1])]);
 	}
 	$.plot($("#plotDiv"),[{data:outDist, color:"blue", label:"model"},{data:boltzmannDist, color:"red", label:"B-G distribution"}],$('#plotDiv').data('plotOptions'));
 }
@@ -108,8 +107,7 @@ function initialize() {
 		energyDist[4][1]++;
 	}
 	var teorN=1.0+(3.0*savingProp)/(1.0-savingProp);
-	var matlog10=Math.log(10);
-	for(var i=0;i<=280;i++) boltzmannDist.push([i/40.0,Math.log((NParticles/4)*Math.pow(teorN*(i/40.0),teorN)*Math.exp(-teorN*(i/40.0))/((i/40.0)*la_gamma(teorN)))/matlog10]);
+	for(var i=0;i<=280;i++) boltzmannDist.push([i/40.0,Math.log10((NParticles/4)*Math.pow(teorN*(i/40.0),teorN)*Math.exp(-teorN*(i/40.0))/((i/40.0)*la_gamma(teorN)))]);
 }
 
 function start() {timer=setInterval(function(){timeStep();},100);}

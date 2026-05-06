@@ -20,13 +20,13 @@ function prepareSeries(series) {
     rez.y=series.slice(0);
     rez.x[0]=time;
     if(realizationParams.log) {
-        rez.y[0]=commonFunctions.LogBase10(rez.y[0]);
+        rez.y[0]=Math.log10(rez.y[0]);
     }
     dtSeconds=realizationParams.dt/model.tauSSecond/3600;
     for(i=1;i<realizationParams.points;i+=1) {
         rez.x[i]=rez.x[i-1]+dtSeconds;
         if(realizationParams.log) {
-            rez.y[i]=commonFunctions.LogBase10(rez.y[i]);
+            rez.y[i]=Math.log10(rez.y[i]);
         }
     }
     time=rez.x[realizationParams.points-1];
