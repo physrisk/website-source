@@ -3,7 +3,7 @@ Date: 2026-05-12 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, power-law distributions, stable distributions, students, topic: stable distributions
 Slug: the-defining-property-of-stable-distributions
-Status: draft
+Status: published
 Image_url: uploads/2026/the-defining-property-of-stable-distributions.png
 
 Our group, along with a few [students](/tag/students/), has been reading
