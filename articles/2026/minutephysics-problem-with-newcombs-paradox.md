@@ -3,7 +3,7 @@ Date: 2026-05-19 08:00
 Author: Aleksejus Kononovicius
 Tags: video, Veritasium, game theory, paradox, One Minute Physics
 Slug: minutephysics-problem-with-newcombs-paradox
-Status: draft
+Status: published
 Image_url: uploads/2026/minutephysics-problem-with-newcombs-paradox.jpg 
 
 Recently, [Veritasium](https://www.youtube.com/@veritasium) has posted a
