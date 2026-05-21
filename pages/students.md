@@ -42,7 +42,7 @@ Following topics are offered officially via Faculty of Physics during the
 
 ## Theses and internships
 
-**Theses:** 19 (11 BSc + 5 MSc + 3 PhD)
+**Theses:** 24 (15 BSc + 6 MSc + 3 PhD)
 
 **Postdoctoral projects:** 3
 
@@ -52,13 +52,20 @@ Following topics are offered officially via Faculty of Physics during the
   quasi-phantoms"** (2026-2028). Postdoctoral project financed by [Research
   Council of Lithuania](https://lmt.lrv.lt) (P-PD-25-081). Researcher
   Augustinas Jacovskis. Supervisor Vidas Regelskis.
-* **"Ladder-type basis for the algebra \\\(
-  \mathcal{Y}^{+}\left(\mathfrak{sl}\_2\right) \\\)"** (2026). Term paper by
-  Karolina Čereškevičiūte. Supervisor Vidas Regelskis.
-* **"\\\( \mathfrak{sl}\_3 \\\)-type short exact sequences "** (2026). Term
-  paper by Mykolas Žemaitis. Supervisor Vidas Regelskis.
-* **"Application of neural networks for classification of stochastic
-  processes"** (2026). Term paper by Jovaras Zigmantas. Supervisor Rytis
+* **"Effects of time-delayed interactions on ordering times of elementary
+  spin systems "** (2026). Master thesis by Mantas Pupkevičius. Supervisor
+  Aleksejus Kononovičius.
+* **"Double groups of molecular point groups two non-equivalent definitions
+  via \\\( \mathrm{Pin}^{+}(3) \\\) and \\\( \mathrm{Pin}^{-}(3) \\\)"**
+  (2026). Bachelor thesis by Martynas Lašas. Supervisor Vidas Regelskis.
+* **"A new realization of the \\\(
+  \mathcal{Y}^{+}\left(\mathfrak{sl}\_2\right) \\\) algebra"** (2026).
+  Bachelor thesis by Karolina Čereškevičiūte. Supervisor Vidas Regelskis.
+* **"Functional relations in \\\( \mathfrak{sl}\_3 \\\) type lattice
+  models"** (2026). Bachelor thesis by Mykolas Žemaitis. Supervisor Vidas
+  Regelskis.
+* **"Classification of anomalous diffusion processes using machine
+  learning"** (2026). Bachelor thesis by Jovaras Zigmantas. Supervisor Rytis
   Kazakevičius.
 * **"Determination of anomalous diffusion duration in an inhomogeneous
   environment"** (2025). Term paper by Vaiva Blaževičiūtė (Vilnius
@@ -78,13 +85,13 @@ Following topics are offered officially via Faculty of Physics during the
   (S-ST-23-122). Intern Justas Kvedaravičius. Supervisor Aleksejus
   Kononovicius.
 * **"Processes described by q-exponential waiting time distributions"** (2023).
-  Bachelor thesis written by Gediminas Jonikas. Supervisor Vygintas Gontis.
+  Bachelor thesis by Gediminas Jonikas. Supervisor Vygintas Gontis.
 * **"Investigation of long memory in complex multi-state stochastic agent
   systems** (2020-2022). Postdoctoral project financed by European Social
   Fund (09.3.3-LMT-K-712-19-0017). Researcher Rytis Kazakevičius. Supervisor
   Vygintas Gontis.
 * **"Scaling of empirical compartmental distributions"** (2022). Bachelor thesis
-  written by Justas Kvedaravičius. Supervisor Aleksejus Kononovicius.
+  by Justas Kvedaravičius. Supervisor Aleksejus Kononovicius.
 * **"The joint model of kinetic wealth exchange and investment"** (2020).
   Bachelor thesis by Giedrius Pakalka. Supervisor Vygintas Gontis.
 * **"Physical modeling of order-book and opinion dynamics"** (2017-2020).
