@@ -3,12 +3,13 @@ Date: 2017-10-13
 Slug: students
 Order: 5
 
-We are always happy to accept students from different backgrounds
-(physics, mathematics, social sciences) who would be interested in complex
-socio-economic systems. Having good skills in programming or mathematics
-would be extremely helpful as well as having a good grasp of statistical
-physics or social sciences, but these are surely not mandatory as with
-proper determination and with enough effort anything can be learnt.
+We are always happy to accept students from different backgrounds (physics,
+mathematics, social sciences) who would be interested in the modeling of
+complex physical and socio-economic systems. While strong programming or
+mathematical skills, as well as a good grasp of statistical physics or the
+social sciences, would be advantageous, they are not strictly required. We
+believe that with sufficient determination and effort, all necessary skills
+can be developed.
 
 If you are interested, feel free to [contact us]({filename}/pages/about.md).
 We will try to schedule a meeting to find a problem you could tackle.
