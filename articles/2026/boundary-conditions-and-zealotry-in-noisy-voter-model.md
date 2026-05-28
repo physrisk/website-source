@@ -1,13 +1,13 @@
 Title: Boundary conditions and zealotry in the noisy voter model
 Date: 2026-01-13 08:00
 Author: Aleksejus Kononovicius
-Tags: agent-based models, interactive, voter model, opinion dynamics, boundary conditions, zealots, birth-death process
+Tags: agent-based models, interactive, voter model, opinion dynamics, boundary conditions, zealots, birth-death process, R. Kazakevicius
 Slug: boundary-conditions-and-zealotry-in-noisy-voter-model
 Status: published
 Image_url: uploads/2026/boundary-conditions-and-zealotry-in-noisy-voter-model.png
 
 When writing our recent article [cite id="Kazakevicius2026CSF"], we (I and
-Rytis) had argued about the relationship between having stable voter base
+[Rytis](/tag/r-kazakevicius/)) had argued about the relationship between having stable voter base
 ([zealots](/tag/zealots/)) and imposing [boundary
 conditions](/tag/boundary-conditions/) on the noisy [voter
 model](/tag/voter-model/). This post explores the subtle differences between
