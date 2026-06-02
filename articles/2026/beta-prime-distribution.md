@@ -3,7 +3,7 @@ Date: 2026-06-02 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, power-law distributions, voter model, Kirman model, R. Kazakevicius
 Slug: beta-prime-distribution
-Status: draft
+Status: published
 Image_url: uploads/2026/beta-prime-distribution.png
 
 Have you heard of the beta prime distribution before? Until recently, I
