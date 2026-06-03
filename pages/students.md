@@ -21,8 +21,8 @@ Following topics are offered officially via Faculty of Physics during the
 
 * **"Competition statistics of the noisy voter model"**. Supervisor
   [Aleksejus Kononovicius](https://kononovicius.lt).
-* **"Deep-learning-assisted analysis of the transition probability function
-  in the noisy voter model"**. Supervisor [Aleksejus
+* **"First-passage times in voter model with public-private opinion
+  dynamics""**. Supervisor [Aleksejus
   Kononovicius](https://kononovicius.lt).
 * **"Spectral and stationary statistics of the noisy voter model with delay
   mechanisms"**.
