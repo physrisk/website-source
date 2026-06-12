@@ -30,15 +30,15 @@ Following topics are offered officially via Faculty of Physics during the
 * **"First-Passage Time Analysis for a Heterogeneous Diffusion Process"**.
   Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
-* **"Application of the Fractional Fokker-Planck Equation to Anomalous
-  Diffusion Modeling"**. Supervisor [Rytis
+* **"Fractional Riemann-Liouville Operators and Levy Subordination in Models
+  of Subdiffusion"**. Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 * **"Determination of the Relationship Between the Generalized Hurst
   Parameter (H) and Fractal Dimension (D) in Self-Similar Processes"**.
   Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
-* **"Investigation of the Emergence of Anomalous Diffusion in Chaotic
-  Systems"**. Supervisor [Rytis
+* **"Machine Learning for the Identification of Stochastic Processes"**.
+  Supervisor [Rytis
   Kazakevičius](https://www.ff.vu.lt/en/science/researcher-profiles-2/1977-dr-rytis-kazakevicius).
 
 ## Theses and internships
