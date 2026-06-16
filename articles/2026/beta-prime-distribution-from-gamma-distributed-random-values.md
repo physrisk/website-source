@@ -3,7 +3,7 @@ Date: 2026-06-16 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, statistics, power-law distributions, voter model, Kirman model, CIR process, R. Kazakevicius
 Slug: beta-prime-distribution-from-gamma-distributed-random-values
-Status: draft
+Status: published
 Image_url: uploads/2026/beta-prime-distribution-from-gamma-distributed-random-values.png
 
 As we have already
