@@ -3,7 +3,7 @@ Date: 2026-06-23 08:00
 Author: Aleksejus Kononovicius
 Tags: video
 Slug: road-trip-inspired-by-calendar
-Status: draft
+Status: published
 
 Do you have plans for summer holidays? If not, here is a quick idea
 presented to you by [Woolly
