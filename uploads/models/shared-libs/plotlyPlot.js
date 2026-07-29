@@ -2,6 +2,7 @@ class plotlyPlot {
     constructor(id, axisLabels = ["x", "y"], margins = [10, 10, 40, 40]) {
         this.id = id;
         this.additionalParams = { staticPlot: true };
+        this.plot_type = null;
         this.layout = {
             showlegend: false,
             xaxis: {
@@ -61,6 +62,9 @@ class plotlyPlot {
                     dataObj["line"] = { color: c };
                 }
             }
+            if (this.plot_type !== null) {
+                dataObj["type"] = this.plot_type;
+            }
             data.push(dataObj);
         }
         Plotly.newPlot(this.id, data, this.layout, this.additionalParams);
@@ -97,5 +101,8 @@ class plotlyPlot {
         this.layout.yaxis.tickmode = "array";
         this.layout.yaxis.tickvals = vals;
         this.layout.yaxis.ticktext = text;
+    }
+    setPlotType(type) {
+        this.plot_type = type;
     }
 }
