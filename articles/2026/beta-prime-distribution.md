@@ -80,5 +80,5 @@ function of the transformed variables. In both plots, the gray curves
 represent the corresponding theoretical probability density functions.
 
 [html5-interactive width="520" height="280" mode="iframe"
-url="/uploads/models/stats/models/beta-prime-distribution/beta-transformation.html"]
+url="/uploads/models/stats/distributions/beta-prime/beta-transformation.html"]
 

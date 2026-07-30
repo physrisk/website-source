@@ -29,7 +29,7 @@ theoretical probability density functions (Gamma distribution on the left,
 and beta prime distribution on the right).
 
 [html5-interactive width="520" height="310" mode="iframe"
-url="/uploads/models/stats/models/beta-prime-distribution/gamma-ratio.html"]
+url="/uploads/models/stats/distributions/beta-prime/gamma-ratio.html"]
 
 Note that the beta prime distribution is obtained only if \\\( \theta\_1 =
 \theta\_2 \\\) (for any positive values). If the shape parameter values are
