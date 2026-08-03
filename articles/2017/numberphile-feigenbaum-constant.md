@@ -1,7 +1,7 @@
 Title: Numberphile: Feigenbaum constant
 Date: 2017-05-30 07:10
 Author: Aleksejus Kononovicius
-Tags: dynamical chaos, fractals, Numberphile, video
+Tags: dynamical chaos, fractals, Numberphile, video, Verhulst model
 Slug: numberphile-feigenbaum-constant
 Status: published
 
