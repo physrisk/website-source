@@ -1,5 +1,5 @@
 Title: Stochastic growth rate Verhulst model
-Date: 2026-11-17 08:00
+Date: 2026-12-01 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, biology, stochastic models, Verhulst model, students, voter model
 Slug: stochastic-growth-rate-verhulst-model

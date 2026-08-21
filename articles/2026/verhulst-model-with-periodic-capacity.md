@@ -1,5 +1,5 @@
 Title: Verhulst model with periodic capacity
-Date: 2026-11-03 08:00
+Date: 2026-11-17 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, biology, Verhulst model
 Slug: verhulst-model-with-periodic-capacity

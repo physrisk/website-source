@@ -1,5 +1,5 @@
 Title: Verhulst model
-Date: 2026-10-20 08:00
+Date: 2026-11-03 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, biology, equilibria point analysis, Verhulst model
 Slug: verhulst-model

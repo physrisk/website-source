@@ -1,5 +1,5 @@
 Title: Binomial distribution
-Date: 2026-09-22 08:00
+Date: 2026-10-06 08:00
 Authors: Rytis Kazakevičius, Aleksejus Kononovicius
 Tags: interactive, statistics
 Slug: binomial-distribution
