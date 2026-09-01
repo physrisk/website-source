@@ -3,7 +3,7 @@ Date: 2026-09-01 08:00
 Author: Aleksejus Kononovicius
 Tags: general
 Slug: we-are-back-for-a-new-academic-year-2026
-Status: draft
+Status: published
 Image_url: uploads/2026/we-are-back-for-a-new-academic-year-2026.jpg
 
 So, we are back for a new academic year! Over the summer, our group
