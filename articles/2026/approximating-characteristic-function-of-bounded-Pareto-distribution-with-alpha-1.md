@@ -3,7 +3,7 @@ Date: 2026-09-08 08:00
 Author: Aleksejus Kononovicius
 Tags: statistics, power-law distributions, Python, B. Kaulakys
 Slug: approximating-characteristic-function-of-bounded-Pareto-distribution-with-alpha-1
-Status: draft
+Status: published
 Image_url: uploads/2026/approximating-characteristic-function-of-bounded-Pareto-distribution-with-alpha-1.png
 
 During the summer, I received an email from a researcher at university
