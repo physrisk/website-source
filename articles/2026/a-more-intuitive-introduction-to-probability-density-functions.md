@@ -3,7 +3,7 @@ Date: 2026-09-22 08:00
 Authors: Rytis Kazakevičius, Aleksejus Kononovicius
 Tags: interactive, statistics, students, Heaviside theta function, Dirac delta function
 Slug: a-more-intuitive-introduction-to-probability-density-functions
-Status: draft
+Status: published
 Image_url: uploads/2026/a-more-intuitive-introduction-to-probability-density-functions.png
 
 In quite a few statistical physics books, probability density functions
