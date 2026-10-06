@@ -3,7 +3,7 @@ Date: 2026-10-06 08:00
 Authors: Rytis Kazakevičius, Aleksejus Kononovicius
 Tags: interactive, statistics
 Slug: binomial-distribution
-Status: draft
+Status: published
 Image_url: uploads/2026/binomial-distribution.png
 
 Suppose that a box contains \\\( N \\\) balls, of which \\\(
