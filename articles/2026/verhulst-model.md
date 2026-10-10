@@ -92,7 +92,7 @@ of the right hand side,
 
 \begin{equation}
 \frac{d}{d P} \left[ \alpha P \left( 1 - \frac{P}{K} \right) \right] =
-= \alpha - \frac{2 \alpha P}{K} .
+    \alpha - \frac{2 \alpha P}{K} .
 \end{equation}
 
 The derivative is positive for \\\( P\_s = 0 \\\), i.e., \\\( \alpha > 0
