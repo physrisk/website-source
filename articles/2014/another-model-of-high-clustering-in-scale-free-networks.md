@@ -1,7 +1,7 @@
 Title: Another model of high clustering in scale-free networks
 Date: 2014-06-09 07:46
 Author: Aleksejus Kononovicius
-Tags: interactive, networks, Barabasi-Albert model, scale-free network
+Tags: interactive, networks, Barabasi-Albert model, scale-free network, preferential attachment
 Slug: another-model-of-high-clustering-in-scale-free-networks
 Status: published
 Image_url: uploads/2014/another-model-of-high-clustering-in-scale-free-networks.png
@@ -22,13 +22,13 @@ Formulation of model
 -   Start with an empty graph with \\\(  m\_0 \\\) nodes (in our applet
     \\\(  m\_0 = m \\\)).
 -   During the following steps add one new node and \\\(  m \\\) links:
-    -   First link is chosen according to (a) preferential attachment
+    -   First link is chosen according to (a) [preferential attachment](/tag/preferential-attachment/)
         (see [description of Barabasi-Albert
         model]({filename}/articles/2013/barabasi-albert-model.md)).
     -   Other \\\(  m-1 \\\) links may be formed (b) with neighbors of
-        the node previously selected with preferential attachment (this
+        the node previously selected with [preferential attachment](/tag/preferential-attachment/) (this
         mechanism is called "triad formation") or (a) with other nodes
-        selected using preferential attachment. Mechanism (b) is
+        selected using [preferential attachment](/tag/preferential-attachment/). Mechanism (b) is
         executed with probability \\\(  p \\\) and mechanism (a) with
         probability \\\(  1-p \\\).
 

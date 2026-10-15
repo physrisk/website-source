@@ -1,7 +1,7 @@
 Title: Veritasium video on power-law distributions
 Date: 2026-01-20 08:00
 Author: Aleksejus Kononovicius
-Tags: video, Veritasium, statistics, Ising model, self-organized criticality, Barabasi-Albert model, power-law distributions
+Tags: video, Veritasium, statistics, Ising model, self-organized criticality, Barabasi-Albert model, power-law distributions, preferential attachment
 Slug: veritasium-on-power-law-distributions
 Status: published
 

@@ -1,7 +1,7 @@
 Title: Barabasi-Albert model
 Date: 2013-08-26 07:11
 Author: Aleksejus Kononovicius
-Tags: interactive, networks, Barabasi-Albert model, scale-free network, coursera, small world, power-law distributions
+Tags: interactive, networks, Barabasi-Albert model, scale-free network, coursera, small world, power-law distributions, preferential attachment
 Slug: barabasi-albert-model
 Status: published
 
@@ -36,11 +36,11 @@ characteristic scale, while the real life networks do not have such.
 They are scaleless and posses power law degree distributions.
 
 The power law degree distributions were reproduced by Barabasi and
-Albert by using the preferential attachment algorithm. In this algorithm
+Albert by using the [preferential attachment](/tag/preferential-attachment/) algorithm. In this algorithm
 the new nodes select old nodes, with which they will form links (edges),
 based on their degree (number of links the nodes has). Due to this
 preference for the higher degree nodes the algorithm is called
-preferential attachment. Due to this preference the nodes with higher
+[preferential attachment](/tag/preferential-attachment/). Due to this preference the nodes with higher
 degrees will further increase, while the lower degree nodes will stay
 with the same degree. This effect in the sociology is known as Matthew
 effect or "rich gets richer" effect. In the empirical data this effect
@@ -76,7 +76,7 @@ In the above \\\(  k\_i \\\) is a degree of the node \\\(  i \\\), \\\( \alpha \
 larger degrees are preferred), while the division by the sum over all
 old nodes is required to have a normalized probability.
 
-In general case before applying the preferential attachment random
+In general case before applying the [preferential attachment](/tag/preferential-attachment/) random
 connection algorithm one needs to have some set of the initial nodes.
 After creating this set (and edges between the nodes in it) we can apply
 the algorithm by creating one or more nodes at each step. It is usually

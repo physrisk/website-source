@@ -1,7 +1,7 @@
 Title: Scale-free behavior as a result of "luck and reason"
 Date: 2014-05-12 08:12
 Author: Aleksejus Kononovicius
-Tags: interactive, networks, Barabasi-Albert model, scale-free network, power-law distributions
+Tags: interactive, networks, Barabasi-Albert model, scale-free network, power-law distributions, preferential attachment
 Slug: scale-free-behavior-as-a-result-of-luck-and-reason
 Status: published
 Image_url: uploads/2014/scale-free-behavior-as-a-result-of-luck-and-reason.jpg
@@ -45,9 +45,9 @@ old node, \\\(  j \\\), is selected by minimizing cost:
 In this text we will determine presence of the scale-free topology
 indirectly - through the probability density function of node degrees
 (it should at least have a power law tail) and also we will verify if
-preferential attachment is present in the network evolution. Estimation
+[preferential attachment](/tag/preferential-attachment/) is present in the network evolution. Estimation
 of the probability density function should be trivial, but the second
-method is more interesting. The importance of preferential attachment in
+method is more interesting. The importance of [preferential attachment](/tag/preferential-attachment/) in
 the real-life growing networks can be determined by examining the rate
 at which nodes with distinct degrees gain new edges (increase their
 degree). Namely one should take network snapshots at two distinct time
@@ -87,7 +87,7 @@ cable. Namely when the influence of \\\(  \delta \\\) and \\\(  h\_j \\\)
 become comparable (in our applet \\\(  \delta \approx 5 \\\)). In this
 case both geometric and network distances are almost equally important.
 In this case \\\(  Pi \\\) grows linearly with \\\(  d \\\) suggesting
-that preferential attachment is present in the network formation. The
+that [preferential attachment](/tag/preferential-attachment/) is present in the network formation. The
 probability density function of node degree's is power law thus we can
 draw comparisons with [Barabasi-Albert
 model]({filename}/articles/2013/barabasi-albert-model.md)
