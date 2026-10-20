@@ -3,7 +3,7 @@ Date: 2026-10-20 08:00
 Authors: Rytis Kazakevičius, Aleksejus Kononovicius
 Tags: interactive, statistics
 Slug: binomial-distribution-as-approximation-of-hypergeometric-distribution
-Status: draft
+Status: published
 Image_url: uploads/2026/binomial-distribution-as-approximation-of-hypergeometric-distribution.png
 
 The derivations of the
