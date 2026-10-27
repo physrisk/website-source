@@ -3,7 +3,7 @@ Date: 2026-10-27 08:00
 Author: Aleksejus Kononovicius
 Tags: video, large language models, math, Mokslo Sriuba, V. Regelskis
 Slug: v-regelskis-will-ai-trigger-golden-age-in-mathematics
-Status: draft
+Status: published
 
 In a recent episode of [Mokslo
 Sriuba](https://www.youtube.com/@mokslosriuba), one of our group members,
