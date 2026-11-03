@@ -3,7 +3,7 @@ Date: 2026-11-03 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, biology, equilibria point analysis, Verhulst model
 Slug: verhulst-model
-Status: draft
+Status: published
 Image_url: uploads/2026/verhulst-model.png
 
 Fourteen years ago, in a post on [Lotka-Volterra
