@@ -3,7 +3,7 @@ Date: 2026-11-04 08:00
 Author: Aleksejus Kononovicius
 Tags: general, financial markets, traffic, macroeconomics, gross domestic product, economic growth, A. Kononovicius, V. Gontis
 Slug: two-members-of-our-group-will-give-lectures-as-part-of-inspired-by-science-project
-Status: draft
+Status: published
 Image_url: uploads/2026/two-members-of-our-group-will-give-lectures-as-part-of-inspired-by-science-project.jpg
 
 Science is best when it is communicated to the general public, as it may
