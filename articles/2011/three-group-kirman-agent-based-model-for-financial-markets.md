@@ -31,6 +31,9 @@ id="Bornholdt2001IJMPC, Lux1999Nature, Yook2008JKPS"\] were unable to
 reproduce fracture in spectral density, this option still looks
 promising as one does not need to make strong assumptions.
 
+The model presented in this post was later published in [cite
+id="Kononovicius2013EPL"].
+
 Three group financial market model
 ----------------------------------
 
