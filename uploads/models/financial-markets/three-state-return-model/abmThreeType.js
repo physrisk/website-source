@@ -38,8 +38,8 @@ class abmThreeType {
             probs=[this.piPesFund(),this.piOptFund(),this.piFundPes(),
                    this.piOptPes(),this.piFundOpt(),this.piPesOpt()];
             whileDt=this.variableDt(probs);
-            if(t+whileDt>this.T) {
-                whileDt=this.T-t;
+            if(t+whileDt>this.dt) {
+                whileDt=this.dt-t;
             }
             this.singleJump(Math.random()/whileDt,probs);
             t+=whileDt;
