@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="lt">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Anomalous diffusion</title>
+<title>Anomalioji difuzija</title>
 <style>
   /* colours come from CSS custom properties written by applyScheme(); the dark values are fallbacks
      so the page is already correct before the script runs */
@@ -35,17 +35,19 @@
 <body>
 <canvas id="c"></canvas>
 <div id="controls">
-  <button class="btn" id="btnRestart" title="Restart" aria-label="Restart"></button>
-  <button class="btn" id="btnPlay" title="Play / pause" aria-label="Play / pause"></button>
-  <button class="btn" id="btnFast" title="Fast forward" aria-label="Fast forward"></button>
+  <button class="btn" id="btnRestart" title="Pradėti iš naujo" aria-label="Pradėti iš naujo"></button>
+  <button class="btn" id="btnPlay" title="Tęsti / pristabdyti" aria-label="Tęsti / pristabdyti"></button>
+  <button class="btn" id="btnFast" title="Pagreitinti" aria-label="Pagreitinti"></button>
 </div>
-<button class="btn" id="btnQr" title="Show / hide QR code" aria-label="Show or hide QR code">QR</button>
-<img id="qr" src="qr.png" alt="QR code" hidden>
+<button class="btn" id="btnQr" title="Rodyti / slėpti QR kodą" aria-label="Rodyti arba slėpti QR kodą">QR</button>
+<img id="qr" src="qr.png" alt="QR kodas" hidden>
 <script>
 /* =====================================================================
    PARAMETERS  (edit freely; everything is in arena units, seconds)
    ===================================================================== */
 const P = {
+  // language
+  LANG: 'lt',                 // 'lt' = Lithuanian, 'en' = English (all texts on the screen are in the table STR below)
   // --- arena and obstacles (identical for all three panels) ---
   ARENA_RADIUS: 100,
   N_PILLARS: 250,
@@ -102,7 +104,7 @@ const P = {
   CLOCK_HEIGHT: 84,           // pixels reserved at the bottom for the clock and the buttons
 
   // --- colour scheme ---
-  SCHEME: 'light',             // 'auto' = follow the system / browser (live) | 'dark' | 'light' = force it
+  SCHEME: 'light',            // 'auto' = follow the system / browser (live) | 'dark' | 'light' = force it
   PALETTES: {
     dark: {
       BG: '#0e1116',            // page background
@@ -150,6 +152,15 @@ const P = {
     },
   },
 };
+
+// all texts shown to the user
+const STR = {
+  lt: { title: 'Anomalioji difuzija', restart: 'Pradėti iš naujo', playPause: 'Tęsti / pristabdyti', fast: 'Pagreitinti',
+        qr: 'Rodyti / slėpti QR kodą', qrAlt: 'QR kodas', qrMissing: 'qr.png nerastas šalia šio puslapio' },
+  en: { title: 'Anomalous diffusion', restart: 'Restart', playPause: 'Play / pause', fast: 'Fast forward',
+        qr: 'Show / hide QR code', qrAlt: 'QR code', qrMissing: 'qr.png not found next to this page' },
+};
+const T = STR[P.LANG] || STR.lt;
 
 /* =====================================================================
    Colour scheme: C is the current palette, D the accent colours derived from it.
@@ -567,7 +578,7 @@ function toggleQr() { if (qrMissing) return; qrImg.hidden = !qrImg.hidden; layou
 
 qrImg.addEventListener('error', () => {            // qr.png not found: keep the button, but dim it
   qrMissing = true; qrImg.hidden = true; layout();
-  btnQr.classList.add('missing'); btnQr.title = 'qr.png not found next to this page';
+  btnQr.classList.add('missing'); btnQr.title = T.qrMissing;
   syncButtons();
 });
 
@@ -599,6 +610,10 @@ if (schemeQuery) {
   else if (schemeQuery.addListener) schemeQuery.addListener(applyScheme);
 }
 
+document.documentElement.lang = P.LANG; document.title = T.title; qrImg.alt = T.qrAlt;
+for (const [b, txt] of [[btnRestart, T.restart], [btnPlay, T.playPause], [btnFast, T.fast], [btnQr, T.qr]]) {
+  b.title = txt; b.setAttribute('aria-label', txt);
+}
 applyScheme();             // before the first resize / reset / draw
 resize();
 reset();

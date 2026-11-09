@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="lt">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Braess's paradox: bridge time</title>
+<title>Braesso paradoksas: tilto trukmė</title>
 <style>
   html, body { margin: 0; height: 100%; background: var(--bg, #0e1116); overflow: hidden; }
   canvas { display: block; width: 100vw; height: 100vh; }
@@ -35,13 +35,13 @@
 <body>
 <canvas id="c"></canvas>
 <div id="controls">
-  <button class="btn" id="btnRestart" title="Restart" aria-label="Restart"></button>
-  <button class="btn" id="btnPlay" title="Play / pause" aria-label="Play / pause"></button>
-  <button class="btn" id="btnLess" title="Shorter bridge" aria-label="Shorter bridge"></button>
-  <button class="btn" id="btnMore" title="Longer bridge" aria-label="Longer bridge"></button>
+  <button class="btn" id="btnRestart" title="Pradėti iš naujo" aria-label="Pradėti iš naujo"></button>
+  <button class="btn" id="btnPlay" title="Tęsti / pristabdyti" aria-label="Tęsti / pristabdyti"></button>
+  <button class="btn" id="btnLess" title="Trumpesnis tiltas" aria-label="Trumpesnis tiltas"></button>
+  <button class="btn" id="btnMore" title="Ilgesnis tiltas" aria-label="Ilgesnis tiltas"></button>
 </div>
-<button class="btn" id="btnQr" title="Show / hide QR code" aria-label="Show or hide QR code">QR</button>
-<img id="qr" src="qr.png" alt="QR code" hidden>
+<button class="btn" id="btnQr" title="Rodyti / slėpti QR kodą" aria-label="Rodyti arba slėpti QR kodą">QR</button>
+<img id="qr" src="qr.png" alt="QR kodas" hidden>
 <script>
 /* =====================================================================
    PARAMETERS  (edit freely; times in minutes)
@@ -81,9 +81,7 @@ const P = {
   CAR_RADIUS: 1.8,                    // design units
   CAR_MIN_PX: 1.1,                    // never drawn smaller than this radius in pixels
   V_FULL_BLUE: 1.0,                   // speed (relative to the highway speed) at which a car is fully blue; slower = more orange
-  TIMER_UNIT: 'min',                  // unit written after the times
-  SHOW_COUNTS: true,                  // under each route's trip time: how many drivers use it
-  COUNT_UNIT: 'cars',
+  SHOW_COUNTS: true,                  // under each route's trip time: how many drivers use it (the wording is in the table STR)
   BRIDGE_LABEL_RISE: 10,              // the label of the bridge route (time, cars) sits to the right of the bridge, this far above its middle (design units)
   BRIDGE_LABEL_GAP: 7,                // free space between the bridge and that label (design units)
   PULSE_MS: 450,                      // when the bridge time changes, its sign swells (longer) or shrinks (shorter) and settles back in this many ms
@@ -91,7 +89,8 @@ const P = {
   TIMER_FONT: 15,                     // px at scene scale 1 (scales with the scene, 11..22 px)
 
   // --- colours ---
-  SCHEME: 'light',             // 'auto' = follow the system / browser light-dark setting (live), or force 'dark' / 'light'
+  LANG: 'lt',                 // 'lt' = Lithuanian, 'en' = English (all texts on the screen and in tooltips are in the table STR below)
+  SCHEME: 'light',            // 'auto' = follow the system / browser light-dark setting (live), or force 'dark' / 'light'
   PALETTES: {
     dark: {
       BG: '#0e1116', DISC: '#161b22', DISC_EDGE: '#2a313c', ROAD: '#2a313c', CLOCK: '#8b95a5',
@@ -120,6 +119,21 @@ const P = {
   QR_PANEL_MAX: 420,          // ... and never wider than this (px)
   CLOCK_HEIGHT: 84,           // pixels reserved at the bottom for the buttons (no clock is drawn)
 };
+
+// texts shown on the screen (and in tooltips)
+const STR = {
+  lt: { title: 'Braesso paradoksas: tilto trukmė', restart: 'Pradėti iš naujo', playPause: 'Tęsti / pristabdyti',
+        qr: 'Rodyti / slėpti QR kodą', qrAlt: 'QR kodas', qrMissing: 'qr.png nerastas šalia šio puslapio',
+        unit: 'min.', less: 'Trumpesnis tiltas', more: 'Ilgesnis tiltas', bridgeTime: 'Tilto trukmė',
+        shortest: 'trumpiausia', longest: 'ilgiausia', clickFor: v => 'spustelėkite, kad būtų ' + v + ' min.',
+        cars: n => n + ' ' + (n % 10 === 1 && n % 100 !== 11 ? 'mašina' : (n % 10 === 0 || (n % 100 >= 11 && n % 100 <= 19) ? 'mašinų' : 'mašinos')) },
+  en: { title: "Braess's paradox: bridge time", restart: 'Restart', playPause: 'Play / pause',
+        qr: 'Show / hide QR code', qrAlt: 'QR code', qrMissing: 'qr.png not found next to this page',
+        unit: 'min', less: 'Shorter bridge', more: 'Longer bridge', bridgeTime: 'Bridge time',
+        shortest: 'the shortest', longest: 'the longest', clickFor: v => 'click for ' + v + ' min',
+        cars: n => n + ' cars' },
+};
+const TXT = STR[P.LANG] || STR.lt;
 
 /* =====================================================================
    LOGIC (no DOM): route times and the equilibrium
@@ -407,13 +421,13 @@ function draw() {
   const label = (time, n, x, y, dir, align) => {  // dir: -1 puts the count above the time, +1 below it; x, y in design units
     const px = v.ox + x * v.s, py = v.oy + y * v.s;
     ctx.textAlign = align || 'center';
-    ctx.font = FONT(fs); ctx.fillText(Math.round(time) + ' ' + P.TIMER_UNIT, px, py);
+    ctx.font = FONT(fs); ctx.fillText(Math.round(time) + ' ' + TXT.unit, px, py);
     if (P.SHOW_COUNTS) {
-      ctx.font = FONT(fsSmall); ctx.globalAlpha = 0.7; ctx.fillText(n + ' ' + P.COUNT_UNIT, px, py + dir * fs * 1.15); ctx.globalAlpha = 1;
+      ctx.font = FONT(fsSmall); ctx.globalAlpha = 0.7; ctx.fillText(TXT.cars(n), px, py + dir * fs * 1.15); ctx.globalAlpha = 1;
     }
     ctx.textAlign = 'center';
   };
-  const sign = Math.round(bridgeTime) + ' ' + P.TIMER_UNIT;                     // the sign on the bridge
+  const sign = Math.round(bridgeTime) + ' ' + TXT.unit;                     // the sign on the bridge
   ctx.font = FONT(fs);
   const pw = ctx.measureText(sign).width + 16, ph = fs + 10;
   const mx = (G.x0 + G.x1) / 2;
@@ -478,10 +492,10 @@ function syncButtons() {
   btnLess.innerHTML = MINUS; btnMore.innerHTML = PLUS;
   const lo = nextBridgeTime(bridgeTime, -1), hi = nextBridgeTime(bridgeTime, 1);
   btnLess.disabled = lo === bridgeTime; btnMore.disabled = hi === bridgeTime;
-  const tl = 'Bridge time: ' + bridgeTime + ' min (' + (btnLess.disabled ? 'the shortest' : 'click for ' + lo + ' min') + ')';
-  const tm = 'Bridge time: ' + bridgeTime + ' min (' + (btnMore.disabled ? 'the longest' : 'click for ' + hi + ' min') + ')';
-  btnLess.title = tl; btnLess.setAttribute('aria-label', 'Shorter bridge. ' + tl);
-  btnMore.title = tm; btnMore.setAttribute('aria-label', 'Longer bridge. ' + tm);
+  const tl = TXT.bridgeTime + ': ' + bridgeTime + ' ' + TXT.unit + ' (' + (btnLess.disabled ? TXT.shortest : TXT.clickFor(lo)) + ')';
+  const tm = TXT.bridgeTime + ': ' + bridgeTime + ' ' + TXT.unit + ' (' + (btnMore.disabled ? TXT.longest : TXT.clickFor(hi)) + ')';
+  btnLess.title = tl; btnLess.setAttribute('aria-label', TXT.less + '. ' + tl);
+  btnMore.title = tm; btnMore.setAttribute('aria-label', TXT.more + '. ' + tm);
   btnQr.classList.toggle('on', !qrImg.hidden);
 }
 function togglePause() { paused = !paused; syncButtons(); }
@@ -502,7 +516,7 @@ function toggleQr() { if (qrMissing) return; qrImg.hidden = !qrImg.hidden; layou
 
 qrImg.addEventListener('error', () => {            // qr.png not found: keep the button, but dim it
   qrMissing = true; qrImg.hidden = true; layout();
-  btnQr.classList.add('missing'); btnQr.title = 'qr.png not found next to this page';
+  btnQr.classList.add('missing'); btnQr.title = TXT.qrMissing;
   syncButtons();
 });
 
@@ -527,6 +541,10 @@ function frame(now) {
 }
 
 window.addEventListener('resize', resize);
+
+// texts in the chosen language
+document.documentElement.lang = P.LANG; document.title = TXT.title; qrImg.alt = TXT.qrAlt;
+for (const [b, txt] of [[btnRestart, TXT.restart], [btnPlay, TXT.playPause], [btnQr, TXT.qr]]) { b.title = txt; b.setAttribute('aria-label', txt); }
 
 applyScheme();
 reset();

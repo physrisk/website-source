@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="lt">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Braess's paradox</title>
+<title>Braesso paradoksas</title>
 <style>
   html, body { margin: 0; height: 100%; background: var(--bg, #0e1116); overflow: hidden; }
   canvas { display: block; width: 100vw; height: 100vh; }
@@ -33,12 +33,12 @@
 <body>
 <canvas id="c"></canvas>
 <div id="controls">
-  <button class="btn" id="btnRestart" title="Restart" aria-label="Restart"></button>
-  <button class="btn" id="btnPlay" title="Play / pause" aria-label="Play / pause"></button>
-  <button class="btn" id="btnBridge" title="Shortcut road" aria-label="Shortcut road"></button>
+  <button class="btn" id="btnRestart" title="Pradėti iš naujo" aria-label="Pradėti iš naujo"></button>
+  <button class="btn" id="btnPlay" title="Tęsti / pristabdyti" aria-label="Tęsti / pristabdyti"></button>
+  <button class="btn" id="btnBridge" title="Tiltas" aria-label="Tiltas"></button>
 </div>
-<button class="btn" id="btnQr" title="Show / hide QR code" aria-label="Show or hide QR code">QR</button>
-<img id="qr" src="qr.png" alt="QR code" hidden>
+<button class="btn" id="btnQr" title="Rodyti / slėpti QR kodą" aria-label="Rodyti arba slėpti QR kodą">QR</button>
+<img id="qr" src="qr.png" alt="QR kodas" hidden>
 <script>
 /* =====================================================================
    PARAMETERS  (edit freely; times in simulated seconds)
@@ -79,12 +79,12 @@ const P = {
   CAR_RADIUS: 1.8,                    // design units
   CAR_MIN_PX: 1.1,                    // never drawn smaller than this radius in pixels
   V_FULL_BLUE: 1.0,                   // speed (relative to the highway speed) at which a car is fully blue; slower = more orange
-  TIMER_PER_SIM_SECOND: 1,            // timers show the trip time of the previous day = simulated seconds * this, in TIMER_UNIT (1 = a simulated second is shown as a minute; 1/60 = real minutes)
-  TIMER_UNIT: 'min',
+  TIMER_PER_SIM_SECOND: 1,            // timers show the trip time of the previous day = simulated seconds * this, in the unit TXT.unit (1 = a simulated second is shown as a minute; 1/60 = real minutes)
   TIMER_FONT: 15,                     // px at scene scale 1 (scales with the scene, 11..22 px)
 
   // --- colours ---
-  SCHEME: 'light',             // 'auto' = follow the system / browser light-dark setting (live), or force 'dark' / 'light'
+  LANG: 'lt',                 // 'lt' = Lithuanian, 'en' = English (all texts on the screen and in tooltips are in the table STR below)
+  SCHEME: 'light',            // 'auto' = follow the system / browser light-dark setting (live), or force 'dark' / 'light'
   PALETTES: {
     dark: {
       BG: '#0e1116', DISC: '#161b22', DISC_EDGE: '#2a313c', ROAD: '#2a313c', CLOCK: '#8b95a5',
@@ -113,6 +113,17 @@ const P = {
   QR_PANEL_MAX: 420,          // ... and never wider than this (px)
   CLOCK_HEIGHT: 84,           // pixels reserved at the bottom for the buttons (no clock is drawn)
 };
+
+// texts shown on the screen (and in tooltips)
+const STR = {
+  lt: { title: 'Braesso paradoksas', restart: 'Pradėti iš naujo', playPause: 'Tęsti / pristabdyti',
+        qr: 'Rodyti / slėpti QR kodą', qrAlt: 'QR kodas', qrMissing: 'qr.png nerastas šalia šio puslapio',
+        unit: 'min.', bridge: 'Tiltas', bridgeOn: 'pastatytas (spustelėkite, kad pašalintumėte)', bridgeOff: 'nepastatytas (spustelėkite, kad pastatytumėte)' },
+  en: { title: "Braess's paradox", restart: 'Restart', playPause: 'Play / pause',
+        qr: 'Show / hide QR code', qrAlt: 'QR code', qrMissing: 'qr.png not found next to this page',
+        unit: 'min', bridge: 'Shortcut road', bridgeOn: 'on (click to remove it)', bridgeOff: 'off (click to build it)' },
+};
+const TXT = STR[P.LANG] || STR.lt;
 
 /* =====================================================================
    LOGIC (no DOM): route times and the daily switching rule
@@ -402,7 +413,7 @@ function draw() {
   const fs = Math.max(11, Math.min(22, P.TIMER_FONT * v.s));
   ctx.font = '600 ' + fs + 'px ui-monospace, Menlo, Consolas, monospace';
   ctx.textAlign = 'center'; ctx.textBaseline = 'middle'; ctx.fillStyle = C.CLOCK;
-  const sec = t => Math.round(t * P.TIMER_PER_SIM_SECOND) + ' ' + P.TIMER_UNIT;
+  const sec = t => Math.round(t * P.TIMER_PER_SIM_SECOND) + ' ' + TXT.unit;
   const mx = (G.x0 + G.x1) / 2;
   if (PREV.up !== null) drawTimer(sec(PREV.up), mx, G.yu - P.HIGHWAY_WIDTH / 2 - 16);
   if (PREV.low !== null) drawTimer(sec(PREV.low), mx, G.yl + P.HIGHWAY_WIDTH / 2 + 17);
@@ -451,7 +462,7 @@ function syncButtons() {
   btnRestart.innerHTML = ICON.restart;
   btnBridge.innerHTML = bridgeIcon(bridgeOn);
   btnBridge.classList.toggle('on', bridgeOn);
-  const t = 'Shortcut road: ' + (bridgeOn ? 'on (click to remove it)' : 'off (click to build it)');
+  const t = TXT.bridge + ': ' + (bridgeOn ? TXT.bridgeOn : TXT.bridgeOff);
   btnBridge.title = t; btnBridge.setAttribute('aria-label', t);
   btnQr.classList.toggle('on', !qrImg.hidden);
 }
@@ -469,7 +480,7 @@ function toggleQr() { if (qrMissing) return; qrImg.hidden = !qrImg.hidden; layou
 
 qrImg.addEventListener('error', () => {            // qr.png not found: keep the button, but dim it
   qrMissing = true; qrImg.hidden = true; layout();
-  btnQr.classList.add('missing'); btnQr.title = 'qr.png not found next to this page';
+  btnQr.classList.add('missing'); btnQr.title = TXT.qrMissing;
   syncButtons();
 });
 
@@ -493,6 +504,10 @@ function frame(now) {
 }
 
 window.addEventListener('resize', resize);
+
+// texts in the chosen language
+document.documentElement.lang = P.LANG; document.title = TXT.title; qrImg.alt = TXT.qrAlt;
+for (const [b, txt] of [[btnRestart, TXT.restart], [btnPlay, TXT.playPause], [btnQr, TXT.qr]]) { b.title = txt; b.setAttribute('aria-label', txt); }
 
 applyScheme();
 reset();

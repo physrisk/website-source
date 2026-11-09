@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="lt">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Stop-and-go waves</title>
+<title>Spūsčių bangos (stop-and-go)</title>
 <style>
   html, body { margin: 0; height: 100%; background: var(--bg, #0e1116); overflow: hidden; }
   canvas { display: block; width: 100vw; height: 100vh; }
@@ -33,12 +33,12 @@
 <body>
 <canvas id="c"></canvas>
 <div id="controls">
-  <button class="btn" id="btnRestart" title="Restart" aria-label="Restart"></button>
-  <button class="btn" id="btnPlay" title="Play / pause" aria-label="Play / pause"></button>
-  <button class="btn" id="btnSupply" title="Car supply" aria-label="Car supply"></button>
+  <button class="btn" id="btnRestart" title="Pradėti iš naujo" aria-label="Pradėti iš naujo"></button>
+  <button class="btn" id="btnPlay" title="Tęsti / pristabdyti" aria-label="Tęsti / pristabdyti"></button>
+  <button class="btn" id="btnSupply" title="Automobilių srautas" aria-label="Automobilių srautas"></button>
 </div>
-<button class="btn" id="btnQr" title="Show / hide QR code" aria-label="Show or hide QR code">QR</button>
-<img id="qr" src="qr.png" alt="QR code" hidden>
+<button class="btn" id="btnQr" title="Rodyti / slėpti QR kodą" aria-label="Rodyti arba slėpti QR kodą">QR</button>
+<img id="qr" src="qr.png" alt="QR kodas" hidden>
 <script>
 /* =====================================================================
    PARAMETERS  (edit freely; lengths in metres, times in seconds)
@@ -91,7 +91,8 @@ const P = {
 
   // --- colours: slow cars orange, fast cars blue (full blue at V_COLOR_MAX and above) ---
   V_COLOR_MAX: 22,
-  SCHEME: 'light',             // 'auto' = follow the system / browser light-dark setting (live), or force 'dark' / 'light'
+  LANG: 'lt',                 // 'lt' = Lithuanian, 'en' = English (all texts on the screen and in tooltips are in the table STR below)
+  SCHEME: 'light',            // 'auto' = follow the system / browser light-dark setting (live), or force 'dark' / 'light'
   PALETTES: {
     dark: {
       BG: '#0e1116', DISC: '#161b22', DISC_EDGE: '#2a313c', ROAD: '#2a313c', CLOCK: '#8b95a5',
@@ -112,7 +113,7 @@ const P = {
   },
 
   // --- simulation / display ---
-  TIME_SCALE: 3,             // simulated seconds per real second
+  TIME_SCALE: 4,              // simulated seconds per real second
   START_PAUSED: false,        // true = wait for the play button
   RESTART_DELAY_MS: 100,      // pause between pressing restart and the simulation starting again
   QR_PANEL_FRACTION: 0.24,    // share of the window width taken by the QR column while the code is shown
@@ -121,6 +122,17 @@ const P = {
   MAX_SUBSTEP: 0.05,          // largest simulation time step
   CLOCK_HEIGHT: 84,           // pixels reserved at the bottom for the clock and the buttons
 };
+
+// texts shown on the screen (and in tooltips)
+const STR = {
+  lt: { title: 'Spūsčių bangos (stop-and-go)', restart: 'Pradėti iš naujo', playPause: 'Tęsti / pristabdyti',
+        qr: 'Rodyti / slėpti QR kodą', qrAlt: 'QR kodas', qrMissing: 'qr.png nerastas šalia šio puslapio',
+        supply: 'Automobilių srautas', levels: ['mažas', 'vidutinis', 'didelis'], supplyHint: 'spustelėkite, kad pasirinktumėte kitą' },
+  en: { title: 'Stop-and-go waves', restart: 'Restart', playPause: 'Play / pause',
+        qr: 'Show / hide QR code', qrAlt: 'QR code', qrMissing: 'qr.png not found next to this page',
+        supply: 'Car supply', levels: ['low', 'medium', 'high'], supplyHint: 'click for the next setting' },
+};
+const T = STR[P.LANG] || STR.lt;
 
 /* =====================================================================
    Car-following model (IDM)
@@ -504,7 +516,6 @@ const ICON = {
   pause:   '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z"/></svg>',
   restart: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 5h2.5v14H6zM20 5v14L9.5 12z"/></svg>',
 };
-const SUPPLY_NAMES = ['low', 'medium', 'high'];
 const btnPlay = document.getElementById('btnPlay'), btnRestart = document.getElementById('btnRestart');
 const btnSupply = document.getElementById('btnSupply'), btnQr = document.getElementById('btnQr');
 const qrImg = document.getElementById('qr');
@@ -530,7 +541,7 @@ function syncButtons() {
   btnPlay.innerHTML = paused ? ICON.play : ICON.pause;       // shows the action the button will perform
   btnRestart.innerHTML = ICON.restart;
   btnSupply.innerHTML = supplyIcon(level + 1);
-  const t = 'Car supply: ' + SUPPLY_NAMES[level] + ' (click for the next setting)';
+  const t = T.supply + ': ' + T.levels[level] + ' (' + T.supplyHint + ')';
   btnSupply.title = t; btnSupply.setAttribute('aria-label', t);
   btnQr.classList.toggle('on', !qrImg.hidden);
 }
@@ -548,7 +559,7 @@ function toggleQr() { if (qrMissing) return; qrImg.hidden = !qrImg.hidden; layou
 
 qrImg.addEventListener('error', () => {            // qr.png not found: keep the button, but dim it
   qrMissing = true; qrImg.hidden = true; layout();
-  btnQr.classList.add('missing'); btnQr.title = 'qr.png not found next to this page';
+  btnQr.classList.add('missing'); btnQr.title = T.qrMissing;
   syncButtons();
 });
 
@@ -579,6 +590,10 @@ function frame(now) {
 }
 
 window.addEventListener('resize', resize);
+
+// texts in the chosen language
+document.documentElement.lang = P.LANG; document.title = T.title; qrImg.alt = T.qrAlt;
+for (const [b, txt] of [[btnRestart, T.restart], [btnPlay, T.playPause], [btnQr, T.qr]]) { b.title = txt; b.setAttribute('aria-label', txt); }
 
 applyScheme();
 resize();
