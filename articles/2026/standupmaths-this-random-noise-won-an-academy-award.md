@@ -3,7 +3,7 @@ Date: 2026-11-10 08:00
 Author: Aleksejus Kononovicius
 Tags: video, standupmaths, popular culture, Perlin noise, white noise
 Slug: standupmaths-this-random-noise-won-an-academy-award
-Status: draft
+Status: published
 
 [White noise](/tag/white-noise/) is purely random. So random it does not
 look natural. [Perlin noise](/tag/perlin-noise/) is noise which serves as a
