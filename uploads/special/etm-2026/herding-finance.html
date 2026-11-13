@@ -69,7 +69,6 @@ const P = {
   H1: 1,                      // herding strength when fundamentalists are involved (joining a group, or leaving it for the fundamentalists)
   H2: 50,                     // herding strength between the two kinds of chartists (optimists <-> pessimists)
   TICK: 1e-3,                 // model time between two price observations (smaller = smoother price line)
-  KAPPA: 0.3,                 // the model's time step is KAPPA / (total switching rate); in each step one agent switches with probability KAPPA
   START_FUND_MIN: 20,         // at the start the number of fundamentalists is drawn from this ...
   START_FUND_MAX: 45,         //   ... to this range; the chartists are split evenly between optimists and pessimists
   P_FUND: 100,                // the starting fundamental price (the price when x = 0)
@@ -186,17 +185,12 @@ function computeRates() {
   return rate[0] + rate[1] + rate[2] + rate[3] + rate[4] + rate[5];
 }
 
-// One model step of length w: with probability (total rate) * w one agent switches, the switch being chosen in proportion to its rate.
-function jumpOnce(w) {
-  let r = Math.random() / w;
-  for (let k = 0; k < 6; k++) {
-    r -= rate[k];
-    if (r < 0) {
-      const a = JUMP_FROM[k], b = JUMP_TO[k];
-      if (n[a] > 0) { n[a]--; n[b]++; noteJump(a, b); }      // any group may become empty
-      return;
-    }
-  }
+// One switch: it is chosen in proportion to the rates (rate[] must be current, tot is their sum).
+function doSwitch(tot) {
+  let r = Math.random() * tot, k = 0;
+  while (k < 5 && r >= rate[k]) { r -= rate[k]; k++; }
+  const a = JUMP_FROM[k], b = JUMP_TO[k];
+  if (n[a] > 0) { n[a]--; n[b]++; noteJump(a, b); }      // any group may become empty
 }
 
 // logarithm of the price relative to the fundamental price
@@ -228,17 +222,19 @@ function endTick() {
   hr[tick % CAP] = Math.abs(v - hp[(tick - 1) % CAP]);
 }
 
+// Exact simulation of the continuous-time process (Gillespie): the waiting time to the next switch is exponential with the total rate.
+// If it would run past the end of the tick (or past the time asked for), the clock is moved there without a switch; this is exact,
+// because the exponential waiting time is memoryless and the rates stay the same until something switches.
 function advanceModel(dtModel) {
   while (dtModel > 1e-15) {
     const tot = computeRates();
-    let w = P.KAPPA / tot;
-    const room = P.TICK - tIn;
-    if (w > room) w = room;
-    if (w > dtModel) w = dtModel;
-    jumpOnce(w);
-    const wt = w / P.TICK;                      // the fundamental price moves along with the trend
+    const wait = tot > 0 ? -Math.log(1 - Math.random()) / tot : Infinity;
+    const room = Math.min(P.TICK - tIn, dtModel);
+    const dt = Math.min(wait, room);
+    if (wait < room) doSwitch(tot);
+    const wt = dt / P.TICK;                     // the fundamental price moves along with the trend
     lf += fDrift * wt; fLeft -= wt; if (fLeft <= 0) newTrend();
-    tIn += w; dtModel -= w;
+    tIn += dt; dtModel -= dt;
     if (tIn >= P.TICK - 1e-12) { tIn = 0; endTick(); }
   }
 }
