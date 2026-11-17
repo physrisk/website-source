@@ -3,7 +3,7 @@ Date: 2026-11-17 08:00
 Author: Aleksejus Kononovicius
 Tags: interactive, biology, Verhulst model
 Slug: verhulst-model-with-periodic-capacity
-Status: draft
+Status: published
 Image_url: uploads/2026/verhulst-model-with-periodic-capacity.png
 
 [Last time]({filename}/articles/2026/verhulst-model.md), we have discussed
