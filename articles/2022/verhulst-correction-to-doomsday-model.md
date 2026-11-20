@@ -1,7 +1,7 @@
 Title: Verhulst correction to Doomsday model
 Date: 2022-03-29 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, politics, biology, Worldometer, Verhulst model
+Tags: interactive, politics, biology, Worldometer, Verhulst model, Malthus model
 Slug: verhulst-correction-to-doomsday-model
 Status: published
 Image_url: uploads/2022/verhulst-correction-to-doomsday-model.png
@@ -11,11 +11,11 @@ have taken a look at a model, which predicts doomsday to fall on November
 13, 2026 [cite id="Foerster1960"]. The prediction was made based on the best
 fit to the data available in 1960. Recent available data deviates from the
 prediction made in [cite id="Foerster1960"]. Instead it seems to be more
-consistent with Verhulst model.
+consistent with [Verhulst model](/tag/verhulst-model/).
 
 Here in this post we modify the [doomsday
 model]({filename}/articles/2022/end-of-the-world-2026.md) by introducing
-correction, inspired by Verhulst's improvement upon Malthus model, to the
+correction, inspired by Verhulst's improvement upon [Malthus model](/tag/malthus-model/), to the
 driving ordinary differential equation.
 <!--more-->
 

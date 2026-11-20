@@ -1,7 +1,7 @@
 Title: Verhulst model
 Date: 2026-11-03 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, biology, equilibria point analysis, Verhulst model
+Tags: interactive, biology, equilibria point analysis, Verhulst model, Malthus model
 Slug: verhulst-model
 Status: published
 Image_url: uploads/2026/verhulst-model.png

@@ -1,7 +1,7 @@
 Title: Lotka-Volterra equations
 Date: 2012-10-01 07:38
 Author: Aleksejus Kononovicius
-Tags: interactive, stochastic models, Lotka-Volterra, Wolfram CDF, biology, Verhulst model
+Tags: interactive, stochastic models, Lotka-Volterra, Wolfram CDF, biology, Verhulst model, Malthus model
 Slug: lotka-volterra-equations
 Status: published
 Image_url: uploads/2012/lotka-volterra-equations.png
@@ -39,7 +39,7 @@ prey would live infinitely long if not getting eaten by the predator.
 Also we could assume that predator population should naturally decrease.
 The thought behind this is that predators need to be full and strong to
 be able to produce an offspring. Under these assumptions the birth-death
-terms might be expressed in the terms Malthus and Verhulst models:
+terms might be expressed in the terms [Malthus](/tag/malthus-model/) and [Verhulst models](/tag/verhulst-model/):
 
 \begin{equation}
  \mathrm{d} X = a X \mathrm{d} t \quad\text{or}\quad\mathrm{d} X = ( a X - b X^2 ) \mathrm{d} t . 

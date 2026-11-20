@@ -1,7 +1,7 @@
 Title: Lecture on modeling city growth
 Date: 2026-10-15 08:00
 Author: Aleksejus Kononovicius
-Tags: general, power-law distributions, students, Vilnius University VU FF, Verhulst model, preferential attachment, Simon model
+Tags: general, power-law distributions, students, Vilnius University VU FF, Verhulst model, preferential attachment, Simon model, Malthus model
 Slug: lecture-on-modeling-city-growth
 Status: published
 Image_url: uploads/2026/lecture-on-modeling-city-growth.jpg
@@ -23,7 +23,7 @@ talk]({filename}/articles/2026/lecture-on-power-law-distributions.md) at
 simply trimming the lecture, I have decided instead to focus on a single
 example and develop it a bit more. So, in the end I have talked about how
 "normal" (Gaussian) humans create cities that are rather "peculiar". This
-lead me to talk about Malthus and [Verhulst](/tag/verhulst-model/) models of
+lead me to talk about [Malthus](/tag/malthus-model/) and [Verhulst](/tag/verhulst-model/) models of
 population growth (dedicated blog post should be published soon) and then
 pivot to [preferential attachment](/tag/preferential-attachment/) as seen in
 [Simon model](/tag/simon-model/) (I hope to prepare dedicated blog post

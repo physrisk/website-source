@@ -1,7 +1,7 @@
 Title: End of the world in 2026?
 Date: 2022-03-15 08:00
 Author: Aleksejus Kononovicius
-Tags: interactive, politics, biology, Worldometer, Verhulst model
+Tags: interactive, politics, biology, Worldometer, Verhulst model, Malthus model
 Slug: end-of-the-world-2026
 Status: published
 Image_url: uploads/2022/end-of-the-world-2026.png
@@ -14,7 +14,7 @@ happen? Maths.
 
 ## Model
 
-You are quite likely familiar with Malthus and Verhulst models of population
+You are quite likely familiar with [Malthus](/tag/malthus-model/) and [Verhulst](/tag/verhulst-model/) models of population
 dynamics. Both of which predict exponential growth of population under
 constant conditions. Verhulst only expands upon the idea by introducing
 limited resources, so the population will eventually reach certain maximum.
@@ -30,7 +30,7 @@ available resources instead of being fixed (as is assumed in Verhulst model)
 grow together with the population. Due to increasing productivity and
 cooperation between humanity.
 
-Malthusian model can be expressed as an ODE:
+[Malthus model](/tag/malthus-model/) can be expressed as an ODE:
 
 \begin{equation}
     \frac{d N}{d t} = \gamma N - \theta N = \alpha N .
